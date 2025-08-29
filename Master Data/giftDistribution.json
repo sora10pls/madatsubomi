@@ -1,0 +1,91 @@
+[
+    {
+        "id": "gd00001",
+        "sPokemonRewardId": [
+            "1.4.0_login_reward_1",
+            "1.4.0_login_reward_2"
+        ],
+        "country": [
+            1
+        ],
+        "condition": "1",
+        "type": 1,
+        "isCheckApi": 0,
+        "start": "0",
+        "end": "1625065199",
+        "monboId": "home_0002",
+        "giftPokemonInfoIds": []
+    },
+    {
+        "id": "gd00002",
+        "sPokemonRewardId": [
+            "galal_reward_3",
+            "galal_reward2_3",
+            "galal_reward3_3"
+        ],
+        "country": [
+            1
+        ],
+        "condition": "4",
+        "type": 1,
+        "isCheckApi": 1,
+        "start": "0",
+        "end": "4102444800",
+        "monboId": "home_0003",
+        "giftPokemonInfoIds": []
+    },
+    {
+        "id": "gd00003",
+        "sPokemonRewardId": [
+            "2.0.0_shinou_reward_1",
+            "2.0.0_shinou_reward_2",
+            "2.0.0_shinou_reward_3"
+        ],
+        "country": [
+            1
+        ],
+        "condition": "5",
+        "type": 1,
+        "isCheckApi": 1,
+        "start": "0",
+        "end": "4102444800",
+        "monboId": "home_0003",
+        "giftPokemonInfoIds": []
+    },
+    {
+        "id": "gd00004",
+        "sPokemonRewardId": [
+            "2.0.0_hisui_reward_1",
+            "2.0.0_hisui_reward_2",
+            "2.0.0_hisui_reward_3"
+        ],
+        "country": [
+            1
+        ],
+        "condition": "6",
+        "type": 1,
+        "isCheckApi": 1,
+        "start": "0",
+        "end": "4102444800",
+        "monboId": "home_0003",
+        "giftPokemonInfoIds": []
+    },
+    {
+        "id": "gd00005",
+        "sPokemonRewardId": [
+            "3.0.0_sv_reward_1",
+            "3.0.0_sv_reward_2",
+            "3.0.0_sv_reward_3"
+        ],
+        "country": [
+            1
+        ],
+        "condition": "7",
+        "type": 1,
+        "isCheckApi": 1,
+        "start": "0",
+        "end": "4102444800",
+        "monboId": "home_0003",
+        "giftPokemonInfoIds": []
+    }
+]

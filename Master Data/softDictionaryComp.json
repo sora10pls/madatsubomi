@@ -1,0 +1,101 @@
+[
+    {
+        "id": "SDC0001",
+        "categoryId": 5,
+        "dicMdNames": [
+            "SW008",
+            "SW009",
+            "SW010"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_001_001",
+            "sp_oak_softdic_comp_001_002",
+            "sp_oak_softdic_comp_001_003",
+            "sp_oak_softdic_comp_001_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
+    },
+    {
+        "id": "SDC0002",
+        "categoryId": 3,
+        "dicMdNames": [
+            "SW006"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_002_001",
+            "sp_oak_softdic_comp_002_002",
+            "sp_oak_softdic_comp_002_003",
+            "sp_oak_softdic_comp_002_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
+    },
+    {
+        "id": "SDC0003",
+        "categoryId": 4,
+        "dicMdNames": [
+            "SW005"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_003_001",
+            "sp_oak_softdic_comp_003_002",
+            "sp_oak_softdic_comp_003_003",
+            "sp_oak_softdic_comp_003_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
+    },
+    {
+        "id": "SDC0004",
+        "categoryId": 2,
+        "dicMdNames": [
+            "SW001",
+            "SW002",
+            "SW003"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_004_001",
+            "sp_oak_softdic_comp_004_002",
+            "sp_oak_softdic_comp_004_003",
+            "sp_oak_softdic_comp_004_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
+    },
+    {
+        "id": "SDC0005",
+        "categoryId": 1,
+        "dicMdNames": [
+            "SW004"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_005_001",
+            "sp_oak_softdic_comp_005_002",
+            "sp_oak_softdic_comp_005_003",
+            "sp_oak_softdic_comp_005_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
+    }
+]

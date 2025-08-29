@@ -1,0 +1,405 @@
+[
+    {
+        "id": "home_0001",
+        "place": 1,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_home_0001_001",
+            "sp_monbo_home_0001_002",
+            "sp_monbo_home_0002_001",
+            "sp_monbo_home_0002_002",
+            "sp_monbo_home_0002_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "binder_0001",
+        "place": 2,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_binder_0001_001",
+            "sp_monbo_binder_0001_002",
+            "sp_monbo_binder_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "bank_0001",
+        "place": 3,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_bank_0001_001",
+            "sp_monbo_bank_0001_002",
+            "sp_monbo_bank_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "label_0001",
+        "place": 4,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_label_0001_001",
+            "sp_monbo_label_0001_002",
+            "sp_monbo_label_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "gts_0001",
+        "place": 5,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_gts_0001_001",
+            "sp_monbo_gts_0001_002",
+            "sp_monbo_gts_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "group_trade_0001",
+        "place": 6,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_group_trade_0001_001",
+            "sp_monbo_group_trade_0001_002",
+            "sp_monbo_group_trade_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "miracle_box_0001",
+        "place": 7,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_miracle_box_0001_001",
+            "sp_monbo_miracle_box_0001_002",
+            "sp_monbo_miracle_box_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "miracle_box_success_0001",
+        "place": 8,
+        "saveType": 1,
+        "saveIndex": 1,
+        "msTexts": [
+            "sp_monbo_miracle_box_success_0001_001",
+            "sp_monbo_miracle_box_success_0001_002",
+            "sp_monbo_miracle_box_success_0001_003"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "trade_top_0001_1",
+        "place": 9,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_trade_top_0001_001",
+            "sp_monbo_trade_top_0001_002",
+            "sp_monbo_trade_top_0001_003",
+            "sp_monbo_trade_top_0001_004"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "trade_top_0001_2",
+        "place": 9,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_trade_top_0001_001",
+            "sp_monbo_trade_top_0001_002",
+            "sp_monbo_trade_top_0001_003",
+            "sp_monbo_trade_top_0001_004",
+            "sp_monbo_trade_top_0001_005"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "battle_data_0001",
+        "place": 10,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_battle_data_0001_001",
+            "sp_monbo_battle_data_0001_002"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "home_0002",
+        "place": 1,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_gift_0001_001",
+            "sp_monbo_gift_0001_002"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 2
+    },
+    {
+        "id": "calendar_0001",
+        "place": 11,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_get_calendar_0001_001",
+            "sp_monbo_get_calendar_0001_002",
+            "sp_monbo_get_calendar_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "software_library_0001",
+        "place": 12,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_software_library_0001_001",
+            "sp_monbo_software_library_0001_002",
+            "sp_monbo_software_library_0001_003",
+            "sp_monbo_software_library_0001_004"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "home_0003",
+        "place": 1,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_gift_0001_003",
+            "sp_monbo_gift_0001_002"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 2
+    },
+    {
+        "id": "miracle_box_0002",
+        "place": 13,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_ui_gift_confirm_body_nalink_v12",
+            "sp_ui_gift_confirm_button_nalink_v12"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_init",
+        "place": 14,
+        "saveType": 1,
+        "saveIndex": 2,
+        "msTexts": [
+            "sp_medal_tutorial_0001",
+            "sp_medal_tutorial_0002",
+            "sp_medal_tutorial_0003",
+            "sp_medal_tutorial_0004",
+            "sp_medal_tutorial_0005",
+            "sp_medal_tutorial_0006",
+            "sp_medal_tutorial_0007",
+            "sp_medal_tutorial_0008"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_stock",
+        "place": 15,
+        "saveType": 1,
+        "saveIndex": 3,
+        "msTexts": [
+            "sp_medal_tutorial_stock_0001",
+            "sp_medal_tutorial_stock_0002",
+            "sp_medal_tutorial_stock_0005",
+            "sp_medal_tutorial_stock_0003",
+            "sp_medal_tutorial_stock_0004"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_tradeandgift",
+        "place": 16,
+        "saveType": 1,
+        "saveIndex": 4,
+        "msTexts": [
+            "sp_medal_tutorial_tradegift_0001",
+            "sp_medal_tutorial_tradegift_0002",
+            "sp_medal_tutorial_tradegift_0003",
+            "sp_medal_tutorial_tradegift_0004",
+            "sp_medal_tutorial_tradegift_0005",
+            "sp_medal_tutorial_tradegift_0006"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_event",
+        "place": 17,
+        "saveType": 1,
+        "saveIndex": 5,
+        "msTexts": [
+            "sp_medal_tutorial_event_0001",
+            "sp_medal_tutorial_event_0002"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_report",
+        "place": 18,
+        "saveType": 1,
+        "saveIndex": 6,
+        "msTexts": [
+            "sp_medal_tutorial_report_0001",
+            "sp_medal_tutorial_report_0002",
+            "sp_medal_tutorial_report_0003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_init_without_event",
+        "place": 19,
+        "saveType": 1,
+        "saveIndex": 2,
+        "msTexts": [
+            "sp_medal_tutorial_0001",
+            "sp_medal_tutorial_0002",
+            "sp_medal_tutorial_0003",
+            "sp_medal_tutorial_0004",
+            "sp_medal_tutorial_0006",
+            "sp_medal_tutorial_0007",
+            "sp_medal_tutorial_0008"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    }
+]

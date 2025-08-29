@@ -1,0 +1,27 @@
+[
+    {
+        "id": "CI001",
+        "paramInt": 807,
+        "paramString": ""
+    },
+    {
+        "id": "CI002",
+        "paramInt": 99,
+        "paramString": "1.5"
+    },
+    {
+        "id": "CI003",
+        "paramInt": 6000,
+        "paramString": ""
+    },
+    {
+        "id": "CI004",
+        "paramInt": 0,
+        "paramString": ""
+    },
+    {
+        "id": "CI999",
+        "paramInt": 0,
+        "paramString": ""
+    }
+]

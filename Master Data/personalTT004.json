@@ -1,0 +1,2351 @@
+[
+    {
+        "id": "PS0001000",
+        "hp": 45,
+        "atk": 49,
+        "def": 49,
+        "agi": 45,
+        "spatk": 65,
+        "spdef": 65,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0002000",
+        "hp": 60,
+        "atk": 62,
+        "def": 63,
+        "agi": 60,
+        "spatk": 80,
+        "spdef": 80,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0003000",
+        "hp": 80,
+        "atk": 82,
+        "def": 83,
+        "agi": 80,
+        "spatk": 100,
+        "spdef": 100,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0003001",
+        "hp": 80,
+        "atk": 100,
+        "def": 123,
+        "agi": 80,
+        "spatk": 122,
+        "spdef": 120,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0004000",
+        "hp": 39,
+        "atk": 52,
+        "def": 43,
+        "agi": 65,
+        "spatk": 60,
+        "spdef": 50,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0005000",
+        "hp": 58,
+        "atk": 64,
+        "def": 58,
+        "agi": 80,
+        "spatk": 80,
+        "spdef": 65,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0006000",
+        "hp": 78,
+        "atk": 84,
+        "def": 78,
+        "agi": 100,
+        "spatk": 109,
+        "spdef": 85,
+        "typeIds": [
+            "TY0009",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0006001",
+        "hp": 78,
+        "atk": 130,
+        "def": 111,
+        "agi": 100,
+        "spatk": 130,
+        "spdef": 85,
+        "typeIds": [
+            "TY0009",
+            "TY0015"
+        ]
+    },
+    {
+        "id": "PS0006002",
+        "hp": 78,
+        "atk": 104,
+        "def": 78,
+        "agi": 100,
+        "spatk": 159,
+        "spdef": 115,
+        "typeIds": [
+            "TY0009",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0007000",
+        "hp": 44,
+        "atk": 48,
+        "def": 65,
+        "agi": 43,
+        "spatk": 50,
+        "spdef": 64,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0008000",
+        "hp": 59,
+        "atk": 63,
+        "def": 80,
+        "agi": 58,
+        "spatk": 65,
+        "spdef": 80,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0009000",
+        "hp": 79,
+        "atk": 83,
+        "def": 100,
+        "agi": 78,
+        "spatk": 85,
+        "spdef": 105,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0009001",
+        "hp": 79,
+        "atk": 103,
+        "def": 120,
+        "agi": 78,
+        "spatk": 135,
+        "spdef": 115,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0010000",
+        "hp": 45,
+        "atk": 30,
+        "def": 35,
+        "agi": 45,
+        "spatk": 20,
+        "spdef": 20,
+        "typeIds": [
+            "TY0006"
+        ]
+    },
+    {
+        "id": "PS0011000",
+        "hp": 50,
+        "atk": 20,
+        "def": 55,
+        "agi": 30,
+        "spatk": 25,
+        "spdef": 25,
+        "typeIds": [
+            "TY0006"
+        ]
+    },
+    {
+        "id": "PS0012000",
+        "hp": 60,
+        "atk": 45,
+        "def": 50,
+        "agi": 70,
+        "spatk": 90,
+        "spdef": 80,
+        "typeIds": [
+            "TY0006",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0013000",
+        "hp": 40,
+        "atk": 35,
+        "def": 30,
+        "agi": 50,
+        "spatk": 20,
+        "spdef": 20,
+        "typeIds": [
+            "TY0006",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0014000",
+        "hp": 45,
+        "atk": 25,
+        "def": 50,
+        "agi": 35,
+        "spatk": 25,
+        "spdef": 25,
+        "typeIds": [
+            "TY0006",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0015000",
+        "hp": 65,
+        "atk": 90,
+        "def": 40,
+        "agi": 75,
+        "spatk": 45,
+        "spdef": 80,
+        "typeIds": [
+            "TY0006",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0015001",
+        "hp": 65,
+        "atk": 150,
+        "def": 40,
+        "agi": 145,
+        "spatk": 15,
+        "spdef": 80,
+        "typeIds": [
+            "TY0006",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0016000",
+        "hp": 40,
+        "atk": 45,
+        "def": 40,
+        "agi": 56,
+        "spatk": 35,
+        "spdef": 35,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0017000",
+        "hp": 63,
+        "atk": 60,
+        "def": 55,
+        "agi": 71,
+        "spatk": 50,
+        "spdef": 50,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0018000",
+        "hp": 83,
+        "atk": 80,
+        "def": 75,
+        "agi": 101,
+        "spatk": 70,
+        "spdef": 70,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0018001",
+        "hp": 83,
+        "atk": 80,
+        "def": 80,
+        "agi": 121,
+        "spatk": 135,
+        "spdef": 80,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0019000",
+        "hp": 30,
+        "atk": 56,
+        "def": 35,
+        "agi": 72,
+        "spatk": 25,
+        "spdef": 35,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0019001",
+        "hp": 30,
+        "atk": 56,
+        "def": 35,
+        "agi": 72,
+        "spatk": 25,
+        "spdef": 35,
+        "typeIds": [
+            "TY0016",
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0020000",
+        "hp": 55,
+        "atk": 81,
+        "def": 60,
+        "agi": 97,
+        "spatk": 50,
+        "spdef": 70,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0020001",
+        "hp": 75,
+        "atk": 71,
+        "def": 70,
+        "agi": 77,
+        "spatk": 40,
+        "spdef": 80,
+        "typeIds": [
+            "TY0016",
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0021000",
+        "hp": 40,
+        "atk": 60,
+        "def": 30,
+        "agi": 70,
+        "spatk": 31,
+        "spdef": 31,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0022000",
+        "hp": 65,
+        "atk": 90,
+        "def": 65,
+        "agi": 100,
+        "spatk": 61,
+        "spdef": 61,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0023000",
+        "hp": 35,
+        "atk": 60,
+        "def": 44,
+        "agi": 55,
+        "spatk": 40,
+        "spdef": 54,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0024000",
+        "hp": 60,
+        "atk": 95,
+        "def": 69,
+        "agi": 80,
+        "spatk": 65,
+        "spdef": 79,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0025000",
+        "hp": 35,
+        "atk": 55,
+        "def": 40,
+        "agi": 90,
+        "spatk": 50,
+        "spdef": 50,
+        "typeIds": [
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0025008",
+        "hp": 45,
+        "atk": 80,
+        "def": 50,
+        "agi": 120,
+        "spatk": 75,
+        "spdef": 60,
+        "typeIds": [
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0026000",
+        "hp": 60,
+        "atk": 90,
+        "def": 55,
+        "agi": 110,
+        "spatk": 90,
+        "spdef": 80,
+        "typeIds": [
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0026001",
+        "hp": 60,
+        "atk": 85,
+        "def": 50,
+        "agi": 110,
+        "spatk": 95,
+        "spdef": 85,
+        "typeIds": [
+            "TY0012",
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0027000",
+        "hp": 50,
+        "atk": 75,
+        "def": 85,
+        "agi": 40,
+        "spatk": 20,
+        "spdef": 30,
+        "typeIds": [
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0027001",
+        "hp": 50,
+        "atk": 75,
+        "def": 90,
+        "agi": 40,
+        "spatk": 10,
+        "spdef": 35,
+        "typeIds": [
+            "TY0014",
+            "TY0008"
+        ]
+    },
+    {
+        "id": "PS0028000",
+        "hp": 75,
+        "atk": 100,
+        "def": 110,
+        "agi": 65,
+        "spatk": 45,
+        "spdef": 55,
+        "typeIds": [
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0028001",
+        "hp": 75,
+        "atk": 100,
+        "def": 120,
+        "agi": 65,
+        "spatk": 25,
+        "spdef": 65,
+        "typeIds": [
+            "TY0014",
+            "TY0008"
+        ]
+    },
+    {
+        "id": "PS0029000",
+        "hp": 55,
+        "atk": 47,
+        "def": 52,
+        "agi": 41,
+        "spatk": 40,
+        "spdef": 40,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0030000",
+        "hp": 70,
+        "atk": 62,
+        "def": 67,
+        "agi": 56,
+        "spatk": 55,
+        "spdef": 55,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0031000",
+        "hp": 90,
+        "atk": 92,
+        "def": 87,
+        "agi": 76,
+        "spatk": 75,
+        "spdef": 85,
+        "typeIds": [
+            "TY0003",
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0032000",
+        "hp": 46,
+        "atk": 57,
+        "def": 40,
+        "agi": 50,
+        "spatk": 40,
+        "spdef": 40,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0033000",
+        "hp": 61,
+        "atk": 72,
+        "def": 57,
+        "agi": 65,
+        "spatk": 55,
+        "spdef": 55,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0034000",
+        "hp": 81,
+        "atk": 102,
+        "def": 77,
+        "agi": 85,
+        "spatk": 85,
+        "spdef": 75,
+        "typeIds": [
+            "TY0003",
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0035000",
+        "hp": 70,
+        "atk": 45,
+        "def": 48,
+        "agi": 35,
+        "spatk": 60,
+        "spdef": 65,
+        "typeIds": [
+            "TY0017"
+        ]
+    },
+    {
+        "id": "PS0036000",
+        "hp": 95,
+        "atk": 70,
+        "def": 73,
+        "agi": 60,
+        "spatk": 95,
+        "spdef": 90,
+        "typeIds": [
+            "TY0017"
+        ]
+    },
+    {
+        "id": "PS0037000",
+        "hp": 38,
+        "atk": 41,
+        "def": 40,
+        "agi": 65,
+        "spatk": 50,
+        "spdef": 65,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0037001",
+        "hp": 38,
+        "atk": 41,
+        "def": 40,
+        "agi": 65,
+        "spatk": 50,
+        "spdef": 65,
+        "typeIds": [
+            "TY0014"
+        ]
+    },
+    {
+        "id": "PS0038000",
+        "hp": 73,
+        "atk": 76,
+        "def": 75,
+        "agi": 100,
+        "spatk": 81,
+        "spdef": 100,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0038001",
+        "hp": 73,
+        "atk": 67,
+        "def": 75,
+        "agi": 109,
+        "spatk": 81,
+        "spdef": 100,
+        "typeIds": [
+            "TY0014",
+            "TY0017"
+        ]
+    },
+    {
+        "id": "PS0039000",
+        "hp": 115,
+        "atk": 45,
+        "def": 20,
+        "agi": 20,
+        "spatk": 45,
+        "spdef": 25,
+        "typeIds": [
+            "TY0000",
+            "TY0017"
+        ]
+    },
+    {
+        "id": "PS0040000",
+        "hp": 140,
+        "atk": 70,
+        "def": 45,
+        "agi": 45,
+        "spatk": 85,
+        "spdef": 50,
+        "typeIds": [
+            "TY0000",
+            "TY0017"
+        ]
+    },
+    {
+        "id": "PS0041000",
+        "hp": 40,
+        "atk": 45,
+        "def": 35,
+        "agi": 55,
+        "spatk": 30,
+        "spdef": 40,
+        "typeIds": [
+            "TY0003",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0042000",
+        "hp": 75,
+        "atk": 80,
+        "def": 70,
+        "agi": 90,
+        "spatk": 65,
+        "spdef": 75,
+        "typeIds": [
+            "TY0003",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0043000",
+        "hp": 45,
+        "atk": 50,
+        "def": 55,
+        "agi": 30,
+        "spatk": 75,
+        "spdef": 65,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0044000",
+        "hp": 60,
+        "atk": 65,
+        "def": 70,
+        "agi": 40,
+        "spatk": 85,
+        "spdef": 75,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0045000",
+        "hp": 75,
+        "atk": 80,
+        "def": 85,
+        "agi": 50,
+        "spatk": 110,
+        "spdef": 90,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0046000",
+        "hp": 35,
+        "atk": 70,
+        "def": 55,
+        "agi": 25,
+        "spatk": 45,
+        "spdef": 55,
+        "typeIds": [
+            "TY0006",
+            "TY0011"
+        ]
+    },
+    {
+        "id": "PS0047000",
+        "hp": 60,
+        "atk": 95,
+        "def": 80,
+        "agi": 30,
+        "spatk": 60,
+        "spdef": 80,
+        "typeIds": [
+            "TY0006",
+            "TY0011"
+        ]
+    },
+    {
+        "id": "PS0048000",
+        "hp": 60,
+        "atk": 55,
+        "def": 50,
+        "agi": 45,
+        "spatk": 40,
+        "spdef": 55,
+        "typeIds": [
+            "TY0006",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0049000",
+        "hp": 70,
+        "atk": 65,
+        "def": 60,
+        "agi": 90,
+        "spatk": 90,
+        "spdef": 75,
+        "typeIds": [
+            "TY0006",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0050000",
+        "hp": 10,
+        "atk": 55,
+        "def": 25,
+        "agi": 95,
+        "spatk": 35,
+        "spdef": 45,
+        "typeIds": [
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0050001",
+        "hp": 10,
+        "atk": 55,
+        "def": 30,
+        "agi": 90,
+        "spatk": 35,
+        "spdef": 45,
+        "typeIds": [
+            "TY0004",
+            "TY0008"
+        ]
+    },
+    {
+        "id": "PS0051000",
+        "hp": 35,
+        "atk": 100,
+        "def": 50,
+        "agi": 120,
+        "spatk": 50,
+        "spdef": 70,
+        "typeIds": [
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0051001",
+        "hp": 35,
+        "atk": 100,
+        "def": 60,
+        "agi": 110,
+        "spatk": 50,
+        "spdef": 70,
+        "typeIds": [
+            "TY0004",
+            "TY0008"
+        ]
+    },
+    {
+        "id": "PS0052000",
+        "hp": 40,
+        "atk": 45,
+        "def": 35,
+        "agi": 90,
+        "spatk": 40,
+        "spdef": 40,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0052001",
+        "hp": 40,
+        "atk": 35,
+        "def": 35,
+        "agi": 90,
+        "spatk": 50,
+        "spdef": 40,
+        "typeIds": [
+            "TY0016"
+        ]
+    },
+    {
+        "id": "PS0053000",
+        "hp": 65,
+        "atk": 70,
+        "def": 60,
+        "agi": 115,
+        "spatk": 65,
+        "spdef": 65,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0053001",
+        "hp": 65,
+        "atk": 60,
+        "def": 60,
+        "agi": 115,
+        "spatk": 75,
+        "spdef": 65,
+        "typeIds": [
+            "TY0016"
+        ]
+    },
+    {
+        "id": "PS0054000",
+        "hp": 50,
+        "atk": 52,
+        "def": 48,
+        "agi": 55,
+        "spatk": 65,
+        "spdef": 50,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0055000",
+        "hp": 80,
+        "atk": 82,
+        "def": 78,
+        "agi": 85,
+        "spatk": 95,
+        "spdef": 80,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0056000",
+        "hp": 40,
+        "atk": 80,
+        "def": 35,
+        "agi": 70,
+        "spatk": 35,
+        "spdef": 45,
+        "typeIds": [
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0057000",
+        "hp": 65,
+        "atk": 105,
+        "def": 60,
+        "agi": 95,
+        "spatk": 60,
+        "spdef": 70,
+        "typeIds": [
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0058000",
+        "hp": 55,
+        "atk": 70,
+        "def": 45,
+        "agi": 60,
+        "spatk": 70,
+        "spdef": 50,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0059000",
+        "hp": 90,
+        "atk": 110,
+        "def": 80,
+        "agi": 95,
+        "spatk": 100,
+        "spdef": 80,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0060000",
+        "hp": 40,
+        "atk": 50,
+        "def": 40,
+        "agi": 90,
+        "spatk": 40,
+        "spdef": 40,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0061000",
+        "hp": 65,
+        "atk": 65,
+        "def": 65,
+        "agi": 90,
+        "spatk": 50,
+        "spdef": 50,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0062000",
+        "hp": 90,
+        "atk": 95,
+        "def": 95,
+        "agi": 70,
+        "spatk": 70,
+        "spdef": 90,
+        "typeIds": [
+            "TY0010",
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0063000",
+        "hp": 25,
+        "atk": 20,
+        "def": 15,
+        "agi": 90,
+        "spatk": 105,
+        "spdef": 55,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0064000",
+        "hp": 40,
+        "atk": 35,
+        "def": 30,
+        "agi": 105,
+        "spatk": 120,
+        "spdef": 70,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0065000",
+        "hp": 55,
+        "atk": 50,
+        "def": 45,
+        "agi": 120,
+        "spatk": 135,
+        "spdef": 95,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0065001",
+        "hp": 55,
+        "atk": 50,
+        "def": 65,
+        "agi": 150,
+        "spatk": 175,
+        "spdef": 105,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0066000",
+        "hp": 70,
+        "atk": 80,
+        "def": 50,
+        "agi": 35,
+        "spatk": 35,
+        "spdef": 35,
+        "typeIds": [
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0067000",
+        "hp": 80,
+        "atk": 100,
+        "def": 70,
+        "agi": 45,
+        "spatk": 50,
+        "spdef": 60,
+        "typeIds": [
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0068000",
+        "hp": 90,
+        "atk": 130,
+        "def": 80,
+        "agi": 55,
+        "spatk": 65,
+        "spdef": 85,
+        "typeIds": [
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0069000",
+        "hp": 50,
+        "atk": 75,
+        "def": 35,
+        "agi": 40,
+        "spatk": 70,
+        "spdef": 30,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0070000",
+        "hp": 65,
+        "atk": 90,
+        "def": 50,
+        "agi": 55,
+        "spatk": 85,
+        "spdef": 45,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0071000",
+        "hp": 80,
+        "atk": 105,
+        "def": 65,
+        "agi": 70,
+        "spatk": 100,
+        "spdef": 70,
+        "typeIds": [
+            "TY0011",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0072000",
+        "hp": 40,
+        "atk": 40,
+        "def": 35,
+        "agi": 70,
+        "spatk": 50,
+        "spdef": 100,
+        "typeIds": [
+            "TY0010",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0073000",
+        "hp": 80,
+        "atk": 70,
+        "def": 65,
+        "agi": 100,
+        "spatk": 80,
+        "spdef": 120,
+        "typeIds": [
+            "TY0010",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0074000",
+        "hp": 40,
+        "atk": 80,
+        "def": 100,
+        "agi": 20,
+        "spatk": 30,
+        "spdef": 30,
+        "typeIds": [
+            "TY0005",
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0074001",
+        "hp": 40,
+        "atk": 80,
+        "def": 100,
+        "agi": 20,
+        "spatk": 30,
+        "spdef": 30,
+        "typeIds": [
+            "TY0005",
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0075000",
+        "hp": 55,
+        "atk": 95,
+        "def": 115,
+        "agi": 35,
+        "spatk": 45,
+        "spdef": 45,
+        "typeIds": [
+            "TY0005",
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0075001",
+        "hp": 55,
+        "atk": 95,
+        "def": 115,
+        "agi": 35,
+        "spatk": 45,
+        "spdef": 45,
+        "typeIds": [
+            "TY0005",
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0076000",
+        "hp": 80,
+        "atk": 120,
+        "def": 130,
+        "agi": 45,
+        "spatk": 55,
+        "spdef": 65,
+        "typeIds": [
+            "TY0005",
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0076001",
+        "hp": 80,
+        "atk": 120,
+        "def": 130,
+        "agi": 45,
+        "spatk": 55,
+        "spdef": 65,
+        "typeIds": [
+            "TY0005",
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0077000",
+        "hp": 50,
+        "atk": 85,
+        "def": 55,
+        "agi": 90,
+        "spatk": 65,
+        "spdef": 65,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0078000",
+        "hp": 65,
+        "atk": 100,
+        "def": 70,
+        "agi": 105,
+        "spatk": 80,
+        "spdef": 80,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0079000",
+        "hp": 90,
+        "atk": 65,
+        "def": 65,
+        "agi": 15,
+        "spatk": 40,
+        "spdef": 40,
+        "typeIds": [
+            "TY0010",
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0080000",
+        "hp": 95,
+        "atk": 75,
+        "def": 110,
+        "agi": 30,
+        "spatk": 100,
+        "spdef": 80,
+        "typeIds": [
+            "TY0010",
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0080001",
+        "hp": 95,
+        "atk": 75,
+        "def": 180,
+        "agi": 30,
+        "spatk": 130,
+        "spdef": 80,
+        "typeIds": [
+            "TY0010",
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0081000",
+        "hp": 25,
+        "atk": 35,
+        "def": 70,
+        "agi": 45,
+        "spatk": 95,
+        "spdef": 55,
+        "typeIds": [
+            "TY0012",
+            "TY0008"
+        ]
+    },
+    {
+        "id": "PS0082000",
+        "hp": 50,
+        "atk": 60,
+        "def": 95,
+        "agi": 70,
+        "spatk": 120,
+        "spdef": 70,
+        "typeIds": [
+            "TY0012",
+            "TY0008"
+        ]
+    },
+    {
+        "id": "PS0083000",
+        "hp": 52,
+        "atk": 90,
+        "def": 55,
+        "agi": 60,
+        "spatk": 58,
+        "spdef": 62,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0084000",
+        "hp": 35,
+        "atk": 85,
+        "def": 45,
+        "agi": 75,
+        "spatk": 35,
+        "spdef": 35,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0085000",
+        "hp": 60,
+        "atk": 110,
+        "def": 70,
+        "agi": 110,
+        "spatk": 60,
+        "spdef": 60,
+        "typeIds": [
+            "TY0000",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0086000",
+        "hp": 65,
+        "atk": 45,
+        "def": 55,
+        "agi": 45,
+        "spatk": 45,
+        "spdef": 70,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0087000",
+        "hp": 90,
+        "atk": 70,
+        "def": 80,
+        "agi": 70,
+        "spatk": 70,
+        "spdef": 95,
+        "typeIds": [
+            "TY0010",
+            "TY0014"
+        ]
+    },
+    {
+        "id": "PS0088000",
+        "hp": 80,
+        "atk": 80,
+        "def": 50,
+        "agi": 25,
+        "spatk": 40,
+        "spdef": 50,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0088001",
+        "hp": 80,
+        "atk": 80,
+        "def": 50,
+        "agi": 25,
+        "spatk": 40,
+        "spdef": 50,
+        "typeIds": [
+            "TY0003",
+            "TY0016"
+        ]
+    },
+    {
+        "id": "PS0089000",
+        "hp": 105,
+        "atk": 105,
+        "def": 75,
+        "agi": 50,
+        "spatk": 65,
+        "spdef": 100,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0089001",
+        "hp": 105,
+        "atk": 105,
+        "def": 75,
+        "agi": 50,
+        "spatk": 65,
+        "spdef": 100,
+        "typeIds": [
+            "TY0003",
+            "TY0016"
+        ]
+    },
+    {
+        "id": "PS0090000",
+        "hp": 30,
+        "atk": 65,
+        "def": 100,
+        "agi": 40,
+        "spatk": 45,
+        "spdef": 25,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0091000",
+        "hp": 50,
+        "atk": 95,
+        "def": 180,
+        "agi": 70,
+        "spatk": 85,
+        "spdef": 45,
+        "typeIds": [
+            "TY0010",
+            "TY0014"
+        ]
+    },
+    {
+        "id": "PS0092000",
+        "hp": 30,
+        "atk": 35,
+        "def": 30,
+        "agi": 80,
+        "spatk": 100,
+        "spdef": 35,
+        "typeIds": [
+            "TY0007",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0093000",
+        "hp": 45,
+        "atk": 50,
+        "def": 45,
+        "agi": 95,
+        "spatk": 115,
+        "spdef": 55,
+        "typeIds": [
+            "TY0007",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0094000",
+        "hp": 60,
+        "atk": 65,
+        "def": 60,
+        "agi": 110,
+        "spatk": 130,
+        "spdef": 75,
+        "typeIds": [
+            "TY0007",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0094001",
+        "hp": 60,
+        "atk": 65,
+        "def": 80,
+        "agi": 130,
+        "spatk": 170,
+        "spdef": 95,
+        "typeIds": [
+            "TY0007",
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0095000",
+        "hp": 35,
+        "atk": 45,
+        "def": 160,
+        "agi": 70,
+        "spatk": 30,
+        "spdef": 45,
+        "typeIds": [
+            "TY0005",
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0096000",
+        "hp": 60,
+        "atk": 48,
+        "def": 45,
+        "agi": 42,
+        "spatk": 43,
+        "spdef": 90,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0097000",
+        "hp": 85,
+        "atk": 73,
+        "def": 70,
+        "agi": 67,
+        "spatk": 73,
+        "spdef": 115,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0098000",
+        "hp": 30,
+        "atk": 105,
+        "def": 90,
+        "agi": 50,
+        "spatk": 25,
+        "spdef": 25,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0099000",
+        "hp": 55,
+        "atk": 130,
+        "def": 115,
+        "agi": 75,
+        "spatk": 50,
+        "spdef": 50,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0100000",
+        "hp": 40,
+        "atk": 30,
+        "def": 50,
+        "agi": 100,
+        "spatk": 55,
+        "spdef": 55,
+        "typeIds": [
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0101000",
+        "hp": 60,
+        "atk": 50,
+        "def": 70,
+        "agi": 150,
+        "spatk": 80,
+        "spdef": 80,
+        "typeIds": [
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0102000",
+        "hp": 60,
+        "atk": 40,
+        "def": 80,
+        "agi": 40,
+        "spatk": 60,
+        "spdef": 45,
+        "typeIds": [
+            "TY0011",
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0103000",
+        "hp": 95,
+        "atk": 95,
+        "def": 85,
+        "agi": 55,
+        "spatk": 125,
+        "spdef": 75,
+        "typeIds": [
+            "TY0011",
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0103001",
+        "hp": 95,
+        "atk": 105,
+        "def": 85,
+        "agi": 45,
+        "spatk": 125,
+        "spdef": 75,
+        "typeIds": [
+            "TY0011",
+            "TY0015"
+        ]
+    },
+    {
+        "id": "PS0104000",
+        "hp": 50,
+        "atk": 50,
+        "def": 95,
+        "agi": 35,
+        "spatk": 40,
+        "spdef": 50,
+        "typeIds": [
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0105000",
+        "hp": 60,
+        "atk": 80,
+        "def": 110,
+        "agi": 45,
+        "spatk": 50,
+        "spdef": 80,
+        "typeIds": [
+            "TY0004"
+        ]
+    },
+    {
+        "id": "PS0105001",
+        "hp": 60,
+        "atk": 80,
+        "def": 110,
+        "agi": 45,
+        "spatk": 50,
+        "spdef": 80,
+        "typeIds": [
+            "TY0009",
+            "TY0007"
+        ]
+    },
+    {
+        "id": "PS0106000",
+        "hp": 50,
+        "atk": 120,
+        "def": 53,
+        "agi": 87,
+        "spatk": 35,
+        "spdef": 110,
+        "typeIds": [
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0107000",
+        "hp": 50,
+        "atk": 105,
+        "def": 79,
+        "agi": 76,
+        "spatk": 35,
+        "spdef": 110,
+        "typeIds": [
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0108000",
+        "hp": 90,
+        "atk": 55,
+        "def": 75,
+        "agi": 30,
+        "spatk": 60,
+        "spdef": 75,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0109000",
+        "hp": 40,
+        "atk": 65,
+        "def": 95,
+        "agi": 35,
+        "spatk": 60,
+        "spdef": 45,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0110000",
+        "hp": 65,
+        "atk": 90,
+        "def": 120,
+        "agi": 60,
+        "spatk": 85,
+        "spdef": 70,
+        "typeIds": [
+            "TY0003"
+        ]
+    },
+    {
+        "id": "PS0111000",
+        "hp": 80,
+        "atk": 85,
+        "def": 95,
+        "agi": 25,
+        "spatk": 30,
+        "spdef": 30,
+        "typeIds": [
+            "TY0004",
+            "TY0005"
+        ]
+    },
+    {
+        "id": "PS0112000",
+        "hp": 105,
+        "atk": 130,
+        "def": 120,
+        "agi": 40,
+        "spatk": 45,
+        "spdef": 45,
+        "typeIds": [
+            "TY0004",
+            "TY0005"
+        ]
+    },
+    {
+        "id": "PS0113000",
+        "hp": 250,
+        "atk": 5,
+        "def": 5,
+        "agi": 50,
+        "spatk": 35,
+        "spdef": 105,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0114000",
+        "hp": 65,
+        "atk": 55,
+        "def": 115,
+        "agi": 60,
+        "spatk": 100,
+        "spdef": 40,
+        "typeIds": [
+            "TY0011"
+        ]
+    },
+    {
+        "id": "PS0115000",
+        "hp": 105,
+        "atk": 95,
+        "def": 80,
+        "agi": 90,
+        "spatk": 40,
+        "spdef": 80,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0115001",
+        "hp": 105,
+        "atk": 125,
+        "def": 100,
+        "agi": 100,
+        "spatk": 60,
+        "spdef": 100,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0116000",
+        "hp": 30,
+        "atk": 40,
+        "def": 70,
+        "agi": 60,
+        "spatk": 70,
+        "spdef": 25,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0117000",
+        "hp": 55,
+        "atk": 65,
+        "def": 95,
+        "agi": 85,
+        "spatk": 95,
+        "spdef": 45,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0118000",
+        "hp": 45,
+        "atk": 67,
+        "def": 60,
+        "agi": 63,
+        "spatk": 35,
+        "spdef": 50,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0119000",
+        "hp": 80,
+        "atk": 92,
+        "def": 65,
+        "agi": 68,
+        "spatk": 65,
+        "spdef": 80,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0120000",
+        "hp": 30,
+        "atk": 45,
+        "def": 55,
+        "agi": 85,
+        "spatk": 70,
+        "spdef": 55,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0121000",
+        "hp": 60,
+        "atk": 75,
+        "def": 85,
+        "agi": 115,
+        "spatk": 100,
+        "spdef": 85,
+        "typeIds": [
+            "TY0010",
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0122000",
+        "hp": 40,
+        "atk": 45,
+        "def": 65,
+        "agi": 90,
+        "spatk": 100,
+        "spdef": 120,
+        "typeIds": [
+            "TY0013",
+            "TY0017"
+        ]
+    },
+    {
+        "id": "PS0123000",
+        "hp": 70,
+        "atk": 110,
+        "def": 80,
+        "agi": 105,
+        "spatk": 55,
+        "spdef": 80,
+        "typeIds": [
+            "TY0006",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0124000",
+        "hp": 65,
+        "atk": 50,
+        "def": 35,
+        "agi": 95,
+        "spatk": 115,
+        "spdef": 95,
+        "typeIds": [
+            "TY0014",
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0125000",
+        "hp": 65,
+        "atk": 83,
+        "def": 57,
+        "agi": 105,
+        "spatk": 95,
+        "spdef": 85,
+        "typeIds": [
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0126000",
+        "hp": 65,
+        "atk": 95,
+        "def": 57,
+        "agi": 93,
+        "spatk": 100,
+        "spdef": 85,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0127000",
+        "hp": 65,
+        "atk": 125,
+        "def": 100,
+        "agi": 85,
+        "spatk": 55,
+        "spdef": 70,
+        "typeIds": [
+            "TY0006"
+        ]
+    },
+    {
+        "id": "PS0127001",
+        "hp": 65,
+        "atk": 155,
+        "def": 120,
+        "agi": 105,
+        "spatk": 65,
+        "spdef": 90,
+        "typeIds": [
+            "TY0006",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0128000",
+        "hp": 75,
+        "atk": 100,
+        "def": 95,
+        "agi": 110,
+        "spatk": 40,
+        "spdef": 70,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0129000",
+        "hp": 20,
+        "atk": 10,
+        "def": 55,
+        "agi": 80,
+        "spatk": 15,
+        "spdef": 20,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0130000",
+        "hp": 95,
+        "atk": 125,
+        "def": 79,
+        "agi": 81,
+        "spatk": 60,
+        "spdef": 100,
+        "typeIds": [
+            "TY0010",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0130001",
+        "hp": 95,
+        "atk": 155,
+        "def": 109,
+        "agi": 81,
+        "spatk": 70,
+        "spdef": 130,
+        "typeIds": [
+            "TY0010",
+            "TY0016"
+        ]
+    },
+    {
+        "id": "PS0131000",
+        "hp": 130,
+        "atk": 85,
+        "def": 80,
+        "agi": 60,
+        "spatk": 85,
+        "spdef": 95,
+        "typeIds": [
+            "TY0010",
+            "TY0014"
+        ]
+    },
+    {
+        "id": "PS0132000",
+        "hp": 48,
+        "atk": 48,
+        "def": 48,
+        "agi": 48,
+        "spatk": 48,
+        "spdef": 48,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0133000",
+        "hp": 55,
+        "atk": 55,
+        "def": 50,
+        "agi": 55,
+        "spatk": 45,
+        "spdef": 65,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0133001",
+        "hp": 65,
+        "atk": 75,
+        "def": 70,
+        "agi": 75,
+        "spatk": 65,
+        "spdef": 85,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0134000",
+        "hp": 130,
+        "atk": 65,
+        "def": 60,
+        "agi": 65,
+        "spatk": 110,
+        "spdef": 95,
+        "typeIds": [
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0135000",
+        "hp": 65,
+        "atk": 65,
+        "def": 60,
+        "agi": 130,
+        "spatk": 110,
+        "spdef": 95,
+        "typeIds": [
+            "TY0012"
+        ]
+    },
+    {
+        "id": "PS0136000",
+        "hp": 65,
+        "atk": 130,
+        "def": 60,
+        "agi": 65,
+        "spatk": 95,
+        "spdef": 110,
+        "typeIds": [
+            "TY0009"
+        ]
+    },
+    {
+        "id": "PS0137000",
+        "hp": 65,
+        "atk": 60,
+        "def": 70,
+        "agi": 40,
+        "spatk": 85,
+        "spdef": 75,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0138000",
+        "hp": 35,
+        "atk": 40,
+        "def": 100,
+        "agi": 35,
+        "spatk": 90,
+        "spdef": 55,
+        "typeIds": [
+            "TY0005",
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0139000",
+        "hp": 70,
+        "atk": 60,
+        "def": 125,
+        "agi": 55,
+        "spatk": 115,
+        "spdef": 70,
+        "typeIds": [
+            "TY0005",
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0140000",
+        "hp": 30,
+        "atk": 80,
+        "def": 90,
+        "agi": 55,
+        "spatk": 55,
+        "spdef": 45,
+        "typeIds": [
+            "TY0005",
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0141000",
+        "hp": 60,
+        "atk": 115,
+        "def": 105,
+        "agi": 80,
+        "spatk": 65,
+        "spdef": 70,
+        "typeIds": [
+            "TY0005",
+            "TY0010"
+        ]
+    },
+    {
+        "id": "PS0142000",
+        "hp": 80,
+        "atk": 105,
+        "def": 65,
+        "agi": 130,
+        "spatk": 60,
+        "spdef": 75,
+        "typeIds": [
+            "TY0005",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0142001",
+        "hp": 80,
+        "atk": 135,
+        "def": 85,
+        "agi": 150,
+        "spatk": 70,
+        "spdef": 95,
+        "typeIds": [
+            "TY0005",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0143000",
+        "hp": 160,
+        "atk": 110,
+        "def": 65,
+        "agi": 30,
+        "spatk": 65,
+        "spdef": 110,
+        "typeIds": [
+            "TY0000"
+        ]
+    },
+    {
+        "id": "PS0144000",
+        "hp": 90,
+        "atk": 85,
+        "def": 100,
+        "agi": 85,
+        "spatk": 95,
+        "spdef": 125,
+        "typeIds": [
+            "TY0014",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0145000",
+        "hp": 90,
+        "atk": 90,
+        "def": 85,
+        "agi": 100,
+        "spatk": 125,
+        "spdef": 90,
+        "typeIds": [
+            "TY0012",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0146000",
+        "hp": 90,
+        "atk": 100,
+        "def": 90,
+        "agi": 90,
+        "spatk": 125,
+        "spdef": 85,
+        "typeIds": [
+            "TY0009",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0147000",
+        "hp": 41,
+        "atk": 64,
+        "def": 45,
+        "agi": 50,
+        "spatk": 50,
+        "spdef": 50,
+        "typeIds": [
+            "TY0015"
+        ]
+    },
+    {
+        "id": "PS0148000",
+        "hp": 61,
+        "atk": 84,
+        "def": 65,
+        "agi": 70,
+        "spatk": 70,
+        "spdef": 70,
+        "typeIds": [
+            "TY0015"
+        ]
+    },
+    {
+        "id": "PS0149000",
+        "hp": 91,
+        "atk": 134,
+        "def": 95,
+        "agi": 80,
+        "spatk": 100,
+        "spdef": 100,
+        "typeIds": [
+            "TY0015",
+            "TY0002"
+        ]
+    },
+    {
+        "id": "PS0150000",
+        "hp": 106,
+        "atk": 110,
+        "def": 90,
+        "agi": 130,
+        "spatk": 154,
+        "spdef": 90,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0150001",
+        "hp": 106,
+        "atk": 190,
+        "def": 100,
+        "agi": 130,
+        "spatk": 154,
+        "spdef": 100,
+        "typeIds": [
+            "TY0013",
+            "TY0001"
+        ]
+    },
+    {
+        "id": "PS0150002",
+        "hp": 106,
+        "atk": 150,
+        "def": 70,
+        "agi": 140,
+        "spatk": 194,
+        "spdef": 120,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0151000",
+        "hp": 100,
+        "atk": 100,
+        "def": 100,
+        "agi": 100,
+        "spatk": 100,
+        "spdef": 100,
+        "typeIds": [
+            "TY0013"
+        ]
+    },
+    {
+        "id": "PS0808000",
+        "hp": 46,
+        "atk": 65,
+        "def": 65,
+        "agi": 34,
+        "spatk": 55,
+        "spdef": 35,
+        "typeIds": [
+            "TY0008"
+        ]
+    },
+    {
+        "id": "PS0809000",
+        "hp": 135,
+        "atk": 143,
+        "def": 143,
+        "agi": 34,
+        "spatk": 80,
+        "spdef": 65,
+        "typeIds": [
+            "TY0008"
+        ]
+    }
+]

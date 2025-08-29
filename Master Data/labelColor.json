@@ -1,0 +1,56 @@
+[
+    {
+        "id": "LC01",
+        "color": "#eb6763",
+        "ms": "sp_labelcolor_01",
+        "msFilter": "sp_labelcolor_10_v2"
+    },
+    {
+        "id": "LC02",
+        "color": "#fa8c55",
+        "ms": "sp_labelcolor_02",
+        "msFilter": "sp_labelcolor_11_v2"
+    },
+    {
+        "id": "LC03",
+        "color": "#fadc64",
+        "ms": "sp_labelcolor_03",
+        "msFilter": "sp_labelcolor_12_v2"
+    },
+    {
+        "id": "LC04",
+        "color": "#cfed6d",
+        "ms": "sp_labelcolor_04",
+        "msFilter": "sp_labelcolor_13_v2"
+    },
+    {
+        "id": "LC05",
+        "color": "#72d585",
+        "ms": "sp_labelcolor_05",
+        "msFilter": "sp_labelcolor_14_v2"
+    },
+    {
+        "id": "LC06",
+        "color": "#89d8f5",
+        "ms": "sp_labelcolor_06",
+        "msFilter": "sp_labelcolor_15_v2"
+    },
+    {
+        "id": "LC07",
+        "color": "#7fa8ef",
+        "ms": "sp_labelcolor_07",
+        "msFilter": "sp_labelcolor_16_v2"
+    },
+    {
+        "id": "LC08",
+        "color": "#c899e0",
+        "ms": "sp_labelcolor_08",
+        "msFilter": "sp_labelcolor_17_v2"
+    },
+    {
+        "id": "LC09",
+        "color": "#ffbcdc",
+        "ms": "sp_labelcolor_09",
+        "msFilter": "sp_labelcolor_18_v2"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "OFC0001",
+        "sortOrder": 0,
+        "type": 0,
+        "msname": "sp_ui_off_lib_form_filter01"
+    },
+    {
+        "id": "OFC0002",
+        "sortOrder": 1,
+        "type": 1,
+        "msname": "sp_ui_off_lib_form_filter02"
+    },
+    {
+        "id": "OFC0003",
+        "sortOrder": 2,
+        "type": 2,
+        "msname": "sp_ui_off_lib_form_filter03"
+    },
+    {
+        "id": "OFC0004",
+        "sortOrder": 3,
+        "type": 3,
+        "msname": "sp_ui_off_lib_form_filter04"
+    },
+    {
+        "id": "OFC0005",
+        "sortOrder": 4,
+        "type": 4,
+        "msname": "sp_ui_off_lib_form_filter05"
+    },
+    {
+        "id": "OFC0006",
+        "sortOrder": 5,
+        "type": 5,
+        "msname": "sp_ui_off_lib_form_filter06"
+    }
+]

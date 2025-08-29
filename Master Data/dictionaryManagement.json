@@ -1,0 +1,138 @@
+[
+    {
+        "id": "DM002000",
+        "sortOrder": 6,
+        "msRegionDicName": "sp_softwaredictionary_001",
+        "dicMdName": "SW001",
+        "hostDicId": "",
+        "mdSoftwareIds": [
+            "SF044",
+            "SF045"
+        ],
+        "dispProfileType": 2,
+        "silhouetteType": 1,
+        "listAtlasName": "SoftDicIconSW001",
+        "kpiToken": "ec7w1l"
+    },
+    {
+        "id": "DM002001",
+        "sortOrder": 7,
+        "msRegionDicName": "sp_softwaredictionary_002",
+        "dicMdName": "SW002",
+        "hostDicId": "DM002000",
+        "mdSoftwareIds": [],
+        "dispProfileType": 2,
+        "silhouetteType": 1,
+        "listAtlasName": "SoftDicIconSW002",
+        "kpiToken": "rf8m3y"
+    },
+    {
+        "id": "DM002002",
+        "sortOrder": 8,
+        "msRegionDicName": "sp_softwaredictionary_003",
+        "dicMdName": "SW003",
+        "hostDicId": "DM002000",
+        "mdSoftwareIds": [],
+        "dispProfileType": 2,
+        "silhouetteType": 1,
+        "listAtlasName": "SoftDicIconSW003",
+        "kpiToken": "gqfebt"
+    },
+    {
+        "id": "DM003000",
+        "sortOrder": 9,
+        "msRegionDicName": "sp_softwaredictionary_004",
+        "dicMdName": "SW004",
+        "hostDicId": "",
+        "mdSoftwareIds": [
+            "SF042",
+            "SF043"
+        ],
+        "dispProfileType": 2,
+        "silhouetteType": 1,
+        "listAtlasName": "SoftDicIconSW004",
+        "kpiToken": "qbe8zp"
+    },
+    {
+        "id": "DM004000",
+        "sortOrder": 5,
+        "msRegionDicName": "sp_softwaredictionary_005",
+        "dicMdName": "SW005",
+        "hostDicId": "",
+        "mdSoftwareIds": [
+            "SF048",
+            "SF049"
+        ],
+        "dispProfileType": 2,
+        "silhouetteType": 1,
+        "listAtlasName": "SoftDicIconSW005",
+        "kpiToken": "dmj32q"
+    },
+    {
+        "id": "DM005000",
+        "sortOrder": 4,
+        "msRegionDicName": "sp_softwaredictionary_006",
+        "dicMdName": "SW006",
+        "hostDicId": "",
+        "mdSoftwareIds": [
+            "SF047"
+        ],
+        "dispProfileType": 2,
+        "silhouetteType": 2,
+        "listAtlasName": "SoftDicIconSW006",
+        "kpiToken": "bi0q57"
+    },
+    {
+        "id": "DM006000",
+        "sortOrder": 10,
+        "msRegionDicName": "sp_softwaredictionary_007",
+        "dicMdName": "SW007",
+        "hostDicId": "",
+        "mdSoftwareIds": [
+            "SF034"
+        ],
+        "dispProfileType": 1,
+        "silhouetteType": 1,
+        "listAtlasName": "",
+        "kpiToken": ""
+    },
+    {
+        "id": "DM007000",
+        "sortOrder": 1,
+        "msRegionDicName": "sp_softwaredictionary_008",
+        "dicMdName": "SW008",
+        "hostDicId": "",
+        "mdSoftwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "dispProfileType": 2,
+        "silhouetteType": 3,
+        "listAtlasName": "SoftDicIconSW008",
+        "kpiToken": "uja7ni"
+    },
+    {
+        "id": "DM007001",
+        "sortOrder": 2,
+        "msRegionDicName": "sp_softwaredictionary_009",
+        "dicMdName": "SW009",
+        "hostDicId": "DM007000",
+        "mdSoftwareIds": [],
+        "dispProfileType": 2,
+        "silhouetteType": 3,
+        "listAtlasName": "SoftDicIconSW009",
+        "kpiToken": "1a8vwv"
+    },
+    {
+        "id": "DM007002",
+        "sortOrder": 3,
+        "msRegionDicName": "sp_softwaredictionary_010",
+        "dicMdName": "SW010",
+        "hostDicId": "DM007000",
+        "mdSoftwareIds": [],
+        "dispProfileType": 2,
+        "silhouetteType": 3,
+        "listAtlasName": "SoftDicIconSW010",
+        "kpiToken": "fvj9k2"
+    }
+]

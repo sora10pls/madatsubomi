@@ -1,0 +1,82 @@
+[
+    {
+        "id": "TT000",
+        "appearTarget": 0,
+        "appearTargetSort": 0,
+        "mdSoftwares": [
+            "SF024",
+            "SF025"
+        ]
+    },
+    {
+        "id": "TT001",
+        "appearTarget": 0,
+        "appearTargetSort": 0,
+        "mdSoftwares": [
+            "SF026",
+            "SF027"
+        ]
+    },
+    {
+        "id": "TT002",
+        "appearTarget": 0,
+        "appearTargetSort": 0,
+        "mdSoftwares": [
+            "SF030",
+            "SF031"
+        ]
+    },
+    {
+        "id": "TT003",
+        "appearTarget": 0,
+        "appearTargetSort": 0,
+        "mdSoftwares": [
+            "SF032",
+            "SF033"
+        ]
+    },
+    {
+        "id": "TT004",
+        "appearTarget": 1,
+        "appearTargetSort": 5,
+        "mdSoftwares": [
+            "SF042",
+            "SF043"
+        ]
+    },
+    {
+        "id": "TT005",
+        "appearTarget": 1,
+        "appearTargetSort": 4,
+        "mdSoftwares": [
+            "SF044",
+            "SF045"
+        ]
+    },
+    {
+        "id": "TT006",
+        "appearTarget": 1,
+        "appearTargetSort": 3,
+        "mdSoftwares": [
+            "SF048",
+            "SF049"
+        ]
+    },
+    {
+        "id": "TT007",
+        "appearTarget": 1,
+        "appearTargetSort": 2,
+        "mdSoftwares": [
+            "SF047"
+        ]
+    },
+    {
+        "id": "TT008",
+        "appearTarget": 1,
+        "appearTargetSort": 1,
+        "mdSoftwares": [
+            "SF050",
+            "SF051"
+        ]
+    }
+]

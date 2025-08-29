@@ -1,0 +1,4937 @@
+[
+    {
+        "id": "EV0001",
+        "templatePrefab": "EvoInfoType0Prefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0002",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0001000",
+            "DI0002000",
+            "DI0003000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0003",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0004000",
+            "DI0005000",
+            "DI0006000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0004",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0007000",
+            "DI0008000",
+            "DI0009000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0005",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0010000",
+            "DI0011000",
+            "DI0012000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0006",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0013000",
+            "DI0014000",
+            "DI0015000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0007",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0016000",
+            "DI0017000",
+            "DI0018000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0008",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0019000",
+            "DI0020000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0009",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0019001",
+            "DI0020001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0010",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0021000",
+            "DI0022000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0011",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0023000",
+            "DI0024000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0012",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [
+            "DI0172000",
+            "DI0025000",
+            "DI0026000",
+            "DI0026001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0013",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0027000",
+            "DI0028000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0014",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0027001",
+            "DI0028001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0015",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0029000",
+            "DI0030000",
+            "DI0031000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0016",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0032000",
+            "DI0033000",
+            "DI0034000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0017",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0173000",
+            "DI0035000",
+            "DI0036000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0018",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0037000",
+            "DI0038000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0019",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0037001",
+            "DI0038001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0020",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0174000",
+            "DI0039000",
+            "DI0040000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0021",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0041000",
+            "DI0042000",
+            "DI0169000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0022",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [
+            "DI0043000",
+            "DI0044000",
+            "DI0045000",
+            "DI0182000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0023",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0046000",
+            "DI0047000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0024",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0048000",
+            "DI0049000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0025",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0050000",
+            "DI0051000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0026",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0050001",
+            "DI0051001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0027",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0052000",
+            "DI0053000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0028",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0052001",
+            "DI0053001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0029",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0054000",
+            "DI0055000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0030",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0056000",
+            "DI0057000",
+            "DI0979000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0031",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0058000",
+            "DI0059000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0032",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [
+            "DI0060000",
+            "DI0061000",
+            "DI0062000",
+            "DI0186000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0033",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0063000",
+            "DI0064000",
+            "DI0065000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0034",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0066000",
+            "DI0067000",
+            "DI0068000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0035",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0069000",
+            "DI0070000",
+            "DI0071000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0036",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0072000",
+            "DI0073000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0037",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0074000",
+            "DI0075000",
+            "DI0076000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0038",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0074001",
+            "DI0075001",
+            "DI0076001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0039",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0077000",
+            "DI0078000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0040",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0079000",
+            "DI0080000",
+            "DI0199000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0041",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0081000",
+            "DI0082000",
+            "DI0462000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0042",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0084000",
+            "DI0085000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0043",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0086000",
+            "DI0087000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0044",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0088000",
+            "DI0089000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0045",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0088001",
+            "DI0089001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0046",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0090000",
+            "DI0091000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0047",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0092000",
+            "DI0093000",
+            "DI0094000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0048",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0095000",
+            "DI0208000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0049",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0096000",
+            "DI0097000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0050",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0098000",
+            "DI0099000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0051",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0100000",
+            "DI0101000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0052",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0102000",
+            "DI0103000",
+            "DI0103001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0053",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0104000",
+            "DI0105000",
+            "DI0105001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0054",
+        "templatePrefab": "EvoInfoType4CPrefab",
+        "mdPokemonImages": [
+            "DI0236000",
+            "DI0106000",
+            "DI0107000",
+            "DI0237000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0055",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0108000",
+            "DI0463000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0056",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0109000",
+            "DI0110000",
+            "DI0110001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0057",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0111000",
+            "DI0112000",
+            "DI0464000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0058",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0440000",
+            "DI0113000",
+            "DI0242000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0059",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0114000",
+            "DI0465000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0060",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0116000",
+            "DI0117000",
+            "DI0230000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0061",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0118000",
+            "DI0119000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0062",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0120000",
+            "DI0121000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0063",
+        "templatePrefab": "EvoInfoType4DPrefab",
+        "mdPokemonImages": [
+            "DI0439000",
+            "DI0122000",
+            "DI0122001",
+            "DI0866000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0064",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0123000",
+            "DI0212000",
+            "DI0900000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0065",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0238000",
+            "DI0124000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0066",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0239000",
+            "DI0125000",
+            "DI0466000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0067",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0240000",
+            "DI0126000",
+            "DI0467000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0068",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0129000",
+            "DI0130000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0069",
+        "templatePrefab": "EvoInfoTypeEeveePrefab",
+        "mdPokemonImages": [
+            "DI0133000",
+            "DI0134000",
+            "DI0135000",
+            "DI0136000",
+            "DI0196000",
+            "DI0197000",
+            "DI0470000",
+            "DI0471000",
+            "DI0700000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0070",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0137000",
+            "DI0233000",
+            "DI0474000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0071",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0138000",
+            "DI0139000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0072",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0140000",
+            "DI0141000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0073",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0446000",
+            "DI0143000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0074",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0147000",
+            "DI0148000",
+            "DI0149000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0075",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0152000",
+            "DI0153000",
+            "DI0154000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0076",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [
+            "DI0155000",
+            "DI0156000",
+            "DI0157000",
+            "DI0157001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0077",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0158000",
+            "DI0159000",
+            "DI0160000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0078",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0161000",
+            "DI0162000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0079",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0163000",
+            "DI0164000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0080",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0165000",
+            "DI0166000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0081",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0167000",
+            "DI0168000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0082",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0170000",
+            "DI0171000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0083",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0175000",
+            "DI0176000",
+            "DI0468000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0084",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0177000",
+            "DI0178000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0085",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0179000",
+            "DI0180000",
+            "DI0181000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0086",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0298000",
+            "DI0183000",
+            "DI0184000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0087",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0438000",
+            "DI0185000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0088",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0187000",
+            "DI0188000",
+            "DI0189000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0089",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0190000",
+            "DI0424000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0090",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0191000",
+            "DI0192000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0091",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0193000",
+            "DI0469000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0092",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0194000",
+            "DI0195000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0093",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0198000",
+            "DI0430000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0094",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0200000",
+            "DI0429000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0095",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0360000",
+            "DI0202000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0096",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0204000",
+            "DI0205000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0097",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0207000",
+            "DI0472000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0098",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0209000",
+            "DI0210000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0099",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0215000",
+            "DI0461000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0100",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0216000",
+            "DI0217000",
+            "DI0901000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0101",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0218000",
+            "DI0219000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0102",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0220000",
+            "DI0221000",
+            "DI0473000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0103",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0223000",
+            "DI0224000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0104",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0458000",
+            "DI0226000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0105",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0228000",
+            "DI0229000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0106",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0231000",
+            "DI0232000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0107",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0246000",
+            "DI0247000",
+            "DI0248000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0108",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0252000",
+            "DI0253000",
+            "DI0254000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0109",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0255000",
+            "DI0256000",
+            "DI0257000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0110",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0258000",
+            "DI0259000",
+            "DI0260000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0111",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0261000",
+            "DI0262000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0112",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0263000",
+            "DI0264000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0113",
+        "templatePrefab": "EvoInfoType5APrefab",
+        "mdPokemonImages": [
+            "DI0265000",
+            "DI0266000",
+            "DI0267000",
+            "DI0268000",
+            "DI0269000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0114",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0270000",
+            "DI0271000",
+            "DI0272000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0115",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0273000",
+            "DI0274000",
+            "DI0275000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0116",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0276000",
+            "DI0277000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0117",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0278000",
+            "DI0279000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0118",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [
+            "DI0280000",
+            "DI0281000",
+            "DI0282000",
+            "DI0475000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0119",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0283000",
+            "DI0284000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0120",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0285000",
+            "DI0286000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0121",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0287000",
+            "DI0288000",
+            "DI0289000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0122",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0290000",
+            "DI0291000",
+            "DI0292000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0123",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0293000",
+            "DI0294000",
+            "DI0295000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0124",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0296000",
+            "DI0297000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0125",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0299000",
+            "DI0476000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0126",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0300000",
+            "DI0301000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0127",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0304000",
+            "DI0305000",
+            "DI0306000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0128",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0307000",
+            "DI0308000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0129",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0309000",
+            "DI0310000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0130",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0406000",
+            "DI0315000",
+            "DI0407000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0131",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0316000",
+            "DI0317000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0132",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0318000",
+            "DI0319000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0133",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0320000",
+            "DI0321000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0134",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0322000",
+            "DI0323000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0135",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0325000",
+            "DI0326000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0136",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0328000",
+            "DI0329000",
+            "DI0330000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0137",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0331000",
+            "DI0332000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0138",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0333000",
+            "DI0334000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0139",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0339000",
+            "DI0340000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0140",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0341000",
+            "DI0342000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0141",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0343000",
+            "DI0344000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0142",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0345000",
+            "DI0346000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0143",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0347000",
+            "DI0348000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0144",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0349000",
+            "DI0350000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0145",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0353000",
+            "DI0354000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0146",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0355000",
+            "DI0356000",
+            "DI0477000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0147",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0433000",
+            "DI0358000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0148",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0361000",
+            "DI0362000",
+            "DI0478000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0149",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0363000",
+            "DI0364000",
+            "DI0365000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0150",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0366000",
+            "DI0367000",
+            "DI0368000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0151",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0371000",
+            "DI0372000",
+            "DI0373000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0152",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0374000",
+            "DI0375000",
+            "DI0376000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0153",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0387000",
+            "DI0388000",
+            "DI0389000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0154",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0390000",
+            "DI0391000",
+            "DI0392000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0155",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0393000",
+            "DI0394000",
+            "DI0395000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0156",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0396000",
+            "DI0397000",
+            "DI0398000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0157",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0399000",
+            "DI0400000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0158",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0401000",
+            "DI0402000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0159",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0403000",
+            "DI0404000",
+            "DI0405000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0160",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0408000",
+            "DI0409000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0161",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0410000",
+            "DI0411000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0162",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0412000",
+            "DI0413000",
+            "DI0414000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0163",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0415000",
+            "DI0416000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": [
+            1,
+            0
+        ]
+    },
+    {
+        "id": "EV0164",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0418000",
+            "DI0419000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0165",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0420000",
+            "DI0421000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0166",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0422000",
+            "DI0423000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0167",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0425000",
+            "DI0426000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0168",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0427000",
+            "DI0428000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0169",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0431000",
+            "DI0432000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0170",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0434000",
+            "DI0435000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0171",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0436000",
+            "DI0437000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0172",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0443000",
+            "DI0444000",
+            "DI0445000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0173",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0447000",
+            "DI0448000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0174",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0449000",
+            "DI0450000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0175",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0451000",
+            "DI0452000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0176",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0453000",
+            "DI0454000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0177",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0456000",
+            "DI0457000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0178",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0459000",
+            "DI0460000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0179",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0495000",
+            "DI0496000",
+            "DI0497000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0180",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0498000",
+            "DI0499000",
+            "DI0500000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0181",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [
+            "DI0501000",
+            "DI0502000",
+            "DI0503000",
+            "DI0503001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0182",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0504000",
+            "DI0505000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0183",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0506000",
+            "DI0507000",
+            "DI0508000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0184",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0509000",
+            "DI0510000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0185",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0511000",
+            "DI0512000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0186",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0513000",
+            "DI0514000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0187",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0515000",
+            "DI0516000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0188",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0517000",
+            "DI0518000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0189",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0519000",
+            "DI0520000",
+            "DI0521000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0190",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0522000",
+            "DI0523000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0191",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0524000",
+            "DI0525000",
+            "DI0526000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0192",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0527000",
+            "DI0528000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0193",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0529000",
+            "DI0530000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0194",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0532000",
+            "DI0533000",
+            "DI0534000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0195",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0535000",
+            "DI0536000",
+            "DI0537000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0196",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0540000",
+            "DI0541000",
+            "DI0542000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0197",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0543000",
+            "DI0544000",
+            "DI0545000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0198",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0546000",
+            "DI0547000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0199",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0548000",
+            "DI0549000",
+            "DI0549001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0200",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0551000",
+            "DI0552000",
+            "DI0553000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0201",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0554000",
+            "DI0555000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0202",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0557000",
+            "DI0558000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0203",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0559000",
+            "DI0560000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0204",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0562000",
+            "DI0563000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0205",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0564000",
+            "DI0565000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0206",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0566000",
+            "DI0567000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0207",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0568000",
+            "DI0569000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0208",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0570000",
+            "DI0571000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0209",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0572000",
+            "DI0573000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0210",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0574000",
+            "DI0575000",
+            "DI0576000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0211",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0577000",
+            "DI0578000",
+            "DI0579000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0212",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0580000",
+            "DI0581000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0213",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0582000",
+            "DI0583000",
+            "DI0584000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0214",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0585000",
+            "DI0586000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0215",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0588000",
+            "DI0589000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0216",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0590000",
+            "DI0591000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0217",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0592000",
+            "DI0593000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0218",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0595000",
+            "DI0596000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0219",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0597000",
+            "DI0598000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0220",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0599000",
+            "DI0600000",
+            "DI0601000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0221",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0602000",
+            "DI0603000",
+            "DI0604000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0222",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0605000",
+            "DI0606000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0223",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0607000",
+            "DI0608000",
+            "DI0609000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0224",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0610000",
+            "DI0611000",
+            "DI0612000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0225",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0613000",
+            "DI0614000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0226",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0616000",
+            "DI0617000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0227",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0619000",
+            "DI0620000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0228",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0622000",
+            "DI0623000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0229",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0624000",
+            "DI0625000",
+            "DI0983000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0230",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0627000",
+            "DI0628000",
+            "DI0628001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0231",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0629000",
+            "DI0630000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0232",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [
+            "DI0789000",
+            "DI0790000",
+            "DI0791000",
+            "DI0792000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0233",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0633000",
+            "DI0634000",
+            "DI0635000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0234",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0636000",
+            "DI0637000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0235",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0650000",
+            "DI0651000",
+            "DI0652000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0236",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0653000",
+            "DI0654000",
+            "DI0655000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0237",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0656000",
+            "DI0657000",
+            "DI0658000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0238",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0659000",
+            "DI0660000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0239",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0661000",
+            "DI0662000",
+            "DI0663000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0240",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0241",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0667000",
+            "DI0668000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0242",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0669000",
+            "DI0670000",
+            "DI0671000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0243",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0672000",
+            "DI0673000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0244",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0674000",
+            "DI0675000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0245",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0677000",
+            "DI0678000",
+            "DI0678001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0246",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0679000",
+            "DI0680000",
+            "DI0681000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0247",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0682000",
+            "DI0683000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0248",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0684000",
+            "DI0685000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0249",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0686000",
+            "DI0687000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0250",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0688000",
+            "DI0689000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0251",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0690000",
+            "DI0691000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0252",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0692000",
+            "DI0693000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0253",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0694000",
+            "DI0695000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0254",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0696000",
+            "DI0697000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0255",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0698000",
+            "DI0699000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0256",
+        "templatePrefab": "EvoInfoType5APrefab",
+        "mdPokemonImages": [
+            "DI0704000",
+            "DI0705000",
+            "DI0706000",
+            "DI0705001",
+            "DI0706001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0257",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0708000",
+            "DI0709000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0258",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0710000",
+            "DI0711000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0259",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0712000",
+            "DI0713000",
+            "DI0713001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0260",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0714000",
+            "DI0715000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0261",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [
+            "DI0722000",
+            "DI0723000",
+            "DI0724000",
+            "DI0724001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0262",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0725000",
+            "DI0726000",
+            "DI0727000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0263",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0728000",
+            "DI0729000",
+            "DI0730000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0264",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0731000",
+            "DI0732000",
+            "DI0733000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0265",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0734000",
+            "DI0735000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0266",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0736000",
+            "DI0737000",
+            "DI0738000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0267",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0739000",
+            "DI0740000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0268",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0742000",
+            "DI0743000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0269",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0744000",
+            "DI0745000",
+            "DI0745001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0270",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0747000",
+            "DI0748000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0271",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0749000",
+            "DI0750000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0272",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0751000",
+            "DI0752000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0273",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0753000",
+            "DI0754000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0274",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0755000",
+            "DI0756000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0275",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0757000",
+            "DI0758000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0276",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0759000",
+            "DI0760000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0277",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0761000",
+            "DI0762000",
+            "DI0763000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0278",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0767000",
+            "DI0768000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0279",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0769000",
+            "DI0770000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0280",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0772000",
+            "DI0773000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0281",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0782000",
+            "DI0783000",
+            "DI0784000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0282",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0803000",
+            "DI0804000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0283",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0412001",
+            "DI0413001",
+            "DI0414000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0284",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0412002",
+            "DI0413002",
+            "DI0414000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0285",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0585001",
+            "DI0586001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0286",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0585002",
+            "DI0586002"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0287",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0585003",
+            "DI0586003"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0288",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0289",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666002"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0290",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666003"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0291",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666004"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0292",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666005"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0293",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666006"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0294",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666007"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0295",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666008"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0296",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666009"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0297",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666010"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0298",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666011"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0299",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666012"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0300",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666013"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0301",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666014"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0302",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666015"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0303",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666016"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0304",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666017"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0305",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666018"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0306",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0664000",
+            "DI0665000",
+            "DI0666019"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0307",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0669001",
+            "DI0670001",
+            "DI0671001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0308",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0669002",
+            "DI0670002",
+            "DI0671002"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0309",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0669003",
+            "DI0670003",
+            "DI0671003"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0310",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0669004",
+            "DI0670004",
+            "DI0671004"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0311",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0710001",
+            "DI0711001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0312",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0710002",
+            "DI0711002"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0313",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0710003",
+            "DI0711003"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0314",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0052002",
+            "DI0863000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0315",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0077001",
+            "DI0078001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0316",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0083001",
+            "DI0865000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0317",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0263001",
+            "DI0264001",
+            "DI0862000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0318",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0422001",
+            "DI0423001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0319",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0554001",
+            "DI0555002"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0320",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0810000",
+            "DI0811000",
+            "DI0812000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0321",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0813000",
+            "DI0814000",
+            "DI0815000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0322",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0816000",
+            "DI0817000",
+            "DI0818000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0323",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0819000",
+            "DI0820000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0324",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0821000",
+            "DI0822000",
+            "DI0823000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0325",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0824000",
+            "DI0825000",
+            "DI0826000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0326",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0827000",
+            "DI0828000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0327",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0829000",
+            "DI0830000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0328",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0831000",
+            "DI0832000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0329",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0833000",
+            "DI0834000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0330",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0835000",
+            "DI0836000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0331",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0837000",
+            "DI0838000",
+            "DI0839000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0332",
+        "templatePrefab": "EvoInfoType5BPrefab",
+        "mdPokemonImages": [
+            "DI0840000",
+            "DI0841000",
+            "DI0842000",
+            "DI1011000",
+            "DI1019000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0333",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0843000",
+            "DI0844000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0334",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0846000",
+            "DI0847000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0335",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0848000",
+            "DI0849000",
+            "DI0849001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0336",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0850000",
+            "DI0851000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0337",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0852000",
+            "DI0853000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0338",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0854000",
+            "DI0855000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0339",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0854001",
+            "DI0855001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0340",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0856000",
+            "DI0857000",
+            "DI0858000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0341",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0859000",
+            "DI0860000",
+            "DI0861000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0342",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0122001",
+            "DI0866000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0343",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0344",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0345",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869002"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0346",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869003"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0347",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869004"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0348",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869005"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0349",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869006"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0350",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869007"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0351",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869008"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0352",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0872000",
+            "DI0873000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0353",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0878000",
+            "DI0879000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0354",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0885000",
+            "DI0886000",
+            "DI0887000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0355",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0222001",
+            "DI0864000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0356",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0562001",
+            "DI0867000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0357",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869000k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0358",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869000k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0359",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869000k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0360",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869000k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0361",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869000k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0362",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869000k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0363",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869001k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0364",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869001k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0365",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869001k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0366",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869001k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0367",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869001k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0368",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869001k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0369",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869002k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0370",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869002k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0371",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869002k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0372",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869002k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0373",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869002k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0374",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869002k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0375",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869003k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0376",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869003k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0377",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869003k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0378",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869003k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0379",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869003k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0380",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869003k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0381",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869004k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0382",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869004k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0383",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869004k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0384",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869004k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0385",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869004k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0386",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869004k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0387",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869005k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0388",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869005k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0389",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869005k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0390",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869005k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0391",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869005k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0392",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869005k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0393",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869006k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0394",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869006k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0395",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869006k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0396",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869006k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0397",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869006k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0398",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869006k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0399",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869007k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0400",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869007k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0401",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869007k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0402",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869007k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0403",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869007k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0404",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869007k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0405",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869008k1"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0406",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869008k2"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0407",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869008k3"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0408",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869008k4"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0409",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869008k5"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0410",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0868000",
+            "DI0869008k6"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0411",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0808000",
+            "DI0809000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0412",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0774000",
+            "DI0774007"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0413",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0774000",
+            "DI0774008"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0414",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0774000",
+            "DI0774009"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0415",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0774000",
+            "DI0774010"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0416",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0774000",
+            "DI0774011"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0417",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0774000",
+            "DI0774012"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0418",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0774000",
+            "DI0774013"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0419",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0744001",
+            "DI0745002"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0420",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0891000",
+            "DI0892000",
+            "DI0892001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0421",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0079001",
+            "DI0080002",
+            "DI0199001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0422",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0058001",
+            "DI0059001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0423",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0100001",
+            "DI0101001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0424",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0211001",
+            "DI0904000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0425",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0215001",
+            "DI0903000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0426",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0550002",
+            "DI0902000",
+            "DI0902001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0427",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0570001",
+            "DI0571001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0428",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0234000",
+            "DI0899000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0429",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0906000",
+            "DI0907000",
+            "DI0908000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0430",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0909000",
+            "DI0910000",
+            "DI0911000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0431",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0912000",
+            "DI0913000",
+            "DI0914000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0432",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0915000",
+            "DI0916000",
+            "DI0916001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0433",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0917000",
+            "DI0918000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0434",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0919000",
+            "DI0920000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0435",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0921000",
+            "DI0922000",
+            "DI0923000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0436",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0924000",
+            "DI0925000",
+            "DI0925001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0437",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0926000",
+            "DI0927000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0438",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0928000",
+            "DI0929000",
+            "DI0930000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0439",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0932000",
+            "DI0933000",
+            "DI0934000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0440",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0935000",
+            "DI0936000",
+            "DI0937000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0441",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0938000",
+            "DI0939000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0442",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0940000",
+            "DI0941000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0443",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0942000",
+            "DI0943000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0444",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0944000",
+            "DI0945000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0445",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0946000",
+            "DI0947000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0446",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0948000",
+            "DI0949000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0447",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0951000",
+            "DI0952000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0448",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0953000",
+            "DI0954000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0449",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0955000",
+            "DI0956000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0450",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0957000",
+            "DI0958000",
+            "DI0959000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0451",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0960000",
+            "DI0961000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0452",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0963000",
+            "DI0964000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0453",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0965000",
+            "DI0966000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0454",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0969000",
+            "DI0970000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0455",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0971000",
+            "DI0972000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0456",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0974000",
+            "DI0975000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0457",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0194001",
+            "DI0980000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0458",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0203000",
+            "DI0981000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0459",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0206000",
+            "DI0982000",
+            "DI0982001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0460",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [
+            "DI0996000",
+            "DI0997000",
+            "DI0998000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0461",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0999000",
+            "DI1000000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0462",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0999001",
+            "DI1000000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0463",
+        "templatePrefab": "EvoInfoType3CPrefab",
+        "mdPokemonImages": [
+            "DI0999000",
+            "DI0999001",
+            "DI1000000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0464",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI1012000",
+            "DI1013000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0465",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI1012001",
+            "DI1013001"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0466",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0884000",
+            "DI1018000"
+        ],
+        "mdOffLibIds": [],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0521_3",
+        "templatePrefab": "EvoInfoType4BPrefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [
+            "OL05190003",
+            "OL05200003",
+            "OL05210001",
+            "OL05210002"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0592_1",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [
+            "OL05920001",
+            "OL05930001"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0592_2",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [
+            "OL05920002",
+            "OL05930002"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0668_3",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [
+            "OL06670003",
+            "OL06680001",
+            "OL06680002"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0924_0",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [
+            "OL09240000",
+            "OL09250010"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0744_0",
+        "templatePrefab": "EvoInfoType4CPrefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [
+            "OL07440003",
+            "OL07450003",
+            "OL07450013",
+            "OL07450023"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0664_0",
+        "templatePrefab": "EvoInfoType3Prefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [
+            "OL06640003",
+            "OL06650003",
+            "OL06660063"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0206_0",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [],
+        "mdOffLibIds": [
+            "OL02060003",
+            "OL09820003"
+        ],
+        "imageVariations": []
+    }
+]

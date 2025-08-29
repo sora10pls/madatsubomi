@@ -1,0 +1,14 @@
+[
+    {
+        "id": "DF001",
+        "sizeX": 528,
+        "sizeY": 528,
+        "imageName": "pl_lib_sdex_poke_01_01"
+    },
+    {
+        "id": "DF002",
+        "sizeX": 1024,
+        "sizeY": 528,
+        "imageName": "pl_lib_sdex_poke_01_02"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "id": "PE0000",
+        "mdAbilityPlus": "AB0000",
+        "mdAbilityMinus": "AB0000",
+        "ms": "seikaku:SEIKAKU_000",
+        "mstext": "trainermemo:trmemo_01_01",
+        "msmint": "sp_ui_filter_seikaku_1_m",
+        "mintImage": "mint_normal"
+    },
+    {
+        "id": "PE0001",
+        "mdAbilityPlus": "AB0002",
+        "mdAbilityMinus": "AB0003",
+        "ms": "seikaku:SEIKAKU_001",
+        "mstext": "trainermemo:trmemo_01_02",
+        "msmint": "sp_ui_filter_seikaku_2_m",
+        "mintImage": "mint_atk"
+    },
+    {
+        "id": "PE0002",
+        "mdAbilityPlus": "AB0002",
+        "mdAbilityMinus": "AB0004",
+        "ms": "seikaku:SEIKAKU_002",
+        "mstext": "trainermemo:trmemo_01_03",
+        "msmint": "sp_ui_filter_seikaku_3_m",
+        "mintImage": "mint_atk"
+    },
+    {
+        "id": "PE0003",
+        "mdAbilityPlus": "AB0002",
+        "mdAbilityMinus": "AB0005",
+        "ms": "seikaku:SEIKAKU_003",
+        "mstext": "trainermemo:trmemo_01_04",
+        "msmint": "sp_ui_filter_seikaku_4_m",
+        "mintImage": "mint_atk"
+    },
+    {
+        "id": "PE0004",
+        "mdAbilityPlus": "AB0002",
+        "mdAbilityMinus": "AB0006",
+        "ms": "seikaku:SEIKAKU_004",
+        "mstext": "trainermemo:trmemo_01_05",
+        "msmint": "sp_ui_filter_seikaku_5_m",
+        "mintImage": "mint_atk"
+    },
+    {
+        "id": "PE0005",
+        "mdAbilityPlus": "AB0003",
+        "mdAbilityMinus": "AB0002",
+        "ms": "seikaku:SEIKAKU_005",
+        "mstext": "trainermemo:trmemo_01_06",
+        "msmint": "sp_ui_filter_seikaku_6_m",
+        "mintImage": "mint_def"
+    },
+    {
+        "id": "PE0006",
+        "mdAbilityPlus": "AB0000",
+        "mdAbilityMinus": "AB0000",
+        "ms": "seikaku:SEIKAKU_006",
+        "mstext": "trainermemo:trmemo_01_07",
+        "msmint": "sp_ui_filter_seikaku_7_m",
+        "mintImage": "mint_normal"
+    },
+    {
+        "id": "PE0007",
+        "mdAbilityPlus": "AB0003",
+        "mdAbilityMinus": "AB0004",
+        "ms": "seikaku:SEIKAKU_007",
+        "mstext": "trainermemo:trmemo_01_08",
+        "msmint": "sp_ui_filter_seikaku_8_m",
+        "mintImage": "mint_def"
+    },
+    {
+        "id": "PE0008",
+        "mdAbilityPlus": "AB0003",
+        "mdAbilityMinus": "AB0005",
+        "ms": "seikaku:SEIKAKU_008",
+        "mstext": "trainermemo:trmemo_01_09",
+        "msmint": "sp_ui_filter_seikaku_9_m",
+        "mintImage": "mint_def"
+    },
+    {
+        "id": "PE0009",
+        "mdAbilityPlus": "AB0003",
+        "mdAbilityMinus": "AB0006",
+        "ms": "seikaku:SEIKAKU_009",
+        "mstext": "trainermemo:trmemo_01_10",
+        "msmint": "sp_ui_filter_seikaku_10_m",
+        "mintImage": "mint_def"
+    },
+    {
+        "id": "PE0010",
+        "mdAbilityPlus": "AB0004",
+        "mdAbilityMinus": "AB0002",
+        "ms": "seikaku:SEIKAKU_010",
+        "mstext": "trainermemo:trmemo_01_11",
+        "msmint": "sp_ui_filter_seikaku_11_m",
+        "mintImage": "mint_agi"
+    },
+    {
+        "id": "PE0011",
+        "mdAbilityPlus": "AB0004",
+        "mdAbilityMinus": "AB0003",
+        "ms": "seikaku:SEIKAKU_011",
+        "mstext": "trainermemo:trmemo_01_12",
+        "msmint": "sp_ui_filter_seikaku_12_m",
+        "mintImage": "mint_agi"
+    },
+    {
+        "id": "PE0012",
+        "mdAbilityPlus": "AB0000",
+        "mdAbilityMinus": "AB0000",
+        "ms": "seikaku:SEIKAKU_012",
+        "mstext": "trainermemo:trmemo_01_13",
+        "msmint": "sp_ui_filter_seikaku_13_m",
+        "mintImage": "mint_normal"
+    },
+    {
+        "id": "PE0013",
+        "mdAbilityPlus": "AB0004",
+        "mdAbilityMinus": "AB0005",
+        "ms": "seikaku:SEIKAKU_013",
+        "mstext": "trainermemo:trmemo_01_14",
+        "msmint": "sp_ui_filter_seikaku_14_m",
+        "mintImage": "mint_agi"
+    },
+    {
+        "id": "PE0014",
+        "mdAbilityPlus": "AB0004",
+        "mdAbilityMinus": "AB0006",
+        "ms": "seikaku:SEIKAKU_014",
+        "mstext": "trainermemo:trmemo_01_15",
+        "msmint": "sp_ui_filter_seikaku_15_m",
+        "mintImage": "mint_agi"
+    },
+    {
+        "id": "PE0015",
+        "mdAbilityPlus": "AB0005",
+        "mdAbilityMinus": "AB0002",
+        "ms": "seikaku:SEIKAKU_015",
+        "mstext": "trainermemo:trmemo_01_16",
+        "msmint": "sp_ui_filter_seikaku_16_m",
+        "mintImage": "mint_spatk"
+    },
+    {
+        "id": "PE0016",
+        "mdAbilityPlus": "AB0005",
+        "mdAbilityMinus": "AB0003",
+        "ms": "seikaku:SEIKAKU_016",
+        "mstext": "trainermemo:trmemo_01_17",
+        "msmint": "sp_ui_filter_seikaku_17_m",
+        "mintImage": "mint_spatk"
+    },
+    {
+        "id": "PE0017",
+        "mdAbilityPlus": "AB0005",
+        "mdAbilityMinus": "AB0004",
+        "ms": "seikaku:SEIKAKU_017",
+        "mstext": "trainermemo:trmemo_01_18",
+        "msmint": "sp_ui_filter_seikaku_18_m",
+        "mintImage": "mint_spatk"
+    },
+    {
+        "id": "PE0018",
+        "mdAbilityPlus": "AB0000",
+        "mdAbilityMinus": "AB0000",
+        "ms": "seikaku:SEIKAKU_018",
+        "mstext": "trainermemo:trmemo_01_19",
+        "msmint": "sp_ui_filter_seikaku_19_m",
+        "mintImage": "mint_normal"
+    },
+    {
+        "id": "PE0019",
+        "mdAbilityPlus": "AB0005",
+        "mdAbilityMinus": "AB0006",
+        "ms": "seikaku:SEIKAKU_019",
+        "mstext": "trainermemo:trmemo_01_20",
+        "msmint": "sp_ui_filter_seikaku_20_m",
+        "mintImage": "mint_spatk"
+    },
+    {
+        "id": "PE0020",
+        "mdAbilityPlus": "AB0006",
+        "mdAbilityMinus": "AB0002",
+        "ms": "seikaku:SEIKAKU_020",
+        "mstext": "trainermemo:trmemo_01_21",
+        "msmint": "sp_ui_filter_seikaku_21_m",
+        "mintImage": "mint_spdef"
+    },
+    {
+        "id": "PE0021",
+        "mdAbilityPlus": "AB0006",
+        "mdAbilityMinus": "AB0003",
+        "ms": "seikaku:SEIKAKU_021",
+        "mstext": "trainermemo:trmemo_01_22",
+        "msmint": "sp_ui_filter_seikaku_22_m",
+        "mintImage": "mint_spdef"
+    },
+    {
+        "id": "PE0022",
+        "mdAbilityPlus": "AB0006",
+        "mdAbilityMinus": "AB0004",
+        "ms": "seikaku:SEIKAKU_022",
+        "mstext": "trainermemo:trmemo_01_23",
+        "msmint": "sp_ui_filter_seikaku_23_m",
+        "mintImage": "mint_spdef"
+    },
+    {
+        "id": "PE0023",
+        "mdAbilityPlus": "AB0006",
+        "mdAbilityMinus": "AB0005",
+        "ms": "seikaku:SEIKAKU_023",
+        "mstext": "trainermemo:trmemo_01_24",
+        "msmint": "sp_ui_filter_seikaku_24_m",
+        "mintImage": "mint_spdef"
+    },
+    {
+        "id": "PE0024",
+        "mdAbilityPlus": "AB0000",
+        "mdAbilityMinus": "AB0000",
+        "ms": "seikaku:SEIKAKU_024",
+        "mstext": "trainermemo:trmemo_01_25",
+        "msmint": "sp_ui_filter_seikaku_25_m",
+        "mintImage": "mint_normal"
+    }
+]

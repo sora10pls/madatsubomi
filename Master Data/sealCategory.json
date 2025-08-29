@@ -1,0 +1,17 @@
+[
+    {
+        "id": "SC000",
+        "no": 0,
+        "ms": "sp_sealcategory_000"
+    },
+    {
+        "id": "SC001",
+        "no": 1,
+        "ms": "sp_sealcategory_001"
+    },
+    {
+        "id": "SC002",
+        "no": 2,
+        "ms": "sp_sealcategory_002"
+    }
+]

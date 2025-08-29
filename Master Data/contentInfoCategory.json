@@ -1,0 +1,52 @@
+[
+    {
+        "id": "category00",
+        "msText": "sp_contentinfo_category_00",
+        "color": "#FFFFFF"
+    },
+    {
+        "id": "category01",
+        "msText": "sp_contentinfo_category_01",
+        "color": "#c23732"
+    },
+    {
+        "id": "category02",
+        "msText": "sp_contentinfo_category_02",
+        "color": "#6db34e"
+    },
+    {
+        "id": "category03",
+        "msText": "sp_contentinfo_category_03",
+        "color": "#3f498d"
+    },
+    {
+        "id": "category04",
+        "msText": "sp_contentinfo_category_04",
+        "color": "#2b91d3"
+    },
+    {
+        "id": "category05",
+        "msText": "sp_contentinfo_category_05",
+        "color": "#1cb491"
+    },
+    {
+        "id": "category06",
+        "msText": "sp_contentinfo_category_06",
+        "color": "#7e4ac2"
+    },
+    {
+        "id": "category07",
+        "msText": "sp_contentinfo_category_07",
+        "color": "#c942ae"
+    },
+    {
+        "id": "category08",
+        "msText": "sp_contentinfo_category_08",
+        "color": "#e6b800"
+    },
+    {
+        "id": "category09",
+        "msText": "sp_contentinfo_category_09",
+        "color": "#d65c15"
+    }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "id": "MB001",
+        "filePath": "001_MASUTAABOORU_64",
+        "modelName": "ob0201_00",
+        "number": 1,
+        "msText": "itemname:ITEMNAME_001",
+        "sort": 4,
+        "scale": 100
+    },
+    {
+        "id": "MB002",
+        "filePath": "002_HAIPAABOORU_64",
+        "modelName": "ob0202_00",
+        "number": 2,
+        "msText": "itemname:ITEMNAME_002",
+        "sort": 3,
+        "scale": 100
+    },
+    {
+        "id": "MB003",
+        "filePath": "003_SUUPAABOORU_64",
+        "modelName": "ob0203_00",
+        "number": 3,
+        "msText": "itemname:ITEMNAME_003",
+        "sort": 2,
+        "scale": 100
+    },
+    {
+        "id": "MB004",
+        "filePath": "004_MONSUTAABOORU_64",
+        "modelName": "ob0204_00",
+        "number": 4,
+        "msText": "itemname:ITEMNAME_004",
+        "sort": 1,
+        "scale": 100
+    },
+    {
+        "id": "MB005",
+        "filePath": "005_SAFARIBOORU_64",
+        "modelName": "ob0205_00",
+        "number": 5,
+        "msText": "itemname:ITEMNAME_005",
+        "sort": 24,
+        "scale": 100
+    },
+    {
+        "id": "MB006",
+        "filePath": "006_NETTOBOORU_64",
+        "modelName": "ob0206_00",
+        "number": 6,
+        "msText": "itemname:ITEMNAME_006",
+        "sort": 7,
+        "scale": 100
+    },
+    {
+        "id": "MB007",
+        "filePath": "007_DAIBUBOORU_64",
+        "modelName": "ob0207_00",
+        "number": 7,
+        "msText": "itemname:ITEMNAME_007",
+        "sort": 9,
+        "scale": 100
+    },
+    {
+        "id": "MB008",
+        "filePath": "008_NESUTOBOORU_64",
+        "modelName": "ob0208_00",
+        "number": 8,
+        "msText": "itemname:ITEMNAME_008",
+        "sort": 8,
+        "scale": 100
+    },
+    {
+        "id": "MB009",
+        "filePath": "009_RIPIITOBOORU_64",
+        "modelName": "ob0209_00",
+        "number": 9,
+        "msText": "itemname:ITEMNAME_009",
+        "sort": 13,
+        "scale": 100
+    },
+    {
+        "id": "MB010",
+        "filePath": "010_TAIMAABOORU_64",
+        "modelName": "ob0210_00",
+        "number": 10,
+        "msText": "itemname:ITEMNAME_010",
+        "sort": 11,
+        "scale": 100
+    },
+    {
+        "id": "MB011",
+        "filePath": "011_GOOZYASUBOORU_64",
+        "modelName": "ob0211_00",
+        "number": 11,
+        "msText": "itemname:ITEMNAME_011",
+        "sort": 14,
+        "scale": 100
+    },
+    {
+        "id": "MB012",
+        "filePath": "012_PUREMIABOORU_64",
+        "modelName": "ob0212_00",
+        "number": 12,
+        "msText": "itemname:ITEMNAME_012",
+        "sort": 5,
+        "scale": 100
+    },
+    {
+        "id": "MB013",
+        "filePath": "013_DAAKUBOORU_64",
+        "modelName": "ob0213_00",
+        "number": 13,
+        "msText": "itemname:ITEMNAME_013",
+        "sort": 10,
+        "scale": 100
+    },
+    {
+        "id": "MB014",
+        "filePath": "014_HIIRUBOORU_64",
+        "modelName": "ob0214_00",
+        "number": 14,
+        "msText": "itemname:ITEMNAME_014",
+        "sort": 6,
+        "scale": 100
+    },
+    {
+        "id": "MB015",
+        "filePath": "015_KUIKKUBOORU_64",
+        "modelName": "ob0215_00",
+        "number": 15,
+        "msText": "itemname:ITEMNAME_015",
+        "sort": 12,
+        "scale": 100
+    },
+    {
+        "id": "MB016",
+        "filePath": "016_PURESYASUBOORU_64",
+        "modelName": "ob0216_00",
+        "number": 16,
+        "msText": "itemname:ITEMNAME_016",
+        "sort": 26,
+        "scale": 100
+    },
+    {
+        "id": "MB017",
+        "filePath": "017_SUPIIDOBOORU_64",
+        "modelName": "ob0217_00",
+        "number": 17,
+        "msText": "itemname:ITEMNAME_492",
+        "sort": 15,
+        "scale": 100
+    },
+    {
+        "id": "MB018",
+        "filePath": "018_REBERUBOORU_64",
+        "modelName": "ob0218_00",
+        "number": 18,
+        "msText": "itemname:ITEMNAME_493",
+        "sort": 18,
+        "scale": 100
+    },
+    {
+        "id": "MB019",
+        "filePath": "019_RUAABOORU_64",
+        "modelName": "ob0219_00",
+        "number": 19,
+        "msText": "itemname:ITEMNAME_494",
+        "sort": 17,
+        "scale": 100
+    },
+    {
+        "id": "MB020",
+        "filePath": "020_HEBIIBOORU_64",
+        "modelName": "ob0220_00",
+        "number": 20,
+        "msText": "itemname:ITEMNAME_495",
+        "sort": 19,
+        "scale": 100
+    },
+    {
+        "id": "MB021",
+        "filePath": "021_RABURABUBOORU_64",
+        "modelName": "ob0221_00",
+        "number": 21,
+        "msText": "itemname:ITEMNAME_496",
+        "sort": 20,
+        "scale": 100
+    },
+    {
+        "id": "MB022",
+        "filePath": "022_HURENDOBOORU_64",
+        "modelName": "ob0222_00",
+        "number": 22,
+        "msText": "itemname:ITEMNAME_497",
+        "sort": 16,
+        "scale": 100
+    },
+    {
+        "id": "MB023",
+        "filePath": "023_MUUNBOORU_64",
+        "modelName": "ob0223_00",
+        "number": 23,
+        "msText": "itemname:ITEMNAME_498",
+        "sort": 21,
+        "scale": 100
+    },
+    {
+        "id": "MB024",
+        "filePath": "024_KONPEBOORU_64",
+        "modelName": "ob0224_00",
+        "number": 24,
+        "msText": "itemname:ITEMNAME_499",
+        "sort": 23,
+        "scale": 100
+    },
+    {
+        "id": "MB025",
+        "filePath": "025_DORIIMUBOORU_64",
+        "modelName": "ob0225_00",
+        "number": 25,
+        "msText": "itemname:ITEMNAME_576",
+        "sort": 22,
+        "scale": 100
+    },
+    {
+        "id": "MB026",
+        "filePath": "026_URUTORABOORU_64",
+        "modelName": "ob0226_00",
+        "number": 26,
+        "msText": "itemname:ITEMNAME_851",
+        "sort": 25,
+        "scale": 100
+    },
+    {
+        "id": "MB027",
+        "filePath": "027_ARCEUS01_64",
+        "modelName": "ob0109_00",
+        "number": 27,
+        "msText": "itemname:ITEMNAME_1785",
+        "sort": -1,
+        "scale": 75
+    },
+    {
+        "id": "MB028",
+        "filePath": "028_ARCEUS02_64",
+        "modelName": "ob0100_00",
+        "number": 28,
+        "msText": "itemname:ITEMNAME_1710",
+        "sort": 28,
+        "scale": 75
+    },
+    {
+        "id": "MB029",
+        "filePath": "029_ARCEUS03_64",
+        "modelName": "ob0101_00",
+        "number": 29,
+        "msText": "itemname:ITEMNAME_1711",
+        "sort": 29,
+        "scale": 75
+    },
+    {
+        "id": "MB030",
+        "filePath": "030_ARCEUS04_64",
+        "modelName": "ob0102_00",
+        "number": 30,
+        "msText": "itemname:ITEMNAME_1712",
+        "sort": 30,
+        "scale": 75
+    },
+    {
+        "id": "MB031",
+        "filePath": "031_ARCEUS05_64",
+        "modelName": "ob0103_00",
+        "number": 31,
+        "msText": "itemname:ITEMNAME_1713",
+        "sort": 31,
+        "scale": 75
+    },
+    {
+        "id": "MB032",
+        "filePath": "032_ARCEUS06_64",
+        "modelName": "ob0104_00",
+        "number": 32,
+        "msText": "itemname:ITEMNAME_1746",
+        "sort": 32,
+        "scale": 75
+    },
+    {
+        "id": "MB033",
+        "filePath": "033_ARCEUS07_64",
+        "modelName": "ob0105_00",
+        "number": 33,
+        "msText": "itemname:ITEMNAME_1747",
+        "sort": 33,
+        "scale": 75
+    },
+    {
+        "id": "MB034",
+        "filePath": "034_ARCEUS08_64",
+        "modelName": "ob0106_00",
+        "number": 34,
+        "msText": "itemname:ITEMNAME_1748",
+        "sort": 34,
+        "scale": 60
+    },
+    {
+        "id": "MB035",
+        "filePath": "035_ARCEUS09_64",
+        "modelName": "ob0107_00",
+        "number": 35,
+        "msText": "itemname:ITEMNAME_1749",
+        "sort": 35,
+        "scale": 60
+    },
+    {
+        "id": "MB036",
+        "filePath": "036_ARCEUS10_64",
+        "modelName": "ob0108_00",
+        "number": 36,
+        "msText": "itemname:ITEMNAME_1750",
+        "sort": 36,
+        "scale": 60
+    },
+    {
+        "id": "MB037",
+        "filePath": "037_ARCEUS11_64",
+        "modelName": "ob0229_00",
+        "number": 37,
+        "msText": "itemname:ITEMNAME_1771",
+        "sort": 37,
+        "scale": 60
+    }
+]

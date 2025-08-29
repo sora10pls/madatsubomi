@@ -1,0 +1,23 @@
+[
+    {
+        "id": "WC0001",
+        "image": "ovl_move_physics",
+        "image2": "mve_icon_physics",
+        "color": "#ED5B05",
+        "ms": "sp_wazacategory_0001"
+    },
+    {
+        "id": "WC0002",
+        "image": "ovl_move_special",
+        "image2": "mve_icon_special",
+        "color": "#63ADF1",
+        "ms": "sp_wazacategory_0002"
+    },
+    {
+        "id": "WC0003",
+        "image": "ovl_move_change",
+        "image2": "mve_icon_change",
+        "color": "#B7B1B5",
+        "ms": "sp_wazacategory_0003"
+    }
+]

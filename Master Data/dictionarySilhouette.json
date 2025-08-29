@@ -1,0 +1,29 @@
+[
+    {
+        "id": "DS001",
+        "sizeX": 0,
+        "sizeY": 0,
+        "imageName": "",
+        "silhouetteColor": "#C9C4DBA0",
+        "grayScaleEffectFactor": 100,
+        "grayScaleColorFactor": 100
+    },
+    {
+        "id": "DS002",
+        "sizeX": 0,
+        "sizeY": 0,
+        "imageName": "",
+        "silhouetteColor": "#7D7A8599",
+        "grayScaleEffectFactor": 100,
+        "grayScaleColorFactor": 100
+    },
+    {
+        "id": "DS003",
+        "sizeX": 512,
+        "sizeY": 512,
+        "imageName": "img_lib_sdex_pokesilhouette_01",
+        "silhouetteColor": "#FFFFFFFF",
+        "grayScaleEffectFactor": 0,
+        "grayScaleColorFactor": 0
+    }
+]

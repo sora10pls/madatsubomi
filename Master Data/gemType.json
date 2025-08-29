@@ -1,0 +1,97 @@
+[
+    {
+        "id": "GT0000",
+        "gemType": 0,
+        "iconName": "gem_type_00_normal"
+    },
+    {
+        "id": "GT0001",
+        "gemType": 1,
+        "iconName": "gem_type_01_kakutou"
+    },
+    {
+        "id": "GT0002",
+        "gemType": 2,
+        "iconName": "gem_type_02_hikou"
+    },
+    {
+        "id": "GT0003",
+        "gemType": 3,
+        "iconName": "gem_type_03_doku"
+    },
+    {
+        "id": "GT0004",
+        "gemType": 4,
+        "iconName": "gem_type_04_jimen"
+    },
+    {
+        "id": "GT0005",
+        "gemType": 5,
+        "iconName": "gem_type_05_iwa"
+    },
+    {
+        "id": "GT0006",
+        "gemType": 6,
+        "iconName": "gem_type_06_mushi"
+    },
+    {
+        "id": "GT0007",
+        "gemType": 7,
+        "iconName": "gem_type_07_ghost"
+    },
+    {
+        "id": "GT0008",
+        "gemType": 8,
+        "iconName": "gem_type_08_hagane"
+    },
+    {
+        "id": "GT0009",
+        "gemType": 9,
+        "iconName": "gem_type_09_honoo"
+    },
+    {
+        "id": "GT0010",
+        "gemType": 10,
+        "iconName": "gem_type_10_mizu"
+    },
+    {
+        "id": "GT0011",
+        "gemType": 11,
+        "iconName": "gem_type_11_kusa"
+    },
+    {
+        "id": "GT0012",
+        "gemType": 12,
+        "iconName": "gem_type_12_denki"
+    },
+    {
+        "id": "GT0013",
+        "gemType": 13,
+        "iconName": "gem_type_13_esper"
+    },
+    {
+        "id": "GT0014",
+        "gemType": 14,
+        "iconName": "gem_type_14_koori"
+    },
+    {
+        "id": "GT0015",
+        "gemType": 15,
+        "iconName": "gem_type_15_dragon"
+    },
+    {
+        "id": "GT0016",
+        "gemType": 16,
+        "iconName": "gem_type_16_aku"
+    },
+    {
+        "id": "GT0017",
+        "gemType": 17,
+        "iconName": "gem_type_17_yousei"
+    },
+    {
+        "id": "GT0099",
+        "gemType": 99,
+        "iconName": "gem_type_99_niji"
+    }
+]

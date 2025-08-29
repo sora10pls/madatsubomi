@@ -1,0 +1,4210 @@
+[
+    {
+        "id": "CA0001000",
+        "msname": "zkn_type:ZKN_TYPE_001"
+    },
+    {
+        "id": "CA0002000",
+        "msname": "zkn_type:ZKN_TYPE_002"
+    },
+    {
+        "id": "CA0003000",
+        "msname": "zkn_type:ZKN_TYPE_003"
+    },
+    {
+        "id": "CA0004000",
+        "msname": "zkn_type:ZKN_TYPE_004"
+    },
+    {
+        "id": "CA0005000",
+        "msname": "zkn_type:ZKN_TYPE_005"
+    },
+    {
+        "id": "CA0006000",
+        "msname": "zkn_type:ZKN_TYPE_006"
+    },
+    {
+        "id": "CA0007000",
+        "msname": "zkn_type:ZKN_TYPE_007"
+    },
+    {
+        "id": "CA0008000",
+        "msname": "zkn_type:ZKN_TYPE_008"
+    },
+    {
+        "id": "CA0009000",
+        "msname": "zkn_type:ZKN_TYPE_009"
+    },
+    {
+        "id": "CA0010000",
+        "msname": "zkn_type:ZKN_TYPE_010"
+    },
+    {
+        "id": "CA0011000",
+        "msname": "zkn_type:ZKN_TYPE_011"
+    },
+    {
+        "id": "CA0012000",
+        "msname": "zkn_type:ZKN_TYPE_012"
+    },
+    {
+        "id": "CA0013000",
+        "msname": "zkn_type:ZKN_TYPE_013"
+    },
+    {
+        "id": "CA0014000",
+        "msname": "zkn_type:ZKN_TYPE_014"
+    },
+    {
+        "id": "CA0015000",
+        "msname": "zkn_type:ZKN_TYPE_015"
+    },
+    {
+        "id": "CA0016000",
+        "msname": "zkn_type:ZKN_TYPE_016"
+    },
+    {
+        "id": "CA0017000",
+        "msname": "zkn_type:ZKN_TYPE_017"
+    },
+    {
+        "id": "CA0018000",
+        "msname": "zkn_type:ZKN_TYPE_018"
+    },
+    {
+        "id": "CA0019000",
+        "msname": "zkn_type:ZKN_TYPE_019"
+    },
+    {
+        "id": "CA0020000",
+        "msname": "zkn_type:ZKN_TYPE_020"
+    },
+    {
+        "id": "CA0021000",
+        "msname": "zkn_type:ZKN_TYPE_021"
+    },
+    {
+        "id": "CA0022000",
+        "msname": "zkn_type:ZKN_TYPE_022"
+    },
+    {
+        "id": "CA0023000",
+        "msname": "zkn_type:ZKN_TYPE_023"
+    },
+    {
+        "id": "CA0024000",
+        "msname": "zkn_type:ZKN_TYPE_024"
+    },
+    {
+        "id": "CA0025000",
+        "msname": "zkn_type:ZKN_TYPE_025"
+    },
+    {
+        "id": "CA0026000",
+        "msname": "zkn_type:ZKN_TYPE_026"
+    },
+    {
+        "id": "CA0027000",
+        "msname": "zkn_type:ZKN_TYPE_027"
+    },
+    {
+        "id": "CA0028000",
+        "msname": "zkn_type:ZKN_TYPE_028"
+    },
+    {
+        "id": "CA0029000",
+        "msname": "zkn_type:ZKN_TYPE_029"
+    },
+    {
+        "id": "CA0030000",
+        "msname": "zkn_type:ZKN_TYPE_030"
+    },
+    {
+        "id": "CA0031000",
+        "msname": "zkn_type:ZKN_TYPE_031"
+    },
+    {
+        "id": "CA0032000",
+        "msname": "zkn_type:ZKN_TYPE_032"
+    },
+    {
+        "id": "CA0033000",
+        "msname": "zkn_type:ZKN_TYPE_033"
+    },
+    {
+        "id": "CA0034000",
+        "msname": "zkn_type:ZKN_TYPE_034"
+    },
+    {
+        "id": "CA0035000",
+        "msname": "zkn_type:ZKN_TYPE_035"
+    },
+    {
+        "id": "CA0036000",
+        "msname": "zkn_type:ZKN_TYPE_036"
+    },
+    {
+        "id": "CA0037000",
+        "msname": "zkn_type:ZKN_TYPE_037"
+    },
+    {
+        "id": "CA0038000",
+        "msname": "zkn_type:ZKN_TYPE_038"
+    },
+    {
+        "id": "CA0039000",
+        "msname": "zkn_type:ZKN_TYPE_039"
+    },
+    {
+        "id": "CA0040000",
+        "msname": "zkn_type:ZKN_TYPE_040"
+    },
+    {
+        "id": "CA0041000",
+        "msname": "zkn_type:ZKN_TYPE_041"
+    },
+    {
+        "id": "CA0042000",
+        "msname": "zkn_type:ZKN_TYPE_042"
+    },
+    {
+        "id": "CA0043000",
+        "msname": "zkn_type:ZKN_TYPE_043"
+    },
+    {
+        "id": "CA0044000",
+        "msname": "zkn_type:ZKN_TYPE_044"
+    },
+    {
+        "id": "CA0045000",
+        "msname": "zkn_type:ZKN_TYPE_045"
+    },
+    {
+        "id": "CA0046000",
+        "msname": "zkn_type:ZKN_TYPE_046"
+    },
+    {
+        "id": "CA0047000",
+        "msname": "zkn_type:ZKN_TYPE_047"
+    },
+    {
+        "id": "CA0048000",
+        "msname": "zkn_type:ZKN_TYPE_048"
+    },
+    {
+        "id": "CA0049000",
+        "msname": "zkn_type:ZKN_TYPE_049"
+    },
+    {
+        "id": "CA0050000",
+        "msname": "zkn_type:ZKN_TYPE_050"
+    },
+    {
+        "id": "CA0051000",
+        "msname": "zkn_type:ZKN_TYPE_051"
+    },
+    {
+        "id": "CA0052000",
+        "msname": "zkn_type:ZKN_TYPE_052"
+    },
+    {
+        "id": "CA0053000",
+        "msname": "zkn_type:ZKN_TYPE_053"
+    },
+    {
+        "id": "CA0054000",
+        "msname": "zkn_type:ZKN_TYPE_054"
+    },
+    {
+        "id": "CA0055000",
+        "msname": "zkn_type:ZKN_TYPE_055"
+    },
+    {
+        "id": "CA0056000",
+        "msname": "zkn_type:ZKN_TYPE_056"
+    },
+    {
+        "id": "CA0057000",
+        "msname": "zkn_type:ZKN_TYPE_057"
+    },
+    {
+        "id": "CA0058000",
+        "msname": "zkn_type:ZKN_TYPE_058"
+    },
+    {
+        "id": "CA0058001",
+        "msname": "zkn_type:ZKN_TYPE_058_001"
+    },
+    {
+        "id": "CA0059000",
+        "msname": "zkn_type:ZKN_TYPE_059"
+    },
+    {
+        "id": "CA0060000",
+        "msname": "zkn_type:ZKN_TYPE_060"
+    },
+    {
+        "id": "CA0061000",
+        "msname": "zkn_type:ZKN_TYPE_061"
+    },
+    {
+        "id": "CA0062000",
+        "msname": "zkn_type:ZKN_TYPE_062"
+    },
+    {
+        "id": "CA0063000",
+        "msname": "zkn_type:ZKN_TYPE_063"
+    },
+    {
+        "id": "CA0064000",
+        "msname": "zkn_type:ZKN_TYPE_064"
+    },
+    {
+        "id": "CA0065000",
+        "msname": "zkn_type:ZKN_TYPE_065"
+    },
+    {
+        "id": "CA0066000",
+        "msname": "zkn_type:ZKN_TYPE_066"
+    },
+    {
+        "id": "CA0067000",
+        "msname": "zkn_type:ZKN_TYPE_067"
+    },
+    {
+        "id": "CA0068000",
+        "msname": "zkn_type:ZKN_TYPE_068"
+    },
+    {
+        "id": "CA0069000",
+        "msname": "zkn_type:ZKN_TYPE_069"
+    },
+    {
+        "id": "CA0070000",
+        "msname": "zkn_type:ZKN_TYPE_070"
+    },
+    {
+        "id": "CA0071000",
+        "msname": "zkn_type:ZKN_TYPE_071"
+    },
+    {
+        "id": "CA0072000",
+        "msname": "zkn_type:ZKN_TYPE_072"
+    },
+    {
+        "id": "CA0073000",
+        "msname": "zkn_type:ZKN_TYPE_073"
+    },
+    {
+        "id": "CA0074000",
+        "msname": "zkn_type:ZKN_TYPE_074"
+    },
+    {
+        "id": "CA0075000",
+        "msname": "zkn_type:ZKN_TYPE_075"
+    },
+    {
+        "id": "CA0076000",
+        "msname": "zkn_type:ZKN_TYPE_076"
+    },
+    {
+        "id": "CA0077000",
+        "msname": "zkn_type:ZKN_TYPE_077"
+    },
+    {
+        "id": "CA0077001",
+        "msname": "zkn_type:ZKN_TYPE_077_001"
+    },
+    {
+        "id": "CA0078000",
+        "msname": "zkn_type:ZKN_TYPE_078"
+    },
+    {
+        "id": "CA0078001",
+        "msname": "zkn_type:ZKN_TYPE_078_001"
+    },
+    {
+        "id": "CA0079000",
+        "msname": "zkn_type:ZKN_TYPE_079"
+    },
+    {
+        "id": "CA0080000",
+        "msname": "zkn_type:ZKN_TYPE_080"
+    },
+    {
+        "id": "CA0081000",
+        "msname": "zkn_type:ZKN_TYPE_081"
+    },
+    {
+        "id": "CA0082000",
+        "msname": "zkn_type:ZKN_TYPE_082"
+    },
+    {
+        "id": "CA0083000",
+        "msname": "zkn_type:ZKN_TYPE_083"
+    },
+    {
+        "id": "CA0084000",
+        "msname": "zkn_type:ZKN_TYPE_084"
+    },
+    {
+        "id": "CA0085000",
+        "msname": "zkn_type:ZKN_TYPE_085"
+    },
+    {
+        "id": "CA0086000",
+        "msname": "zkn_type:ZKN_TYPE_086"
+    },
+    {
+        "id": "CA0087000",
+        "msname": "zkn_type:ZKN_TYPE_087"
+    },
+    {
+        "id": "CA0088000",
+        "msname": "zkn_type:ZKN_TYPE_088"
+    },
+    {
+        "id": "CA0089000",
+        "msname": "zkn_type:ZKN_TYPE_089"
+    },
+    {
+        "id": "CA0090000",
+        "msname": "zkn_type:ZKN_TYPE_090"
+    },
+    {
+        "id": "CA0091000",
+        "msname": "zkn_type:ZKN_TYPE_091"
+    },
+    {
+        "id": "CA0092000",
+        "msname": "zkn_type:ZKN_TYPE_092"
+    },
+    {
+        "id": "CA0093000",
+        "msname": "zkn_type:ZKN_TYPE_093"
+    },
+    {
+        "id": "CA0094000",
+        "msname": "zkn_type:ZKN_TYPE_094"
+    },
+    {
+        "id": "CA0095000",
+        "msname": "zkn_type:ZKN_TYPE_095"
+    },
+    {
+        "id": "CA0096000",
+        "msname": "zkn_type:ZKN_TYPE_096"
+    },
+    {
+        "id": "CA0097000",
+        "msname": "zkn_type:ZKN_TYPE_097"
+    },
+    {
+        "id": "CA0098000",
+        "msname": "zkn_type:ZKN_TYPE_098"
+    },
+    {
+        "id": "CA0099000",
+        "msname": "zkn_type:ZKN_TYPE_099"
+    },
+    {
+        "id": "CA0100000",
+        "msname": "zkn_type:ZKN_TYPE_100"
+    },
+    {
+        "id": "CA0100001",
+        "msname": "zkn_type:ZKN_TYPE_100_001"
+    },
+    {
+        "id": "CA0101000",
+        "msname": "zkn_type:ZKN_TYPE_101"
+    },
+    {
+        "id": "CA0101001",
+        "msname": "zkn_type:ZKN_TYPE_101_001"
+    },
+    {
+        "id": "CA0102000",
+        "msname": "zkn_type:ZKN_TYPE_102"
+    },
+    {
+        "id": "CA0103000",
+        "msname": "zkn_type:ZKN_TYPE_103"
+    },
+    {
+        "id": "CA0104000",
+        "msname": "zkn_type:ZKN_TYPE_104"
+    },
+    {
+        "id": "CA0105000",
+        "msname": "zkn_type:ZKN_TYPE_105"
+    },
+    {
+        "id": "CA0106000",
+        "msname": "zkn_type:ZKN_TYPE_106"
+    },
+    {
+        "id": "CA0107000",
+        "msname": "zkn_type:ZKN_TYPE_107"
+    },
+    {
+        "id": "CA0108000",
+        "msname": "zkn_type:ZKN_TYPE_108"
+    },
+    {
+        "id": "CA0109000",
+        "msname": "zkn_type:ZKN_TYPE_109"
+    },
+    {
+        "id": "CA0110000",
+        "msname": "zkn_type:ZKN_TYPE_110"
+    },
+    {
+        "id": "CA0111000",
+        "msname": "zkn_type:ZKN_TYPE_111"
+    },
+    {
+        "id": "CA0112000",
+        "msname": "zkn_type:ZKN_TYPE_112"
+    },
+    {
+        "id": "CA0113000",
+        "msname": "zkn_type:ZKN_TYPE_113"
+    },
+    {
+        "id": "CA0114000",
+        "msname": "zkn_type:ZKN_TYPE_114"
+    },
+    {
+        "id": "CA0115000",
+        "msname": "zkn_type:ZKN_TYPE_115"
+    },
+    {
+        "id": "CA0116000",
+        "msname": "zkn_type:ZKN_TYPE_116"
+    },
+    {
+        "id": "CA0117000",
+        "msname": "zkn_type:ZKN_TYPE_117"
+    },
+    {
+        "id": "CA0118000",
+        "msname": "zkn_type:ZKN_TYPE_118"
+    },
+    {
+        "id": "CA0119000",
+        "msname": "zkn_type:ZKN_TYPE_119"
+    },
+    {
+        "id": "CA0120000",
+        "msname": "zkn_type:ZKN_TYPE_120"
+    },
+    {
+        "id": "CA0121000",
+        "msname": "zkn_type:ZKN_TYPE_121"
+    },
+    {
+        "id": "CA0122000",
+        "msname": "zkn_type:ZKN_TYPE_122"
+    },
+    {
+        "id": "CA0122001",
+        "msname": "zkn_type:ZKN_TYPE_122_001"
+    },
+    {
+        "id": "CA0123000",
+        "msname": "zkn_type:ZKN_TYPE_123"
+    },
+    {
+        "id": "CA0124000",
+        "msname": "zkn_type:ZKN_TYPE_124"
+    },
+    {
+        "id": "CA0125000",
+        "msname": "zkn_type:ZKN_TYPE_125"
+    },
+    {
+        "id": "CA0126000",
+        "msname": "zkn_type:ZKN_TYPE_126"
+    },
+    {
+        "id": "CA0127000",
+        "msname": "zkn_type:ZKN_TYPE_127"
+    },
+    {
+        "id": "CA0128000",
+        "msname": "zkn_type:ZKN_TYPE_128"
+    },
+    {
+        "id": "CA0129000",
+        "msname": "zkn_type:ZKN_TYPE_129"
+    },
+    {
+        "id": "CA0130000",
+        "msname": "zkn_type:ZKN_TYPE_130"
+    },
+    {
+        "id": "CA0131000",
+        "msname": "zkn_type:ZKN_TYPE_131"
+    },
+    {
+        "id": "CA0132000",
+        "msname": "zkn_type:ZKN_TYPE_132"
+    },
+    {
+        "id": "CA0133000",
+        "msname": "zkn_type:ZKN_TYPE_133"
+    },
+    {
+        "id": "CA0134000",
+        "msname": "zkn_type:ZKN_TYPE_134"
+    },
+    {
+        "id": "CA0135000",
+        "msname": "zkn_type:ZKN_TYPE_135"
+    },
+    {
+        "id": "CA0136000",
+        "msname": "zkn_type:ZKN_TYPE_136"
+    },
+    {
+        "id": "CA0137000",
+        "msname": "zkn_type:ZKN_TYPE_137"
+    },
+    {
+        "id": "CA0138000",
+        "msname": "zkn_type:ZKN_TYPE_138"
+    },
+    {
+        "id": "CA0139000",
+        "msname": "zkn_type:ZKN_TYPE_139"
+    },
+    {
+        "id": "CA0140000",
+        "msname": "zkn_type:ZKN_TYPE_140"
+    },
+    {
+        "id": "CA0141000",
+        "msname": "zkn_type:ZKN_TYPE_141"
+    },
+    {
+        "id": "CA0142000",
+        "msname": "zkn_type:ZKN_TYPE_142"
+    },
+    {
+        "id": "CA0143000",
+        "msname": "zkn_type:ZKN_TYPE_143"
+    },
+    {
+        "id": "CA0144000",
+        "msname": "zkn_type:ZKN_TYPE_144"
+    },
+    {
+        "id": "CA0144001",
+        "msname": "zkn_type:ZKN_TYPE_144_001"
+    },
+    {
+        "id": "CA0145000",
+        "msname": "zkn_type:ZKN_TYPE_145"
+    },
+    {
+        "id": "CA0145001",
+        "msname": "zkn_type:ZKN_TYPE_145_001"
+    },
+    {
+        "id": "CA0146000",
+        "msname": "zkn_type:ZKN_TYPE_146"
+    },
+    {
+        "id": "CA0146001",
+        "msname": "zkn_type:ZKN_TYPE_146_001"
+    },
+    {
+        "id": "CA0147000",
+        "msname": "zkn_type:ZKN_TYPE_147"
+    },
+    {
+        "id": "CA0148000",
+        "msname": "zkn_type:ZKN_TYPE_148"
+    },
+    {
+        "id": "CA0149000",
+        "msname": "zkn_type:ZKN_TYPE_149"
+    },
+    {
+        "id": "CA0150000",
+        "msname": "zkn_type:ZKN_TYPE_150"
+    },
+    {
+        "id": "CA0151000",
+        "msname": "zkn_type:ZKN_TYPE_151"
+    },
+    {
+        "id": "CA0152000",
+        "msname": "zkn_type:ZKN_TYPE_152"
+    },
+    {
+        "id": "CA0153000",
+        "msname": "zkn_type:ZKN_TYPE_153"
+    },
+    {
+        "id": "CA0154000",
+        "msname": "zkn_type:ZKN_TYPE_154"
+    },
+    {
+        "id": "CA0155000",
+        "msname": "zkn_type:ZKN_TYPE_155"
+    },
+    {
+        "id": "CA0156000",
+        "msname": "zkn_type:ZKN_TYPE_156"
+    },
+    {
+        "id": "CA0157000",
+        "msname": "zkn_type:ZKN_TYPE_157"
+    },
+    {
+        "id": "CA0157001",
+        "msname": "zkn_type:ZKN_TYPE_157_001"
+    },
+    {
+        "id": "CA0158000",
+        "msname": "zkn_type:ZKN_TYPE_158"
+    },
+    {
+        "id": "CA0159000",
+        "msname": "zkn_type:ZKN_TYPE_159"
+    },
+    {
+        "id": "CA0160000",
+        "msname": "zkn_type:ZKN_TYPE_160"
+    },
+    {
+        "id": "CA0161000",
+        "msname": "zkn_type:ZKN_TYPE_161"
+    },
+    {
+        "id": "CA0162000",
+        "msname": "zkn_type:ZKN_TYPE_162"
+    },
+    {
+        "id": "CA0163000",
+        "msname": "zkn_type:ZKN_TYPE_163"
+    },
+    {
+        "id": "CA0164000",
+        "msname": "zkn_type:ZKN_TYPE_164"
+    },
+    {
+        "id": "CA0165000",
+        "msname": "zkn_type:ZKN_TYPE_165"
+    },
+    {
+        "id": "CA0166000",
+        "msname": "zkn_type:ZKN_TYPE_166"
+    },
+    {
+        "id": "CA0167000",
+        "msname": "zkn_type:ZKN_TYPE_167"
+    },
+    {
+        "id": "CA0168000",
+        "msname": "zkn_type:ZKN_TYPE_168"
+    },
+    {
+        "id": "CA0169000",
+        "msname": "zkn_type:ZKN_TYPE_169"
+    },
+    {
+        "id": "CA0170000",
+        "msname": "zkn_type:ZKN_TYPE_170"
+    },
+    {
+        "id": "CA0171000",
+        "msname": "zkn_type:ZKN_TYPE_171"
+    },
+    {
+        "id": "CA0172000",
+        "msname": "zkn_type:ZKN_TYPE_172"
+    },
+    {
+        "id": "CA0173000",
+        "msname": "zkn_type:ZKN_TYPE_173"
+    },
+    {
+        "id": "CA0174000",
+        "msname": "zkn_type:ZKN_TYPE_174"
+    },
+    {
+        "id": "CA0175000",
+        "msname": "zkn_type:ZKN_TYPE_175"
+    },
+    {
+        "id": "CA0176000",
+        "msname": "zkn_type:ZKN_TYPE_176"
+    },
+    {
+        "id": "CA0177000",
+        "msname": "zkn_type:ZKN_TYPE_177"
+    },
+    {
+        "id": "CA0178000",
+        "msname": "zkn_type:ZKN_TYPE_178"
+    },
+    {
+        "id": "CA0179000",
+        "msname": "zkn_type:ZKN_TYPE_179"
+    },
+    {
+        "id": "CA0180000",
+        "msname": "zkn_type:ZKN_TYPE_180"
+    },
+    {
+        "id": "CA0181000",
+        "msname": "zkn_type:ZKN_TYPE_181"
+    },
+    {
+        "id": "CA0182000",
+        "msname": "zkn_type:ZKN_TYPE_182"
+    },
+    {
+        "id": "CA0183000",
+        "msname": "zkn_type:ZKN_TYPE_183"
+    },
+    {
+        "id": "CA0184000",
+        "msname": "zkn_type:ZKN_TYPE_184"
+    },
+    {
+        "id": "CA0185000",
+        "msname": "zkn_type:ZKN_TYPE_185"
+    },
+    {
+        "id": "CA0186000",
+        "msname": "zkn_type:ZKN_TYPE_186"
+    },
+    {
+        "id": "CA0187000",
+        "msname": "zkn_type:ZKN_TYPE_187"
+    },
+    {
+        "id": "CA0188000",
+        "msname": "zkn_type:ZKN_TYPE_188"
+    },
+    {
+        "id": "CA0189000",
+        "msname": "zkn_type:ZKN_TYPE_189"
+    },
+    {
+        "id": "CA0190000",
+        "msname": "zkn_type:ZKN_TYPE_190"
+    },
+    {
+        "id": "CA0191000",
+        "msname": "zkn_type:ZKN_TYPE_191"
+    },
+    {
+        "id": "CA0192000",
+        "msname": "zkn_type:ZKN_TYPE_192"
+    },
+    {
+        "id": "CA0193000",
+        "msname": "zkn_type:ZKN_TYPE_193"
+    },
+    {
+        "id": "CA0194000",
+        "msname": "zkn_type:ZKN_TYPE_194"
+    },
+    {
+        "id": "CA0194001",
+        "msname": "zkn_type:ZKN_TYPE_194_001"
+    },
+    {
+        "id": "CA0195000",
+        "msname": "zkn_type:ZKN_TYPE_195"
+    },
+    {
+        "id": "CA0196000",
+        "msname": "zkn_type:ZKN_TYPE_196"
+    },
+    {
+        "id": "CA0197000",
+        "msname": "zkn_type:ZKN_TYPE_197"
+    },
+    {
+        "id": "CA0198000",
+        "msname": "zkn_type:ZKN_TYPE_198"
+    },
+    {
+        "id": "CA0199000",
+        "msname": "zkn_type:ZKN_TYPE_199"
+    },
+    {
+        "id": "CA0199001",
+        "msname": "zkn_type:ZKN_TYPE_199_001"
+    },
+    {
+        "id": "CA0200000",
+        "msname": "zkn_type:ZKN_TYPE_200"
+    },
+    {
+        "id": "CA0201000",
+        "msname": "zkn_type:ZKN_TYPE_201"
+    },
+    {
+        "id": "CA0202000",
+        "msname": "zkn_type:ZKN_TYPE_202"
+    },
+    {
+        "id": "CA0203000",
+        "msname": "zkn_type:ZKN_TYPE_203"
+    },
+    {
+        "id": "CA0204000",
+        "msname": "zkn_type:ZKN_TYPE_204"
+    },
+    {
+        "id": "CA0205000",
+        "msname": "zkn_type:ZKN_TYPE_205"
+    },
+    {
+        "id": "CA0206000",
+        "msname": "zkn_type:ZKN_TYPE_206"
+    },
+    {
+        "id": "CA0207000",
+        "msname": "zkn_type:ZKN_TYPE_207"
+    },
+    {
+        "id": "CA0208000",
+        "msname": "zkn_type:ZKN_TYPE_208"
+    },
+    {
+        "id": "CA0209000",
+        "msname": "zkn_type:ZKN_TYPE_209"
+    },
+    {
+        "id": "CA0210000",
+        "msname": "zkn_type:ZKN_TYPE_210"
+    },
+    {
+        "id": "CA0211000",
+        "msname": "zkn_type:ZKN_TYPE_211"
+    },
+    {
+        "id": "CA0212000",
+        "msname": "zkn_type:ZKN_TYPE_212"
+    },
+    {
+        "id": "CA0213000",
+        "msname": "zkn_type:ZKN_TYPE_213"
+    },
+    {
+        "id": "CA0214000",
+        "msname": "zkn_type:ZKN_TYPE_214"
+    },
+    {
+        "id": "CA0215000",
+        "msname": "zkn_type:ZKN_TYPE_215"
+    },
+    {
+        "id": "CA0216000",
+        "msname": "zkn_type:ZKN_TYPE_216"
+    },
+    {
+        "id": "CA0217000",
+        "msname": "zkn_type:ZKN_TYPE_217"
+    },
+    {
+        "id": "CA0218000",
+        "msname": "zkn_type:ZKN_TYPE_218"
+    },
+    {
+        "id": "CA0219000",
+        "msname": "zkn_type:ZKN_TYPE_219"
+    },
+    {
+        "id": "CA0220000",
+        "msname": "zkn_type:ZKN_TYPE_220"
+    },
+    {
+        "id": "CA0221000",
+        "msname": "zkn_type:ZKN_TYPE_221"
+    },
+    {
+        "id": "CA0222000",
+        "msname": "zkn_type:ZKN_TYPE_222"
+    },
+    {
+        "id": "CA0223000",
+        "msname": "zkn_type:ZKN_TYPE_223"
+    },
+    {
+        "id": "CA0224000",
+        "msname": "zkn_type:ZKN_TYPE_224"
+    },
+    {
+        "id": "CA0225000",
+        "msname": "zkn_type:ZKN_TYPE_225"
+    },
+    {
+        "id": "CA0226000",
+        "msname": "zkn_type:ZKN_TYPE_226"
+    },
+    {
+        "id": "CA0227000",
+        "msname": "zkn_type:ZKN_TYPE_227"
+    },
+    {
+        "id": "CA0228000",
+        "msname": "zkn_type:ZKN_TYPE_228"
+    },
+    {
+        "id": "CA0229000",
+        "msname": "zkn_type:ZKN_TYPE_229"
+    },
+    {
+        "id": "CA0230000",
+        "msname": "zkn_type:ZKN_TYPE_230"
+    },
+    {
+        "id": "CA0231000",
+        "msname": "zkn_type:ZKN_TYPE_231"
+    },
+    {
+        "id": "CA0232000",
+        "msname": "zkn_type:ZKN_TYPE_232"
+    },
+    {
+        "id": "CA0233000",
+        "msname": "zkn_type:ZKN_TYPE_233"
+    },
+    {
+        "id": "CA0234000",
+        "msname": "zkn_type:ZKN_TYPE_234"
+    },
+    {
+        "id": "CA0235000",
+        "msname": "zkn_type:ZKN_TYPE_235"
+    },
+    {
+        "id": "CA0236000",
+        "msname": "zkn_type:ZKN_TYPE_236"
+    },
+    {
+        "id": "CA0237000",
+        "msname": "zkn_type:ZKN_TYPE_237"
+    },
+    {
+        "id": "CA0238000",
+        "msname": "zkn_type:ZKN_TYPE_238"
+    },
+    {
+        "id": "CA0239000",
+        "msname": "zkn_type:ZKN_TYPE_239"
+    },
+    {
+        "id": "CA0240000",
+        "msname": "zkn_type:ZKN_TYPE_240"
+    },
+    {
+        "id": "CA0241000",
+        "msname": "zkn_type:ZKN_TYPE_241"
+    },
+    {
+        "id": "CA0242000",
+        "msname": "zkn_type:ZKN_TYPE_242"
+    },
+    {
+        "id": "CA0243000",
+        "msname": "zkn_type:ZKN_TYPE_243"
+    },
+    {
+        "id": "CA0244000",
+        "msname": "zkn_type:ZKN_TYPE_244"
+    },
+    {
+        "id": "CA0245000",
+        "msname": "zkn_type:ZKN_TYPE_245"
+    },
+    {
+        "id": "CA0246000",
+        "msname": "zkn_type:ZKN_TYPE_246"
+    },
+    {
+        "id": "CA0247000",
+        "msname": "zkn_type:ZKN_TYPE_247"
+    },
+    {
+        "id": "CA0248000",
+        "msname": "zkn_type:ZKN_TYPE_248"
+    },
+    {
+        "id": "CA0249000",
+        "msname": "zkn_type:ZKN_TYPE_249"
+    },
+    {
+        "id": "CA0250000",
+        "msname": "zkn_type:ZKN_TYPE_250"
+    },
+    {
+        "id": "CA0251000",
+        "msname": "zkn_type:ZKN_TYPE_251"
+    },
+    {
+        "id": "CA0252000",
+        "msname": "zkn_type:ZKN_TYPE_252"
+    },
+    {
+        "id": "CA0253000",
+        "msname": "zkn_type:ZKN_TYPE_253"
+    },
+    {
+        "id": "CA0254000",
+        "msname": "zkn_type:ZKN_TYPE_254"
+    },
+    {
+        "id": "CA0255000",
+        "msname": "zkn_type:ZKN_TYPE_255"
+    },
+    {
+        "id": "CA0256000",
+        "msname": "zkn_type:ZKN_TYPE_256"
+    },
+    {
+        "id": "CA0257000",
+        "msname": "zkn_type:ZKN_TYPE_257"
+    },
+    {
+        "id": "CA0258000",
+        "msname": "zkn_type:ZKN_TYPE_258"
+    },
+    {
+        "id": "CA0259000",
+        "msname": "zkn_type:ZKN_TYPE_259"
+    },
+    {
+        "id": "CA0260000",
+        "msname": "zkn_type:ZKN_TYPE_260"
+    },
+    {
+        "id": "CA0261000",
+        "msname": "zkn_type:ZKN_TYPE_261"
+    },
+    {
+        "id": "CA0262000",
+        "msname": "zkn_type:ZKN_TYPE_262"
+    },
+    {
+        "id": "CA0263000",
+        "msname": "zkn_type:ZKN_TYPE_263"
+    },
+    {
+        "id": "CA0264000",
+        "msname": "zkn_type:ZKN_TYPE_264"
+    },
+    {
+        "id": "CA0265000",
+        "msname": "zkn_type:ZKN_TYPE_265"
+    },
+    {
+        "id": "CA0266000",
+        "msname": "zkn_type:ZKN_TYPE_266"
+    },
+    {
+        "id": "CA0267000",
+        "msname": "zkn_type:ZKN_TYPE_267"
+    },
+    {
+        "id": "CA0268000",
+        "msname": "zkn_type:ZKN_TYPE_268"
+    },
+    {
+        "id": "CA0269000",
+        "msname": "zkn_type:ZKN_TYPE_269"
+    },
+    {
+        "id": "CA0270000",
+        "msname": "zkn_type:ZKN_TYPE_270"
+    },
+    {
+        "id": "CA0271000",
+        "msname": "zkn_type:ZKN_TYPE_271"
+    },
+    {
+        "id": "CA0272000",
+        "msname": "zkn_type:ZKN_TYPE_272"
+    },
+    {
+        "id": "CA0273000",
+        "msname": "zkn_type:ZKN_TYPE_273"
+    },
+    {
+        "id": "CA0274000",
+        "msname": "zkn_type:ZKN_TYPE_274"
+    },
+    {
+        "id": "CA0275000",
+        "msname": "zkn_type:ZKN_TYPE_275"
+    },
+    {
+        "id": "CA0276000",
+        "msname": "zkn_type:ZKN_TYPE_276"
+    },
+    {
+        "id": "CA0277000",
+        "msname": "zkn_type:ZKN_TYPE_277"
+    },
+    {
+        "id": "CA0278000",
+        "msname": "zkn_type:ZKN_TYPE_278"
+    },
+    {
+        "id": "CA0279000",
+        "msname": "zkn_type:ZKN_TYPE_279"
+    },
+    {
+        "id": "CA0280000",
+        "msname": "zkn_type:ZKN_TYPE_280"
+    },
+    {
+        "id": "CA0281000",
+        "msname": "zkn_type:ZKN_TYPE_281"
+    },
+    {
+        "id": "CA0282000",
+        "msname": "zkn_type:ZKN_TYPE_282"
+    },
+    {
+        "id": "CA0283000",
+        "msname": "zkn_type:ZKN_TYPE_283"
+    },
+    {
+        "id": "CA0284000",
+        "msname": "zkn_type:ZKN_TYPE_284"
+    },
+    {
+        "id": "CA0285000",
+        "msname": "zkn_type:ZKN_TYPE_285"
+    },
+    {
+        "id": "CA0286000",
+        "msname": "zkn_type:ZKN_TYPE_286"
+    },
+    {
+        "id": "CA0287000",
+        "msname": "zkn_type:ZKN_TYPE_287"
+    },
+    {
+        "id": "CA0288000",
+        "msname": "zkn_type:ZKN_TYPE_288"
+    },
+    {
+        "id": "CA0289000",
+        "msname": "zkn_type:ZKN_TYPE_289"
+    },
+    {
+        "id": "CA0290000",
+        "msname": "zkn_type:ZKN_TYPE_290"
+    },
+    {
+        "id": "CA0291000",
+        "msname": "zkn_type:ZKN_TYPE_291"
+    },
+    {
+        "id": "CA0292000",
+        "msname": "zkn_type:ZKN_TYPE_292"
+    },
+    {
+        "id": "CA0293000",
+        "msname": "zkn_type:ZKN_TYPE_293"
+    },
+    {
+        "id": "CA0294000",
+        "msname": "zkn_type:ZKN_TYPE_294"
+    },
+    {
+        "id": "CA0295000",
+        "msname": "zkn_type:ZKN_TYPE_295"
+    },
+    {
+        "id": "CA0296000",
+        "msname": "zkn_type:ZKN_TYPE_296"
+    },
+    {
+        "id": "CA0297000",
+        "msname": "zkn_type:ZKN_TYPE_297"
+    },
+    {
+        "id": "CA0298000",
+        "msname": "zkn_type:ZKN_TYPE_298"
+    },
+    {
+        "id": "CA0299000",
+        "msname": "zkn_type:ZKN_TYPE_299"
+    },
+    {
+        "id": "CA0300000",
+        "msname": "zkn_type:ZKN_TYPE_300"
+    },
+    {
+        "id": "CA0301000",
+        "msname": "zkn_type:ZKN_TYPE_301"
+    },
+    {
+        "id": "CA0302000",
+        "msname": "zkn_type:ZKN_TYPE_302"
+    },
+    {
+        "id": "CA0303000",
+        "msname": "zkn_type:ZKN_TYPE_303"
+    },
+    {
+        "id": "CA0304000",
+        "msname": "zkn_type:ZKN_TYPE_304"
+    },
+    {
+        "id": "CA0305000",
+        "msname": "zkn_type:ZKN_TYPE_305"
+    },
+    {
+        "id": "CA0306000",
+        "msname": "zkn_type:ZKN_TYPE_306"
+    },
+    {
+        "id": "CA0307000",
+        "msname": "zkn_type:ZKN_TYPE_307"
+    },
+    {
+        "id": "CA0308000",
+        "msname": "zkn_type:ZKN_TYPE_308"
+    },
+    {
+        "id": "CA0309000",
+        "msname": "zkn_type:ZKN_TYPE_309"
+    },
+    {
+        "id": "CA0310000",
+        "msname": "zkn_type:ZKN_TYPE_310"
+    },
+    {
+        "id": "CA0311000",
+        "msname": "zkn_type:ZKN_TYPE_311"
+    },
+    {
+        "id": "CA0312000",
+        "msname": "zkn_type:ZKN_TYPE_312"
+    },
+    {
+        "id": "CA0313000",
+        "msname": "zkn_type:ZKN_TYPE_313"
+    },
+    {
+        "id": "CA0314000",
+        "msname": "zkn_type:ZKN_TYPE_314"
+    },
+    {
+        "id": "CA0315000",
+        "msname": "zkn_type:ZKN_TYPE_315"
+    },
+    {
+        "id": "CA0316000",
+        "msname": "zkn_type:ZKN_TYPE_316"
+    },
+    {
+        "id": "CA0317000",
+        "msname": "zkn_type:ZKN_TYPE_317"
+    },
+    {
+        "id": "CA0318000",
+        "msname": "zkn_type:ZKN_TYPE_318"
+    },
+    {
+        "id": "CA0319000",
+        "msname": "zkn_type:ZKN_TYPE_319"
+    },
+    {
+        "id": "CA0320000",
+        "msname": "zkn_type:ZKN_TYPE_320"
+    },
+    {
+        "id": "CA0321000",
+        "msname": "zkn_type:ZKN_TYPE_321"
+    },
+    {
+        "id": "CA0322000",
+        "msname": "zkn_type:ZKN_TYPE_322"
+    },
+    {
+        "id": "CA0323000",
+        "msname": "zkn_type:ZKN_TYPE_323"
+    },
+    {
+        "id": "CA0324000",
+        "msname": "zkn_type:ZKN_TYPE_324"
+    },
+    {
+        "id": "CA0325000",
+        "msname": "zkn_type:ZKN_TYPE_325"
+    },
+    {
+        "id": "CA0326000",
+        "msname": "zkn_type:ZKN_TYPE_326"
+    },
+    {
+        "id": "CA0327000",
+        "msname": "zkn_type:ZKN_TYPE_327"
+    },
+    {
+        "id": "CA0328000",
+        "msname": "zkn_type:ZKN_TYPE_328"
+    },
+    {
+        "id": "CA0329000",
+        "msname": "zkn_type:ZKN_TYPE_329"
+    },
+    {
+        "id": "CA0330000",
+        "msname": "zkn_type:ZKN_TYPE_330"
+    },
+    {
+        "id": "CA0331000",
+        "msname": "zkn_type:ZKN_TYPE_331"
+    },
+    {
+        "id": "CA0332000",
+        "msname": "zkn_type:ZKN_TYPE_332"
+    },
+    {
+        "id": "CA0333000",
+        "msname": "zkn_type:ZKN_TYPE_333"
+    },
+    {
+        "id": "CA0334000",
+        "msname": "zkn_type:ZKN_TYPE_334"
+    },
+    {
+        "id": "CA0335000",
+        "msname": "zkn_type:ZKN_TYPE_335"
+    },
+    {
+        "id": "CA0336000",
+        "msname": "zkn_type:ZKN_TYPE_336"
+    },
+    {
+        "id": "CA0337000",
+        "msname": "zkn_type:ZKN_TYPE_337"
+    },
+    {
+        "id": "CA0338000",
+        "msname": "zkn_type:ZKN_TYPE_338"
+    },
+    {
+        "id": "CA0339000",
+        "msname": "zkn_type:ZKN_TYPE_339"
+    },
+    {
+        "id": "CA0340000",
+        "msname": "zkn_type:ZKN_TYPE_340"
+    },
+    {
+        "id": "CA0341000",
+        "msname": "zkn_type:ZKN_TYPE_341"
+    },
+    {
+        "id": "CA0342000",
+        "msname": "zkn_type:ZKN_TYPE_342"
+    },
+    {
+        "id": "CA0343000",
+        "msname": "zkn_type:ZKN_TYPE_343"
+    },
+    {
+        "id": "CA0344000",
+        "msname": "zkn_type:ZKN_TYPE_344"
+    },
+    {
+        "id": "CA0345000",
+        "msname": "zkn_type:ZKN_TYPE_345"
+    },
+    {
+        "id": "CA0346000",
+        "msname": "zkn_type:ZKN_TYPE_346"
+    },
+    {
+        "id": "CA0347000",
+        "msname": "zkn_type:ZKN_TYPE_347"
+    },
+    {
+        "id": "CA0348000",
+        "msname": "zkn_type:ZKN_TYPE_348"
+    },
+    {
+        "id": "CA0349000",
+        "msname": "zkn_type:ZKN_TYPE_349"
+    },
+    {
+        "id": "CA0350000",
+        "msname": "zkn_type:ZKN_TYPE_350"
+    },
+    {
+        "id": "CA0351000",
+        "msname": "zkn_type:ZKN_TYPE_351"
+    },
+    {
+        "id": "CA0352000",
+        "msname": "zkn_type:ZKN_TYPE_352"
+    },
+    {
+        "id": "CA0353000",
+        "msname": "zkn_type:ZKN_TYPE_353"
+    },
+    {
+        "id": "CA0354000",
+        "msname": "zkn_type:ZKN_TYPE_354"
+    },
+    {
+        "id": "CA0355000",
+        "msname": "zkn_type:ZKN_TYPE_355"
+    },
+    {
+        "id": "CA0356000",
+        "msname": "zkn_type:ZKN_TYPE_356"
+    },
+    {
+        "id": "CA0357000",
+        "msname": "zkn_type:ZKN_TYPE_357"
+    },
+    {
+        "id": "CA0358000",
+        "msname": "zkn_type:ZKN_TYPE_358"
+    },
+    {
+        "id": "CA0359000",
+        "msname": "zkn_type:ZKN_TYPE_359"
+    },
+    {
+        "id": "CA0360000",
+        "msname": "zkn_type:ZKN_TYPE_360"
+    },
+    {
+        "id": "CA0361000",
+        "msname": "zkn_type:ZKN_TYPE_361"
+    },
+    {
+        "id": "CA0362000",
+        "msname": "zkn_type:ZKN_TYPE_362"
+    },
+    {
+        "id": "CA0363000",
+        "msname": "zkn_type:ZKN_TYPE_363"
+    },
+    {
+        "id": "CA0364000",
+        "msname": "zkn_type:ZKN_TYPE_364"
+    },
+    {
+        "id": "CA0365000",
+        "msname": "zkn_type:ZKN_TYPE_365"
+    },
+    {
+        "id": "CA0366000",
+        "msname": "zkn_type:ZKN_TYPE_366"
+    },
+    {
+        "id": "CA0367000",
+        "msname": "zkn_type:ZKN_TYPE_367"
+    },
+    {
+        "id": "CA0368000",
+        "msname": "zkn_type:ZKN_TYPE_368"
+    },
+    {
+        "id": "CA0369000",
+        "msname": "zkn_type:ZKN_TYPE_369"
+    },
+    {
+        "id": "CA0370000",
+        "msname": "zkn_type:ZKN_TYPE_370"
+    },
+    {
+        "id": "CA0371000",
+        "msname": "zkn_type:ZKN_TYPE_371"
+    },
+    {
+        "id": "CA0372000",
+        "msname": "zkn_type:ZKN_TYPE_372"
+    },
+    {
+        "id": "CA0373000",
+        "msname": "zkn_type:ZKN_TYPE_373"
+    },
+    {
+        "id": "CA0374000",
+        "msname": "zkn_type:ZKN_TYPE_374"
+    },
+    {
+        "id": "CA0375000",
+        "msname": "zkn_type:ZKN_TYPE_375"
+    },
+    {
+        "id": "CA0376000",
+        "msname": "zkn_type:ZKN_TYPE_376"
+    },
+    {
+        "id": "CA0377000",
+        "msname": "zkn_type:ZKN_TYPE_377"
+    },
+    {
+        "id": "CA0378000",
+        "msname": "zkn_type:ZKN_TYPE_378"
+    },
+    {
+        "id": "CA0379000",
+        "msname": "zkn_type:ZKN_TYPE_379"
+    },
+    {
+        "id": "CA0380000",
+        "msname": "zkn_type:ZKN_TYPE_380"
+    },
+    {
+        "id": "CA0381000",
+        "msname": "zkn_type:ZKN_TYPE_381"
+    },
+    {
+        "id": "CA0382000",
+        "msname": "zkn_type:ZKN_TYPE_382"
+    },
+    {
+        "id": "CA0383000",
+        "msname": "zkn_type:ZKN_TYPE_383"
+    },
+    {
+        "id": "CA0384000",
+        "msname": "zkn_type:ZKN_TYPE_384"
+    },
+    {
+        "id": "CA0385000",
+        "msname": "zkn_type:ZKN_TYPE_385"
+    },
+    {
+        "id": "CA0386000",
+        "msname": "zkn_type:ZKN_TYPE_386"
+    },
+    {
+        "id": "CA0387000",
+        "msname": "zkn_type:ZKN_TYPE_387"
+    },
+    {
+        "id": "CA0388000",
+        "msname": "zkn_type:ZKN_TYPE_388"
+    },
+    {
+        "id": "CA0389000",
+        "msname": "zkn_type:ZKN_TYPE_389"
+    },
+    {
+        "id": "CA0390000",
+        "msname": "zkn_type:ZKN_TYPE_390"
+    },
+    {
+        "id": "CA0391000",
+        "msname": "zkn_type:ZKN_TYPE_391"
+    },
+    {
+        "id": "CA0392000",
+        "msname": "zkn_type:ZKN_TYPE_392"
+    },
+    {
+        "id": "CA0393000",
+        "msname": "zkn_type:ZKN_TYPE_393"
+    },
+    {
+        "id": "CA0394000",
+        "msname": "zkn_type:ZKN_TYPE_394"
+    },
+    {
+        "id": "CA0395000",
+        "msname": "zkn_type:ZKN_TYPE_395"
+    },
+    {
+        "id": "CA0396000",
+        "msname": "zkn_type:ZKN_TYPE_396"
+    },
+    {
+        "id": "CA0397000",
+        "msname": "zkn_type:ZKN_TYPE_397"
+    },
+    {
+        "id": "CA0398000",
+        "msname": "zkn_type:ZKN_TYPE_398"
+    },
+    {
+        "id": "CA0399000",
+        "msname": "zkn_type:ZKN_TYPE_399"
+    },
+    {
+        "id": "CA0400000",
+        "msname": "zkn_type:ZKN_TYPE_400"
+    },
+    {
+        "id": "CA0401000",
+        "msname": "zkn_type:ZKN_TYPE_401"
+    },
+    {
+        "id": "CA0402000",
+        "msname": "zkn_type:ZKN_TYPE_402"
+    },
+    {
+        "id": "CA0403000",
+        "msname": "zkn_type:ZKN_TYPE_403"
+    },
+    {
+        "id": "CA0404000",
+        "msname": "zkn_type:ZKN_TYPE_404"
+    },
+    {
+        "id": "CA0405000",
+        "msname": "zkn_type:ZKN_TYPE_405"
+    },
+    {
+        "id": "CA0406000",
+        "msname": "zkn_type:ZKN_TYPE_406"
+    },
+    {
+        "id": "CA0407000",
+        "msname": "zkn_type:ZKN_TYPE_407"
+    },
+    {
+        "id": "CA0408000",
+        "msname": "zkn_type:ZKN_TYPE_408"
+    },
+    {
+        "id": "CA0409000",
+        "msname": "zkn_type:ZKN_TYPE_409"
+    },
+    {
+        "id": "CA0410000",
+        "msname": "zkn_type:ZKN_TYPE_410"
+    },
+    {
+        "id": "CA0411000",
+        "msname": "zkn_type:ZKN_TYPE_411"
+    },
+    {
+        "id": "CA0412000",
+        "msname": "zkn_type:ZKN_TYPE_412"
+    },
+    {
+        "id": "CA0413000",
+        "msname": "zkn_type:ZKN_TYPE_413"
+    },
+    {
+        "id": "CA0414000",
+        "msname": "zkn_type:ZKN_TYPE_414"
+    },
+    {
+        "id": "CA0415000",
+        "msname": "zkn_type:ZKN_TYPE_415"
+    },
+    {
+        "id": "CA0416000",
+        "msname": "zkn_type:ZKN_TYPE_416"
+    },
+    {
+        "id": "CA0417000",
+        "msname": "zkn_type:ZKN_TYPE_417"
+    },
+    {
+        "id": "CA0418000",
+        "msname": "zkn_type:ZKN_TYPE_418"
+    },
+    {
+        "id": "CA0419000",
+        "msname": "zkn_type:ZKN_TYPE_419"
+    },
+    {
+        "id": "CA0420000",
+        "msname": "zkn_type:ZKN_TYPE_420"
+    },
+    {
+        "id": "CA0421000",
+        "msname": "zkn_type:ZKN_TYPE_421"
+    },
+    {
+        "id": "CA0422000",
+        "msname": "zkn_type:ZKN_TYPE_422"
+    },
+    {
+        "id": "CA0423000",
+        "msname": "zkn_type:ZKN_TYPE_423"
+    },
+    {
+        "id": "CA0424000",
+        "msname": "zkn_type:ZKN_TYPE_424"
+    },
+    {
+        "id": "CA0425000",
+        "msname": "zkn_type:ZKN_TYPE_425"
+    },
+    {
+        "id": "CA0426000",
+        "msname": "zkn_type:ZKN_TYPE_426"
+    },
+    {
+        "id": "CA0427000",
+        "msname": "zkn_type:ZKN_TYPE_427"
+    },
+    {
+        "id": "CA0428000",
+        "msname": "zkn_type:ZKN_TYPE_428"
+    },
+    {
+        "id": "CA0429000",
+        "msname": "zkn_type:ZKN_TYPE_429"
+    },
+    {
+        "id": "CA0430000",
+        "msname": "zkn_type:ZKN_TYPE_430"
+    },
+    {
+        "id": "CA0431000",
+        "msname": "zkn_type:ZKN_TYPE_431"
+    },
+    {
+        "id": "CA0432000",
+        "msname": "zkn_type:ZKN_TYPE_432"
+    },
+    {
+        "id": "CA0433000",
+        "msname": "zkn_type:ZKN_TYPE_433"
+    },
+    {
+        "id": "CA0434000",
+        "msname": "zkn_type:ZKN_TYPE_434"
+    },
+    {
+        "id": "CA0435000",
+        "msname": "zkn_type:ZKN_TYPE_435"
+    },
+    {
+        "id": "CA0436000",
+        "msname": "zkn_type:ZKN_TYPE_436"
+    },
+    {
+        "id": "CA0437000",
+        "msname": "zkn_type:ZKN_TYPE_437"
+    },
+    {
+        "id": "CA0438000",
+        "msname": "zkn_type:ZKN_TYPE_438"
+    },
+    {
+        "id": "CA0439000",
+        "msname": "zkn_type:ZKN_TYPE_439"
+    },
+    {
+        "id": "CA0440000",
+        "msname": "zkn_type:ZKN_TYPE_440"
+    },
+    {
+        "id": "CA0441000",
+        "msname": "zkn_type:ZKN_TYPE_441"
+    },
+    {
+        "id": "CA0442000",
+        "msname": "zkn_type:ZKN_TYPE_442"
+    },
+    {
+        "id": "CA0443000",
+        "msname": "zkn_type:ZKN_TYPE_443"
+    },
+    {
+        "id": "CA0444000",
+        "msname": "zkn_type:ZKN_TYPE_444"
+    },
+    {
+        "id": "CA0445000",
+        "msname": "zkn_type:ZKN_TYPE_445"
+    },
+    {
+        "id": "CA0446000",
+        "msname": "zkn_type:ZKN_TYPE_446"
+    },
+    {
+        "id": "CA0447000",
+        "msname": "zkn_type:ZKN_TYPE_447"
+    },
+    {
+        "id": "CA0448000",
+        "msname": "zkn_type:ZKN_TYPE_448"
+    },
+    {
+        "id": "CA0449000",
+        "msname": "zkn_type:ZKN_TYPE_449"
+    },
+    {
+        "id": "CA0450000",
+        "msname": "zkn_type:ZKN_TYPE_450"
+    },
+    {
+        "id": "CA0451000",
+        "msname": "zkn_type:ZKN_TYPE_451"
+    },
+    {
+        "id": "CA0452000",
+        "msname": "zkn_type:ZKN_TYPE_452"
+    },
+    {
+        "id": "CA0453000",
+        "msname": "zkn_type:ZKN_TYPE_453"
+    },
+    {
+        "id": "CA0454000",
+        "msname": "zkn_type:ZKN_TYPE_454"
+    },
+    {
+        "id": "CA0455000",
+        "msname": "zkn_type:ZKN_TYPE_455"
+    },
+    {
+        "id": "CA0456000",
+        "msname": "zkn_type:ZKN_TYPE_456"
+    },
+    {
+        "id": "CA0457000",
+        "msname": "zkn_type:ZKN_TYPE_457"
+    },
+    {
+        "id": "CA0458000",
+        "msname": "zkn_type:ZKN_TYPE_458"
+    },
+    {
+        "id": "CA0459000",
+        "msname": "zkn_type:ZKN_TYPE_459"
+    },
+    {
+        "id": "CA0460000",
+        "msname": "zkn_type:ZKN_TYPE_460"
+    },
+    {
+        "id": "CA0461000",
+        "msname": "zkn_type:ZKN_TYPE_461"
+    },
+    {
+        "id": "CA0462000",
+        "msname": "zkn_type:ZKN_TYPE_462"
+    },
+    {
+        "id": "CA0463000",
+        "msname": "zkn_type:ZKN_TYPE_463"
+    },
+    {
+        "id": "CA0464000",
+        "msname": "zkn_type:ZKN_TYPE_464"
+    },
+    {
+        "id": "CA0465000",
+        "msname": "zkn_type:ZKN_TYPE_465"
+    },
+    {
+        "id": "CA0466000",
+        "msname": "zkn_type:ZKN_TYPE_466"
+    },
+    {
+        "id": "CA0467000",
+        "msname": "zkn_type:ZKN_TYPE_467"
+    },
+    {
+        "id": "CA0468000",
+        "msname": "zkn_type:ZKN_TYPE_468"
+    },
+    {
+        "id": "CA0469000",
+        "msname": "zkn_type:ZKN_TYPE_469"
+    },
+    {
+        "id": "CA0470000",
+        "msname": "zkn_type:ZKN_TYPE_470"
+    },
+    {
+        "id": "CA0471000",
+        "msname": "zkn_type:ZKN_TYPE_471"
+    },
+    {
+        "id": "CA0472000",
+        "msname": "zkn_type:ZKN_TYPE_472"
+    },
+    {
+        "id": "CA0473000",
+        "msname": "zkn_type:ZKN_TYPE_473"
+    },
+    {
+        "id": "CA0474000",
+        "msname": "zkn_type:ZKN_TYPE_474"
+    },
+    {
+        "id": "CA0475000",
+        "msname": "zkn_type:ZKN_TYPE_475"
+    },
+    {
+        "id": "CA0476000",
+        "msname": "zkn_type:ZKN_TYPE_476"
+    },
+    {
+        "id": "CA0477000",
+        "msname": "zkn_type:ZKN_TYPE_477"
+    },
+    {
+        "id": "CA0478000",
+        "msname": "zkn_type:ZKN_TYPE_478"
+    },
+    {
+        "id": "CA0479000",
+        "msname": "zkn_type:ZKN_TYPE_479"
+    },
+    {
+        "id": "CA0480000",
+        "msname": "zkn_type:ZKN_TYPE_480"
+    },
+    {
+        "id": "CA0481000",
+        "msname": "zkn_type:ZKN_TYPE_481"
+    },
+    {
+        "id": "CA0482000",
+        "msname": "zkn_type:ZKN_TYPE_482"
+    },
+    {
+        "id": "CA0483000",
+        "msname": "zkn_type:ZKN_TYPE_483"
+    },
+    {
+        "id": "CA0484000",
+        "msname": "zkn_type:ZKN_TYPE_484"
+    },
+    {
+        "id": "CA0485000",
+        "msname": "zkn_type:ZKN_TYPE_485"
+    },
+    {
+        "id": "CA0486000",
+        "msname": "zkn_type:ZKN_TYPE_486"
+    },
+    {
+        "id": "CA0487000",
+        "msname": "zkn_type:ZKN_TYPE_487"
+    },
+    {
+        "id": "CA0488000",
+        "msname": "zkn_type:ZKN_TYPE_488"
+    },
+    {
+        "id": "CA0489000",
+        "msname": "zkn_type:ZKN_TYPE_489"
+    },
+    {
+        "id": "CA0490000",
+        "msname": "zkn_type:ZKN_TYPE_490"
+    },
+    {
+        "id": "CA0491000",
+        "msname": "zkn_type:ZKN_TYPE_491"
+    },
+    {
+        "id": "CA0492000",
+        "msname": "zkn_type:ZKN_TYPE_492"
+    },
+    {
+        "id": "CA0493000",
+        "msname": "zkn_type:ZKN_TYPE_493"
+    },
+    {
+        "id": "CA0494000",
+        "msname": "zkn_type:ZKN_TYPE_494"
+    },
+    {
+        "id": "CA0495000",
+        "msname": "zkn_type:ZKN_TYPE_495"
+    },
+    {
+        "id": "CA0496000",
+        "msname": "zkn_type:ZKN_TYPE_496"
+    },
+    {
+        "id": "CA0497000",
+        "msname": "zkn_type:ZKN_TYPE_497"
+    },
+    {
+        "id": "CA0498000",
+        "msname": "zkn_type:ZKN_TYPE_498"
+    },
+    {
+        "id": "CA0499000",
+        "msname": "zkn_type:ZKN_TYPE_499"
+    },
+    {
+        "id": "CA0500000",
+        "msname": "zkn_type:ZKN_TYPE_500"
+    },
+    {
+        "id": "CA0501000",
+        "msname": "zkn_type:ZKN_TYPE_501"
+    },
+    {
+        "id": "CA0502000",
+        "msname": "zkn_type:ZKN_TYPE_502"
+    },
+    {
+        "id": "CA0503000",
+        "msname": "zkn_type:ZKN_TYPE_503"
+    },
+    {
+        "id": "CA0504000",
+        "msname": "zkn_type:ZKN_TYPE_504"
+    },
+    {
+        "id": "CA0505000",
+        "msname": "zkn_type:ZKN_TYPE_505"
+    },
+    {
+        "id": "CA0506000",
+        "msname": "zkn_type:ZKN_TYPE_506"
+    },
+    {
+        "id": "CA0507000",
+        "msname": "zkn_type:ZKN_TYPE_507"
+    },
+    {
+        "id": "CA0508000",
+        "msname": "zkn_type:ZKN_TYPE_508"
+    },
+    {
+        "id": "CA0509000",
+        "msname": "zkn_type:ZKN_TYPE_509"
+    },
+    {
+        "id": "CA0510000",
+        "msname": "zkn_type:ZKN_TYPE_510"
+    },
+    {
+        "id": "CA0511000",
+        "msname": "zkn_type:ZKN_TYPE_511"
+    },
+    {
+        "id": "CA0512000",
+        "msname": "zkn_type:ZKN_TYPE_512"
+    },
+    {
+        "id": "CA0513000",
+        "msname": "zkn_type:ZKN_TYPE_513"
+    },
+    {
+        "id": "CA0514000",
+        "msname": "zkn_type:ZKN_TYPE_514"
+    },
+    {
+        "id": "CA0515000",
+        "msname": "zkn_type:ZKN_TYPE_515"
+    },
+    {
+        "id": "CA0516000",
+        "msname": "zkn_type:ZKN_TYPE_516"
+    },
+    {
+        "id": "CA0517000",
+        "msname": "zkn_type:ZKN_TYPE_517"
+    },
+    {
+        "id": "CA0518000",
+        "msname": "zkn_type:ZKN_TYPE_518"
+    },
+    {
+        "id": "CA0519000",
+        "msname": "zkn_type:ZKN_TYPE_519"
+    },
+    {
+        "id": "CA0520000",
+        "msname": "zkn_type:ZKN_TYPE_520"
+    },
+    {
+        "id": "CA0521000",
+        "msname": "zkn_type:ZKN_TYPE_521"
+    },
+    {
+        "id": "CA0522000",
+        "msname": "zkn_type:ZKN_TYPE_522"
+    },
+    {
+        "id": "CA0523000",
+        "msname": "zkn_type:ZKN_TYPE_523"
+    },
+    {
+        "id": "CA0524000",
+        "msname": "zkn_type:ZKN_TYPE_524"
+    },
+    {
+        "id": "CA0525000",
+        "msname": "zkn_type:ZKN_TYPE_525"
+    },
+    {
+        "id": "CA0526000",
+        "msname": "zkn_type:ZKN_TYPE_526"
+    },
+    {
+        "id": "CA0527000",
+        "msname": "zkn_type:ZKN_TYPE_527"
+    },
+    {
+        "id": "CA0528000",
+        "msname": "zkn_type:ZKN_TYPE_528"
+    },
+    {
+        "id": "CA0529000",
+        "msname": "zkn_type:ZKN_TYPE_529"
+    },
+    {
+        "id": "CA0530000",
+        "msname": "zkn_type:ZKN_TYPE_530"
+    },
+    {
+        "id": "CA0531000",
+        "msname": "zkn_type:ZKN_TYPE_531"
+    },
+    {
+        "id": "CA0532000",
+        "msname": "zkn_type:ZKN_TYPE_532"
+    },
+    {
+        "id": "CA0533000",
+        "msname": "zkn_type:ZKN_TYPE_533"
+    },
+    {
+        "id": "CA0534000",
+        "msname": "zkn_type:ZKN_TYPE_534"
+    },
+    {
+        "id": "CA0535000",
+        "msname": "zkn_type:ZKN_TYPE_535"
+    },
+    {
+        "id": "CA0536000",
+        "msname": "zkn_type:ZKN_TYPE_536"
+    },
+    {
+        "id": "CA0537000",
+        "msname": "zkn_type:ZKN_TYPE_537"
+    },
+    {
+        "id": "CA0538000",
+        "msname": "zkn_type:ZKN_TYPE_538"
+    },
+    {
+        "id": "CA0539000",
+        "msname": "zkn_type:ZKN_TYPE_539"
+    },
+    {
+        "id": "CA0540000",
+        "msname": "zkn_type:ZKN_TYPE_540"
+    },
+    {
+        "id": "CA0541000",
+        "msname": "zkn_type:ZKN_TYPE_541"
+    },
+    {
+        "id": "CA0542000",
+        "msname": "zkn_type:ZKN_TYPE_542"
+    },
+    {
+        "id": "CA0543000",
+        "msname": "zkn_type:ZKN_TYPE_543"
+    },
+    {
+        "id": "CA0544000",
+        "msname": "zkn_type:ZKN_TYPE_544"
+    },
+    {
+        "id": "CA0545000",
+        "msname": "zkn_type:ZKN_TYPE_545"
+    },
+    {
+        "id": "CA0546000",
+        "msname": "zkn_type:ZKN_TYPE_546"
+    },
+    {
+        "id": "CA0547000",
+        "msname": "zkn_type:ZKN_TYPE_547"
+    },
+    {
+        "id": "CA0548000",
+        "msname": "zkn_type:ZKN_TYPE_548"
+    },
+    {
+        "id": "CA0549000",
+        "msname": "zkn_type:ZKN_TYPE_549"
+    },
+    {
+        "id": "CA0549001",
+        "msname": "zkn_type:ZKN_TYPE_549_001"
+    },
+    {
+        "id": "CA0550000",
+        "msname": "zkn_type:ZKN_TYPE_550"
+    },
+    {
+        "id": "CA0550002",
+        "msname": "zkn_type:ZKN_TYPE_550_002"
+    },
+    {
+        "id": "CA0551000",
+        "msname": "zkn_type:ZKN_TYPE_551"
+    },
+    {
+        "id": "CA0552000",
+        "msname": "zkn_type:ZKN_TYPE_552"
+    },
+    {
+        "id": "CA0553000",
+        "msname": "zkn_type:ZKN_TYPE_553"
+    },
+    {
+        "id": "CA0554000",
+        "msname": "zkn_type:ZKN_TYPE_554"
+    },
+    {
+        "id": "CA0555000",
+        "msname": "zkn_type:ZKN_TYPE_555"
+    },
+    {
+        "id": "CA0555002",
+        "msname": "zkn_type:ZKN_TYPE_555_002"
+    },
+    {
+        "id": "CA0556000",
+        "msname": "zkn_type:ZKN_TYPE_556"
+    },
+    {
+        "id": "CA0557000",
+        "msname": "zkn_type:ZKN_TYPE_557"
+    },
+    {
+        "id": "CA0558000",
+        "msname": "zkn_type:ZKN_TYPE_558"
+    },
+    {
+        "id": "CA0559000",
+        "msname": "zkn_type:ZKN_TYPE_559"
+    },
+    {
+        "id": "CA0560000",
+        "msname": "zkn_type:ZKN_TYPE_560"
+    },
+    {
+        "id": "CA0561000",
+        "msname": "zkn_type:ZKN_TYPE_561"
+    },
+    {
+        "id": "CA0562000",
+        "msname": "zkn_type:ZKN_TYPE_562"
+    },
+    {
+        "id": "CA0563000",
+        "msname": "zkn_type:ZKN_TYPE_563"
+    },
+    {
+        "id": "CA0564000",
+        "msname": "zkn_type:ZKN_TYPE_564"
+    },
+    {
+        "id": "CA0565000",
+        "msname": "zkn_type:ZKN_TYPE_565"
+    },
+    {
+        "id": "CA0566000",
+        "msname": "zkn_type:ZKN_TYPE_566"
+    },
+    {
+        "id": "CA0567000",
+        "msname": "zkn_type:ZKN_TYPE_567"
+    },
+    {
+        "id": "CA0568000",
+        "msname": "zkn_type:ZKN_TYPE_568"
+    },
+    {
+        "id": "CA0569000",
+        "msname": "zkn_type:ZKN_TYPE_569"
+    },
+    {
+        "id": "CA0570000",
+        "msname": "zkn_type:ZKN_TYPE_570"
+    },
+    {
+        "id": "CA0570001",
+        "msname": "zkn_type:ZKN_TYPE_570_001"
+    },
+    {
+        "id": "CA0571000",
+        "msname": "zkn_type:ZKN_TYPE_571"
+    },
+    {
+        "id": "CA0571001",
+        "msname": "zkn_type:ZKN_TYPE_571_001"
+    },
+    {
+        "id": "CA0572000",
+        "msname": "zkn_type:ZKN_TYPE_572"
+    },
+    {
+        "id": "CA0573000",
+        "msname": "zkn_type:ZKN_TYPE_573"
+    },
+    {
+        "id": "CA0574000",
+        "msname": "zkn_type:ZKN_TYPE_574"
+    },
+    {
+        "id": "CA0575000",
+        "msname": "zkn_type:ZKN_TYPE_575"
+    },
+    {
+        "id": "CA0576000",
+        "msname": "zkn_type:ZKN_TYPE_576"
+    },
+    {
+        "id": "CA0577000",
+        "msname": "zkn_type:ZKN_TYPE_577"
+    },
+    {
+        "id": "CA0578000",
+        "msname": "zkn_type:ZKN_TYPE_578"
+    },
+    {
+        "id": "CA0579000",
+        "msname": "zkn_type:ZKN_TYPE_579"
+    },
+    {
+        "id": "CA0580000",
+        "msname": "zkn_type:ZKN_TYPE_580"
+    },
+    {
+        "id": "CA0581000",
+        "msname": "zkn_type:ZKN_TYPE_581"
+    },
+    {
+        "id": "CA0582000",
+        "msname": "zkn_type:ZKN_TYPE_582"
+    },
+    {
+        "id": "CA0583000",
+        "msname": "zkn_type:ZKN_TYPE_583"
+    },
+    {
+        "id": "CA0584000",
+        "msname": "zkn_type:ZKN_TYPE_584"
+    },
+    {
+        "id": "CA0585000",
+        "msname": "zkn_type:ZKN_TYPE_585"
+    },
+    {
+        "id": "CA0586000",
+        "msname": "zkn_type:ZKN_TYPE_586"
+    },
+    {
+        "id": "CA0587000",
+        "msname": "zkn_type:ZKN_TYPE_587"
+    },
+    {
+        "id": "CA0588000",
+        "msname": "zkn_type:ZKN_TYPE_588"
+    },
+    {
+        "id": "CA0589000",
+        "msname": "zkn_type:ZKN_TYPE_589"
+    },
+    {
+        "id": "CA0590000",
+        "msname": "zkn_type:ZKN_TYPE_590"
+    },
+    {
+        "id": "CA0591000",
+        "msname": "zkn_type:ZKN_TYPE_591"
+    },
+    {
+        "id": "CA0592000",
+        "msname": "zkn_type:ZKN_TYPE_592"
+    },
+    {
+        "id": "CA0593000",
+        "msname": "zkn_type:ZKN_TYPE_593"
+    },
+    {
+        "id": "CA0594000",
+        "msname": "zkn_type:ZKN_TYPE_594"
+    },
+    {
+        "id": "CA0595000",
+        "msname": "zkn_type:ZKN_TYPE_595"
+    },
+    {
+        "id": "CA0596000",
+        "msname": "zkn_type:ZKN_TYPE_596"
+    },
+    {
+        "id": "CA0597000",
+        "msname": "zkn_type:ZKN_TYPE_597"
+    },
+    {
+        "id": "CA0598000",
+        "msname": "zkn_type:ZKN_TYPE_598"
+    },
+    {
+        "id": "CA0599000",
+        "msname": "zkn_type:ZKN_TYPE_599"
+    },
+    {
+        "id": "CA0600000",
+        "msname": "zkn_type:ZKN_TYPE_600"
+    },
+    {
+        "id": "CA0601000",
+        "msname": "zkn_type:ZKN_TYPE_601"
+    },
+    {
+        "id": "CA0602000",
+        "msname": "zkn_type:ZKN_TYPE_602"
+    },
+    {
+        "id": "CA0603000",
+        "msname": "zkn_type:ZKN_TYPE_603"
+    },
+    {
+        "id": "CA0604000",
+        "msname": "zkn_type:ZKN_TYPE_604"
+    },
+    {
+        "id": "CA0605000",
+        "msname": "zkn_type:ZKN_TYPE_605"
+    },
+    {
+        "id": "CA0606000",
+        "msname": "zkn_type:ZKN_TYPE_606"
+    },
+    {
+        "id": "CA0607000",
+        "msname": "zkn_type:ZKN_TYPE_607"
+    },
+    {
+        "id": "CA0608000",
+        "msname": "zkn_type:ZKN_TYPE_608"
+    },
+    {
+        "id": "CA0609000",
+        "msname": "zkn_type:ZKN_TYPE_609"
+    },
+    {
+        "id": "CA0610000",
+        "msname": "zkn_type:ZKN_TYPE_610"
+    },
+    {
+        "id": "CA0611000",
+        "msname": "zkn_type:ZKN_TYPE_611"
+    },
+    {
+        "id": "CA0612000",
+        "msname": "zkn_type:ZKN_TYPE_612"
+    },
+    {
+        "id": "CA0613000",
+        "msname": "zkn_type:ZKN_TYPE_613"
+    },
+    {
+        "id": "CA0614000",
+        "msname": "zkn_type:ZKN_TYPE_614"
+    },
+    {
+        "id": "CA0615000",
+        "msname": "zkn_type:ZKN_TYPE_615"
+    },
+    {
+        "id": "CA0616000",
+        "msname": "zkn_type:ZKN_TYPE_616"
+    },
+    {
+        "id": "CA0617000",
+        "msname": "zkn_type:ZKN_TYPE_617"
+    },
+    {
+        "id": "CA0618000",
+        "msname": "zkn_type:ZKN_TYPE_618"
+    },
+    {
+        "id": "CA0619000",
+        "msname": "zkn_type:ZKN_TYPE_619"
+    },
+    {
+        "id": "CA0620000",
+        "msname": "zkn_type:ZKN_TYPE_620"
+    },
+    {
+        "id": "CA0621000",
+        "msname": "zkn_type:ZKN_TYPE_621"
+    },
+    {
+        "id": "CA0622000",
+        "msname": "zkn_type:ZKN_TYPE_622"
+    },
+    {
+        "id": "CA0623000",
+        "msname": "zkn_type:ZKN_TYPE_623"
+    },
+    {
+        "id": "CA0624000",
+        "msname": "zkn_type:ZKN_TYPE_624"
+    },
+    {
+        "id": "CA0625000",
+        "msname": "zkn_type:ZKN_TYPE_625"
+    },
+    {
+        "id": "CA0626000",
+        "msname": "zkn_type:ZKN_TYPE_626"
+    },
+    {
+        "id": "CA0627000",
+        "msname": "zkn_type:ZKN_TYPE_627"
+    },
+    {
+        "id": "CA0628000",
+        "msname": "zkn_type:ZKN_TYPE_628"
+    },
+    {
+        "id": "CA0628001",
+        "msname": "zkn_type:ZKN_TYPE_628_001"
+    },
+    {
+        "id": "CA0629000",
+        "msname": "zkn_type:ZKN_TYPE_629"
+    },
+    {
+        "id": "CA0630000",
+        "msname": "zkn_type:ZKN_TYPE_630"
+    },
+    {
+        "id": "CA0631000",
+        "msname": "zkn_type:ZKN_TYPE_631"
+    },
+    {
+        "id": "CA0632000",
+        "msname": "zkn_type:ZKN_TYPE_632"
+    },
+    {
+        "id": "CA0633000",
+        "msname": "zkn_type:ZKN_TYPE_633"
+    },
+    {
+        "id": "CA0634000",
+        "msname": "zkn_type:ZKN_TYPE_634"
+    },
+    {
+        "id": "CA0635000",
+        "msname": "zkn_type:ZKN_TYPE_635"
+    },
+    {
+        "id": "CA0636000",
+        "msname": "zkn_type:ZKN_TYPE_636"
+    },
+    {
+        "id": "CA0637000",
+        "msname": "zkn_type:ZKN_TYPE_637"
+    },
+    {
+        "id": "CA0638000",
+        "msname": "zkn_type:ZKN_TYPE_638"
+    },
+    {
+        "id": "CA0639000",
+        "msname": "zkn_type:ZKN_TYPE_639"
+    },
+    {
+        "id": "CA0640000",
+        "msname": "zkn_type:ZKN_TYPE_640"
+    },
+    {
+        "id": "CA0641000",
+        "msname": "zkn_type:ZKN_TYPE_641"
+    },
+    {
+        "id": "CA0642000",
+        "msname": "zkn_type:ZKN_TYPE_642"
+    },
+    {
+        "id": "CA0643000",
+        "msname": "zkn_type:ZKN_TYPE_643"
+    },
+    {
+        "id": "CA0644000",
+        "msname": "zkn_type:ZKN_TYPE_644"
+    },
+    {
+        "id": "CA0645000",
+        "msname": "zkn_type:ZKN_TYPE_645"
+    },
+    {
+        "id": "CA0646000",
+        "msname": "zkn_type:ZKN_TYPE_646"
+    },
+    {
+        "id": "CA0647000",
+        "msname": "zkn_type:ZKN_TYPE_647"
+    },
+    {
+        "id": "CA0648000",
+        "msname": "zkn_type:ZKN_TYPE_648"
+    },
+    {
+        "id": "CA0649000",
+        "msname": "zkn_type:ZKN_TYPE_649"
+    },
+    {
+        "id": "CA0650000",
+        "msname": "zkn_type:ZKN_TYPE_650"
+    },
+    {
+        "id": "CA0651000",
+        "msname": "zkn_type:ZKN_TYPE_651"
+    },
+    {
+        "id": "CA0652000",
+        "msname": "zkn_type:ZKN_TYPE_652"
+    },
+    {
+        "id": "CA0653000",
+        "msname": "zkn_type:ZKN_TYPE_653"
+    },
+    {
+        "id": "CA0654000",
+        "msname": "zkn_type:ZKN_TYPE_654"
+    },
+    {
+        "id": "CA0655000",
+        "msname": "zkn_type:ZKN_TYPE_655"
+    },
+    {
+        "id": "CA0656000",
+        "msname": "zkn_type:ZKN_TYPE_656"
+    },
+    {
+        "id": "CA0657000",
+        "msname": "zkn_type:ZKN_TYPE_657"
+    },
+    {
+        "id": "CA0658000",
+        "msname": "zkn_type:ZKN_TYPE_658"
+    },
+    {
+        "id": "CA0659000",
+        "msname": "zkn_type:ZKN_TYPE_659"
+    },
+    {
+        "id": "CA0660000",
+        "msname": "zkn_type:ZKN_TYPE_660"
+    },
+    {
+        "id": "CA0661000",
+        "msname": "zkn_type:ZKN_TYPE_661"
+    },
+    {
+        "id": "CA0662000",
+        "msname": "zkn_type:ZKN_TYPE_662"
+    },
+    {
+        "id": "CA0663000",
+        "msname": "zkn_type:ZKN_TYPE_663"
+    },
+    {
+        "id": "CA0664000",
+        "msname": "zkn_type:ZKN_TYPE_664"
+    },
+    {
+        "id": "CA0665000",
+        "msname": "zkn_type:ZKN_TYPE_665"
+    },
+    {
+        "id": "CA0666000",
+        "msname": "zkn_type:ZKN_TYPE_666"
+    },
+    {
+        "id": "CA0667000",
+        "msname": "zkn_type:ZKN_TYPE_667"
+    },
+    {
+        "id": "CA0668000",
+        "msname": "zkn_type:ZKN_TYPE_668"
+    },
+    {
+        "id": "CA0669000",
+        "msname": "zkn_type:ZKN_TYPE_669"
+    },
+    {
+        "id": "CA0670000",
+        "msname": "zkn_type:ZKN_TYPE_670"
+    },
+    {
+        "id": "CA0671000",
+        "msname": "zkn_type:ZKN_TYPE_671"
+    },
+    {
+        "id": "CA0672000",
+        "msname": "zkn_type:ZKN_TYPE_672"
+    },
+    {
+        "id": "CA0673000",
+        "msname": "zkn_type:ZKN_TYPE_673"
+    },
+    {
+        "id": "CA0674000",
+        "msname": "zkn_type:ZKN_TYPE_674"
+    },
+    {
+        "id": "CA0675000",
+        "msname": "zkn_type:ZKN_TYPE_675"
+    },
+    {
+        "id": "CA0676000",
+        "msname": "zkn_type:ZKN_TYPE_676"
+    },
+    {
+        "id": "CA0677000",
+        "msname": "zkn_type:ZKN_TYPE_677"
+    },
+    {
+        "id": "CA0678000",
+        "msname": "zkn_type:ZKN_TYPE_678"
+    },
+    {
+        "id": "CA0679000",
+        "msname": "zkn_type:ZKN_TYPE_679"
+    },
+    {
+        "id": "CA0680000",
+        "msname": "zkn_type:ZKN_TYPE_680"
+    },
+    {
+        "id": "CA0681000",
+        "msname": "zkn_type:ZKN_TYPE_681"
+    },
+    {
+        "id": "CA0682000",
+        "msname": "zkn_type:ZKN_TYPE_682"
+    },
+    {
+        "id": "CA0683000",
+        "msname": "zkn_type:ZKN_TYPE_683"
+    },
+    {
+        "id": "CA0684000",
+        "msname": "zkn_type:ZKN_TYPE_684"
+    },
+    {
+        "id": "CA0685000",
+        "msname": "zkn_type:ZKN_TYPE_685"
+    },
+    {
+        "id": "CA0686000",
+        "msname": "zkn_type:ZKN_TYPE_686"
+    },
+    {
+        "id": "CA0687000",
+        "msname": "zkn_type:ZKN_TYPE_687"
+    },
+    {
+        "id": "CA0688000",
+        "msname": "zkn_type:ZKN_TYPE_688"
+    },
+    {
+        "id": "CA0689000",
+        "msname": "zkn_type:ZKN_TYPE_689"
+    },
+    {
+        "id": "CA0690000",
+        "msname": "zkn_type:ZKN_TYPE_690"
+    },
+    {
+        "id": "CA0691000",
+        "msname": "zkn_type:ZKN_TYPE_691"
+    },
+    {
+        "id": "CA0692000",
+        "msname": "zkn_type:ZKN_TYPE_692"
+    },
+    {
+        "id": "CA0693000",
+        "msname": "zkn_type:ZKN_TYPE_693"
+    },
+    {
+        "id": "CA0694000",
+        "msname": "zkn_type:ZKN_TYPE_694"
+    },
+    {
+        "id": "CA0695000",
+        "msname": "zkn_type:ZKN_TYPE_695"
+    },
+    {
+        "id": "CA0696000",
+        "msname": "zkn_type:ZKN_TYPE_696"
+    },
+    {
+        "id": "CA0697000",
+        "msname": "zkn_type:ZKN_TYPE_697"
+    },
+    {
+        "id": "CA0698000",
+        "msname": "zkn_type:ZKN_TYPE_698"
+    },
+    {
+        "id": "CA0699000",
+        "msname": "zkn_type:ZKN_TYPE_699"
+    },
+    {
+        "id": "CA0700000",
+        "msname": "zkn_type:ZKN_TYPE_700"
+    },
+    {
+        "id": "CA0701000",
+        "msname": "zkn_type:ZKN_TYPE_701"
+    },
+    {
+        "id": "CA0702000",
+        "msname": "zkn_type:ZKN_TYPE_702"
+    },
+    {
+        "id": "CA0703000",
+        "msname": "zkn_type:ZKN_TYPE_703"
+    },
+    {
+        "id": "CA0704000",
+        "msname": "zkn_type:ZKN_TYPE_704"
+    },
+    {
+        "id": "CA0705000",
+        "msname": "zkn_type:ZKN_TYPE_705"
+    },
+    {
+        "id": "CA0705001",
+        "msname": "zkn_type:ZKN_TYPE_705_001"
+    },
+    {
+        "id": "CA0706000",
+        "msname": "zkn_type:ZKN_TYPE_706"
+    },
+    {
+        "id": "CA0706001",
+        "msname": "zkn_type:ZKN_TYPE_706_001"
+    },
+    {
+        "id": "CA0707000",
+        "msname": "zkn_type:ZKN_TYPE_707"
+    },
+    {
+        "id": "CA0708000",
+        "msname": "zkn_type:ZKN_TYPE_708"
+    },
+    {
+        "id": "CA0709000",
+        "msname": "zkn_type:ZKN_TYPE_709"
+    },
+    {
+        "id": "CA0710000",
+        "msname": "zkn_type:ZKN_TYPE_710"
+    },
+    {
+        "id": "CA0711000",
+        "msname": "zkn_type:ZKN_TYPE_711"
+    },
+    {
+        "id": "CA0712000",
+        "msname": "zkn_type:ZKN_TYPE_712"
+    },
+    {
+        "id": "CA0713000",
+        "msname": "zkn_type:ZKN_TYPE_713"
+    },
+    {
+        "id": "CA0714000",
+        "msname": "zkn_type:ZKN_TYPE_714"
+    },
+    {
+        "id": "CA0715000",
+        "msname": "zkn_type:ZKN_TYPE_715"
+    },
+    {
+        "id": "CA0716000",
+        "msname": "zkn_type:ZKN_TYPE_716"
+    },
+    {
+        "id": "CA0717000",
+        "msname": "zkn_type:ZKN_TYPE_717"
+    },
+    {
+        "id": "CA0718000",
+        "msname": "zkn_type:ZKN_TYPE_718"
+    },
+    {
+        "id": "CA0719000",
+        "msname": "zkn_type:ZKN_TYPE_719"
+    },
+    {
+        "id": "CA0720000",
+        "msname": "zkn_type:ZKN_TYPE_720"
+    },
+    {
+        "id": "CA0720001",
+        "msname": "zkn_type:ZKN_TYPE_720_001"
+    },
+    {
+        "id": "CA0721000",
+        "msname": "zkn_type:ZKN_TYPE_721"
+    },
+    {
+        "id": "CA0722000",
+        "msname": "zkn_type:ZKN_TYPE_722"
+    },
+    {
+        "id": "CA0723000",
+        "msname": "zkn_type:ZKN_TYPE_723"
+    },
+    {
+        "id": "CA0724000",
+        "msname": "zkn_type:ZKN_TYPE_724"
+    },
+    {
+        "id": "CA0725000",
+        "msname": "zkn_type:ZKN_TYPE_725"
+    },
+    {
+        "id": "CA0726000",
+        "msname": "zkn_type:ZKN_TYPE_726"
+    },
+    {
+        "id": "CA0727000",
+        "msname": "zkn_type:ZKN_TYPE_727"
+    },
+    {
+        "id": "CA0728000",
+        "msname": "zkn_type:ZKN_TYPE_728"
+    },
+    {
+        "id": "CA0729000",
+        "msname": "zkn_type:ZKN_TYPE_729"
+    },
+    {
+        "id": "CA0730000",
+        "msname": "zkn_type:ZKN_TYPE_730"
+    },
+    {
+        "id": "CA0731000",
+        "msname": "zkn_type:ZKN_TYPE_731"
+    },
+    {
+        "id": "CA0732000",
+        "msname": "zkn_type:ZKN_TYPE_732"
+    },
+    {
+        "id": "CA0733000",
+        "msname": "zkn_type:ZKN_TYPE_733"
+    },
+    {
+        "id": "CA0734000",
+        "msname": "zkn_type:ZKN_TYPE_734"
+    },
+    {
+        "id": "CA0735000",
+        "msname": "zkn_type:ZKN_TYPE_735"
+    },
+    {
+        "id": "CA0736000",
+        "msname": "zkn_type:ZKN_TYPE_736"
+    },
+    {
+        "id": "CA0737000",
+        "msname": "zkn_type:ZKN_TYPE_737"
+    },
+    {
+        "id": "CA0738000",
+        "msname": "zkn_type:ZKN_TYPE_738"
+    },
+    {
+        "id": "CA0739000",
+        "msname": "zkn_type:ZKN_TYPE_739"
+    },
+    {
+        "id": "CA0740000",
+        "msname": "zkn_type:ZKN_TYPE_740"
+    },
+    {
+        "id": "CA0741000",
+        "msname": "zkn_type:ZKN_TYPE_741"
+    },
+    {
+        "id": "CA0742000",
+        "msname": "zkn_type:ZKN_TYPE_742"
+    },
+    {
+        "id": "CA0743000",
+        "msname": "zkn_type:ZKN_TYPE_743"
+    },
+    {
+        "id": "CA0744000",
+        "msname": "zkn_type:ZKN_TYPE_744"
+    },
+    {
+        "id": "CA0745000",
+        "msname": "zkn_type:ZKN_TYPE_745"
+    },
+    {
+        "id": "CA0746000",
+        "msname": "zkn_type:ZKN_TYPE_746"
+    },
+    {
+        "id": "CA0747000",
+        "msname": "zkn_type:ZKN_TYPE_747"
+    },
+    {
+        "id": "CA0748000",
+        "msname": "zkn_type:ZKN_TYPE_748"
+    },
+    {
+        "id": "CA0749000",
+        "msname": "zkn_type:ZKN_TYPE_749"
+    },
+    {
+        "id": "CA0750000",
+        "msname": "zkn_type:ZKN_TYPE_750"
+    },
+    {
+        "id": "CA0751000",
+        "msname": "zkn_type:ZKN_TYPE_751"
+    },
+    {
+        "id": "CA0752000",
+        "msname": "zkn_type:ZKN_TYPE_752"
+    },
+    {
+        "id": "CA0753000",
+        "msname": "zkn_type:ZKN_TYPE_753"
+    },
+    {
+        "id": "CA0754000",
+        "msname": "zkn_type:ZKN_TYPE_754"
+    },
+    {
+        "id": "CA0755000",
+        "msname": "zkn_type:ZKN_TYPE_755"
+    },
+    {
+        "id": "CA0756000",
+        "msname": "zkn_type:ZKN_TYPE_756"
+    },
+    {
+        "id": "CA0757000",
+        "msname": "zkn_type:ZKN_TYPE_757"
+    },
+    {
+        "id": "CA0758000",
+        "msname": "zkn_type:ZKN_TYPE_758"
+    },
+    {
+        "id": "CA0759000",
+        "msname": "zkn_type:ZKN_TYPE_759"
+    },
+    {
+        "id": "CA0760000",
+        "msname": "zkn_type:ZKN_TYPE_760"
+    },
+    {
+        "id": "CA0761000",
+        "msname": "zkn_type:ZKN_TYPE_761"
+    },
+    {
+        "id": "CA0762000",
+        "msname": "zkn_type:ZKN_TYPE_762"
+    },
+    {
+        "id": "CA0763000",
+        "msname": "zkn_type:ZKN_TYPE_763"
+    },
+    {
+        "id": "CA0764000",
+        "msname": "zkn_type:ZKN_TYPE_764"
+    },
+    {
+        "id": "CA0765000",
+        "msname": "zkn_type:ZKN_TYPE_765"
+    },
+    {
+        "id": "CA0766000",
+        "msname": "zkn_type:ZKN_TYPE_766"
+    },
+    {
+        "id": "CA0767000",
+        "msname": "zkn_type:ZKN_TYPE_767"
+    },
+    {
+        "id": "CA0768000",
+        "msname": "zkn_type:ZKN_TYPE_768"
+    },
+    {
+        "id": "CA0769000",
+        "msname": "zkn_type:ZKN_TYPE_769"
+    },
+    {
+        "id": "CA0770000",
+        "msname": "zkn_type:ZKN_TYPE_770"
+    },
+    {
+        "id": "CA0771000",
+        "msname": "zkn_type:ZKN_TYPE_771"
+    },
+    {
+        "id": "CA0772000",
+        "msname": "zkn_type:ZKN_TYPE_772"
+    },
+    {
+        "id": "CA0773000",
+        "msname": "zkn_type:ZKN_TYPE_773"
+    },
+    {
+        "id": "CA0774000",
+        "msname": "zkn_type:ZKN_TYPE_774"
+    },
+    {
+        "id": "CA0775000",
+        "msname": "zkn_type:ZKN_TYPE_775"
+    },
+    {
+        "id": "CA0776000",
+        "msname": "zkn_type:ZKN_TYPE_776"
+    },
+    {
+        "id": "CA0777000",
+        "msname": "zkn_type:ZKN_TYPE_777"
+    },
+    {
+        "id": "CA0778000",
+        "msname": "zkn_type:ZKN_TYPE_778"
+    },
+    {
+        "id": "CA0779000",
+        "msname": "zkn_type:ZKN_TYPE_779"
+    },
+    {
+        "id": "CA0780000",
+        "msname": "zkn_type:ZKN_TYPE_780"
+    },
+    {
+        "id": "CA0781000",
+        "msname": "zkn_type:ZKN_TYPE_781"
+    },
+    {
+        "id": "CA0782000",
+        "msname": "zkn_type:ZKN_TYPE_782"
+    },
+    {
+        "id": "CA0783000",
+        "msname": "zkn_type:ZKN_TYPE_783"
+    },
+    {
+        "id": "CA0784000",
+        "msname": "zkn_type:ZKN_TYPE_784"
+    },
+    {
+        "id": "CA0785000",
+        "msname": "zkn_type:ZKN_TYPE_785"
+    },
+    {
+        "id": "CA0786000",
+        "msname": "zkn_type:ZKN_TYPE_786"
+    },
+    {
+        "id": "CA0787000",
+        "msname": "zkn_type:ZKN_TYPE_787"
+    },
+    {
+        "id": "CA0788000",
+        "msname": "zkn_type:ZKN_TYPE_788"
+    },
+    {
+        "id": "CA0789000",
+        "msname": "zkn_type:ZKN_TYPE_789"
+    },
+    {
+        "id": "CA0790000",
+        "msname": "zkn_type:ZKN_TYPE_790"
+    },
+    {
+        "id": "CA0791000",
+        "msname": "zkn_type:ZKN_TYPE_791"
+    },
+    {
+        "id": "CA0792000",
+        "msname": "zkn_type:ZKN_TYPE_792"
+    },
+    {
+        "id": "CA0793000",
+        "msname": "zkn_type:ZKN_TYPE_793"
+    },
+    {
+        "id": "CA0794000",
+        "msname": "zkn_type:ZKN_TYPE_794"
+    },
+    {
+        "id": "CA0795000",
+        "msname": "zkn_type:ZKN_TYPE_795"
+    },
+    {
+        "id": "CA0796000",
+        "msname": "zkn_type:ZKN_TYPE_796"
+    },
+    {
+        "id": "CA0797000",
+        "msname": "zkn_type:ZKN_TYPE_797"
+    },
+    {
+        "id": "CA0798000",
+        "msname": "zkn_type:ZKN_TYPE_798"
+    },
+    {
+        "id": "CA0799000",
+        "msname": "zkn_type:ZKN_TYPE_799"
+    },
+    {
+        "id": "CA0800000",
+        "msname": "zkn_type:ZKN_TYPE_800"
+    },
+    {
+        "id": "CA0801000",
+        "msname": "zkn_type:ZKN_TYPE_801"
+    },
+    {
+        "id": "CA0802000",
+        "msname": "zkn_type:ZKN_TYPE_802"
+    },
+    {
+        "id": "CA0803000",
+        "msname": "zkn_type:ZKN_TYPE_803"
+    },
+    {
+        "id": "CA0804000",
+        "msname": "zkn_type:ZKN_TYPE_804"
+    },
+    {
+        "id": "CA0805000",
+        "msname": "zkn_type:ZKN_TYPE_805"
+    },
+    {
+        "id": "CA0806000",
+        "msname": "zkn_type:ZKN_TYPE_806"
+    },
+    {
+        "id": "CA0807000",
+        "msname": "zkn_type:ZKN_TYPE_807"
+    },
+    {
+        "id": "CA0808000",
+        "msname": "zkn_type:ZKN_TYPE_808"
+    },
+    {
+        "id": "CA0809000",
+        "msname": "zkn_type:ZKN_TYPE_809"
+    },
+    {
+        "id": "CA0810000",
+        "msname": "zkn_type:ZKN_TYPE_810"
+    },
+    {
+        "id": "CA0811000",
+        "msname": "zkn_type:ZKN_TYPE_811"
+    },
+    {
+        "id": "CA0812000",
+        "msname": "zkn_type:ZKN_TYPE_812"
+    },
+    {
+        "id": "CA0813000",
+        "msname": "zkn_type:ZKN_TYPE_813"
+    },
+    {
+        "id": "CA0814000",
+        "msname": "zkn_type:ZKN_TYPE_814"
+    },
+    {
+        "id": "CA0815000",
+        "msname": "zkn_type:ZKN_TYPE_815"
+    },
+    {
+        "id": "CA0816000",
+        "msname": "zkn_type:ZKN_TYPE_816"
+    },
+    {
+        "id": "CA0817000",
+        "msname": "zkn_type:ZKN_TYPE_817"
+    },
+    {
+        "id": "CA0818000",
+        "msname": "zkn_type:ZKN_TYPE_818"
+    },
+    {
+        "id": "CA0819000",
+        "msname": "zkn_type:ZKN_TYPE_819"
+    },
+    {
+        "id": "CA0820000",
+        "msname": "zkn_type:ZKN_TYPE_820"
+    },
+    {
+        "id": "CA0821000",
+        "msname": "zkn_type:ZKN_TYPE_821"
+    },
+    {
+        "id": "CA0822000",
+        "msname": "zkn_type:ZKN_TYPE_822"
+    },
+    {
+        "id": "CA0823000",
+        "msname": "zkn_type:ZKN_TYPE_823"
+    },
+    {
+        "id": "CA0824000",
+        "msname": "zkn_type:ZKN_TYPE_824"
+    },
+    {
+        "id": "CA0825000",
+        "msname": "zkn_type:ZKN_TYPE_825"
+    },
+    {
+        "id": "CA0826000",
+        "msname": "zkn_type:ZKN_TYPE_826"
+    },
+    {
+        "id": "CA0827000",
+        "msname": "zkn_type:ZKN_TYPE_827"
+    },
+    {
+        "id": "CA0828000",
+        "msname": "zkn_type:ZKN_TYPE_828"
+    },
+    {
+        "id": "CA0829000",
+        "msname": "zkn_type:ZKN_TYPE_829"
+    },
+    {
+        "id": "CA0830000",
+        "msname": "zkn_type:ZKN_TYPE_830"
+    },
+    {
+        "id": "CA0831000",
+        "msname": "zkn_type:ZKN_TYPE_831"
+    },
+    {
+        "id": "CA0832000",
+        "msname": "zkn_type:ZKN_TYPE_832"
+    },
+    {
+        "id": "CA0833000",
+        "msname": "zkn_type:ZKN_TYPE_833"
+    },
+    {
+        "id": "CA0834000",
+        "msname": "zkn_type:ZKN_TYPE_834"
+    },
+    {
+        "id": "CA0835000",
+        "msname": "zkn_type:ZKN_TYPE_835"
+    },
+    {
+        "id": "CA0836000",
+        "msname": "zkn_type:ZKN_TYPE_836"
+    },
+    {
+        "id": "CA0837000",
+        "msname": "zkn_type:ZKN_TYPE_837"
+    },
+    {
+        "id": "CA0838000",
+        "msname": "zkn_type:ZKN_TYPE_838"
+    },
+    {
+        "id": "CA0839000",
+        "msname": "zkn_type:ZKN_TYPE_839"
+    },
+    {
+        "id": "CA0840000",
+        "msname": "zkn_type:ZKN_TYPE_840"
+    },
+    {
+        "id": "CA0841000",
+        "msname": "zkn_type:ZKN_TYPE_841"
+    },
+    {
+        "id": "CA0842000",
+        "msname": "zkn_type:ZKN_TYPE_842"
+    },
+    {
+        "id": "CA0843000",
+        "msname": "zkn_type:ZKN_TYPE_843"
+    },
+    {
+        "id": "CA0844000",
+        "msname": "zkn_type:ZKN_TYPE_844"
+    },
+    {
+        "id": "CA0845000",
+        "msname": "zkn_type:ZKN_TYPE_845"
+    },
+    {
+        "id": "CA0846000",
+        "msname": "zkn_type:ZKN_TYPE_846"
+    },
+    {
+        "id": "CA0847000",
+        "msname": "zkn_type:ZKN_TYPE_847"
+    },
+    {
+        "id": "CA0848000",
+        "msname": "zkn_type:ZKN_TYPE_848"
+    },
+    {
+        "id": "CA0849000",
+        "msname": "zkn_type:ZKN_TYPE_849"
+    },
+    {
+        "id": "CA0850000",
+        "msname": "zkn_type:ZKN_TYPE_850"
+    },
+    {
+        "id": "CA0851000",
+        "msname": "zkn_type:ZKN_TYPE_851"
+    },
+    {
+        "id": "CA0852000",
+        "msname": "zkn_type:ZKN_TYPE_852"
+    },
+    {
+        "id": "CA0853000",
+        "msname": "zkn_type:ZKN_TYPE_853"
+    },
+    {
+        "id": "CA0854000",
+        "msname": "zkn_type:ZKN_TYPE_854"
+    },
+    {
+        "id": "CA0855000",
+        "msname": "zkn_type:ZKN_TYPE_855"
+    },
+    {
+        "id": "CA0856000",
+        "msname": "zkn_type:ZKN_TYPE_856"
+    },
+    {
+        "id": "CA0857000",
+        "msname": "zkn_type:ZKN_TYPE_857"
+    },
+    {
+        "id": "CA0858000",
+        "msname": "zkn_type:ZKN_TYPE_858"
+    },
+    {
+        "id": "CA0859000",
+        "msname": "zkn_type:ZKN_TYPE_859"
+    },
+    {
+        "id": "CA0860000",
+        "msname": "zkn_type:ZKN_TYPE_860"
+    },
+    {
+        "id": "CA0861000",
+        "msname": "zkn_type:ZKN_TYPE_861"
+    },
+    {
+        "id": "CA0862000",
+        "msname": "zkn_type:ZKN_TYPE_862"
+    },
+    {
+        "id": "CA0863000",
+        "msname": "zkn_type:ZKN_TYPE_863"
+    },
+    {
+        "id": "CA0864000",
+        "msname": "zkn_type:ZKN_TYPE_864"
+    },
+    {
+        "id": "CA0865000",
+        "msname": "zkn_type:ZKN_TYPE_865"
+    },
+    {
+        "id": "CA0866000",
+        "msname": "zkn_type:ZKN_TYPE_866"
+    },
+    {
+        "id": "CA0867000",
+        "msname": "zkn_type:ZKN_TYPE_867"
+    },
+    {
+        "id": "CA0868000",
+        "msname": "zkn_type:ZKN_TYPE_868"
+    },
+    {
+        "id": "CA0869000",
+        "msname": "zkn_type:ZKN_TYPE_869"
+    },
+    {
+        "id": "CA0870000",
+        "msname": "zkn_type:ZKN_TYPE_870"
+    },
+    {
+        "id": "CA0871000",
+        "msname": "zkn_type:ZKN_TYPE_871"
+    },
+    {
+        "id": "CA0872000",
+        "msname": "zkn_type:ZKN_TYPE_872"
+    },
+    {
+        "id": "CA0873000",
+        "msname": "zkn_type:ZKN_TYPE_873"
+    },
+    {
+        "id": "CA0874000",
+        "msname": "zkn_type:ZKN_TYPE_874"
+    },
+    {
+        "id": "CA0875000",
+        "msname": "zkn_type:ZKN_TYPE_875"
+    },
+    {
+        "id": "CA0876000",
+        "msname": "zkn_type:ZKN_TYPE_876"
+    },
+    {
+        "id": "CA0877000",
+        "msname": "zkn_type:ZKN_TYPE_877"
+    },
+    {
+        "id": "CA0878000",
+        "msname": "zkn_type:ZKN_TYPE_878"
+    },
+    {
+        "id": "CA0879000",
+        "msname": "zkn_type:ZKN_TYPE_879"
+    },
+    {
+        "id": "CA0880000",
+        "msname": "zkn_type:ZKN_TYPE_880"
+    },
+    {
+        "id": "CA0881000",
+        "msname": "zkn_type:ZKN_TYPE_881"
+    },
+    {
+        "id": "CA0882000",
+        "msname": "zkn_type:ZKN_TYPE_882"
+    },
+    {
+        "id": "CA0883000",
+        "msname": "zkn_type:ZKN_TYPE_883"
+    },
+    {
+        "id": "CA0884000",
+        "msname": "zkn_type:ZKN_TYPE_884"
+    },
+    {
+        "id": "CA0885000",
+        "msname": "zkn_type:ZKN_TYPE_885"
+    },
+    {
+        "id": "CA0886000",
+        "msname": "zkn_type:ZKN_TYPE_886"
+    },
+    {
+        "id": "CA0887000",
+        "msname": "zkn_type:ZKN_TYPE_887"
+    },
+    {
+        "id": "CA0888000",
+        "msname": "zkn_type:ZKN_TYPE_888"
+    },
+    {
+        "id": "CA0889000",
+        "msname": "zkn_type:ZKN_TYPE_889"
+    },
+    {
+        "id": "CA0890000",
+        "msname": "zkn_type:ZKN_TYPE_890"
+    },
+    {
+        "id": "CA0891000",
+        "msname": "zkn_type:ZKN_TYPE_891"
+    },
+    {
+        "id": "CA0892000",
+        "msname": "zkn_type:ZKN_TYPE_892"
+    },
+    {
+        "id": "CA0893000",
+        "msname": "zkn_type:ZKN_TYPE_893"
+    },
+    {
+        "id": "CA0894000",
+        "msname": "zkn_type:ZKN_TYPE_894"
+    },
+    {
+        "id": "CA0895000",
+        "msname": "zkn_type:ZKN_TYPE_895"
+    },
+    {
+        "id": "CA0896000",
+        "msname": "zkn_type:ZKN_TYPE_896"
+    },
+    {
+        "id": "CA0897000",
+        "msname": "zkn_type:ZKN_TYPE_897"
+    },
+    {
+        "id": "CA0898000",
+        "msname": "zkn_type:ZKN_TYPE_898"
+    },
+    {
+        "id": "CA0898001",
+        "msname": "zkn_type:ZKN_TYPE_898_001"
+    },
+    {
+        "id": "CA0898002",
+        "msname": "zkn_type:ZKN_TYPE_898_002"
+    },
+    {
+        "id": "CA0899000",
+        "msname": "zkn_type:ZKN_TYPE_899"
+    },
+    {
+        "id": "CA0900000",
+        "msname": "zkn_type:ZKN_TYPE_900"
+    },
+    {
+        "id": "CA0901000",
+        "msname": "zkn_type:ZKN_TYPE_901"
+    },
+    {
+        "id": "CA0902000",
+        "msname": "zkn_type:ZKN_TYPE_902"
+    },
+    {
+        "id": "CA0903000",
+        "msname": "zkn_type:ZKN_TYPE_903"
+    },
+    {
+        "id": "CA0904000",
+        "msname": "zkn_type:ZKN_TYPE_904"
+    },
+    {
+        "id": "CA0905000",
+        "msname": "zkn_type:ZKN_TYPE_905"
+    },
+    {
+        "id": "CA0906000",
+        "msname": "zkn_type:ZKN_TYPE_906"
+    },
+    {
+        "id": "CA0907000",
+        "msname": "zkn_type:ZKN_TYPE_907"
+    },
+    {
+        "id": "CA0908000",
+        "msname": "zkn_type:ZKN_TYPE_908"
+    },
+    {
+        "id": "CA0909000",
+        "msname": "zkn_type:ZKN_TYPE_909"
+    },
+    {
+        "id": "CA0910000",
+        "msname": "zkn_type:ZKN_TYPE_910"
+    },
+    {
+        "id": "CA0911000",
+        "msname": "zkn_type:ZKN_TYPE_911"
+    },
+    {
+        "id": "CA0912000",
+        "msname": "zkn_type:ZKN_TYPE_912"
+    },
+    {
+        "id": "CA0913000",
+        "msname": "zkn_type:ZKN_TYPE_913"
+    },
+    {
+        "id": "CA0914000",
+        "msname": "zkn_type:ZKN_TYPE_914"
+    },
+    {
+        "id": "CA0915000",
+        "msname": "zkn_type:ZKN_TYPE_915"
+    },
+    {
+        "id": "CA0916000",
+        "msname": "zkn_type:ZKN_TYPE_916"
+    },
+    {
+        "id": "CA0917000",
+        "msname": "zkn_type:ZKN_TYPE_917"
+    },
+    {
+        "id": "CA0918000",
+        "msname": "zkn_type:ZKN_TYPE_918"
+    },
+    {
+        "id": "CA0919000",
+        "msname": "zkn_type:ZKN_TYPE_919"
+    },
+    {
+        "id": "CA0920000",
+        "msname": "zkn_type:ZKN_TYPE_920"
+    },
+    {
+        "id": "CA0921000",
+        "msname": "zkn_type:ZKN_TYPE_921"
+    },
+    {
+        "id": "CA0922000",
+        "msname": "zkn_type:ZKN_TYPE_922"
+    },
+    {
+        "id": "CA0923000",
+        "msname": "zkn_type:ZKN_TYPE_923"
+    },
+    {
+        "id": "CA0924000",
+        "msname": "zkn_type:ZKN_TYPE_924"
+    },
+    {
+        "id": "CA0925000",
+        "msname": "zkn_type:ZKN_TYPE_925"
+    },
+    {
+        "id": "CA0926000",
+        "msname": "zkn_type:ZKN_TYPE_926"
+    },
+    {
+        "id": "CA0927000",
+        "msname": "zkn_type:ZKN_TYPE_927"
+    },
+    {
+        "id": "CA0928000",
+        "msname": "zkn_type:ZKN_TYPE_928"
+    },
+    {
+        "id": "CA0929000",
+        "msname": "zkn_type:ZKN_TYPE_929"
+    },
+    {
+        "id": "CA0930000",
+        "msname": "zkn_type:ZKN_TYPE_930"
+    },
+    {
+        "id": "CA0931000",
+        "msname": "zkn_type:ZKN_TYPE_931"
+    },
+    {
+        "id": "CA0932000",
+        "msname": "zkn_type:ZKN_TYPE_932"
+    },
+    {
+        "id": "CA0933000",
+        "msname": "zkn_type:ZKN_TYPE_933"
+    },
+    {
+        "id": "CA0934000",
+        "msname": "zkn_type:ZKN_TYPE_934"
+    },
+    {
+        "id": "CA0935000",
+        "msname": "zkn_type:ZKN_TYPE_935"
+    },
+    {
+        "id": "CA0936000",
+        "msname": "zkn_type:ZKN_TYPE_936"
+    },
+    {
+        "id": "CA0937000",
+        "msname": "zkn_type:ZKN_TYPE_937"
+    },
+    {
+        "id": "CA0938000",
+        "msname": "zkn_type:ZKN_TYPE_938"
+    },
+    {
+        "id": "CA0939000",
+        "msname": "zkn_type:ZKN_TYPE_939"
+    },
+    {
+        "id": "CA0940000",
+        "msname": "zkn_type:ZKN_TYPE_940"
+    },
+    {
+        "id": "CA0941000",
+        "msname": "zkn_type:ZKN_TYPE_941"
+    },
+    {
+        "id": "CA0942000",
+        "msname": "zkn_type:ZKN_TYPE_942"
+    },
+    {
+        "id": "CA0943000",
+        "msname": "zkn_type:ZKN_TYPE_943"
+    },
+    {
+        "id": "CA0944000",
+        "msname": "zkn_type:ZKN_TYPE_944"
+    },
+    {
+        "id": "CA0945000",
+        "msname": "zkn_type:ZKN_TYPE_945"
+    },
+    {
+        "id": "CA0946000",
+        "msname": "zkn_type:ZKN_TYPE_946"
+    },
+    {
+        "id": "CA0947000",
+        "msname": "zkn_type:ZKN_TYPE_947"
+    },
+    {
+        "id": "CA0948000",
+        "msname": "zkn_type:ZKN_TYPE_948"
+    },
+    {
+        "id": "CA0949000",
+        "msname": "zkn_type:ZKN_TYPE_949"
+    },
+    {
+        "id": "CA0950000",
+        "msname": "zkn_type:ZKN_TYPE_950"
+    },
+    {
+        "id": "CA0951000",
+        "msname": "zkn_type:ZKN_TYPE_951"
+    },
+    {
+        "id": "CA0952000",
+        "msname": "zkn_type:ZKN_TYPE_952"
+    },
+    {
+        "id": "CA0953000",
+        "msname": "zkn_type:ZKN_TYPE_953"
+    },
+    {
+        "id": "CA0954000",
+        "msname": "zkn_type:ZKN_TYPE_954"
+    },
+    {
+        "id": "CA0955000",
+        "msname": "zkn_type:ZKN_TYPE_955"
+    },
+    {
+        "id": "CA0956000",
+        "msname": "zkn_type:ZKN_TYPE_956"
+    },
+    {
+        "id": "CA0957000",
+        "msname": "zkn_type:ZKN_TYPE_957"
+    },
+    {
+        "id": "CA0958000",
+        "msname": "zkn_type:ZKN_TYPE_958"
+    },
+    {
+        "id": "CA0959000",
+        "msname": "zkn_type:ZKN_TYPE_959"
+    },
+    {
+        "id": "CA0960000",
+        "msname": "zkn_type:ZKN_TYPE_960"
+    },
+    {
+        "id": "CA0961000",
+        "msname": "zkn_type:ZKN_TYPE_961"
+    },
+    {
+        "id": "CA0962000",
+        "msname": "zkn_type:ZKN_TYPE_962"
+    },
+    {
+        "id": "CA0963000",
+        "msname": "zkn_type:ZKN_TYPE_963"
+    },
+    {
+        "id": "CA0964000",
+        "msname": "zkn_type:ZKN_TYPE_964"
+    },
+    {
+        "id": "CA0964001",
+        "msname": "zkn_type:ZKN_TYPE_964_001"
+    },
+    {
+        "id": "CA0965000",
+        "msname": "zkn_type:ZKN_TYPE_965"
+    },
+    {
+        "id": "CA0966000",
+        "msname": "zkn_type:ZKN_TYPE_966"
+    },
+    {
+        "id": "CA0967000",
+        "msname": "zkn_type:ZKN_TYPE_967"
+    },
+    {
+        "id": "CA0968000",
+        "msname": "zkn_type:ZKN_TYPE_968"
+    },
+    {
+        "id": "CA0969000",
+        "msname": "zkn_type:ZKN_TYPE_969"
+    },
+    {
+        "id": "CA0970000",
+        "msname": "zkn_type:ZKN_TYPE_970"
+    },
+    {
+        "id": "CA0971000",
+        "msname": "zkn_type:ZKN_TYPE_971"
+    },
+    {
+        "id": "CA0972000",
+        "msname": "zkn_type:ZKN_TYPE_972"
+    },
+    {
+        "id": "CA0973000",
+        "msname": "zkn_type:ZKN_TYPE_973"
+    },
+    {
+        "id": "CA0974000",
+        "msname": "zkn_type:ZKN_TYPE_974"
+    },
+    {
+        "id": "CA0975000",
+        "msname": "zkn_type:ZKN_TYPE_975"
+    },
+    {
+        "id": "CA0976000",
+        "msname": "zkn_type:ZKN_TYPE_976"
+    },
+    {
+        "id": "CA0977000",
+        "msname": "zkn_type:ZKN_TYPE_977"
+    },
+    {
+        "id": "CA0978000",
+        "msname": "zkn_type:ZKN_TYPE_978"
+    },
+    {
+        "id": "CA0979000",
+        "msname": "zkn_type:ZKN_TYPE_979"
+    },
+    {
+        "id": "CA0980000",
+        "msname": "zkn_type:ZKN_TYPE_980"
+    },
+    {
+        "id": "CA0981000",
+        "msname": "zkn_type:ZKN_TYPE_981"
+    },
+    {
+        "id": "CA0982000",
+        "msname": "zkn_type:ZKN_TYPE_982"
+    },
+    {
+        "id": "CA0983000",
+        "msname": "zkn_type:ZKN_TYPE_983"
+    },
+    {
+        "id": "CA0984000",
+        "msname": "zkn_type:ZKN_TYPE_984"
+    },
+    {
+        "id": "CA0985000",
+        "msname": "zkn_type:ZKN_TYPE_985"
+    },
+    {
+        "id": "CA0986000",
+        "msname": "zkn_type:ZKN_TYPE_986"
+    },
+    {
+        "id": "CA0987000",
+        "msname": "zkn_type:ZKN_TYPE_987"
+    },
+    {
+        "id": "CA0988000",
+        "msname": "zkn_type:ZKN_TYPE_988"
+    },
+    {
+        "id": "CA0989000",
+        "msname": "zkn_type:ZKN_TYPE_989"
+    },
+    {
+        "id": "CA0990000",
+        "msname": "zkn_type:ZKN_TYPE_990"
+    },
+    {
+        "id": "CA0991000",
+        "msname": "zkn_type:ZKN_TYPE_991"
+    },
+    {
+        "id": "CA0992000",
+        "msname": "zkn_type:ZKN_TYPE_992"
+    },
+    {
+        "id": "CA0993000",
+        "msname": "zkn_type:ZKN_TYPE_993"
+    },
+    {
+        "id": "CA0994000",
+        "msname": "zkn_type:ZKN_TYPE_994"
+    },
+    {
+        "id": "CA0995000",
+        "msname": "zkn_type:ZKN_TYPE_995"
+    },
+    {
+        "id": "CA0996000",
+        "msname": "zkn_type:ZKN_TYPE_996"
+    },
+    {
+        "id": "CA0997000",
+        "msname": "zkn_type:ZKN_TYPE_997"
+    },
+    {
+        "id": "CA0998000",
+        "msname": "zkn_type:ZKN_TYPE_998"
+    },
+    {
+        "id": "CA0999000",
+        "msname": "zkn_type:ZKN_TYPE_999"
+    },
+    {
+        "id": "CA0999001",
+        "msname": "zkn_type:ZKN_TYPE_999_001"
+    },
+    {
+        "id": "CA1000000",
+        "msname": "zkn_type:ZKN_TYPE_1000"
+    },
+    {
+        "id": "CA1001000",
+        "msname": "zkn_type:ZKN_TYPE_1001"
+    },
+    {
+        "id": "CA1002000",
+        "msname": "zkn_type:ZKN_TYPE_1002"
+    },
+    {
+        "id": "CA1003000",
+        "msname": "zkn_type:ZKN_TYPE_1003"
+    },
+    {
+        "id": "CA1004000",
+        "msname": "zkn_type:ZKN_TYPE_1004"
+    },
+    {
+        "id": "CA1005000",
+        "msname": "zkn_type:ZKN_TYPE_1005"
+    },
+    {
+        "id": "CA1006000",
+        "msname": "zkn_type:ZKN_TYPE_1006"
+    },
+    {
+        "id": "CA1007000",
+        "msname": "zkn_type:ZKN_TYPE_1007"
+    },
+    {
+        "id": "CA1008000",
+        "msname": "zkn_type:ZKN_TYPE_1008"
+    },
+    {
+        "id": "CA1009000",
+        "msname": "zkn_type:ZKN_TYPE_1009"
+    },
+    {
+        "id": "CA1010000",
+        "msname": "zkn_type:ZKN_TYPE_1010"
+    },
+    {
+        "id": "CA1011000",
+        "msname": "zkn_type:ZKN_TYPE_1011"
+    },
+    {
+        "id": "CA1012000",
+        "msname": "zkn_type:ZKN_TYPE_1012"
+    },
+    {
+        "id": "CA1013000",
+        "msname": "zkn_type:ZKN_TYPE_1013"
+    },
+    {
+        "id": "CA1014000",
+        "msname": "zkn_type:ZKN_TYPE_1014"
+    },
+    {
+        "id": "CA1015000",
+        "msname": "zkn_type:ZKN_TYPE_1015"
+    },
+    {
+        "id": "CA1016000",
+        "msname": "zkn_type:ZKN_TYPE_1016"
+    },
+    {
+        "id": "CA1017000",
+        "msname": "zkn_type:ZKN_TYPE_1017"
+    },
+    {
+        "id": "CA1018000",
+        "msname": "zkn_type:ZKN_TYPE_1018"
+    },
+    {
+        "id": "CA1019000",
+        "msname": "zkn_type:ZKN_TYPE_1019"
+    },
+    {
+        "id": "CA1020000",
+        "msname": "zkn_type:ZKN_TYPE_1020"
+    },
+    {
+        "id": "CA1021000",
+        "msname": "zkn_type:ZKN_TYPE_1021"
+    },
+    {
+        "id": "CA1022000",
+        "msname": "zkn_type:ZKN_TYPE_1022"
+    },
+    {
+        "id": "CA1023000",
+        "msname": "zkn_type:ZKN_TYPE_1023"
+    },
+    {
+        "id": "CA1024000",
+        "msname": "zkn_type:ZKN_TYPE_1024"
+    },
+    {
+        "id": "CA1024001",
+        "msname": "zkn_type:ZKN_TYPE_1024_001"
+    },
+    {
+        "id": "CA1024002",
+        "msname": "zkn_type:ZKN_TYPE_1024_002"
+    },
+    {
+        "id": "CA1025000",
+        "msname": "zkn_type:ZKN_TYPE_1025"
+    }
+]

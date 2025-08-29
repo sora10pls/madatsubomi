@@ -1,0 +1,37 @@
+[
+    {
+        "id": "FC0001",
+        "no": 0,
+        "msname": "sp_ui_formcategory01"
+    },
+    {
+        "id": "FC0002",
+        "no": 1,
+        "msname": "sp_ui_formcategory02"
+    },
+    {
+        "id": "FC0003",
+        "no": 2,
+        "msname": "sp_ui_formcategory03"
+    },
+    {
+        "id": "FC0004",
+        "no": 3,
+        "msname": "sp_ui_formcategory04"
+    },
+    {
+        "id": "FC0005",
+        "no": 5,
+        "msname": "sp_ui_formcategory05"
+    },
+    {
+        "id": "FC0006",
+        "no": 6,
+        "msname": "sp_ui_formcategory06"
+    },
+    {
+        "id": "FC0099",
+        "no": 4,
+        "msname": "sp_ui_formcategory99"
+    }
+]

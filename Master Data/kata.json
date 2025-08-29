@@ -1,0 +1,72 @@
+[
+    {
+        "id": "KT0001",
+        "ms": "sp_kata_0001",
+        "imagePath": "cmn_ico_PokeShape_01"
+    },
+    {
+        "id": "KT0002",
+        "ms": "sp_kata_0002",
+        "imagePath": "cmn_ico_PokeShape_02"
+    },
+    {
+        "id": "KT0003",
+        "ms": "sp_kata_0003",
+        "imagePath": "cmn_ico_PokeShape_03"
+    },
+    {
+        "id": "KT0004",
+        "ms": "sp_kata_0004",
+        "imagePath": "cmn_ico_PokeShape_04"
+    },
+    {
+        "id": "KT0005",
+        "ms": "sp_kata_0005",
+        "imagePath": "cmn_ico_PokeShape_05"
+    },
+    {
+        "id": "KT0006",
+        "ms": "sp_kata_0006",
+        "imagePath": "cmn_ico_PokeShape_06"
+    },
+    {
+        "id": "KT0007",
+        "ms": "sp_kata_0007",
+        "imagePath": "cmn_ico_PokeShape_07"
+    },
+    {
+        "id": "KT0008",
+        "ms": "sp_kata_0008",
+        "imagePath": "cmn_ico_PokeShape_08"
+    },
+    {
+        "id": "KT0009",
+        "ms": "sp_kata_0009",
+        "imagePath": "cmn_ico_PokeShape_09"
+    },
+    {
+        "id": "KT0010",
+        "ms": "sp_kata_0010",
+        "imagePath": "cmn_ico_PokeShape_10"
+    },
+    {
+        "id": "KT0011",
+        "ms": "sp_kata_0011",
+        "imagePath": "cmn_ico_PokeShape_11"
+    },
+    {
+        "id": "KT0012",
+        "ms": "sp_kata_0012",
+        "imagePath": "cmn_ico_PokeShape_12"
+    },
+    {
+        "id": "KT0013",
+        "ms": "sp_kata_0013",
+        "imagePath": "cmn_ico_PokeShape_13"
+    },
+    {
+        "id": "KT0014",
+        "ms": "sp_kata_0014",
+        "imagePath": "cmn_ico_PokeShape_14"
+    }
+]

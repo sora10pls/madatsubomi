@@ -1,0 +1,87 @@
+[
+    {
+        "id": "RG001",
+        "no": 1,
+        "ms": "place_name_spe:MAPNAME_KANTO"
+    },
+    {
+        "id": "RG002",
+        "no": 2,
+        "ms": "place_name_spe:MAPNAME_ZYOTO"
+    },
+    {
+        "id": "RG003",
+        "no": 3,
+        "ms": "place_name_spe:MAPNAME_HOUEN"
+    },
+    {
+        "id": "RG004",
+        "no": 4,
+        "ms": "place_name_spe:MAPNAME_SINOH"
+    },
+    {
+        "id": "RG005",
+        "no": 5,
+        "ms": "place_name_spe:MAPNAME_IISHU"
+    },
+    {
+        "id": "RG006",
+        "no": 6,
+        "ms": "place_name_spe:MAPNAME_KAROSU"
+    },
+    {
+        "id": "RG007",
+        "no": 7,
+        "ms": "place_name_spe:MAPNAME_AROORA"
+    },
+    {
+        "id": "RG008",
+        "no": 8,
+        "ms": "place_name_spe:MAPNAME_HOLOHOLO"
+    },
+    {
+        "id": "RG009",
+        "no": 9,
+        "ms": "place_name_spe:MAPNAME_VCKANTOH"
+    },
+    {
+        "id": "RG010",
+        "no": 10,
+        "ms": "place_name_spe:MAPNAME_VCZYOTO"
+    },
+    {
+        "id": "RG011",
+        "no": 11,
+        "ms": "place_name_spe:MAPNAME_LETSGO"
+    },
+    {
+        "id": "RG012",
+        "no": 12,
+        "ms": "place_name_spe:MAPNAME_GARARU"
+    },
+    {
+        "id": "RG013",
+        "no": 13,
+        "ms": "place_name_spe:MAPNAME_HOME"
+    },
+    {
+        "id": "RG014",
+        "no": 14,
+        "ms": "place_name_spe:MAPNAME_TOOKUHANARETATOTI"
+    },
+    {
+        "id": "RG015",
+        "no": 15,
+        "ms": "place_name_spe:MAPNAME_HISUI"
+    },
+    {
+        "id": "RG016",
+        "no": 16,
+        "ms": "place_name_spe:MAPNAME_BDSP"
+    },
+    {
+        "id": "RG017",
+        "no": 17,
+        "ms": "place_name_spe:MAPNAME_PALDEA"
+    }
+]
