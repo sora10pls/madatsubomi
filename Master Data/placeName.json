@@ -22979,5 +22979,14 @@
         ],
         "placeNameIds": "218,618",
         "msPlace": "BDSP_place_name:DP_fld_arenames_030"
+    },
+    {
+        "id": "2519",
+        "softwareIds": [
+            "SF048",
+            "SF049"
+        ],
+        "placeNameIds": "379-384",
+        "msPlace": "BDSP_place_name:DP_fld_arenames_081"
     }
 ]
