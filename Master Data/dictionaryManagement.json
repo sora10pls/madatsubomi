@@ -11,7 +11,8 @@
         ],
         "dispProfileType": 2,
         "silhouetteType": 1,
-        "listAtlasName": "SoftDicIconSW001"
+        "listAtlasName": "SoftDicIconSW001",
+        "kpiToken": "ec7w1l"
     },
     {
         "id": "DM002001",
@@ -22,7 +23,8 @@
         "mdSoftwareIds": [],
         "dispProfileType": 2,
         "silhouetteType": 1,
-        "listAtlasName": "SoftDicIconSW002"
+        "listAtlasName": "SoftDicIconSW002",
+        "kpiToken": "rf8m3y"
     },
     {
         "id": "DM002002",
@@ -33,7 +35,8 @@
         "mdSoftwareIds": [],
         "dispProfileType": 2,
         "silhouetteType": 1,
-        "listAtlasName": "SoftDicIconSW003"
+        "listAtlasName": "SoftDicIconSW003",
+        "kpiToken": "gqfebt"
     },
     {
         "id": "DM003000",
@@ -47,7 +50,8 @@
         ],
         "dispProfileType": 2,
         "silhouetteType": 1,
-        "listAtlasName": "SoftDicIconSW004"
+        "listAtlasName": "SoftDicIconSW004",
+        "kpiToken": "qbe8zp"
     },
     {
         "id": "DM004000",
@@ -61,7 +65,8 @@
         ],
         "dispProfileType": 2,
         "silhouetteType": 1,
-        "listAtlasName": "SoftDicIconSW005"
+        "listAtlasName": "SoftDicIconSW005",
+        "kpiToken": "dmj32q"
     },
     {
         "id": "DM005000",
@@ -74,7 +79,8 @@
         ],
         "dispProfileType": 2,
         "silhouetteType": 2,
-        "listAtlasName": "SoftDicIconSW006"
+        "listAtlasName": "SoftDicIconSW006",
+        "kpiToken": "bi0q57"
     },
     {
         "id": "DM006000",
@@ -87,7 +93,8 @@
         ],
         "dispProfileType": 1,
         "silhouetteType": 1,
-        "listAtlasName": ""
+        "listAtlasName": "",
+        "kpiToken": ""
     },
     {
         "id": "DM007000",
@@ -101,7 +108,8 @@
         ],
         "dispProfileType": 2,
         "silhouetteType": 3,
-        "listAtlasName": "SoftDicIconSW008"
+        "listAtlasName": "SoftDicIconSW008",
+        "kpiToken": "uja7ni"
     },
     {
         "id": "DM007001",
@@ -112,6 +120,7 @@
         "mdSoftwareIds": [],
         "dispProfileType": 2,
         "silhouetteType": 3,
-        "listAtlasName": "SoftDicIconSW009"
+        "listAtlasName": "SoftDicIconSW009",
+        "kpiToken": "1a8vwv"
     }
 ]
