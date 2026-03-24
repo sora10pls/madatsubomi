@@ -74212,10 +74212,8 @@
         "id": "DI0809000",
         "dictionaryId": 809,
         "formNo": 0,
-        "mdFormChangeDics": [
-            "DI0809000"
-        ],
-        "formChangeDicsNum": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
         "regionIds": [
             0,
             0,
@@ -74311,7 +74309,7 @@
         "mdColor": "IR0008",
         "mdKata": "KT0011",
         "isInNumberSort": 0,
-        "isInAllForm": 0,
+        "isInAllForm": 1,
         "isDMax": 1,
         "isReferDMaxSpFlag": 0,
         "isMega": 0,
