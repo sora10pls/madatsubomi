@@ -15,6 +15,11 @@
         "paramString": ""
     },
     {
+        "id": "CI004",
+        "paramInt": 1,
+        "paramString": ""
+    },
+    {
         "id": "CI999",
         "paramInt": 0,
         "paramString": ""
