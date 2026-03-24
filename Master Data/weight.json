@@ -6605,6 +6605,11 @@
         "ms": "zkn_weight:ZKN_WEIGHT_901_000"
     },
     {
+        "id": "WE0901001",
+        "sort": 1365,
+        "ms": "zkn_weight:ZKN_WEIGHT_901_001"
+    },
+    {
         "id": "WE0902000",
         "sort": 1190,
         "ms": "zkn_weight:ZKN_WEIGHT_902_000"
@@ -7208,5 +7213,85 @@
         "id": "WE1010000",
         "sort": 1220,
         "ms": "zkn_weight:ZKN_WEIGHT_1010_000"
+    },
+    {
+        "id": "WE1011000",
+        "sort": 896,
+        "ms": "zkn_weight:ZKN_WEIGHT_1011_000"
+    },
+    {
+        "id": "WE1012000",
+        "sort": 456,
+        "ms": "zkn_weight:ZKN_WEIGHT_1012_000"
+    },
+    {
+        "id": "WE1012001",
+        "sort": 457,
+        "ms": "zkn_weight:ZKN_WEIGHT_1012_001"
+    },
+    {
+        "id": "WE1013000",
+        "sort": 1300,
+        "ms": "zkn_weight:ZKN_WEIGHT_1013_000"
+    },
+    {
+        "id": "WE1013001",
+        "sort": 1301,
+        "ms": "zkn_weight:ZKN_WEIGHT_1013_001"
+    },
+    {
+        "id": "WE1014000",
+        "sort": 1418,
+        "ms": "zkn_weight:ZKN_WEIGHT_1014_000"
+    },
+    {
+        "id": "WE1015000",
+        "sort": 1222,
+        "ms": "zkn_weight:ZKN_WEIGHT_1015_000"
+    },
+    {
+        "id": "WE1016000",
+        "sort": 1328,
+        "ms": "zkn_weight:ZKN_WEIGHT_1016_000"
+    },
+    {
+        "id": "WE1017000",
+        "sort": 1381,
+        "ms": "zkn_weight:ZKN_WEIGHT_1017_000"
+    },
+    {
+        "id": "WE1017001",
+        "sort": 1382,
+        "ms": "zkn_weight:ZKN_WEIGHT_1017_001"
+    },
+    {
+        "id": "WE1017002",
+        "sort": 1383,
+        "ms": "zkn_weight:ZKN_WEIGHT_1017_002"
+    },
+    {
+        "id": "WE1017003",
+        "sort": 1384,
+        "ms": "zkn_weight:ZKN_WEIGHT_1017_003"
+    },
+    {
+        "id": "WE1017004",
+        "sort": 1385,
+        "ms": "zkn_weight:ZKN_WEIGHT_1017_004"
+    },
+    {
+        "id": "WE1017005",
+        "sort": 1386,
+        "ms": "zkn_weight:ZKN_WEIGHT_1017_005"
+    },
+    {
+        "id": "WE1017006",
+        "sort": 1387,
+        "ms": "zkn_weight:ZKN_WEIGHT_1017_006"
+    },
+    {
+        "id": "WE1017007",
+        "sort": 1388,
+        "ms": "zkn_weight:ZKN_WEIGHT_1017_007"
     }
 ]

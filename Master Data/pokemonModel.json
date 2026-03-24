@@ -35650,6 +35650,32 @@
         "viewAngleMin": -45
     },
     {
+        "id": "PM09010013",
+        "model": "pm0901_11_00",
+        "modelShiny": "pm0901_11_00_rare",
+        "variation": "11_00",
+        "scale1Str": "0.592592593",
+        "scale2Fix": 60,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 270,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 122,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
         "id": "PM09020003",
         "model": "pm0902_11_41",
         "modelShiny": "pm0902_11_41_rare",
@@ -38782,6 +38808,318 @@
             0
         ],
         "modelHeightFix": 150,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 50,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10110000",
+        "model": "pm1011_00_00",
+        "modelShiny": "pm1011_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "1.2",
+        "scale2Fix": 120,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 40,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 20,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10120005",
+        "model": "pm1012_11_00",
+        "modelShiny": "pm1012_11_00_rare",
+        "variation": "11_00",
+        "scale1Str": "3.5",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 10,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 10,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10120015",
+        "model": "pm1012_12_00",
+        "modelShiny": "pm1012_12_00_rare",
+        "variation": "12_00",
+        "scale1Str": "3.5",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 10,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 10,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10130005",
+        "model": "pm1013_11_00",
+        "modelShiny": "pm1013_11_00_rare",
+        "variation": "11_00",
+        "scale1Str": "2.4",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 20,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 20,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10130015",
+        "model": "pm1013_12_00",
+        "modelShiny": "pm1013_12_00_rare",
+        "variation": "12_00",
+        "scale1Str": "2.4",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 22,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 20,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10140003",
+        "model": "pm1014_00_00",
+        "modelShiny": "pm1014_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.555555556",
+        "scale2Fix": 120,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 180,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 50,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10150003",
+        "model": "pm1015_00_00",
+        "modelShiny": "pm1015_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.75",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 100,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 40,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10160003",
+        "model": "pm1016_00_00",
+        "modelShiny": "pm1016_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.714285714",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            -20,
+            0
+        ],
+        "modelHeightFix": 140,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 110,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10170004",
+        "model": "pm1017_11_00",
+        "modelShiny": "pm1017_11_00_rare",
+        "variation": "11_00",
+        "scale1Str": "0.833333333",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 120,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 50,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10170014",
+        "model": "pm1017_12_00",
+        "modelShiny": "pm1017_12_00_rare",
+        "variation": "12_00",
+        "scale1Str": "0.833333333",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 120,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 50,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10170024",
+        "model": "pm1017_13_00",
+        "modelShiny": "pm1017_13_00_rare",
+        "variation": "13_00",
+        "scale1Str": "0.833333333",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 120,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba21_tokusyu01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 50,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10170034",
+        "model": "pm1017_14_00",
+        "modelShiny": "pm1017_14_00_rare",
+        "variation": "14_00",
+        "scale1Str": "0.833333333",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 120,
         "trdDemoPosRatioFix": 100,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [

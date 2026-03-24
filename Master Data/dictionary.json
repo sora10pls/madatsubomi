@@ -635,8 +635,7 @@
         "paramSPD": 100,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 30000,
@@ -2470,7 +2469,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT004",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 550,
@@ -2541,7 +2541,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT004",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1800,
@@ -2707,8 +2708,7 @@
         "paramSPD": 90,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 19200,
@@ -3640,7 +3640,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 800,
@@ -3711,7 +3712,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT004",
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 910,
@@ -3782,7 +3784,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1130,
@@ -3853,7 +3856,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT004",
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1350,
@@ -4360,7 +4364,8 @@
             "TT004",
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 760,
@@ -4433,7 +4438,8 @@
             "TT004",
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1600,
@@ -4505,7 +4511,8 @@
             "TT004",
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 950,
@@ -4576,7 +4583,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 900,
@@ -4648,7 +4656,8 @@
             "TT004",
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1350,
@@ -4720,7 +4729,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1630,
@@ -5959,8 +5969,7 @@
         "paramSPD": 90,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 31800,
@@ -6877,7 +6886,7 @@
         "mdTokuIds": [
             "TK0022",
             "TK0018",
-            "TK0069"
+            "TK0154"
         ],
         "isTokuClose": 1,
         "mdColor": "IR0006",
@@ -6977,7 +6986,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1050,
@@ -7049,7 +7059,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1445,
@@ -7122,7 +7133,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2000,
@@ -7771,7 +7783,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT004",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 800,
@@ -7842,7 +7855,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT004",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1350,
@@ -7913,7 +7927,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT004",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1850,
@@ -8134,7 +8149,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1380,
@@ -8205,7 +8221,8 @@
         "paramSPD": 20,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1050,
@@ -8278,7 +8295,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2190,
@@ -8349,7 +8367,8 @@
         "paramSPD": 35,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2070,
@@ -8422,7 +8441,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1830,
@@ -8493,7 +8513,8 @@
         "paramSPD": 45,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1900,
@@ -10443,8 +10464,7 @@
         "paramSPD": 110,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 27600,
@@ -10945,8 +10965,7 @@
         "paramSPD": 75,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT006"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 33800,
@@ -12035,7 +12054,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 980,
@@ -12107,7 +12127,8 @@
         "appearSoftwareAper": [
             "TT004",
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1450,
@@ -12178,7 +12199,8 @@
         "paramSPD": 60,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 3150,
@@ -14489,8 +14511,7 @@
         "paramSPD": 55,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 22000,
@@ -15357,7 +15378,8 @@
             "TT004",
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2250,
@@ -17118,7 +17140,8 @@
         "paramSPD": 20,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1450,
@@ -17188,7 +17211,8 @@
         "paramSPD": 90,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1150,
@@ -17260,7 +17284,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 950,
@@ -17332,7 +17357,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1630,
@@ -17545,7 +17571,8 @@
         "paramSPD": 30,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 600,
@@ -17616,7 +17643,8 @@
         "paramSPD": 40,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1100,
@@ -17976,7 +18004,8 @@
         "appearSoftwareAper": [
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 380,
@@ -18975,7 +19004,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1500,
@@ -19262,7 +19292,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1150,
@@ -19476,7 +19507,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1300,
@@ -22164,7 +22196,7 @@
         "mdDescTextId": "TX0203000",
         "mdForm": "FN0203000",
         "formGender": 3,
-        "mdEvoPatId": "EV0001",
+        "mdEvoPatId": "EV0458",
         "mdTokuIds": [
             "TK0039",
             "TK0048",
@@ -22376,7 +22408,7 @@
         "mdDescTextId": "TX0206000",
         "mdForm": "FN0206000",
         "formGender": 3,
-        "mdEvoPatId": "EV0001",
+        "mdEvoPatId": "EV0459",
         "mdTokuIds": [
             "TK0032",
             "TK0050",
@@ -22484,7 +22516,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 750,
@@ -23623,7 +23656,8 @@
         "paramSPD": 20,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 840,
@@ -23694,7 +23728,8 @@
         "paramSPD": 30,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1180,
@@ -23767,7 +23802,8 @@
         "appearSoftwareAper": [
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 620,
@@ -23840,7 +23876,8 @@
         "appearSoftwareAper": [
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1200,
@@ -27089,7 +27126,8 @@
         "paramSPD": 35,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 710,
@@ -27159,7 +27197,8 @@
         "paramSPD": 70,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1150,
@@ -27865,7 +27904,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1020,
@@ -27937,7 +27977,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1430,
@@ -28009,7 +28050,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1610,
@@ -28080,7 +28122,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 640,
@@ -28152,7 +28195,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 800,
@@ -28192,7 +28236,7 @@
         "mdEvoPatId": "EV0115",
         "mdTokuIds": [
             "TK0034",
-            "TK0048",
+            "TK0274",
             "TK0124"
         ],
         "isTokuClose": 0,
@@ -28224,7 +28268,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1880,
@@ -29999,7 +30044,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1180,
@@ -31325,7 +31371,8 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1020,
@@ -31395,7 +31442,8 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 780,
@@ -33516,7 +33564,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 700,
@@ -33588,7 +33637,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1330,
@@ -34083,7 +34133,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 630,
@@ -34154,7 +34205,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2290,
@@ -34774,7 +34826,8 @@
         "appearSoftwareAper": [
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1090,
@@ -34845,7 +34898,8 @@
         "appearSoftwareAper": [
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1900,
@@ -34986,7 +35040,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 670,
@@ -37499,7 +37554,8 @@
         "isLegend": 1,
         "appearSoftwareAper": [
             "TT005",
-            "TT006"
+            "TT006",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 480,
@@ -37841,7 +37897,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 500,
@@ -37911,7 +37968,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1250,
@@ -37982,7 +38040,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2300,
@@ -38052,7 +38111,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 720,
@@ -38123,7 +38183,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1100,
@@ -38194,7 +38255,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1310,
@@ -38233,7 +38295,7 @@
         "mdEvoPatId": "EV0155",
         "mdTokuIds": [
             "TK0067",
-            "TK0128"
+            "TK0172"
         ],
         "isTokuClose": 0,
         "mdColor": "IR0002",
@@ -38264,7 +38326,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 540,
@@ -38303,7 +38366,7 @@
         "mdEvoPatId": "EV0155",
         "mdTokuIds": [
             "TK0067",
-            "TK0128"
+            "TK0172"
         ],
         "isTokuClose": 0,
         "mdColor": "IR0002",
@@ -38334,7 +38397,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 970,
@@ -38374,7 +38438,7 @@
         "mdEvoPatId": "EV0155",
         "mdTokuIds": [
             "TK0067",
-            "TK0128"
+            "TK0172"
         ],
         "isTokuClose": 0,
         "mdColor": "IR0002",
@@ -38405,7 +38469,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1690,
@@ -41130,7 +41195,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1670,
@@ -41843,7 +41909,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 500,
@@ -42861,7 +42928,8 @@
         "appearSoftwareAper": [
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 740,
@@ -44663,7 +44731,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2000,
@@ -44879,7 +44948,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2000,
@@ -44952,7 +45022,8 @@
         "appearSoftwareAper": [
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 3190,
@@ -45237,7 +45308,8 @@
         "isLegend": 0,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1460,
@@ -45308,7 +45380,8 @@
         "appearSoftwareAper": [
             "TT005",
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2040,
@@ -46742,7 +46815,8 @@
         "isLegend": 1,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 750,
@@ -46811,7 +46885,8 @@
         "isLegend": 1,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 850,
@@ -46880,7 +46955,8 @@
         "isLegend": 1,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1550,
@@ -46949,7 +47025,8 @@
         "isLegend": 1,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 300,
@@ -47019,7 +47096,8 @@
         "isLegend": 1,
         "appearSoftwareAper": [
             "TT006",
-            "TT007"
+            "TT007",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 550,
@@ -51519,7 +51597,8 @@
         "paramSPD": 35,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 900,
@@ -51589,7 +51668,8 @@
         "paramSPD": 40,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1680,
@@ -51659,7 +51739,8 @@
         "paramSPD": 45,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1860,
@@ -52081,7 +52162,9 @@
         "paramSDEF": 60,
         "paramSPD": 42,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT008"
+        ],
         "isHideModel": 0,
         "compareSizeScaleFix": 370,
         "compareLayoutScaleFix": 850,
@@ -52150,7 +52233,9 @@
         "paramSDEF": 80,
         "paramSPD": 42,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT008"
+        ],
         "isHideModel": 0,
         "compareSizeScaleFix": 950,
         "compareLayoutScaleFix": 850,
@@ -52219,7 +52304,9 @@
         "paramSDEF": 80,
         "paramSPD": 92,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT008"
+        ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1300,
         "compareLayoutScaleFix": 600,
@@ -55741,7 +55828,9 @@
         "paramSDEF": 50,
         "paramSPD": 55,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT008"
+        ],
         "isHideModel": 0,
         "compareSizeScaleFix": 600,
         "compareLayoutScaleFix": 700,
@@ -55810,7 +55899,9 @@
         "paramSDEF": 63,
         "paramSPD": 98,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT008"
+        ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1360,
         "compareLayoutScaleFix": 800,
@@ -58058,7 +58149,8 @@
         "paramSPD": 20,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 570,
@@ -58129,7 +58221,8 @@
         "paramSPD": 55,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 900,
@@ -58200,7 +58293,8 @@
         "paramSPD": 80,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1810,
@@ -58974,7 +59068,8 @@
         "paramSPD": 65,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 970,
@@ -59044,7 +59139,8 @@
         "paramSPD": 105,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1700,
@@ -59758,7 +59854,8 @@
         "paramSPD": 60,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 730,
@@ -59829,7 +59926,8 @@
         "paramSPD": 80,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1270,
@@ -72012,7 +72110,8 @@
         "paramSPD": 38,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 590,
@@ -72083,7 +72182,8 @@
         "paramSPD": 56,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1730,
@@ -75121,7 +75221,8 @@
         "paramSPD": 46,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 460,
@@ -75190,7 +75291,8 @@
         "paramSPD": 36,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 530,
@@ -75261,7 +75363,8 @@
         "paramSPD": 43,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1430,
@@ -75749,7 +75852,8 @@
         "paramSPD": 84,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 240,
@@ -75822,7 +75926,8 @@
         "paramSPD": 124,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 280,
@@ -81028,7 +81133,8 @@
         "paramSPD": 45,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 700,
@@ -81099,7 +81205,8 @@
         "paramSPD": 65,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1270,
@@ -81172,7 +81279,8 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1880,
@@ -83101,7 +83209,6 @@
         "paramSPD": 34,
         "isLegend": 1,
         "appearSoftwareAper": [
-            "TT004",
             "TT005"
         ],
         "isHideModel": 0,
@@ -83170,7 +83277,6 @@
         "paramSPD": 34,
         "isLegend": 1,
         "appearSoftwareAper": [
-            "TT004",
             "TT005"
         ],
         "isHideModel": 0,
@@ -83522,8 +83628,7 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 50000,
@@ -83804,8 +83909,7 @@
         "paramSPD": 119,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 25500,
@@ -84086,8 +84190,7 @@
         "paramSPD": 120,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 39250,
@@ -84514,8 +84617,7 @@
         "paramSPD": 67,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 31200,
@@ -85436,8 +85538,7 @@
         "paramSPD": 74,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 22300,
@@ -85863,8 +85964,7 @@
         "paramSPD": 30,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 41000,
@@ -86081,8 +86181,7 @@
         "paramSPD": 70,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 22400,
@@ -86227,8 +86326,7 @@
         "paramSPD": 30,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 22400,
@@ -86442,8 +86540,7 @@
         "paramSPD": 71,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 26600,
@@ -86512,7 +86609,8 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1080,
@@ -86581,7 +86679,8 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1180,
@@ -86650,7 +86749,8 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1180,
@@ -87007,8 +87107,7 @@
         "paramSPD": 75,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 28500,
@@ -87153,8 +87252,7 @@
         "paramSPD": 75,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 28500,
@@ -88074,8 +88172,7 @@
         "paramSPD": 29,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 24750,
@@ -88364,8 +88461,7 @@
         "paramSPD": 60,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 30000,
@@ -93982,7 +94078,8 @@
         "paramSPD": 97,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 450,
@@ -94051,7 +94148,8 @@
         "paramSPD": 97,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005"
+            "TT005",
+            "TT008"
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 500,
@@ -94262,8 +94360,7 @@
         "paramSPD": 30,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 28000,
@@ -95534,8 +95631,7 @@
         "paramSPD": 97,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 28000,
@@ -95676,8 +95772,7 @@
         "paramSPD": 97,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT005",
-            "TT008"
+            "TT005"
         ],
         "isHideModel": 1,
         "compareSizeScaleFix": 28000,
@@ -96490,7 +96585,7 @@
         "mdTokuIds": [
             "TK0068",
             "TK0125",
-            "TK0292"
+            "TK0080"
         ],
         "isTokuClose": 1,
         "mdColor": "IR0006",
@@ -96596,6 +96691,75 @@
         "compareSizeScaleFix": 3100,
         "compareLayoutScaleFix": 1100,
         "compareOffsetYFix": -150,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI0901001",
+        "dictionaryId": 901,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0901",
+        "mdTypeIds": [
+            "TY0004",
+            "TY0000"
+        ],
+        "mdPokemonImage": "PI0901001",
+        "voice": "mt_PV_EV_0901_01_00",
+        "voiceFemale": "mt_PV_EV_0901_01_00",
+        "mdCateId": "CA0901000",
+        "mdHeightId": "HE0901001",
+        "mdWeightId": "WE0901001",
+        "mdDescTextId": "TX0901001",
+        "mdForm": "FN0901001",
+        "formGender": 1,
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0300"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0006",
+        "mdKata": "KT0005",
+        "growth": 0,
+        "heightEX": 270,
+        "weightEX": 333,
+        "isInNumberSort": 0,
+        "isInAllForm": 2,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 113,
+        "paramATK": 70,
+        "paramDEF": 120,
+        "paramSATK": 135,
+        "paramSDEF": 65,
+        "paramSPD": 52,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 3700,
+        "compareLayoutScaleFix": 1075,
+        "compareOffsetYFix": -255,
         "compareOffsetXFix": 0
     },
     {
@@ -97092,7 +97256,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 625,
-        "compareLayoutScaleFix": 1000,
+        "compareLayoutScaleFix": 700,
         "compareOffsetYFix": -20,
         "compareOffsetXFix": 0
     },
@@ -97161,8 +97325,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1025,
-        "compareLayoutScaleFix": 525,
-        "compareOffsetYFix": -45,
+        "compareLayoutScaleFix": 700,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -97230,9 +97394,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1425,
-        "compareLayoutScaleFix": 825,
-        "compareOffsetYFix": -55,
+        "compareSizeScaleFix": 1600,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -60,
         "compareOffsetXFix": 0
     },
     {
@@ -97300,8 +97464,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 725,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -40,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -25,
         "compareOffsetXFix": 0
     },
     {
@@ -97369,8 +97533,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1050,
-        "compareLayoutScaleFix": 675,
-        "compareOffsetYFix": -75,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -45,
         "compareOffsetXFix": 0
     },
     {
@@ -97439,8 +97603,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1950,
-        "compareLayoutScaleFix": 1125,
-        "compareOffsetYFix": -105,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -55,
         "compareOffsetXFix": 0
     },
     {
@@ -97508,8 +97672,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 750,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -25,
+        "compareLayoutScaleFix": 600,
+        "compareOffsetYFix": -20,
         "compareOffsetXFix": 0
     },
     {
@@ -97577,8 +97741,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1350,
-        "compareLayoutScaleFix": 500,
-        "compareOffsetYFix": -105,
+        "compareLayoutScaleFix": 600,
+        "compareOffsetYFix": -50,
         "compareOffsetXFix": 0
     },
     {
@@ -97647,8 +97811,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1925,
-        "compareLayoutScaleFix": 650,
-        "compareOffsetYFix": -100,
+        "compareLayoutScaleFix": 600,
+        "compareOffsetYFix": -80,
         "compareOffsetXFix": 0
     },
     {
@@ -97717,8 +97881,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 875,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -50,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -40,
         "compareOffsetXFix": 0
     },
     {
@@ -97788,7 +97952,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1375,
         "compareLayoutScaleFix": 750,
-        "compareOffsetYFix": -110,
+        "compareOffsetYFix": -50,
         "compareOffsetXFix": 0
     },
     {
@@ -97858,7 +98022,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1350,
         "compareLayoutScaleFix": 750,
-        "compareOffsetYFix": -90,
+        "compareOffsetYFix": -40,
         "compareOffsetXFix": 0
     },
     {
@@ -97926,8 +98090,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 650,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -75,
+        "compareLayoutScaleFix": 700,
+        "compareOffsetYFix": -25,
         "compareOffsetXFix": 0
     },
     {
@@ -97995,8 +98159,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1475,
-        "compareLayoutScaleFix": 850,
-        "compareOffsetYFix": -95,
+        "compareLayoutScaleFix": 950,
+        "compareOffsetYFix": -50,
         "compareOffsetXFix": 0
     },
     {
@@ -98064,8 +98228,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 400,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -75,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -20,
         "compareOffsetXFix": 0
     },
     {
@@ -98134,8 +98298,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1150,
-        "compareLayoutScaleFix": 725,
-        "compareOffsetYFix": -45,
+        "compareLayoutScaleFix": 600,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -98203,9 +98367,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 475,
+        "compareSizeScaleFix": 420,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -75,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -98274,9 +98438,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 800,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -60,
+        "compareSizeScaleFix": 600,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -25,
         "compareOffsetXFix": 0
     },
     {
@@ -98346,8 +98510,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1050,
-        "compareLayoutScaleFix": 700,
-        "compareOffsetYFix": -50,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -25,
         "compareOffsetXFix": 0
     },
     {
@@ -98415,9 +98579,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 875,
-        "compareLayoutScaleFix": 1125,
-        "compareOffsetYFix": -30,
+        "compareSizeScaleFix": 1000,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -20,
         "compareOffsetXFix": 0
     },
     {
@@ -98486,8 +98650,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 850,
-        "compareLayoutScaleFix": 525,
-        "compareOffsetYFix": -60,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -20,
         "compareOffsetXFix": 0
     },
     {
@@ -98556,8 +98720,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 850,
-        "compareLayoutScaleFix": 1125,
-        "compareOffsetYFix": -45,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -98624,9 +98788,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 675,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -65,
+        "compareSizeScaleFix": 600,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -35,
         "compareOffsetXFix": 0
     },
     {
@@ -98694,8 +98858,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 975,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -80,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -40,
         "compareOffsetXFix": 0
     },
     {
@@ -98764,8 +98928,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 525,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -30,
+        "compareLayoutScaleFix": 600,
+        "compareOffsetYFix": -10,
         "compareOffsetXFix": 0
     },
     {
@@ -98835,7 +98999,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 800,
         "compareLayoutScaleFix": 600,
-        "compareOffsetYFix": -40,
+        "compareOffsetYFix": -25,
         "compareOffsetXFix": 0
     },
     {
@@ -98975,8 +99139,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1000,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -45,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -99046,8 +99210,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1000,
-        "compareLayoutScaleFix": 600,
-        "compareOffsetYFix": -45,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -99117,8 +99281,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1000,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -45,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -99188,8 +99352,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1000,
-        "compareLayoutScaleFix": 625,
-        "compareOffsetYFix": -45,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -99258,8 +99422,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 375,
-        "compareLayoutScaleFix": 1500,
-        "compareOffsetYFix": -35,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -15,
         "compareOffsetXFix": 0
     },
     {
@@ -99328,8 +99492,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 900,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -125,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -60,
         "compareOffsetXFix": 0
     },
     {
@@ -99397,7 +99561,7 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2025,
+        "compareSizeScaleFix": 2300,
         "compareLayoutScaleFix": 825,
         "compareOffsetYFix": -130,
         "compareOffsetXFix": 0
@@ -99466,9 +99630,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 850,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -50,
+        "compareSizeScaleFix": 980,
+        "compareLayoutScaleFix": 400,
+        "compareOffsetYFix": -40,
         "compareOffsetXFix": 0
     },
     {
@@ -99536,7 +99700,7 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1400,
+        "compareSizeScaleFix": 1600,
         "compareLayoutScaleFix": 625,
         "compareOffsetYFix": -40,
         "compareOffsetXFix": 0
@@ -99606,9 +99770,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1475,
-        "compareLayoutScaleFix": 825,
-        "compareOffsetYFix": -35,
+        "compareSizeScaleFix": 1750,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -50,
         "compareOffsetXFix": 0
     },
     {
@@ -99677,8 +99841,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 550,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": 180,
+        "compareLayoutScaleFix": 500,
+        "compareOffsetYFix": 200,
         "compareOffsetXFix": 0
     },
     {
@@ -99746,9 +99910,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1200,
+        "compareSizeScaleFix": 1250,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -80,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -99817,9 +99981,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 675,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -85,
+        "compareSizeScaleFix": 600,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -99889,8 +100053,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1650,
-        "compareLayoutScaleFix": 650,
-        "compareOffsetYFix": 100,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": 200,
         "compareOffsetXFix": 0
     },
     {
@@ -99959,8 +100123,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1025,
-        "compareLayoutScaleFix": 1100,
-        "compareOffsetYFix": -60,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -50,
         "compareOffsetXFix": 0
     },
     {
@@ -100030,7 +100194,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1375,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -185,
+        "compareOffsetYFix": -90,
         "compareOffsetXFix": 0
     },
     {
@@ -100100,8 +100264,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 475,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -55,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -35,
         "compareOffsetXFix": 0
     },
     {
@@ -100171,7 +100335,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1100,
-        "compareLayoutScaleFix": 1000,
+        "compareLayoutScaleFix": 900,
         "compareOffsetYFix": -50,
         "compareOffsetXFix": 0
     },
@@ -100242,7 +100406,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 825,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -90,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -100310,9 +100474,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1225,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -110,
+        "compareSizeScaleFix": 1400,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -60,
         "compareOffsetXFix": 0
     },
     {
@@ -100381,7 +100545,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1050,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -105,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -100450,7 +100614,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1975,
         "compareLayoutScaleFix": 750,
-        "compareOffsetYFix": -225,
+        "compareOffsetYFix": -140,
         "compareOffsetXFix": 0
     },
     {
@@ -100519,8 +100683,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2175,
-        "compareLayoutScaleFix": 1175,
-        "compareOffsetYFix": -145,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -115,
         "compareOffsetXFix": 0
     },
     {
@@ -100588,9 +100752,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 725,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -55,
+        "compareSizeScaleFix": 500,
+        "compareLayoutScaleFix": 700,
+        "compareOffsetYFix": -40,
         "compareOffsetXFix": 0
     },
     {
@@ -100659,9 +100823,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1200,
+        "compareSizeScaleFix": 1070,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -70,
+        "compareOffsetYFix": -50,
         "compareOffsetXFix": 0
     },
     {
@@ -100729,8 +100893,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 675,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -55,
+        "compareLayoutScaleFix": 600,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -100799,7 +100963,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1400,
-        "compareLayoutScaleFix": 450,
+        "compareLayoutScaleFix": 600,
         "compareOffsetYFix": 10,
         "compareOffsetXFix": 0
     },
@@ -100868,9 +101032,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 550,
-        "compareLayoutScaleFix": 1300,
-        "compareOffsetYFix": 0,
+        "compareSizeScaleFix": 350,
+        "compareLayoutScaleFix": 1100,
+        "compareOffsetYFix": 25,
         "compareOffsetXFix": 0
     },
     {
@@ -100939,8 +101103,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1875,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -165,
+        "compareLayoutScaleFix": 850,
+        "compareOffsetYFix": -65,
         "compareOffsetXFix": 0
     },
     {
@@ -101010,7 +101174,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 900,
-        "compareLayoutScaleFix": 1000,
+        "compareLayoutScaleFix": 900,
         "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
@@ -101082,7 +101246,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1250,
         "compareLayoutScaleFix": 900,
-        "compareOffsetYFix": -150,
+        "compareOffsetYFix": -130,
         "compareOffsetXFix": 0
     },
     {
@@ -101151,8 +101315,8 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1825,
-        "compareLayoutScaleFix": 1200,
+        "compareSizeScaleFix": 2050,
+        "compareLayoutScaleFix": 1100,
         "compareOffsetYFix": -65,
         "compareOffsetXFix": 0
     },
@@ -101222,8 +101386,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1475,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -85,
+        "compareLayoutScaleFix": 500,
+        "compareOffsetYFix": -65,
         "compareOffsetXFix": 0
     },
     {
@@ -101292,7 +101456,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1550,
-        "compareLayoutScaleFix": 1000,
+        "compareLayoutScaleFix": 900,
         "compareOffsetYFix": -90,
         "compareOffsetXFix": 0
     },
@@ -101430,9 +101594,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1500,
-        "compareLayoutScaleFix": 1100,
-        "compareOffsetYFix": -90,
+        "compareSizeScaleFix": 1300,
+        "compareLayoutScaleFix": 950,
+        "compareOffsetYFix": 50,
         "compareOffsetXFix": 0
     },
     {
@@ -101498,9 +101662,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1500,
-        "compareLayoutScaleFix": 850,
-        "compareOffsetYFix": -90,
+        "compareSizeScaleFix": 1300,
+        "compareLayoutScaleFix": 950,
+        "compareOffsetYFix": 50,
         "compareOffsetXFix": 0
     },
     {
@@ -101566,9 +101730,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1875,
-        "compareLayoutScaleFix": 500,
-        "compareOffsetYFix": -45,
+        "compareSizeScaleFix": 2000,
+        "compareLayoutScaleFix": 700,
+        "compareOffsetYFix": -50,
         "compareOffsetXFix": 0
     },
     {
@@ -101637,7 +101801,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1150,
-        "compareLayoutScaleFix": 1500,
+        "compareLayoutScaleFix": 1000,
         "compareOffsetYFix": 250,
         "compareOffsetXFix": 0
     },
@@ -101706,8 +101870,8 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1450,
-        "compareLayoutScaleFix": 1000,
+        "compareSizeScaleFix": 1700,
+        "compareLayoutScaleFix": 900,
         "compareOffsetYFix": 250,
         "compareOffsetXFix": 0
     },
@@ -101778,7 +101942,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1700,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -185,
+        "compareOffsetYFix": -150,
         "compareOffsetXFix": 0
     },
     {
@@ -101845,9 +102009,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1200,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -90,
+        "compareSizeScaleFix": 1800,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -55,
         "compareOffsetXFix": 0
     },
     {
@@ -101916,7 +102080,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1025,
-        "compareLayoutScaleFix": 1000,
+        "compareLayoutScaleFix": 700,
         "compareOffsetYFix": 105,
         "compareOffsetXFix": 0
     },
@@ -101985,8 +102149,8 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1325,
-        "compareLayoutScaleFix": 1000,
+        "compareSizeScaleFix": 1500,
+        "compareLayoutScaleFix": 900,
         "compareOffsetYFix": 0,
         "compareOffsetXFix": 0
     },
@@ -102055,7 +102219,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 925,
-        "compareLayoutScaleFix": 1000,
+        "compareLayoutScaleFix": 900,
         "compareOffsetYFix": -45,
         "compareOffsetXFix": 0
     },
@@ -102194,9 +102358,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1725,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -60,
+        "compareSizeScaleFix": 1600,
+        "compareLayoutScaleFix": 700,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -102265,7 +102429,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2200,
-        "compareLayoutScaleFix": 500,
+        "compareLayoutScaleFix": 700,
         "compareOffsetYFix": -40,
         "compareOffsetXFix": 0
     },
@@ -102334,9 +102498,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 3500,
-        "compareLayoutScaleFix": 1175,
-        "compareOffsetYFix": -165,
+        "compareSizeScaleFix": 5700,
+        "compareLayoutScaleFix": 1100,
+        "compareOffsetYFix": -260,
         "compareOffsetXFix": 0
     },
     {
@@ -102404,8 +102568,8 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1600,
-        "compareLayoutScaleFix": 500,
+        "compareSizeScaleFix": 2000,
+        "compareLayoutScaleFix": 850,
         "compareOffsetYFix": 0,
         "compareOffsetXFix": 0
     },
@@ -102474,9 +102638,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 5000,
+        "compareSizeScaleFix": 11000,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -300,
+        "compareOffsetYFix": -1000,
         "compareOffsetXFix": 0
     },
     {
@@ -102544,9 +102708,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 525,
-        "compareLayoutScaleFix": 350,
-        "compareOffsetYFix": -50,
+        "compareSizeScaleFix": 340,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -15,
         "compareOffsetXFix": 0
     },
     {
@@ -102614,9 +102778,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 550,
-        "compareLayoutScaleFix": 1350,
-        "compareOffsetYFix": -50,
+        "compareSizeScaleFix": 400,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -15,
         "compareOffsetXFix": 0
     },
     {
@@ -102684,9 +102848,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 625,
-        "compareLayoutScaleFix": 450,
-        "compareOffsetYFix": -50,
+        "compareSizeScaleFix": 460,
+        "compareLayoutScaleFix": 700,
+        "compareOffsetYFix": -15,
         "compareOffsetXFix": 0
     },
     {
@@ -102757,7 +102921,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1450,
         "compareLayoutScaleFix": 1200,
-        "compareOffsetYFix": -90,
+        "compareOffsetYFix": -65,
         "compareOffsetXFix": 0
     },
     {
@@ -102828,7 +102992,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 1550,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -85,
+        "compareOffsetYFix": -75,
         "compareOffsetXFix": 0
     },
     {
@@ -102899,7 +103063,7 @@
         "isHideModel": 0,
         "compareSizeScaleFix": 3000,
         "compareLayoutScaleFix": 550,
-        "compareOffsetYFix": -160,
+        "compareOffsetYFix": -115,
         "compareOffsetXFix": 0
     },
     {
@@ -103177,9 +103341,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2825,
-        "compareLayoutScaleFix": 850,
-        "compareOffsetYFix": -210,
+        "compareSizeScaleFix": 3200,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -160,
         "compareOffsetXFix": 0
     },
     {
@@ -103246,9 +103410,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1500,
-        "compareLayoutScaleFix": 1375,
-        "compareOffsetYFix": -55,
+        "compareSizeScaleFix": 1650,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -65,
         "compareOffsetXFix": 0
     },
     {
@@ -103315,9 +103479,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1325,
-        "compareLayoutScaleFix": 400,
-        "compareOffsetYFix": -50,
+        "compareSizeScaleFix": 1550,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -60,
         "compareOffsetXFix": 0
     },
     {
@@ -103385,8 +103549,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1625,
-        "compareLayoutScaleFix": 1650,
-        "compareOffsetYFix": 0,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": 170,
         "compareOffsetXFix": 0
     },
     {
@@ -103453,9 +103617,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2075,
-        "compareLayoutScaleFix": 25,
-        "compareOffsetYFix": -150,
+        "compareSizeScaleFix": 3000,
+        "compareLayoutScaleFix": 750,
+        "compareOffsetYFix": -175,
         "compareOffsetXFix": 0
     },
     {
@@ -103523,8 +103687,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2350,
-        "compareLayoutScaleFix": 1500,
-        "compareOffsetYFix": -245,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -190,
         "compareOffsetXFix": 0
     },
     {
@@ -103591,8 +103755,8 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1250,
-        "compareLayoutScaleFix": -225,
+        "compareSizeScaleFix": 1400,
+        "compareLayoutScaleFix": 950,
         "compareOffsetYFix": -35,
         "compareOffsetXFix": 0
     },
@@ -103660,9 +103824,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1000,
-        "compareLayoutScaleFix": 2150,
-        "compareOffsetYFix": -55,
+        "compareSizeScaleFix": 800,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -103730,8 +103894,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 2975,
-        "compareLayoutScaleFix": 425,
-        "compareOffsetYFix": -35,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -70,
         "compareOffsetXFix": 0
     },
     {
@@ -103799,7 +103963,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1700,
-        "compareLayoutScaleFix": 2050,
+        "compareLayoutScaleFix": 1000,
         "compareOffsetYFix": 0,
         "compareOffsetXFix": 0
     },
@@ -103867,9 +104031,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1400,
-        "compareLayoutScaleFix": -350,
-        "compareOffsetYFix": 10,
+        "compareSizeScaleFix": 1700,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": 0,
         "compareOffsetXFix": 0
     },
     {
@@ -103936,9 +104100,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1775,
-        "compareLayoutScaleFix": 1725,
-        "compareOffsetYFix": -155,
+        "compareSizeScaleFix": 1300,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -115,
         "compareOffsetXFix": 0
     },
     {
@@ -104006,9 +104170,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 875,
-        "compareLayoutScaleFix": 200,
-        "compareOffsetYFix": -40,
+        "compareSizeScaleFix": 680,
+        "compareLayoutScaleFix": 500,
+        "compareOffsetYFix": -30,
         "compareOffsetXFix": 0
     },
     {
@@ -104076,8 +104240,8 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1250,
-        "compareLayoutScaleFix": 1500,
+        "compareSizeScaleFix": 1150,
+        "compareLayoutScaleFix": 1200,
         "compareOffsetYFix": -45,
         "compareOffsetXFix": 0
     },
@@ -104146,9 +104310,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2250,
-        "compareLayoutScaleFix": 275,
-        "compareOffsetYFix": -165,
+        "compareSizeScaleFix": 2160,
+        "compareLayoutScaleFix": 600,
+        "compareOffsetYFix": -160,
         "compareOffsetXFix": 0
     },
     {
@@ -104214,9 +104378,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 900,
-        "compareLayoutScaleFix": 1875,
-        "compareOffsetYFix": -25,
+        "compareSizeScaleFix": 600,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": 0,
         "compareOffsetXFix": 0
     },
     {
@@ -104282,9 +104446,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 375,
-        "compareLayoutScaleFix": -1125,
-        "compareOffsetYFix": -55,
+        "compareSizeScaleFix": 200,
+        "compareLayoutScaleFix": 0,
+        "compareOffsetYFix": -15,
         "compareOffsetXFix": 0
     },
     {
@@ -104352,8 +104516,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 1275,
-        "compareLayoutScaleFix": 1300,
-        "compareOffsetYFix": -85,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -45,
         "compareOffsetXFix": 0
     },
     {
@@ -104420,9 +104584,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2550,
+        "compareSizeScaleFix": 2400,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -190,
+        "compareOffsetYFix": -125,
         "compareOffsetXFix": 0
     },
     {
@@ -104489,9 +104653,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2525,
-        "compareLayoutScaleFix": 850,
-        "compareOffsetYFix": -225,
+        "compareSizeScaleFix": 1900,
+        "compareLayoutScaleFix": 900,
+        "compareOffsetYFix": -105,
         "compareOffsetXFix": 0
     },
     {
@@ -104558,9 +104722,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2450,
-        "compareLayoutScaleFix": 1250,
-        "compareOffsetYFix": -75,
+        "compareSizeScaleFix": 2700,
+        "compareLayoutScaleFix": 1150,
+        "compareOffsetYFix": -65,
         "compareOffsetXFix": 0
     },
     {
@@ -104627,9 +104791,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 800,
-        "compareLayoutScaleFix": 0,
-        "compareOffsetYFix": 80,
+        "compareSizeScaleFix": 700,
+        "compareLayoutScaleFix": 200,
+        "compareOffsetYFix": 130,
         "compareOffsetXFix": 0
     },
     {
@@ -104696,9 +104860,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2275,
-        "compareLayoutScaleFix": 1100,
-        "compareOffsetYFix": 0,
+        "compareSizeScaleFix": 3000,
+        "compareLayoutScaleFix": 1050,
+        "compareOffsetYFix": 100,
         "compareOffsetXFix": 0
     },
     {
@@ -104765,9 +104929,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1500,
-        "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -90,
+        "compareSizeScaleFix": 1800,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -60,
         "compareOffsetXFix": 0
     },
     {
@@ -104834,9 +104998,9 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 2400,
+        "compareSizeScaleFix": 2500,
         "compareLayoutScaleFix": 1000,
-        "compareOffsetYFix": -110,
+        "compareOffsetYFix": -105,
         "compareOffsetXFix": 0
     },
     {
@@ -104904,7 +105068,7 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 3000,
-        "compareLayoutScaleFix": 500,
+        "compareLayoutScaleFix": 600,
         "compareOffsetYFix": 0,
         "compareOffsetXFix": 0
     },
@@ -104973,8 +105137,8 @@
         ],
         "isHideModel": 0,
         "compareSizeScaleFix": 4300,
-        "compareLayoutScaleFix": 1076,
-        "compareOffsetYFix": -170,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -160,
         "compareOffsetXFix": 0
     },
     {
@@ -105041,9 +105205,845 @@
             "TT008"
         ],
         "isHideModel": 0,
-        "compareSizeScaleFix": 1800,
+        "compareSizeScaleFix": 1900,
         "compareLayoutScaleFix": 500,
-        "compareOffsetYFix": -200,
+        "compareOffsetYFix": -90,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1011000",
+        "dictionaryId": 1011,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1011",
+        "mdTypeIds": [
+            "TY0011",
+            "TY0015"
+        ],
+        "mdPokemonImage": "PI1011000",
+        "voice": "mt_PV_EV_1011_00_00",
+        "voiceFemale": "mt_PV_EV_1011_00_00",
+        "mdCateId": "CA1011000",
+        "mdHeightId": "HE1011000",
+        "mdWeightId": "WE1011000",
+        "mdDescTextId": "TX1011000",
+        "mdForm": "FN1011000",
+        "formGender": 3,
+        "mdEvoPatId": "EV0332",
+        "mdTokuIds": [
+            "TK0306",
+            "TK0082",
+            "TK0060"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0004",
+        "mdKata": "KT0001",
+        "growth": 1,
+        "heightEX": 40,
+        "weightEX": 80,
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 80,
+        "paramATK": 80,
+        "paramDEF": 110,
+        "paramSATK": 95,
+        "paramSDEF": 80,
+        "paramSPD": 40,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 510,
+        "compareLayoutScaleFix": 700,
+        "compareOffsetYFix": -30,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1012000",
+        "dictionaryId": 1012,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1012",
+        "mdTypeIds": [
+            "TY0011",
+            "TY0007"
+        ],
+        "mdPokemonImage": "PI1012000",
+        "voice": "mt_PV_EV_1012_00_00",
+        "voiceFemale": "mt_PV_EV_1012_00_00",
+        "mdCateId": "CA1012000",
+        "mdHeightId": "HE1012000",
+        "mdWeightId": "WE1012000",
+        "mdDescTextId": "TX1012000",
+        "mdForm": "FN1012000",
+        "formGender": 0,
+        "mdEvoPatId": "EV0464",
+        "mdTokuIds": [
+            "TK0299",
+            "TK0085"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0004",
+        "mdKata": "KT0014",
+        "growth": 0,
+        "heightEX": 10,
+        "weightEX": 54,
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 40,
+        "paramATK": 45,
+        "paramDEF": 45,
+        "paramSATK": 74,
+        "paramSDEF": 54,
+        "paramSPD": 50,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 220,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": 45,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1012001",
+        "dictionaryId": 1012,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1012",
+        "mdTypeIds": [
+            "TY0011",
+            "TY0007"
+        ],
+        "mdPokemonImage": "PI1012001",
+        "voice": "mt_PV_EV_1012_00_00",
+        "voiceFemale": "mt_PV_EV_1012_00_00",
+        "mdCateId": "CA1012000",
+        "mdHeightId": "HE1012001",
+        "mdWeightId": "WE1012001",
+        "mdDescTextId": "TX1012001",
+        "mdForm": "FN1012001",
+        "formGender": 0,
+        "mdEvoPatId": "EV0465",
+        "mdTokuIds": [
+            "TK0299",
+            "TK0085"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0004",
+        "mdKata": "KT0014",
+        "growth": 0,
+        "heightEX": 10,
+        "weightEX": 54,
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 40,
+        "paramATK": 45,
+        "paramDEF": 45,
+        "paramSATK": 74,
+        "paramSDEF": 54,
+        "paramSPD": 50,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 220,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": 45,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1013000",
+        "dictionaryId": 1013,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1013",
+        "mdTypeIds": [
+            "TY0011",
+            "TY0007"
+        ],
+        "mdPokemonImage": "PI1013000",
+        "voice": "mt_PV_EV_1013_00_00",
+        "voiceFemale": "mt_PV_EV_1013_00_00",
+        "mdCateId": "CA1013000",
+        "mdHeightId": "HE1013000",
+        "mdWeightId": "WE1013000",
+        "mdDescTextId": "TX1013000",
+        "mdForm": "FN1013000",
+        "formGender": 0,
+        "mdEvoPatId": "EV0464",
+        "mdTokuIds": [
+            "TK0299",
+            "TK0085"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0004",
+        "mdKata": "KT0014",
+        "growth": 0,
+        "heightEX": 20,
+        "weightEX": 80,
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 71,
+        "paramATK": 60,
+        "paramDEF": 106,
+        "paramSATK": 121,
+        "paramSDEF": 80,
+        "paramSPD": 70,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 285,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": 45,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1013001",
+        "dictionaryId": 1013,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1013",
+        "mdTypeIds": [
+            "TY0011",
+            "TY0007"
+        ],
+        "mdPokemonImage": "PI1013001",
+        "voice": "mt_PV_EV_1013_00_00",
+        "voiceFemale": "mt_PV_EV_1013_00_00",
+        "mdCateId": "CA1013000",
+        "mdHeightId": "HE1013001",
+        "mdWeightId": "WE1013001",
+        "mdDescTextId": "TX1013001",
+        "mdForm": "FN1013001",
+        "formGender": 0,
+        "mdEvoPatId": "EV0465",
+        "mdTokuIds": [
+            "TK0299",
+            "TK0085"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0004",
+        "mdKata": "KT0014",
+        "growth": 0,
+        "heightEX": 22,
+        "weightEX": 80,
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 71,
+        "paramATK": 60,
+        "paramDEF": 106,
+        "paramSATK": 121,
+        "paramSDEF": 80,
+        "paramSPD": 70,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 285,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": 45,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1014000",
+        "dictionaryId": 1014,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1014",
+        "mdTypeIds": [
+            "TY0003",
+            "TY0001"
+        ],
+        "mdPokemonImage": "PI1014000",
+        "voice": "mt_PV_EV_1014_00_00",
+        "voiceFemale": "mt_PV_EV_1014_00_00",
+        "mdCateId": "CA1014000",
+        "mdHeightId": "HE1014000",
+        "mdWeightId": "WE1014000",
+        "mdDescTextId": "TX1014000",
+        "mdForm": "FN1014000",
+        "formGender": 1,
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0305",
+            "TK0275"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0005",
+        "mdKata": "KT0009",
+        "growth": 5,
+        "heightEX": 180,
+        "weightEX": 86,
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 88,
+        "paramATK": 128,
+        "paramDEF": 115,
+        "paramSATK": 58,
+        "paramSDEF": 86,
+        "paramSPD": 80,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 2175,
+        "compareLayoutScaleFix": 1000,
+        "compareOffsetYFix": -55,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1015000",
+        "dictionaryId": 1015,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1015",
+        "mdTypeIds": [
+            "TY0003",
+            "TY0013"
+        ],
+        "mdPokemonImage": "PI1015000",
+        "voice": "mt_PV_EV_1015_00_00",
+        "voiceFemale": "mt_PV_EV_1015_00_00",
+        "mdCateId": "CA1015000",
+        "mdHeightId": "HE1015000",
+        "mdWeightId": "WE1015000",
+        "mdDescTextId": "TX1015000",
+        "mdForm": "FN1015000",
+        "formGender": 1,
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0305",
+            "TK0119"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0005",
+        "mdKata": "KT0010",
+        "growth": 5,
+        "heightEX": 100,
+        "weightEX": 122,
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 88,
+        "paramATK": 75,
+        "paramDEF": 66,
+        "paramSATK": 130,
+        "paramSDEF": 90,
+        "paramSPD": 106,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 1175,
+        "compareLayoutScaleFix": 500,
+        "compareOffsetYFix": -25,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1016000",
+        "dictionaryId": 1016,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1016",
+        "mdTypeIds": [
+            "TY0003",
+            "TY0017"
+        ],
+        "mdPokemonImage": "PI1016000",
+        "voice": "mt_PV_EV_1016_00_00",
+        "voiceFemale": "mt_PV_EV_1016_00_00",
+        "mdCateId": "CA1016000",
+        "mdHeightId": "HE1016000",
+        "mdWeightId": "WE1016000",
+        "mdDescTextId": "TX1016000",
+        "mdForm": "FN1016000",
+        "formGender": 1,
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0305",
+            "TK0101"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0005",
+        "mdKata": "KT0012",
+        "growth": 5,
+        "heightEX": 140,
+        "weightEX": 125,
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 88,
+        "paramATK": 91,
+        "paramDEF": 82,
+        "paramSATK": 70,
+        "paramSDEF": 125,
+        "paramSPD": 99,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 1500,
+        "compareLayoutScaleFix": 1050,
+        "compareOffsetYFix": -55,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1017000",
+        "dictionaryId": 1017,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1017",
+        "mdTypeIds": [
+            "TY0011"
+        ],
+        "mdPokemonImage": "PI1017000",
+        "voice": "mt_PV_EV_1017_00_00",
+        "voiceFemale": "mt_PV_EV_1017_00_00",
+        "mdCateId": "CA1017000",
+        "mdHeightId": "HE1017000",
+        "mdWeightId": "WE1017000",
+        "mdDescTextId": "TX1017000",
+        "mdForm": "FN1017000",
+        "formGender": 2,
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0128"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0004",
+        "mdKata": "KT0011",
+        "growth": 5,
+        "heightEX": 120,
+        "weightEX": 96,
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 80,
+        "paramATK": 120,
+        "paramDEF": 84,
+        "paramSATK": 60,
+        "paramSDEF": 96,
+        "paramSPD": 110,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 1380,
+        "compareLayoutScaleFix": 850,
+        "compareOffsetYFix": -35,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1017001",
+        "dictionaryId": 1017,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1017",
+        "mdTypeIds": [
+            "TY0011",
+            "TY0010"
+        ],
+        "mdPokemonImage": "PI1017001",
+        "voice": "mt_PV_EV_1017_00_00",
+        "voiceFemale": "mt_PV_EV_1017_00_00",
+        "mdCateId": "CA1017000",
+        "mdHeightId": "HE1017001",
+        "mdWeightId": "WE1017001",
+        "mdDescTextId": "TX1017001",
+        "mdForm": "FN1017001",
+        "formGender": 2,
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0011"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0002",
+        "mdKata": "KT0011",
+        "growth": 5,
+        "heightEX": 120,
+        "weightEX": 96,
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 80,
+        "paramATK": 120,
+        "paramDEF": 84,
+        "paramSATK": 60,
+        "paramSDEF": 96,
+        "paramSPD": 110,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 1380,
+        "compareLayoutScaleFix": 850,
+        "compareOffsetYFix": -35,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1017002",
+        "dictionaryId": 1017,
+        "formNo": 2,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1017",
+        "mdTypeIds": [
+            "TY0011",
+            "TY0009"
+        ],
+        "mdPokemonImage": "PI1017002",
+        "voice": "mt_PV_EV_1017_00_00",
+        "voiceFemale": "mt_PV_EV_1017_00_00",
+        "mdCateId": "CA1017000",
+        "mdHeightId": "HE1017002",
+        "mdWeightId": "WE1017002",
+        "mdDescTextId": "TX1017002",
+        "mdForm": "FN1017002",
+        "formGender": 2,
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0104"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0001",
+        "mdKata": "KT0011",
+        "growth": 5,
+        "heightEX": 120,
+        "weightEX": 96,
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 80,
+        "paramATK": 120,
+        "paramDEF": 84,
+        "paramSATK": 60,
+        "paramSDEF": 96,
+        "paramSPD": 110,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 1380,
+        "compareLayoutScaleFix": 950,
+        "compareOffsetYFix": -35,
+        "compareOffsetXFix": 0
+    },
+    {
+        "id": "DI1017003",
+        "dictionaryId": 1017,
+        "formNo": 3,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM1017",
+        "mdTypeIds": [
+            "TY0011",
+            "TY0005"
+        ],
+        "mdPokemonImage": "PI1017003",
+        "voice": "mt_PV_EV_1017_00_00",
+        "voiceFemale": "mt_PV_EV_1017_00_00",
+        "mdCateId": "CA1017000",
+        "mdHeightId": "HE1017003",
+        "mdWeightId": "WE1017003",
+        "mdDescTextId": "TX1017003",
+        "mdForm": "FN1017003",
+        "formGender": 2,
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0005"
+        ],
+        "isTokuClose": 0,
+        "mdColor": "IR0008",
+        "mdKata": "KT0011",
+        "growth": 5,
+        "heightEX": 120,
+        "weightEX": 96,
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isKing": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "isHisui": 0,
+        "isPaldea": 0,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 80,
+        "paramATK": 120,
+        "paramDEF": 84,
+        "paramSATK": 60,
+        "paramSDEF": 96,
+        "paramSPD": 110,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT008"
+        ],
+        "isHideModel": 0,
+        "compareSizeScaleFix": 1380,
+        "compareLayoutScaleFix": 800,
+        "compareOffsetYFix": -35,
         "compareOffsetXFix": 0
     }
 ]

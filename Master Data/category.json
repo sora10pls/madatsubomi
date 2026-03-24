@@ -4138,5 +4138,33 @@
     {
         "id": "CA1010000",
         "msname": "zkn_type:ZKN_TYPE_1010"
+    },
+    {
+        "id": "CA1011000",
+        "msname": "zkn_type:ZKN_TYPE_1011"
+    },
+    {
+        "id": "CA1012000",
+        "msname": "zkn_type:ZKN_TYPE_1012"
+    },
+    {
+        "id": "CA1013000",
+        "msname": "zkn_type:ZKN_TYPE_1013"
+    },
+    {
+        "id": "CA1014000",
+        "msname": "zkn_type:ZKN_TYPE_1014"
+    },
+    {
+        "id": "CA1015000",
+        "msname": "zkn_type:ZKN_TYPE_1015"
+    },
+    {
+        "id": "CA1016000",
+        "msname": "zkn_type:ZKN_TYPE_1016"
+    },
+    {
+        "id": "CA1017000",
+        "msname": "zkn_type:ZKN_TYPE_1017"
     }
 ]

@@ -3146,11 +3146,12 @@
     },
     {
         "id": "EV0332",
-        "templatePrefab": "EvoInfoType3BPrefab",
+        "templatePrefab": "EvoInfoType4CPrefab",
         "mdPokemonImages": [
             "DI0840000",
             "DI0841000",
-            "DI0842000"
+            "DI0842000",
+            "DI1011000"
         ],
         "imageVariations": []
     },
@@ -4351,6 +4352,24 @@
             "DI1000000",
             "DI0999001",
             "DI1000000"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0464",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI1012000",
+            "DI1013000"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0465",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI1012001",
+            "DI1013001"
         ],
         "imageVariations": []
     }

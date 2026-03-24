@@ -91,7 +91,7 @@
     },
     {
         "id": "DM007000",
-        "sortOrder": 2,
+        "sortOrder": 1,
         "msRegionDicName": "sp_softwaredictionary_008",
         "dicMdName": "SW008",
         "hostDicId": "",
@@ -102,5 +102,16 @@
         "dispProfileType": 2,
         "silhouetteType": 3,
         "listAtlasName": "SoftDicIconSW008"
+    },
+    {
+        "id": "DM007001",
+        "sortOrder": 2,
+        "msRegionDicName": "sp_softwaredictionary_009",
+        "dicMdName": "SW009",
+        "hostDicId": "DM007000",
+        "mdSoftwareIds": [],
+        "dispProfileType": 2,
+        "silhouetteType": 3,
+        "listAtlasName": "SoftDicIconSW009"
     }
 ]
