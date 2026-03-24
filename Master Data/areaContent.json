@@ -3,8 +3,8 @@
         "id": "area001",
         "groupId": "group1",
         "contentInfoId": "content0001",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area002",
@@ -45,8 +45,8 @@
         "id": "area101",
         "groupId": "group2",
         "contentInfoId": "content0007",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area102",
@@ -87,8 +87,8 @@
         "id": "area201",
         "groupId": "group3",
         "contentInfoId": "content0013",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area202",
@@ -129,8 +129,8 @@
         "id": "area301",
         "groupId": "group4",
         "contentInfoId": "content0019",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area302",
@@ -171,8 +171,8 @@
         "id": "area401",
         "groupId": "group5",
         "contentInfoId": "content0025",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area402",
@@ -213,8 +213,8 @@
         "id": "area501",
         "groupId": "group6",
         "contentInfoId": "content0031",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area502",
@@ -255,8 +255,8 @@
         "id": "area601",
         "groupId": "group7",
         "contentInfoId": "content0037",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area602",
@@ -297,8 +297,8 @@
         "id": "area701",
         "groupId": "group8",
         "contentInfoId": "content0043",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area702",
@@ -339,8 +339,8 @@
         "id": "area801",
         "groupId": "group9",
         "contentInfoId": "content0049",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area802",
@@ -381,8 +381,8 @@
         "id": "area901",
         "groupId": "group10",
         "contentInfoId": "content0055",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area902",
@@ -423,8 +423,8 @@
         "id": "area1001",
         "groupId": "group11",
         "contentInfoId": "content0061",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1002",
@@ -465,8 +465,8 @@
         "id": "area1101",
         "groupId": "group12",
         "contentInfoId": "content0067",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1102",
@@ -507,8 +507,8 @@
         "id": "area1201",
         "groupId": "group13",
         "contentInfoId": "content0073",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1202",
@@ -549,8 +549,8 @@
         "id": "area1301",
         "groupId": "group14",
         "contentInfoId": "content0079",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1302",
@@ -591,8 +591,8 @@
         "id": "area1401",
         "groupId": "group15",
         "contentInfoId": "content0085",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1402",
@@ -633,8 +633,8 @@
         "id": "area1501",
         "groupId": "group16",
         "contentInfoId": "content0091",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1502",
@@ -675,8 +675,8 @@
         "id": "area1601",
         "groupId": "group17",
         "contentInfoId": "content0097",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1602",
@@ -717,8 +717,8 @@
         "id": "area1701",
         "groupId": "group18",
         "contentInfoId": "content0103",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1702",
@@ -759,8 +759,8 @@
         "id": "area1801",
         "groupId": "group19",
         "contentInfoId": "content0109",
-        "startAt": "1643414400",
-        "endAt": "4129570800"
+        "startAt": "",
+        "endAt": ""
     },
     {
         "id": "area1802",
