@@ -4,6 +4,31 @@
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
+        "jp_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "en_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "fr_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "it_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "de_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "es_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "kor_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "sch_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "tch_url": "https://www.pokemon.co.jp/ex/sv/ja/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0002",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
         "jp_url": "https://www.pokemon.co.jp/ex/legends_arceus/ja/",
         "en_url": "https://www.pokemon.co.jp/ex/legends_arceus/ja/",
         "fr_url": "https://www.pokemon.co.jp/ex/legends_arceus/ja/",
@@ -25,7 +50,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0002",
+        "id": "content0003",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -50,7 +75,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0003",
+        "id": "content0004",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -75,7 +100,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0004",
+        "id": "content0005",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -100,7 +125,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0005",
+        "id": "content0006",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -125,7 +150,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0006",
+        "id": "content0007",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -150,7 +175,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0007",
+        "id": "content0008",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://pokemonkorea.co.kr/sv",
+        "en_url": "https://pokemonkorea.co.kr/sv",
+        "fr_url": "https://pokemonkorea.co.kr/sv",
+        "it_url": "https://pokemonkorea.co.kr/sv",
+        "de_url": "https://pokemonkorea.co.kr/sv",
+        "es_url": "https://pokemonkorea.co.kr/sv",
+        "kor_url": "https://pokemonkorea.co.kr/sv",
+        "sch_url": "https://pokemonkorea.co.kr/sv",
+        "tch_url": "https://pokemonkorea.co.kr/sv",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0009",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -175,7 +225,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0008",
+        "id": "content0010",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -200,7 +250,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0009",
+        "id": "content0011",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -225,7 +275,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0010",
+        "id": "content0012",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -250,7 +300,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0011",
+        "id": "content0013",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -275,7 +325,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0012",
+        "id": "content0014",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -300,7 +350,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0013",
+        "id": "content0015",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "en_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "fr_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "it_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "de_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "es_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "kor_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "sch_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "tch_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0016",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -325,7 +400,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0014",
+        "id": "content0017",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -350,7 +425,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0015",
+        "id": "content0018",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -375,7 +450,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0016",
+        "id": "content0019",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -400,7 +475,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0017",
+        "id": "content0020",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -425,7 +500,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0018",
+        "id": "content0021",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -450,7 +525,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0019",
+        "id": "content0022",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "en_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "fr_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "it_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "de_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "es_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "kor_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "sch_url": "https://www.pokemon.co.jp/ex/sv/sc/",
+        "tch_url": "https://www.pokemon.co.jp/ex/sv/tc/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0023",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -475,7 +575,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0020",
+        "id": "content0024",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -500,7 +600,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0021",
+        "id": "content0025",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -525,7 +625,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0022",
+        "id": "content0026",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -550,7 +650,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0023",
+        "id": "content0027",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -575,7 +675,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0024",
+        "id": "content0028",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -600,7 +700,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0025",
+        "id": "content0029",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "en_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "fr_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "it_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "de_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "es_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "kor_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "sch_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "tch_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0030",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -625,7 +750,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0026",
+        "id": "content0031",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -650,7 +775,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0027",
+        "id": "content0032",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -675,7 +800,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0028",
+        "id": "content0033",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -700,7 +825,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0029",
+        "id": "content0034",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -725,7 +850,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0030",
+        "id": "content0035",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -750,7 +875,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0031",
+        "id": "content0036",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/en-ca/",
+        "en_url": "https://scarletviolet.pokemon.com/en-ca/",
+        "fr_url": "https://scarletviolet.pokemon.com/fr-ca/",
+        "it_url": "https://scarletviolet.pokemon.com/en-ca/",
+        "de_url": "https://scarletviolet.pokemon.com/en-ca/",
+        "es_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "kor_url": "https://scarletviolet.pokemon.com/en-ca/",
+        "sch_url": "https://scarletviolet.pokemon.com/en-ca/",
+        "tch_url": "https://scarletviolet.pokemon.com/en-ca/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0037",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -775,7 +925,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0032",
+        "id": "content0038",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -800,7 +950,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0033",
+        "id": "content0039",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -825,7 +975,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0034",
+        "id": "content0040",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -850,7 +1000,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0035",
+        "id": "content0041",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -875,7 +1025,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0036",
+        "id": "content0042",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -900,7 +1050,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0037",
+        "id": "content0043",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/en-us/",
+        "en_url": "https://scarletviolet.pokemon.com/en-us/",
+        "fr_url": "https://scarletviolet.pokemon.com/en-us/",
+        "it_url": "https://scarletviolet.pokemon.com/en-us/",
+        "de_url": "https://scarletviolet.pokemon.com/en-us/",
+        "es_url": "https://scarletviolet.pokemon.com/en-us/",
+        "kor_url": "https://scarletviolet.pokemon.com/en-us/",
+        "sch_url": "https://scarletviolet.pokemon.com/en-us/",
+        "tch_url": "https://scarletviolet.pokemon.com/en-us/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0044",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -925,7 +1100,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0038",
+        "id": "content0045",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -950,7 +1125,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0039",
+        "id": "content0046",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -975,7 +1150,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0040",
+        "id": "content0047",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1000,7 +1175,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0041",
+        "id": "content0048",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1025,7 +1200,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0042",
+        "id": "content0049",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -1050,7 +1225,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0043",
+        "id": "content0050",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/nl-be/",
+        "en_url": "https://scarletviolet.pokemon.com/nl-be/",
+        "fr_url": "https://scarletviolet.pokemon.com/fr-be/",
+        "it_url": "https://scarletviolet.pokemon.com/nl-be/",
+        "de_url": "https://scarletviolet.pokemon.com/nl-be/",
+        "es_url": "https://scarletviolet.pokemon.com/nl-be/",
+        "kor_url": "https://scarletviolet.pokemon.com/nl-be/",
+        "sch_url": "https://scarletviolet.pokemon.com/nl-be/",
+        "tch_url": "https://scarletviolet.pokemon.com/nl-be/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0051",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1075,7 +1275,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0044",
+        "id": "content0052",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1100,7 +1300,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0045",
+        "id": "content0053",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1125,7 +1325,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0046",
+        "id": "content0054",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1150,7 +1350,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0047",
+        "id": "content0055",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1175,7 +1375,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0048",
+        "id": "content0056",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -1200,7 +1400,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0049",
+        "id": "content0057",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "en_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "fr_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "it_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "de_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "es_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "kor_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "sch_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "tch_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0058",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1225,7 +1450,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0050",
+        "id": "content0059",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1250,7 +1475,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0051",
+        "id": "content0060",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1275,7 +1500,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0052",
+        "id": "content0061",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1300,7 +1525,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0053",
+        "id": "content0062",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1325,7 +1550,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0054",
+        "id": "content0063",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -1350,7 +1575,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0055",
+        "id": "content0064",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/de-de/",
+        "en_url": "https://scarletviolet.pokemon.com/de-de/",
+        "fr_url": "https://scarletviolet.pokemon.com/de-de/",
+        "it_url": "https://scarletviolet.pokemon.com/de-de/",
+        "de_url": "https://scarletviolet.pokemon.com/de-de/",
+        "es_url": "https://scarletviolet.pokemon.com/de-de/",
+        "kor_url": "https://scarletviolet.pokemon.com/de-de/",
+        "sch_url": "https://scarletviolet.pokemon.com/de-de/",
+        "tch_url": "https://scarletviolet.pokemon.com/de-de/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0065",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1375,7 +1625,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0056",
+        "id": "content0066",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1400,7 +1650,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0057",
+        "id": "content0067",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1425,7 +1675,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0058",
+        "id": "content0068",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1450,7 +1700,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0059",
+        "id": "content0069",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1475,7 +1725,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0060",
+        "id": "content0070",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -1500,7 +1750,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0061",
+        "id": "content0071",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/it-it/",
+        "en_url": "https://scarletviolet.pokemon.com/it-it/",
+        "fr_url": "https://scarletviolet.pokemon.com/it-it/",
+        "it_url": "https://scarletviolet.pokemon.com/it-it/",
+        "de_url": "https://scarletviolet.pokemon.com/it-it/",
+        "es_url": "https://scarletviolet.pokemon.com/it-it/",
+        "kor_url": "https://scarletviolet.pokemon.com/it-it/",
+        "sch_url": "https://scarletviolet.pokemon.com/it-it/",
+        "tch_url": "https://scarletviolet.pokemon.com/it-it/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0072",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1525,7 +1800,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0062",
+        "id": "content0073",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1550,7 +1825,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0063",
+        "id": "content0074",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1575,7 +1850,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0064",
+        "id": "content0075",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1600,7 +1875,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0065",
+        "id": "content0076",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1625,7 +1900,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0066",
+        "id": "content0077",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -1650,7 +1925,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0067",
+        "id": "content0078",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "en_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "fr_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "it_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "de_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "es_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "kor_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "sch_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "tch_url": "https://scarletviolet.pokemon.com/nl-nl/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0079",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1675,7 +1975,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0068",
+        "id": "content0080",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1700,7 +2000,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0069",
+        "id": "content0081",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1725,7 +2025,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0070",
+        "id": "content0082",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1750,7 +2050,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0071",
+        "id": "content0083",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1775,7 +2075,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0072",
+        "id": "content0084",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -1800,7 +2100,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0073",
+        "id": "content0085",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "en_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "fr_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "it_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "de_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "es_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "kor_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "sch_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "tch_url": "https://scarletviolet.pokemon.com/pt-pt/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0086",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1825,7 +2150,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0074",
+        "id": "content0087",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1850,7 +2175,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0075",
+        "id": "content0088",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1875,7 +2200,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0076",
+        "id": "content0089",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1900,7 +2225,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0077",
+        "id": "content0090",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1925,7 +2250,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0078",
+        "id": "content0091",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -1950,7 +2275,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0079",
+        "id": "content0092",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/es-es/",
+        "en_url": "https://scarletviolet.pokemon.com/es-es/",
+        "fr_url": "https://scarletviolet.pokemon.com/es-es/",
+        "it_url": "https://scarletviolet.pokemon.com/es-es/",
+        "de_url": "https://scarletviolet.pokemon.com/es-es/",
+        "es_url": "https://scarletviolet.pokemon.com/es-es/",
+        "kor_url": "https://scarletviolet.pokemon.com/es-es/",
+        "sch_url": "https://scarletviolet.pokemon.com/es-es/",
+        "tch_url": "https://scarletviolet.pokemon.com/es-es/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0093",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -1975,7 +2325,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0080",
+        "id": "content0094",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2000,7 +2350,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0081",
+        "id": "content0095",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2025,7 +2375,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0082",
+        "id": "content0096",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2050,7 +2400,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0083",
+        "id": "content0097",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2075,7 +2425,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0084",
+        "id": "content0098",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -2100,7 +2450,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0085",
+        "id": "content0099",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "en_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "fr_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "it_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "de_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "es_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "kor_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "sch_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "tch_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0100",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2125,7 +2500,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0086",
+        "id": "content0101",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2150,7 +2525,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0087",
+        "id": "content0102",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2175,7 +2550,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0088",
+        "id": "content0103",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2200,7 +2575,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0089",
+        "id": "content0104",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2225,7 +2600,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0090",
+        "id": "content0105",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -2250,7 +2625,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0091",
+        "id": "content0106",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/en-au/",
+        "en_url": "https://scarletviolet.pokemon.com/en-au/",
+        "fr_url": "https://scarletviolet.pokemon.com/en-au/",
+        "it_url": "https://scarletviolet.pokemon.com/en-au/",
+        "de_url": "https://scarletviolet.pokemon.com/en-au/",
+        "es_url": "https://scarletviolet.pokemon.com/en-au/",
+        "kor_url": "https://scarletviolet.pokemon.com/en-au/",
+        "sch_url": "https://scarletviolet.pokemon.com/en-au/",
+        "tch_url": "https://scarletviolet.pokemon.com/en-au/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0107",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2275,7 +2675,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0092",
+        "id": "content0108",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2300,7 +2700,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0093",
+        "id": "content0109",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2325,7 +2725,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0094",
+        "id": "content0110",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2350,7 +2750,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0095",
+        "id": "content0111",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2375,7 +2775,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0096",
+        "id": "content0112",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -2400,7 +2800,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0097",
+        "id": "content0113",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "en_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "fr_url": "https://scarletviolet.pokemon.com/fr-fr/",
+        "it_url": "https://scarletviolet.pokemon.com/it-it/",
+        "de_url": "https://scarletviolet.pokemon.com/de-de/",
+        "es_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "kor_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "sch_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "tch_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0114",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2425,7 +2850,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0098",
+        "id": "content0115",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2450,7 +2875,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0099",
+        "id": "content0116",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2475,7 +2900,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0100",
+        "id": "content0117",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2500,7 +2925,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0101",
+        "id": "content0118",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2525,7 +2950,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0102",
+        "id": "content0119",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -2550,7 +2975,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0103",
+        "id": "content0120",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "en_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "fr_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "it_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "de_url": "https://scarletviolet.pokemon.com/de-de/",
+        "es_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "kor_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "sch_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "tch_url": "https://scarletviolet.pokemon.com/en-gb/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0121",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2575,7 +3025,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0104",
+        "id": "content0122",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2600,7 +3050,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0105",
+        "id": "content0123",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2625,7 +3075,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0106",
+        "id": "content0124",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2650,7 +3100,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0107",
+        "id": "content0125",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2675,7 +3125,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0108",
+        "id": "content0126",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
@@ -2700,7 +3150,32 @@
         "tch_banner": "hl_GO_ALL_512_512"
     },
     {
-        "id": "content0109",
+        "id": "content0127",
+        "categoryId": "category01",
+        "contentMsText": "",
+        "OS": 0,
+        "jp_url": "https://scarletviolet.pokemon.com/en-us/",
+        "en_url": "https://scarletviolet.pokemon.com/en-us/",
+        "fr_url": "https://scarletviolet.pokemon.com/en-us/",
+        "it_url": "https://scarletviolet.pokemon.com/en-us/",
+        "de_url": "https://scarletviolet.pokemon.com/en-us/",
+        "es_url": "https://scarletviolet.pokemon.com/es-mx/",
+        "kor_url": "https://scarletviolet.pokemon.com/en-us/",
+        "sch_url": "https://scarletviolet.pokemon.com/en-us/",
+        "tch_url": "https://scarletviolet.pokemon.com/en-us/",
+        "bannerSize": 2,
+        "jp_banner": "hl_SV_JP_512_512",
+        "en_banner": "hl_SV_EN_512_512",
+        "fr_banner": "hl_SV_FR_512_512",
+        "it_banner": "hl_SV_IT_512_512",
+        "de_banner": "hl_SV_DE_512_512",
+        "es_banner": "hl_SV_ES_512_512",
+        "kor_banner": "hl_SV_KO_512_512",
+        "sch_banner": "hl_SV_SC_512_512",
+        "tch_banner": "hl_SV_TC_512_512"
+    },
+    {
+        "id": "content0128",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2725,7 +3200,7 @@
         "tch_banner": "hl_LA_TC_512_512"
     },
     {
-        "id": "content0110",
+        "id": "content0129",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2750,7 +3225,7 @@
         "tch_banner": "hl_BDSP_TC_512_512"
     },
     {
-        "id": "content0111",
+        "id": "content0130",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2775,7 +3250,7 @@
         "tch_banner": "hl_ss_TC_512_512"
     },
     {
-        "id": "content0112",
+        "id": "content0131",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2800,7 +3275,7 @@
         "tch_banner": "hl_pikaev_TC_512_512"
     },
     {
-        "id": "content0113",
+        "id": "content0132",
         "categoryId": "category01",
         "contentMsText": "",
         "OS": 0,
@@ -2825,7 +3300,7 @@
         "tch_banner": "hl_bank_TC_512_512"
     },
     {
-        "id": "content0114",
+        "id": "content0133",
         "categoryId": "category02",
         "contentMsText": "",
         "OS": 0,
