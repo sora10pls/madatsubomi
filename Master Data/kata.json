@@ -1,0 +1,86 @@
+[
+    {
+        "id": "KT0001",
+        "name1": "\u4E38\u578B",
+        "ms": "sp_kata_0001",
+        "imagePath": "cmn_ico_PokeShape_01"
+    },
+    {
+        "id": "KT0002",
+        "name1": "\u811A\u578B",
+        "ms": "sp_kata_0002",
+        "imagePath": "cmn_ico_PokeShape_02"
+    },
+    {
+        "id": "KT0003",
+        "name1": "\u9B5A\u578B",
+        "ms": "sp_kata_0003",
+        "imagePath": "cmn_ico_PokeShape_03"
+    },
+    {
+        "id": "KT0004",
+        "name1": "\u6606\u866B\u578B",
+        "ms": "sp_kata_0004",
+        "imagePath": "cmn_ico_PokeShape_04"
+    },
+    {
+        "id": "KT0005",
+        "name1": "\u56DB\u8DB3\u578B",
+        "ms": "sp_kata_0005",
+        "imagePath": "cmn_ico_PokeShape_05"
+    },
+    {
+        "id": "KT0006",
+        "name1": "\u56DB\u679A\u7FBD\u578B",
+        "ms": "sp_kata_0006",
+        "imagePath": "cmn_ico_PokeShape_06"
+    },
+    {
+        "id": "KT0007",
+        "name1": "\u96C6\u5408\u578B",
+        "ms": "sp_kata_0007",
+        "imagePath": "cmn_ico_PokeShape_07"
+    },
+    {
+        "id": "KT0008",
+        "name1": "\u591A\u8DB3\u578B",
+        "ms": "sp_kata_0008",
+        "imagePath": "cmn_ico_PokeShape_08"
+    },
+    {
+        "id": "KT0009",
+        "name1": "\u76F4\u7ACB\u80F4\u578B",
+        "ms": "sp_kata_0009",
+        "imagePath": "cmn_ico_PokeShape_09"
+    },
+    {
+        "id": "KT0010",
+        "name1": "\u4E8C\u8DB3\u5C3B\u5C3E\u578B",
+        "ms": "sp_kata_0010",
+        "imagePath": "cmn_ico_PokeShape_10"
+    },
+    {
+        "id": "KT0011",
+        "name1": "\u4E8C\u8DB3\u4EBA\u578B",
+        "ms": "sp_kata_0011",
+        "imagePath": "cmn_ico_PokeShape_11"
+    },
+    {
+        "id": "KT0012",
+        "name1": "\u4E8C\u679A\u7FBD\u578B",
+        "ms": "sp_kata_0012",
+        "imagePath": "cmn_ico_PokeShape_12"
+    },
+    {
+        "id": "KT0013",
+        "name1": "\u8179\u9019\u811A\u7121\u578B",
+        "ms": "sp_kata_0013",
+        "imagePath": "cmn_ico_PokeShape_13"
+    },
+    {
+        "id": "KT0014",
+        "name1": "\u8155\u578B",
+        "ms": "sp_kata_0014",
+        "imagePath": "cmn_ico_PokeShape_14"
+    }
+]

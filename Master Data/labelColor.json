@@ -1,0 +1,74 @@
+[
+    {
+        "id": "LC01",
+        "colorIcon": "bnk_makelabel_color_red",
+        "colorBg": "bnk_mark_tag_color_red",
+        "colorPanel": "bnk_label_head_red",
+        "color": "#eb6763",
+        "ms": "sp_labelcolor_01"
+    },
+    {
+        "id": "LC02",
+        "colorIcon": "bnk_makelabel_color_orange",
+        "colorBg": "bnk_mark_tag_color_orange",
+        "colorPanel": "bnk_label_head_orange",
+        "color": "#fa8c55",
+        "ms": "sp_labelcolor_02"
+    },
+    {
+        "id": "LC03",
+        "colorIcon": "bnk_makelabel_color_yellow",
+        "colorBg": "bnk_mark_tag_color_yellow",
+        "colorPanel": "bnk_label_head_yellow",
+        "color": "#fadc64",
+        "ms": "sp_labelcolor_03"
+    },
+    {
+        "id": "LC04",
+        "colorIcon": "bnk_makelabel_color_yellowgreen",
+        "colorBg": "bnk_mark_tag_color_yellowgreen",
+        "colorPanel": "bnk_label_head_yellowgreen",
+        "color": "#cfed6d",
+        "ms": "sp_labelcolor_04"
+    },
+    {
+        "id": "LC05",
+        "colorIcon": "bnk_makelabel_color_green",
+        "colorBg": "bnk_mark_tag_color_green",
+        "colorPanel": "bnk_label_head_green",
+        "color": "#72d585",
+        "ms": "sp_labelcolor_05"
+    },
+    {
+        "id": "LC06",
+        "colorIcon": "bnk_makelabel_color_lightblue",
+        "colorBg": "bnk_mark_tag_color_lightblue",
+        "colorPanel": "bnk_label_head_lightblue",
+        "color": "#89d8f5",
+        "ms": "sp_labelcolor_06"
+    },
+    {
+        "id": "LC07",
+        "colorIcon": "bnk_makelabel_color_blue",
+        "colorBg": "bnk_mark_tag_color_blue",
+        "colorPanel": "bnk_label_head_blue",
+        "color": "#7fa8ef",
+        "ms": "sp_labelcolor_07"
+    },
+    {
+        "id": "LC08",
+        "colorIcon": "bnk_makelabel_color_purple",
+        "colorBg": "bnk_mark_tag_color_purple",
+        "colorPanel": "bnk_label_head_purple",
+        "color": "#c899e0",
+        "ms": "sp_labelcolor_08"
+    },
+    {
+        "id": "LC09",
+        "colorIcon": "bnk_makelabel_color_pink",
+        "colorBg": "bnk_mark_tag_color_pink",
+        "colorPanel": "bnk_label_headpink",
+        "color": "#ffbcdc",
+        "ms": "sp_labelcolor_09"
+    }
+]

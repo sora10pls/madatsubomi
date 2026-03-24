@@ -1,0 +1,337 @@
+[
+    {
+        "id": "PC0100",
+        "groupId": 1,
+        "numeric": 100,
+        "mstext": "sp_country_100",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0200",
+        "groupId": 2,
+        "numeric": 200,
+        "mstext": "sp_country_200",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0201",
+        "groupId": 2,
+        "numeric": 201,
+        "mstext": "sp_country_201",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0202",
+        "groupId": 2,
+        "numeric": 202,
+        "mstext": "sp_country_202",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0203",
+        "groupId": 2,
+        "numeric": 203,
+        "mstext": "sp_country_203",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0204",
+        "groupId": 2,
+        "numeric": 204,
+        "mstext": "sp_country_204",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0299",
+        "groupId": 2,
+        "numeric": 299,
+        "mstext": "sp_country_299",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0300",
+        "groupId": 3,
+        "numeric": 300,
+        "mstext": "sp_country_300",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0301",
+        "groupId": 3,
+        "numeric": 301,
+        "mstext": "sp_country_301",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0302",
+        "groupId": 3,
+        "numeric": 302,
+        "mstext": "sp_country_302",
+        "mainLanguages": [
+            9,
+            10
+        ]
+    },
+    {
+        "id": "PC0303",
+        "groupId": 3,
+        "numeric": 303,
+        "mstext": "sp_country_303",
+        "mainLanguages": [
+            9,
+            10
+        ]
+    },
+    {
+        "id": "PC0304",
+        "groupId": 3,
+        "numeric": 304,
+        "mstext": "sp_country_304",
+        "mainLanguages": [
+            1
+        ]
+    },
+    {
+        "id": "PC0305",
+        "groupId": 3,
+        "numeric": 305,
+        "mstext": "sp_country_305",
+        "mainLanguages": [
+            8
+        ]
+    },
+    {
+        "id": "PC0306",
+        "groupId": 3,
+        "numeric": 306,
+        "mstext": "sp_country_306",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0307",
+        "groupId": 3,
+        "numeric": 307,
+        "mstext": "sp_country_307",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0308",
+        "groupId": 3,
+        "numeric": 308,
+        "mstext": "sp_country_308",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0309",
+        "groupId": 3,
+        "numeric": 309,
+        "mstext": "sp_country_309",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0310",
+        "groupId": 3,
+        "numeric": 310,
+        "mstext": "sp_country_310",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0399",
+        "groupId": 3,
+        "numeric": 399,
+        "mstext": "sp_country_399",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0400",
+        "groupId": 4,
+        "numeric": 400,
+        "mstext": "sp_country_400",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0401",
+        "groupId": 4,
+        "numeric": 401,
+        "mstext": "sp_country_401",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0402",
+        "groupId": 4,
+        "numeric": 402,
+        "mstext": "sp_country_402",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0403",
+        "groupId": 4,
+        "numeric": 403,
+        "mstext": "sp_country_403",
+        "mainLanguages": [
+            3
+        ]
+    },
+    {
+        "id": "PC0404",
+        "groupId": 4,
+        "numeric": 404,
+        "mstext": "sp_country_404",
+        "mainLanguages": [
+            5
+        ]
+    },
+    {
+        "id": "PC0405",
+        "groupId": 4,
+        "numeric": 405,
+        "mstext": "sp_country_405",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0406",
+        "groupId": 4,
+        "numeric": 406,
+        "mstext": "sp_country_406",
+        "mainLanguages": [
+            4
+        ]
+    },
+    {
+        "id": "PC0407",
+        "groupId": 4,
+        "numeric": 407,
+        "mstext": "sp_country_407",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0408",
+        "groupId": 4,
+        "numeric": 408,
+        "mstext": "sp_country_408",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0409",
+        "groupId": 4,
+        "numeric": 409,
+        "mstext": "sp_country_409",
+        "mainLanguages": [
+            7
+        ]
+    },
+    {
+        "id": "PC0410",
+        "groupId": 4,
+        "numeric": 410,
+        "mstext": "sp_country_410",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0411",
+        "groupId": 4,
+        "numeric": 411,
+        "mstext": "sp_country_411",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0412",
+        "groupId": 4,
+        "numeric": 412,
+        "mstext": "sp_country_412",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0413",
+        "groupId": 4,
+        "numeric": 413,
+        "mstext": "sp_country_413",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0414",
+        "groupId": 4,
+        "numeric": 414,
+        "mstext": "sp_country_414",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0415",
+        "groupId": 4,
+        "numeric": 415,
+        "mstext": "sp_country_415",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0499",
+        "groupId": 4,
+        "numeric": 499,
+        "mstext": "sp_country_499",
+        "mainLanguages": [
+            2
+        ]
+    },
+    {
+        "id": "PC0500",
+        "groupId": 5,
+        "numeric": 500,
+        "mstext": "sp_country_500",
+        "mainLanguages": [
+            2
+        ]
+    }
+]

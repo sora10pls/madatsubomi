@@ -1,0 +1,79 @@
+[
+    {
+        "id": "GL00",
+        "text": "\u6C17\u306B\u3057\u306A\u3044",
+        "min": 1,
+        "max": 100,
+        "ms": "sp_trade_gts_00004"
+    },
+    {
+        "id": "GL01",
+        "text": "1\u304B\u308910",
+        "min": 1,
+        "max": 10,
+        "ms": "sp_trade_gts_02001"
+    },
+    {
+        "id": "GL02",
+        "text": "11\u304B\u308920",
+        "min": 11,
+        "max": 20,
+        "ms": "sp_trade_gts_02002"
+    },
+    {
+        "id": "GL03",
+        "text": "21\u304B\u308930",
+        "min": 21,
+        "max": 30,
+        "ms": "sp_trade_gts_02003"
+    },
+    {
+        "id": "GL04",
+        "text": "31\u304B\u308940",
+        "min": 31,
+        "max": 40,
+        "ms": "sp_trade_gts_02004"
+    },
+    {
+        "id": "GL05",
+        "text": "41\u304B\u308950",
+        "min": 41,
+        "max": 50,
+        "ms": "sp_trade_gts_02005"
+    },
+    {
+        "id": "GL06",
+        "text": "51\u304B\u308960",
+        "min": 51,
+        "max": 60,
+        "ms": "sp_trade_gts_02006"
+    },
+    {
+        "id": "GL07",
+        "text": "61\u304B\u308970",
+        "min": 61,
+        "max": 70,
+        "ms": "sp_trade_gts_02007"
+    },
+    {
+        "id": "GL08",
+        "text": "71\u304B\u308980",
+        "min": 71,
+        "max": 80,
+        "ms": "sp_trade_gts_02008"
+    },
+    {
+        "id": "GL09",
+        "text": "81\u304B\u308990",
+        "min": 81,
+        "max": 90,
+        "ms": "sp_trade_gts_02009"
+    },
+    {
+        "id": "GL10",
+        "text": "91\u304B\u3089100",
+        "min": 91,
+        "max": 100,
+        "ms": "sp_trade_gts_02010"
+    }
+]

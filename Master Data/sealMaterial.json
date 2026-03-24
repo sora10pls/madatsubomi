@@ -1,0 +1,37 @@
+[
+    {
+        "id": "SM00",
+        "ms": "sp_sealmaterial_01",
+        "bgMaterialNo": 0,
+        "bgSpriteName": "cmn_seal_P_BG_Base_S",
+        "bgSpriteNameDetail": "cmn_seal_P_BG_Base_M"
+    },
+    {
+        "id": "SM01",
+        "ms": "sp_sealmaterial_01",
+        "bgMaterialNo": 1,
+        "bgSpriteName": "cmn_seal_P_BG_Base_S",
+        "bgSpriteNameDetail": "cmn_seal_P_BG_Base_M"
+    },
+    {
+        "id": "SM02",
+        "ms": "sp_sealmaterial_01",
+        "bgMaterialNo": 2,
+        "bgSpriteName": "cmn_seal_P_BG_Base_S",
+        "bgSpriteNameDetail": "cmn_seal_P_BG_Base_M"
+    },
+    {
+        "id": "SM10",
+        "ms": "sp_sealmaterial_01",
+        "bgMaterialNo": 3,
+        "bgSpriteName": "cmn_seal_P_BG_Base_S",
+        "bgSpriteNameDetail": "cmn_seal_P_BG_Base_M"
+    },
+    {
+        "id": "SM20",
+        "ms": "sp_sealmaterial_01",
+        "bgMaterialNo": 4,
+        "bgSpriteName": "cmn_seal_P_BG_Base_S",
+        "bgSpriteNameDetail": "cmn_seal_P_BG_Base_M"
+    }
+]

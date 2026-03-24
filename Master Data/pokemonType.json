@@ -1,0 +1,344 @@
+[
+    {
+        "id": "TY0000",
+        "image": "cmn_type_normal",
+        "color": "9099A1",
+        "mdTypes0_0": [
+            "TY0007"
+        ],
+        "mdTypes0_5": [],
+        "mdTypes2_0": [
+            "TY0001"
+        ],
+        "bgEffectName": "normal",
+        "msname": "typename:TYPENAME_000"
+    },
+    {
+        "id": "TY0001",
+        "image": "cmn_type_fighting",
+        "color": "CE406A",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0006",
+            "TY0005",
+            "TY0016"
+        ],
+        "mdTypes2_0": [
+            "TY0002",
+            "TY0013",
+            "TY0017"
+        ],
+        "bgEffectName": "fight",
+        "msname": "typename:TYPENAME_001"
+    },
+    {
+        "id": "TY0002",
+        "image": "cmn_type_flying",
+        "color": "8FA8DD",
+        "mdTypes0_0": [
+            "TY0004"
+        ],
+        "mdTypes0_5": [
+            "TY0011",
+            "TY0001",
+            "TY0006"
+        ],
+        "mdTypes2_0": [
+            "TY0012",
+            "TY0014",
+            "TY0005"
+        ],
+        "bgEffectName": "flying",
+        "msname": "typename:TYPENAME_002"
+    },
+    {
+        "id": "TY0003",
+        "image": "cmn_type_poison",
+        "color": "AB6AC8",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0011",
+            "TY0001",
+            "TY0003",
+            "TY0006",
+            "TY0017"
+        ],
+        "mdTypes2_0": [
+            "TY0004",
+            "TY0013"
+        ],
+        "bgEffectName": "poison",
+        "msname": "typename:TYPENAME_003"
+    },
+    {
+        "id": "TY0004",
+        "image": "cmn_type_ground",
+        "color": "D97745",
+        "mdTypes0_0": [
+            "TY0012"
+        ],
+        "mdTypes0_5": [
+            "TY0003",
+            "TY0005"
+        ],
+        "mdTypes2_0": [
+            "TY0010",
+            "TY0011",
+            "TY0014"
+        ],
+        "bgEffectName": "ground",
+        "msname": "typename:TYPENAME_004"
+    },
+    {
+        "id": "TY0005",
+        "image": "cmn_type_rock",
+        "color": "C7B78B",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0000",
+            "TY0009",
+            "TY0003",
+            "TY0002"
+        ],
+        "mdTypes2_0": [
+            "TY0010",
+            "TY0011",
+            "TY0001",
+            "TY0004",
+            "TY0008"
+        ],
+        "bgEffectName": "rock",
+        "msname": "typename:TYPENAME_005"
+    },
+    {
+        "id": "TY0006",
+        "image": "cmn_type_bug",
+        "color": "90C12D",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0011",
+            "TY0001",
+            "TY0004"
+        ],
+        "mdTypes2_0": [
+            "TY0009",
+            "TY0002",
+            "TY0005"
+        ],
+        "bgEffectName": "bug",
+        "msname": "typename:TYPENAME_006"
+    },
+    {
+        "id": "TY0007",
+        "image": "cmn_type_ghost",
+        "color": "5369AC",
+        "mdTypes0_0": [
+            "TY0000",
+            "TY0001"
+        ],
+        "mdTypes0_5": [
+            "TY0003",
+            "TY0006"
+        ],
+        "mdTypes2_0": [
+            "TY0007",
+            "TY0016"
+        ],
+        "bgEffectName": "ghost",
+        "msname": "typename:TYPENAME_007"
+    },
+    {
+        "id": "TY0008",
+        "image": "cmn_type_steel",
+        "color": "598EA1",
+        "mdTypes0_0": [
+            "TY0003"
+        ],
+        "mdTypes0_5": [
+            "TY0000",
+            "TY0011",
+            "TY0014",
+            "TY0002",
+            "TY0013",
+            "TY0006",
+            "TY0005",
+            "TY0015",
+            "TY0008",
+            "TY0017"
+        ],
+        "mdTypes2_0": [
+            "TY0009",
+            "TY0001",
+            "TY0004"
+        ],
+        "bgEffectName": "steel",
+        "msname": "typename:TYPENAME_008"
+    },
+    {
+        "id": "TY0009",
+        "image": "cmn_type_fire",
+        "color": "FF9C54",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0009",
+            "TY0011",
+            "TY0014",
+            "TY0006",
+            "TY0008",
+            "TY0017"
+        ],
+        "mdTypes2_0": [
+            "TY0010",
+            "TY0004",
+            "TY0005"
+        ],
+        "bgEffectName": "fire",
+        "msname": "typename:TYPENAME_010"
+    },
+    {
+        "id": "TY0010",
+        "image": "cmn_type_water",
+        "color": "4E90D6",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0009",
+            "TY0010",
+            "TY0014",
+            "TY0008"
+        ],
+        "mdTypes2_0": [
+            "TY0012",
+            "TY0011"
+        ],
+        "bgEffectName": "water",
+        "msname": "typename:TYPENAME_011"
+    },
+    {
+        "id": "TY0011",
+        "image": "cmn_type_grass",
+        "color": "63BB5B",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0010",
+            "TY0012",
+            "TY0011",
+            "TY0004"
+        ],
+        "mdTypes2_0": [
+            "TY0009",
+            "TY0014",
+            "TY0003",
+            "TY0002",
+            "TY0006"
+        ],
+        "bgEffectName": "grass",
+        "msname": "typename:TYPENAME_012"
+    },
+    {
+        "id": "TY0012",
+        "image": "cmn_type_electric",
+        "color": "F4D23C",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0012",
+            "TY0002",
+            "TY0008"
+        ],
+        "mdTypes2_0": [
+            "TY0004"
+        ],
+        "bgEffectName": "electric",
+        "msname": "typename:TYPENAME_013"
+    },
+    {
+        "id": "TY0013",
+        "image": "cmn_type_psychic",
+        "color": "F97177",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0001",
+            "TY0013"
+        ],
+        "mdTypes2_0": [
+            "TY0006",
+            "TY0007",
+            "TY0016"
+        ],
+        "bgEffectName": "psychic",
+        "msname": "typename:TYPENAME_014"
+    },
+    {
+        "id": "TY0014",
+        "image": "cmn_type_ice",
+        "color": "73CEC0",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0014"
+        ],
+        "mdTypes2_0": [
+            "TY0009",
+            "TY0001",
+            "TY0005",
+            "TY0008"
+        ],
+        "bgEffectName": "ice",
+        "msname": "typename:TYPENAME_015"
+    },
+    {
+        "id": "TY0015",
+        "image": "cmn_type_dragon",
+        "color": "0A6DC4",
+        "mdTypes0_0": [],
+        "mdTypes0_5": [
+            "TY0009",
+            "TY0010",
+            "TY0012",
+            "TY0011"
+        ],
+        "mdTypes2_0": [
+            "TY0014",
+            "TY0015",
+            "TY0017"
+        ],
+        "bgEffectName": "dragon",
+        "msname": "typename:TYPENAME_016"
+    },
+    {
+        "id": "TY0016",
+        "image": "cmn_type_dark",
+        "color": "5A5366",
+        "mdTypes0_0": [
+            "TY0013"
+        ],
+        "mdTypes0_5": [
+            "TY0007",
+            "TY0016"
+        ],
+        "mdTypes2_0": [
+            "TY0001",
+            "TY0006",
+            "TY0017"
+        ],
+        "bgEffectName": "dark",
+        "msname": "typename:TYPENAME_017"
+    },
+    {
+        "id": "TY0017",
+        "image": "cmn_type_fairy",
+        "color": "ED8FE6",
+        "mdTypes0_0": [
+            "TY0015"
+        ],
+        "mdTypes0_5": [
+            "TY0001",
+            "TY0006",
+            "TY0016"
+        ],
+        "mdTypes2_0": [
+            "TY0003",
+            "TY0008"
+        ],
+        "bgEffectName": "fairy",
+        "msname": "typename:TYPENAME_018"
+    }
+]

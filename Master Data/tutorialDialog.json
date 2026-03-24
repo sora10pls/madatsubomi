@@ -1,0 +1,171 @@
+[
+    {
+        "id": "home_0001",
+        "place": 1,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_home_0001_001",
+            "sp_monbo_home_0001_002",
+            "sp_monbo_home_0002_001",
+            "sp_monbo_home_0002_002",
+            "sp_monbo_home_0002_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "binder_0001",
+        "place": 2,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_binder_0001_001",
+            "sp_monbo_binder_0001_002",
+            "sp_monbo_binder_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "bank_0001",
+        "place": 3,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_bank_0001_001",
+            "sp_monbo_bank_0001_002",
+            "sp_monbo_bank_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "label_0001",
+        "place": 4,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_label_0001_001",
+            "sp_monbo_label_0001_002",
+            "sp_monbo_label_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "gts_0001",
+        "place": 5,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_gts_0001_001",
+            "sp_monbo_gts_0001_002",
+            "sp_monbo_gts_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "group_trade_0001",
+        "place": 6,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_group_trade_0001_001",
+            "sp_monbo_group_trade_0001_002",
+            "sp_monbo_group_trade_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "miracle_box_0001",
+        "place": 7,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_miracle_box_0001_001",
+            "sp_monbo_miracle_box_0001_002",
+            "sp_monbo_miracle_box_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "miracle_box_success_0001",
+        "place": 8,
+        "saveType": 1,
+        "saveIndex": 1,
+        "msTexts": [
+            "sp_monbo_miracle_box_success_0001_001",
+            "sp_monbo_miracle_box_success_0001_002",
+            "sp_monbo_miracle_box_success_0001_003"
+        ],
+        "images": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "trade_top_0001_1",
+        "place": 9,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_trade_top_0001_001",
+            "sp_monbo_trade_top_0001_002",
+            "sp_monbo_trade_top_0001_003",
+            "sp_monbo_trade_top_0001_004"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "id": "trade_top_0001_2",
+        "place": 9,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_trade_top_0001_001",
+            "sp_monbo_trade_top_0001_002",
+            "sp_monbo_trade_top_0001_003",
+            "sp_monbo_trade_top_0001_004",
+            "sp_monbo_trade_top_0001_005"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

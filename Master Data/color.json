@@ -1,0 +1,62 @@
+[
+    {
+        "id": "IR0001",
+        "name1": "\u8D64",
+        "color": "e03d24",
+        "ms": "sp_color_0001"
+    },
+    {
+        "id": "IR0002",
+        "name1": "\u9752",
+        "color": "3761ea",
+        "ms": "sp_color_0002"
+    },
+    {
+        "id": "IR0003",
+        "name1": "\u9EC4",
+        "color": "f0db52",
+        "ms": "sp_color_0003"
+    },
+    {
+        "id": "IR0004",
+        "name1": "\u7DD1",
+        "color": "8be56c",
+        "ms": "sp_color_0004"
+    },
+    {
+        "id": "IR0005",
+        "name1": "\u9ED2",
+        "color": "525456",
+        "ms": "sp_color_0005"
+    },
+    {
+        "id": "IR0006",
+        "name1": "\u8336",
+        "color": "6f401e",
+        "ms": "sp_color_0006"
+    },
+    {
+        "id": "IR0007",
+        "name1": "\u7D2B",
+        "color": "af5ac4",
+        "ms": "sp_color_0007"
+    },
+    {
+        "id": "IR0008",
+        "name1": "\u7070",
+        "color": "a6a7b1",
+        "ms": "sp_color_0008"
+    },
+    {
+        "id": "IR0009",
+        "name1": "\u767D",
+        "color": "f9f8f2",
+        "ms": "sp_color_0009"
+    },
+    {
+        "id": "IR0010",
+        "name1": "\u6843",
+        "color": "ec9fd0",
+        "ms": "sp_color_0010"
+    }
+]

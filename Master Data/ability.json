@@ -1,0 +1,37 @@
+[
+    {
+        "id": "AB0000",
+        "ms": "sp_ui_none_reasonably",
+        "arrayIndex": 0
+    },
+    {
+        "id": "AB0001",
+        "ms": "sp_ui_hp",
+        "arrayIndex": 0
+    },
+    {
+        "id": "AB0002",
+        "ms": "sp_ui_atk",
+        "arrayIndex": 1
+    },
+    {
+        "id": "AB0003",
+        "ms": "sp_ui_def",
+        "arrayIndex": 2
+    },
+    {
+        "id": "AB0004",
+        "ms": "sp_ui_agi",
+        "arrayIndex": 3
+    },
+    {
+        "id": "AB0005",
+        "ms": "sp_ui_spatk",
+        "arrayIndex": 4
+    },
+    {
+        "id": "AB0006",
+        "ms": "sp_ui_spdef",
+        "arrayIndex": 5
+    }
+]
