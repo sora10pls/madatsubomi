@@ -23868,7 +23868,7 @@
             "SF050",
             "SF051"
         ],
-        "placeNameIds": "40,001",
+        "placeNameIds": "40001",
         "msPlace": "SV_place_name_out:MAPNAME_SUTEKINABASYO"
     },
     {
@@ -23877,7 +23877,7 @@
             "SF050",
             "SF051"
         ],
-        "placeNameIds": "40,002",
+        "placeNameIds": "40002",
         "msPlace": "SV_place_name_out:MAPNAME_TOOIBASYO_OUT"
     },
     {
