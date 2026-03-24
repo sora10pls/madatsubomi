@@ -17,7 +17,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "binder_0001",
@@ -33,7 +34,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "bank_0001",
@@ -49,7 +51,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "label_0001",
@@ -65,7 +68,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "gts_0001",
@@ -81,7 +85,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "group_trade_0001",
@@ -97,7 +102,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "miracle_box_0001",
@@ -113,7 +119,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "miracle_box_success_0001",
@@ -128,7 +135,8 @@
         "images": [
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "trade_top_0001_1",
@@ -146,7 +154,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "trade_top_0001_2",
@@ -166,7 +175,8 @@
             "0",
             "0",
             "0"
-        ]
+        ],
+        "category": 1
     },
     {
         "id": "battle_data_0001",
@@ -180,6 +190,39 @@
         "images": [
             "0",
             "0"
-        ]
+        ],
+        "category": 1
+    },
+    {
+        "id": "home_0002",
+        "place": 1,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_gift_0001_001",
+            "sp_monbo_gift_0001_002"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 2
+    },
+    {
+        "id": "calendar_0001",
+        "place": 11,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_get_calendar_0001_001",
+            "sp_monbo_get_calendar_0001_002",
+            "sp_monbo_get_calendar_0001_003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
     }
 ]

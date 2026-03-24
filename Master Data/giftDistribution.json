@@ -1,0 +1,16 @@
+[
+    {
+        "id": "gd00001",
+        "sPokemonRewardId": [
+            "1.4.0_login_reward_1",
+            "1.4.0_login_reward_2"
+        ],
+        "country": [
+            1
+        ],
+        "condition": "1",
+        "start": "0",
+        "end": "1625065199",
+        "monboId": "home_0002"
+    }
+]
