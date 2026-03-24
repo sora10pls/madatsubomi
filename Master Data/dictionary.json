@@ -10282,7 +10282,8 @@
         "paramSPD": 25,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.2,
         "compareLayoutScale": 0.85,
@@ -18981,9 +18982,7 @@
         "paramSDEF": 80,
         "paramSPD": 65,
         "isLegend": 0,
-        "appearSoftwareAper": [
-            "TT005"
-        ],
+        "appearSoftwareAper": [],
         "compareSizeScale": 2.1,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -12,
@@ -44788,7 +44787,7 @@
         "isGenshi": 0,
         "isNushi": 0,
         "isArora": 0,
-        "isGalar": 0,
+        "isGalar": 1,
         "free": -1,
         "dmaxLinkFormNos": [],
         "paramHP": 105,
@@ -44851,7 +44850,7 @@
         "isGenshi": 0,
         "isNushi": 0,
         "isArora": 0,
-        "isGalar": 0,
+        "isGalar": 1,
         "free": -1,
         "dmaxLinkFormNos": [],
         "paramHP": 105,
@@ -52438,8 +52437,11 @@
         "id": "DI0658000",
         "dictionaryId": 658,
         "formNo": 0,
-        "mdFormChangeDics": [],
-        "formChangeDicsNum": -1,
+        "mdFormChangeDics": [
+            "DI0658000",
+            "DI0658002"
+        ],
+        "formChangeDicsNum": 2,
         "regionIds": [
             0,
             0,
@@ -52533,7 +52535,7 @@
         "mdColor": "IR0002",
         "mdKata": "KT0011",
         "isInNumberSort": 0,
-        "isInAllForm": 1,
+        "isInAllForm": 0,
         "isDMax": 0,
         "isMega": 0,
         "isGenshi": 0,
@@ -52559,8 +52561,11 @@
         "id": "DI0658002",
         "dictionaryId": 658,
         "formNo": 2,
-        "mdFormChangeDics": [],
-        "formChangeDicsNum": -1,
+        "mdFormChangeDics": [
+            "DI0658000",
+            "DI0658002"
+        ],
+        "formChangeDicsNum": 2,
         "regionIds": [
             0,
             0,
@@ -64020,8 +64025,11 @@
         "id": "DI0744000",
         "dictionaryId": 744,
         "formNo": 0,
-        "mdFormChangeDics": [],
-        "formChangeDicsNum": -1,
+        "mdFormChangeDics": [
+            "DI0744000",
+            "DI0744001"
+        ],
+        "formChangeDicsNum": 2,
         "regionIds": [
             0,
             0,
@@ -64081,8 +64089,11 @@
         "id": "DI0744001",
         "dictionaryId": 744,
         "formNo": 1,
-        "mdFormChangeDics": [],
-        "formChangeDicsNum": -1,
+        "mdFormChangeDics": [
+            "DI0744000",
+            "DI0744001"
+        ],
+        "formChangeDicsNum": 2,
         "regionIds": [
             0,
             0,
@@ -64114,7 +64125,7 @@
         "mdColor": "IR0006",
         "mdKata": "KT0005",
         "isInNumberSort": 0,
-        "isInAllForm": 1,
+        "isInAllForm": 0,
         "isDMax": 0,
         "isMega": 0,
         "isGenshi": 0,

@@ -3938,50 +3938,6 @@
         "jdata": ""
     },
     {
-        "id": "OTH012",
-        "judgenum": 40012,
-        "group": 2,
-        "unlock": 1,
-        "cycle": 1,
-        "type": 1,
-        "category": 40012,
-        "sort": 5006,
-        "image": "GIF001",
-        "mdAchievementSteps": [
-            "OTH006-01"
-        ],
-        "cntReset": 2,
-        "startAt": "0",
-        "endAt": "9999999999",
-        "actionType": "",
-        "isSpecial": 1,
-        "ms": "sp_ach_oth_s_0004",
-        "dispCondition": "none",
-        "jdata": "00004123029275_00004123029275"
-    },
-    {
-        "id": "OTH046",
-        "judgenum": 40046,
-        "group": 2,
-        "unlock": 1,
-        "cycle": 1,
-        "type": 1,
-        "category": 40046,
-        "sort": 5040,
-        "image": "GIF001",
-        "mdAchievementSteps": [
-            "OTH040-01"
-        ],
-        "cntReset": 2,
-        "startAt": "0",
-        "endAt": "9999999999",
-        "actionType": "",
-        "isSpecial": 1,
-        "ms": "sp_ach_oth_s_0038",
-        "dispCondition": "none",
-        "jdata": "OTH038"
-    },
-    {
         "id": "OTH004",
         "judgenum": 40004,
         "group": 1,
