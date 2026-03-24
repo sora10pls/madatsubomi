@@ -1,0 +1,131 @@
+[
+    {
+        "id": "group1",
+        "countryIds": [
+            "304"
+        ]
+    },
+    {
+        "id": "group2",
+        "countryIds": [
+            "305"
+        ]
+    },
+    {
+        "id": "group3",
+        "countryIds": [
+            "302"
+        ]
+    },
+    {
+        "id": "group4",
+        "countryIds": [
+            "303",
+            "309"
+        ]
+    },
+    {
+        "id": "group5",
+        "countryIds": [
+            "202",
+            "203"
+        ]
+    },
+    {
+        "id": "group6",
+        "countryIds": [
+            "201"
+        ]
+    },
+    {
+        "id": "group7",
+        "countryIds": [
+            "306",
+            "307",
+            "308",
+            "310",
+            "399",
+            "500"
+        ]
+    },
+    {
+        "id": "group8",
+        "countryIds": [
+            "402"
+        ]
+    },
+    {
+        "id": "group9",
+        "countryIds": [
+            "403"
+        ]
+    },
+    {
+        "id": "group10",
+        "countryIds": [
+            "404"
+        ]
+    },
+    {
+        "id": "group11",
+        "countryIds": [
+            "406"
+        ]
+    },
+    {
+        "id": "group12",
+        "countryIds": [
+            "407"
+        ]
+    },
+    {
+        "id": "group13",
+        "countryIds": [
+            "408"
+        ]
+    },
+    {
+        "id": "group14",
+        "countryIds": [
+            "409"
+        ]
+    },
+    {
+        "id": "group15",
+        "countryIds": [
+            "405",
+            "411",
+            "100",
+            "499",
+            "412",
+            "413",
+            "414",
+            "415"
+        ]
+    },
+    {
+        "id": "group16",
+        "countryIds": [
+            "301"
+        ]
+    },
+    {
+        "id": "group17",
+        "countryIds": [
+            "410"
+        ]
+    },
+    {
+        "id": "group18",
+        "countryIds": [
+            "401"
+        ]
+    },
+    {
+        "id": "group19",
+        "countryIds": [
+            "204",
+            "299"
+        ]
+    }
+]
