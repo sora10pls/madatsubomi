@@ -7,7 +7,11 @@
         "productIdApple": "",
         "msname": "",
         "msinfo": "",
-        "msprice": ""
+        "msprice": "",
+        "msnameAndroid": "",
+        "msnameIos": "",
+        "msExplanationAndroid": "",
+        "msExplanationIos": ""
     },
     {
         "id": "PL02",
@@ -17,7 +21,11 @@
         "productIdApple": "jp.pokemon.pokemonhome.30",
         "msname": "sp_plan_name_30",
         "msinfo": "sp_plan_info_30",
-        "msprice": "sp_plan_price_30"
+        "msprice": "sp_plan_price_30",
+        "msnameAndroid": "sp_plan_name_30_android_v2",
+        "msnameIos": "sp_plan_name_30",
+        "msExplanationAndroid": "sp_plan_30_explanation_android_v2",
+        "msExplanationIos": ""
     },
     {
         "id": "PL03",
@@ -27,7 +35,11 @@
         "productIdApple": "jp.pokemon.pokemonhome.90",
         "msname": "sp_plan_name_90",
         "msinfo": "sp_plan_info_90",
-        "msprice": "sp_plan_price_90"
+        "msprice": "sp_plan_price_90",
+        "msnameAndroid": "sp_plan_name_90_android_v2",
+        "msnameIos": "sp_plan_name_90",
+        "msExplanationAndroid": "sp_plan_90_explanation_android_v2",
+        "msExplanationIos": ""
     },
     {
         "id": "PL04",
@@ -37,6 +49,10 @@
         "productIdApple": "jp.pokemon.pokemonhome.365",
         "msname": "sp_plan_name_365",
         "msinfo": "sp_plan_info_365",
-        "msprice": "sp_plan_price_365"
+        "msprice": "sp_plan_price_365",
+        "msnameAndroid": "sp_plan_name_365_android_v2",
+        "msnameIos": "sp_plan_name_365",
+        "msExplanationAndroid": "sp_plan_365_explanation_android_v2",
+        "msExplanationIos": ""
     }
 ]

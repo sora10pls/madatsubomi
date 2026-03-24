@@ -21,6 +21,13 @@
         "ms": "zkn_form:ZKN_FORM_003_000"
     },
     {
+        "id": "FN0003000G",
+        "mdPokemonImage": "PI0003000G",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_003_999"
+    },
+    {
         "id": "FN0003001",
         "mdPokemonImage": "PI0003001",
         "variationNum": 0,
@@ -89,6 +96,13 @@
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_009_000"
+    },
+    {
+        "id": "FN0009000G",
+        "mdPokemonImage": "PI0009000G",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_009_999"
     },
     {
         "id": "FN0009001",
@@ -838,6 +852,13 @@
         "variationNum": 0,
         "formNo": 1,
         "ms": "zkn_form:ZKN_FORM_080_001"
+    },
+    {
+        "id": "FN0080002",
+        "mdPokemonImage": "PI0080002",
+        "variationNum": 0,
+        "formNo": 2,
+        "ms": "zkn_form:ZKN_FORM_080_002"
     },
     {
         "id": "FN0081000",
@@ -8050,6 +8071,13 @@
         "ms": "zkn_form:ZKN_FORM_812_000"
     },
     {
+        "id": "FN0812000G",
+        "mdPokemonImage": "PI0812000G",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_812_999"
+    },
+    {
         "id": "FN0813000",
         "mdPokemonImage": "PI0813000",
         "variationNum": 0,
@@ -8071,6 +8099,13 @@
         "ms": "zkn_form:ZKN_FORM_815_000"
     },
     {
+        "id": "FN0815000G",
+        "mdPokemonImage": "PI0815000G",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_815_999"
+    },
+    {
         "id": "FN0816000",
         "mdPokemonImage": "PI0816000",
         "variationNum": 0,
@@ -8090,6 +8125,13 @@
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_818_000"
+    },
+    {
+        "id": "FN0818000G",
+        "mdPokemonImage": "PI0818000G",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_818_999"
     },
     {
         "id": "FN0819000",
@@ -8568,13 +8610,6 @@
         "ms": "zkn_form:ZKN_FORM_869_000"
     },
     {
-        "id": "FN0869000G",
-        "mdPokemonImage": "PI0869000G",
-        "variationNum": 0,
-        "formNo": 0,
-        "ms": "zkn_form:ZKN_FORM_869_999"
-    },
-    {
         "id": "FN0869001",
         "mdPokemonImage": "PI0869001",
         "variationNum": 0,
@@ -8629,6 +8664,13 @@
         "variationNum": 0,
         "formNo": 8,
         "ms": "zkn_form:ZKN_FORM_869_008"
+    },
+    {
+        "id": "FN0869000G",
+        "mdPokemonImage": "PI0869000G",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_869_999"
     },
     {
         "id": "FN0870000",
@@ -8832,5 +8874,54 @@
         "variationNum": 0,
         "formNo": 1,
         "ms": "zkn_form:ZKN_FORM_890_001"
+    },
+    {
+        "id": "FN0891000",
+        "mdPokemonImage": "PI0891000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_891_000"
+    },
+    {
+        "id": "FN0892000",
+        "mdPokemonImage": "PI0892000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_892_000"
+    },
+    {
+        "id": "FN0892000G",
+        "mdPokemonImage": "PI0892000G",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_892_999"
+    },
+    {
+        "id": "FN0892001",
+        "mdPokemonImage": "PI0892001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_892_001"
+    },
+    {
+        "id": "FN0892001G",
+        "mdPokemonImage": "PI0892001G",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_892_998"
+    },
+    {
+        "id": "FN0893000",
+        "mdPokemonImage": "PI0893000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_893_000"
+    },
+    {
+        "id": "FN0893001",
+        "mdPokemonImage": "PI0893001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_893_001"
     }
 ]

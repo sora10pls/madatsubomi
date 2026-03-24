@@ -3928,5 +3928,24 @@
             "DI0745002"
         ],
         "imageVariations": []
+    },
+    {
+        "id": "EV0420",
+        "templatePrefab": "EvoInfoType3BPrefab",
+        "mdPokemonImages": [
+            "DI0891000",
+            "DI0892000",
+            "DI0892001"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0421",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0079001",
+            "DI0080002"
+        ],
+        "imageVariations": []
     }
 ]

@@ -3558,5 +3558,17 @@
     {
         "id": "NM0890",
         "msname": "monsname:MONSNAME_890"
+    },
+    {
+        "id": "NM0891",
+        "msname": "monsname:MONSNAME_891"
+    },
+    {
+        "id": "NM0892",
+        "msname": "monsname:MONSNAME_892"
+    },
+    {
+        "id": "NM0893",
+        "msname": "monsname:MONSNAME_893"
     }
 ]

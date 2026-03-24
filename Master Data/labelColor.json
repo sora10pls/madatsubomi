@@ -5,7 +5,8 @@
         "colorBg": "bnk_mark_tag_color_red",
         "colorPanel": "bnk_label_head_red",
         "color": "#eb6763",
-        "ms": "sp_labelcolor_01"
+        "ms": "sp_labelcolor_01",
+        "msFilter": "sp_labelcolor_10_v2"
     },
     {
         "id": "LC02",
@@ -13,7 +14,8 @@
         "colorBg": "bnk_mark_tag_color_orange",
         "colorPanel": "bnk_label_head_orange",
         "color": "#fa8c55",
-        "ms": "sp_labelcolor_02"
+        "ms": "sp_labelcolor_02",
+        "msFilter": "sp_labelcolor_11_v2"
     },
     {
         "id": "LC03",
@@ -21,7 +23,8 @@
         "colorBg": "bnk_mark_tag_color_yellow",
         "colorPanel": "bnk_label_head_yellow",
         "color": "#fadc64",
-        "ms": "sp_labelcolor_03"
+        "ms": "sp_labelcolor_03",
+        "msFilter": "sp_labelcolor_12_v2"
     },
     {
         "id": "LC04",
@@ -29,7 +32,8 @@
         "colorBg": "bnk_mark_tag_color_yellowgreen",
         "colorPanel": "bnk_label_head_yellowgreen",
         "color": "#cfed6d",
-        "ms": "sp_labelcolor_04"
+        "ms": "sp_labelcolor_04",
+        "msFilter": "sp_labelcolor_13_v2"
     },
     {
         "id": "LC05",
@@ -37,7 +41,8 @@
         "colorBg": "bnk_mark_tag_color_green",
         "colorPanel": "bnk_label_head_green",
         "color": "#72d585",
-        "ms": "sp_labelcolor_05"
+        "ms": "sp_labelcolor_05",
+        "msFilter": "sp_labelcolor_14_v2"
     },
     {
         "id": "LC06",
@@ -45,7 +50,8 @@
         "colorBg": "bnk_mark_tag_color_lightblue",
         "colorPanel": "bnk_label_head_lightblue",
         "color": "#89d8f5",
-        "ms": "sp_labelcolor_06"
+        "ms": "sp_labelcolor_06",
+        "msFilter": "sp_labelcolor_15_v2"
     },
     {
         "id": "LC07",
@@ -53,7 +59,8 @@
         "colorBg": "bnk_mark_tag_color_blue",
         "colorPanel": "bnk_label_head_blue",
         "color": "#7fa8ef",
-        "ms": "sp_labelcolor_07"
+        "ms": "sp_labelcolor_07",
+        "msFilter": "sp_labelcolor_16_v2"
     },
     {
         "id": "LC08",
@@ -61,7 +68,8 @@
         "colorBg": "bnk_mark_tag_color_purple",
         "colorPanel": "bnk_label_head_purple",
         "color": "#c899e0",
-        "ms": "sp_labelcolor_08"
+        "ms": "sp_labelcolor_08",
+        "msFilter": "sp_labelcolor_17_v2"
     },
     {
         "id": "LC09",
@@ -69,6 +77,7 @@
         "colorBg": "bnk_mark_tag_color_pink",
         "colorPanel": "bnk_label_headpink",
         "color": "#ffbcdc",
-        "ms": "sp_labelcolor_09"
+        "ms": "sp_labelcolor_09",
+        "msFilter": "sp_labelcolor_18_v2"
     }
 ]

@@ -3578,5 +3578,17 @@
     {
         "id": "CA0890000",
         "msname": "zkn_type:ZKN_TYPE_890"
+    },
+    {
+        "id": "CA0891000",
+        "msname": "zkn_type:ZKN_TYPE_891"
+    },
+    {
+        "id": "CA0892000",
+        "msname": "zkn_type:ZKN_TYPE_892"
+    },
+    {
+        "id": "CA0893000",
+        "msname": "zkn_type:ZKN_TYPE_893"
     }
 ]

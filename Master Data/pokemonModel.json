@@ -2579,6 +2579,28 @@
         ]
     },
     {
+        "id": "PM00800020",
+        "model": "pm0080_00_31_prefab",
+        "variation": "00_31",
+        "scale1": 0.684931507,
+        "scale2": 0.95,
+        "posOffset": [
+            0,
+            0.1,
+            0
+        ],
+        "modelHeight": 160,
+        "trdDemoPosRatio": 1,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ]
+    },
+    {
         "id": "PM00810005",
         "model": "pm0081_00_00_prefab",
         "variation": "00_00",
@@ -28043,6 +28065,116 @@
         ],
         "modelHeight": 10000,
         "trdDemoPosRatio": 0.2,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ]
+    },
+    {
+        "id": "PM08910000",
+        "model": "pm0891_00_00_prefab",
+        "variation": "00_00",
+        "scale1": 0.982142857,
+        "scale2": 1,
+        "posOffset": [
+            0,
+            0.1,
+            0
+        ],
+        "modelHeight": 60,
+        "trdDemoPosRatio": 1,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ]
+    },
+    {
+        "id": "PM08920000",
+        "model": "pm0892_11_00_prefab",
+        "variation": "11_00",
+        "scale1": 0.533333333,
+        "scale2": 1.05,
+        "posOffset": [
+            0,
+            0.1,
+            0
+        ],
+        "modelHeight": 190,
+        "trdDemoPosRatio": 1,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ]
+    },
+    {
+        "id": "PM08920010",
+        "model": "pm0892_12_00_prefab",
+        "variation": "12_00",
+        "scale1": 0.533333333,
+        "scale2": 1.05,
+        "posOffset": [
+            0,
+            0.1,
+            0
+        ],
+        "modelHeight": 190,
+        "trdDemoPosRatio": 1,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ]
+    },
+    {
+        "id": "PM08930005",
+        "model": "pm0893_11_00_prefab",
+        "variation": "11_00",
+        "scale1": 0.523560209,
+        "scale2": 1.05,
+        "posOffset": [
+            0,
+            0.1,
+            0
+        ],
+        "modelHeight": 180,
+        "trdDemoPosRatio": 1,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ]
+    },
+    {
+        "id": "PM08930015",
+        "model": "pm0893_12_00_prefab",
+        "variation": "12_00",
+        "scale1": 0.523560209,
+        "scale2": 1.05,
+        "posOffset": [
+            0,
+            0.1,
+            0
+        ],
+        "modelHeight": 180,
+        "trdDemoPosRatio": 1,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
