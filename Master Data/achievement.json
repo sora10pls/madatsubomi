@@ -4745,7 +4745,7 @@
         "endAt": "9999999999",
         "actionType": "box",
         "isSpecial": 0,
-        "ms": "sp_ach_box_0032",
+        "ms": "sp_ach_box_0033",
         "dispCondition": "countUp",
         "isRewardOpen": 1,
         "jdata": ""
@@ -4770,7 +4770,7 @@
         "endAt": "9999999999",
         "actionType": "box",
         "isSpecial": 0,
-        "ms": "sp_ach_box_0033",
+        "ms": "sp_ach_box_0032",
         "dispCondition": "countUp",
         "isRewardOpen": 1,
         "jdata": ""
