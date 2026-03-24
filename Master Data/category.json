@@ -588,12 +588,24 @@
         "msname": "zkn_type:ZKN_TYPE_144"
     },
     {
+        "id": "CA0144001",
+        "msname": "zkn_type:ZKN_TYPE_144_001"
+    },
+    {
         "id": "CA0145000",
         "msname": "zkn_type:ZKN_TYPE_145"
     },
     {
+        "id": "CA0145001",
+        "msname": "zkn_type:ZKN_TYPE_145_001"
+    },
+    {
         "id": "CA0146000",
         "msname": "zkn_type:ZKN_TYPE_146"
+    },
+    {
+        "id": "CA0146001",
+        "msname": "zkn_type:ZKN_TYPE_146_001"
     },
     {
         "id": "CA0147000",
@@ -806,6 +818,10 @@
     {
         "id": "CA0199000",
         "msname": "zkn_type:ZKN_TYPE_199"
+    },
+    {
+        "id": "CA0199001",
+        "msname": "zkn_type:ZKN_TYPE_199_001"
     },
     {
         "id": "CA0200000",
@@ -3590,5 +3606,33 @@
     {
         "id": "CA0893000",
         "msname": "zkn_type:ZKN_TYPE_893"
+    },
+    {
+        "id": "CA0894000",
+        "msname": "zkn_type:ZKN_TYPE_894"
+    },
+    {
+        "id": "CA0895000",
+        "msname": "zkn_type:ZKN_TYPE_895"
+    },
+    {
+        "id": "CA0896000",
+        "msname": "zkn_type:ZKN_TYPE_896"
+    },
+    {
+        "id": "CA0897000",
+        "msname": "zkn_type:ZKN_TYPE_897"
+    },
+    {
+        "id": "CA0898000",
+        "msname": "zkn_type:ZKN_TYPE_898"
+    },
+    {
+        "id": "CA0898001",
+        "msname": "zkn_type:ZKN_TYPE_898_001"
+    },
+    {
+        "id": "CA0898002",
+        "msname": "zkn_type:ZKN_TYPE_898_002"
     }
 ]

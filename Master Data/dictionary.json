@@ -2418,9 +2418,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -2493,9 +2494,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -2569,9 +2571,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -2643,9 +2646,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -2717,9 +2721,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -2791,9 +2796,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -2865,9 +2871,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -2939,9 +2946,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -3013,9 +3021,10 @@
             "DI0025004",
             "DI0025005",
             "DI0025006",
-            "DI0025007"
+            "DI0025007",
+            "DI0025009"
         ],
-        "formChangeDicsNum": 9,
+        "formChangeDicsNum": 10,
         "regionIds": [
             0,
             0,
@@ -3136,6 +3145,81 @@
         "compareSizeScale": 0.65,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -7.5,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0025009",
+        "dictionaryId": 25,
+        "formNo": 9,
+        "mdFormChangeDics": [
+            "DI0025000",
+            "DI0025000G",
+            "DI0025001",
+            "DI0025002",
+            "DI0025003",
+            "DI0025004",
+            "DI0025005",
+            "DI0025006",
+            "DI0025007",
+            "DI0025009"
+        ],
+        "formChangeDicsNum": 10,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0025",
+        "mdTypeIds": [
+            "TY0012"
+        ],
+        "mdPokemonImage": "PI0025009",
+        "voice": "mt_PV_EV_025_09_00",
+        "voiceFemale": "mt_PV_EV_025_09_00",
+        "mdCateId": "CA0025000",
+        "mdHeightId": "HE0025009",
+        "mdWeightId": "WE0025009",
+        "mdDescTextId": "TX0025009",
+        "mdForm": "FN0025009",
+        "formGender": 1,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0009",
+            "TK0031"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0003",
+        "mdKata": "KT0005",
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 35,
+        "paramATK": 55,
+        "paramDEF": 40,
+        "paramSATK": 50,
+        "paramSDEF": 50,
+        "paramSPD": 90,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 0.64,
+        "compareLayoutScale": 0.8,
+        "compareOffsetY": -2.5,
         "compareOffsetX": 0
     },
     {
@@ -3588,7 +3672,8 @@
         "paramSPD": 41,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 0.6,
         "compareLayoutScale": 0.8,
@@ -3653,7 +3738,8 @@
         "paramSPD": 56,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1,
         "compareLayoutScale": 0.8,
@@ -3719,7 +3805,8 @@
         "paramSPD": 76,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.46,
         "compareLayoutScale": 0.8,
@@ -3784,7 +3871,8 @@
         "paramSPD": 50,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 0.7,
         "compareLayoutScale": 0.8,
@@ -3849,7 +3937,8 @@
         "paramSPD": 65,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.05,
         "compareLayoutScale": 0.85,
@@ -3915,7 +4004,8 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.75,
         "compareLayoutScale": 0.9,
@@ -4507,7 +4597,8 @@
         "paramSPD": 55,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.09,
         "compareLayoutScale": 0.9,
@@ -4572,7 +4663,8 @@
         "paramSPD": 90,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.75,
         "compareLayoutScale": 1.125,
@@ -11822,7 +11914,8 @@
         "paramSPD": 95,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.75,
         "compareLayoutScale": 0.85,
@@ -11886,7 +11979,8 @@
         "paramSPD": 105,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.45,
         "compareLayoutScale": 0.85,
@@ -11950,7 +12044,8 @@
         "paramSPD": 93,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.8,
         "compareLayoutScale": 0.85,
@@ -13068,7 +13163,8 @@
         "paramSPD": 35,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 0.49,
         "compareLayoutScale": 0.8,
@@ -13134,7 +13230,8 @@
         "paramSPD": 55,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.2,
         "compareLayoutScale": 0.85,
@@ -13200,7 +13297,8 @@
         "paramSPD": 55,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 0.5,
         "compareLayoutScale": 0.85,
@@ -13266,7 +13364,8 @@
         "paramSPD": 80,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.6,
         "compareLayoutScale": 0.8,
@@ -13332,7 +13431,8 @@
         "paramSPD": 130,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 2.85,
         "compareLayoutScale": 1,
@@ -13592,10 +13692,75 @@
         "paramSPD": 85,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 2.39,
         "compareLayoutScale": 0.8,
+        "compareOffsetY": 0,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0144001",
+        "dictionaryId": 144,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0144",
+        "mdTypeIds": [
+            "TY0013",
+            "TY0002"
+        ],
+        "mdPokemonImage": "PI0144001",
+        "voice": "mt_PV_EV_144_01_00",
+        "voiceFemale": "mt_PV_EV_144_01_00",
+        "mdCateId": "CA0144001",
+        "mdHeightId": "HE0144001",
+        "mdWeightId": "WE0144001",
+        "mdDescTextId": "TX0144001",
+        "mdForm": "FN0144001",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0172"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0007",
+        "mdKata": "KT0012",
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 1,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 90,
+        "paramATK": 85,
+        "paramDEF": 85,
+        "paramSATK": 125,
+        "paramSDEF": 100,
+        "paramSPD": 95,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 2.15,
+        "compareLayoutScale": 1,
         "compareOffsetY": 0,
         "compareOffsetX": 0
     },
@@ -13657,11 +13822,76 @@
         "paramSPD": 100,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 2.68,
-        "compareLayoutScale": 0.9,
+        "compareLayoutScale": 1,
         "compareOffsetY": 0,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0145001",
+        "dictionaryId": 145,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0145",
+        "mdTypeIds": [
+            "TY0001",
+            "TY0002"
+        ],
+        "mdPokemonImage": "PI0145001",
+        "voice": "mt_PV_EV_145_01_00",
+        "voiceFemale": "mt_PV_EV_145_01_00",
+        "mdCateId": "CA0145001",
+        "mdHeightId": "HE0145001",
+        "mdWeightId": "WE0145001",
+        "mdDescTextId": "TX0145001",
+        "mdForm": "FN0145001",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0128"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0003",
+        "mdKata": "KT0012",
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 1,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 90,
+        "paramATK": 125,
+        "paramDEF": 90,
+        "paramSATK": 85,
+        "paramSDEF": 90,
+        "paramSPD": 100,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 1.6,
+        "compareLayoutScale": 1,
+        "compareOffsetY": -6,
         "compareOffsetX": 0
     },
     {
@@ -13722,10 +13952,75 @@
         "paramSPD": 90,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 3.33,
-        "compareLayoutScale": 0.9,
+        "compareLayoutScale": 1,
+        "compareOffsetY": 0,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0146001",
+        "dictionaryId": 146,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0146",
+        "mdTypeIds": [
+            "TY0016",
+            "TY0002"
+        ],
+        "mdPokemonImage": "PI0146001",
+        "voice": "mt_PV_EV_146_01_00",
+        "voiceFemale": "mt_PV_EV_146_01_00",
+        "mdCateId": "CA0146001",
+        "mdHeightId": "HE0146001",
+        "mdWeightId": "WE0146001",
+        "mdDescTextId": "TX0146001",
+        "mdForm": "FN0146001",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0201"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0001",
+        "mdKata": "KT0012",
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 1,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 90,
+        "paramATK": 85,
+        "paramDEF": 90,
+        "paramSATK": 100,
+        "paramSDEF": 125,
+        "paramSPD": 90,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 3,
+        "compareLayoutScale": 1,
         "compareOffsetY": 0,
         "compareOffsetX": 0
     },
@@ -13786,7 +14081,8 @@
         "paramSPD": 50,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 1.2,
         "compareLayoutScale": 0.85,
@@ -13850,7 +14146,8 @@
         "paramSPD": 70,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 2,
         "compareLayoutScale": 0.85,
@@ -13915,7 +14212,8 @@
         "paramSPD": 80,
         "isLegend": 0,
         "appearSoftwareAper": [
-            "TT004"
+            "TT004",
+            "TT005"
         ],
         "compareSizeScale": 2.29,
         "compareLayoutScale": 0.85,
@@ -15303,7 +15601,9 @@
         "paramSDEF": 80,
         "paramSPD": 130,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.8,
         "compareLayoutScale": 0.95,
         "compareOffsetY": 0,
@@ -17304,6 +17604,72 @@
             "TT005"
         ],
         "compareSizeScale": 2.13,
+        "compareLayoutScale": 0.8,
+        "compareOffsetY": -7,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0199001",
+        "dictionaryId": 199,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0199",
+        "mdTypeIds": [
+            "TY0003",
+            "TY0013"
+        ],
+        "mdPokemonImage": "PI0199001",
+        "voice": "mt_PV_EV_199_01_00",
+        "voiceFemale": "mt_PV_EV_199_01_00",
+        "mdCateId": "CA0199001",
+        "mdHeightId": "HE0199001",
+        "mdWeightId": "WE0199001",
+        "mdDescTextId": "TX0199001",
+        "mdForm": "FN0199001",
+        "formGender": 3,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0421",
+        "mdTokuIds": [
+            "TK0261",
+            "TK0020",
+            "TK0144"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0010",
+        "mdKata": "KT0010",
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 1,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 95,
+        "paramATK": 65,
+        "paramDEF": 80,
+        "paramSATK": 110,
+        "paramSDEF": 110,
+        "paramSPD": 30,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 1.9,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -7,
         "compareOffsetX": 0
@@ -21769,7 +22135,9 @@
         "paramSDEF": 65,
         "paramSPD": 65,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.66,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -2.5,
@@ -21831,7 +22199,9 @@
         "paramSDEF": 55,
         "paramSPD": 95,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.9,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -3.5,
@@ -21893,7 +22263,9 @@
         "paramSDEF": 55,
         "paramSPD": 83,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.89,
         "compareLayoutScale": 0.6,
         "compareOffsetY": -5.5,
@@ -22085,7 +22457,9 @@
         "paramSDEF": 100,
         "paramSPD": 115,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.1,
         "compareLayoutScale": 0.95,
         "compareOffsetY": -9,
@@ -22147,7 +22521,9 @@
         "paramSDEF": 75,
         "paramSPD": 100,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.03,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -9,
@@ -22209,7 +22585,9 @@
         "paramSDEF": 115,
         "paramSPD": 85,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.09,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -8,
@@ -22528,7 +22906,9 @@
         "paramSDEF": 154,
         "paramSPD": 110,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 6.7,
         "compareLayoutScale": 0.95,
         "compareOffsetY": 0,
@@ -22591,7 +22971,9 @@
         "paramSDEF": 154,
         "paramSPD": 90,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 5.5,
         "compareLayoutScale": 0.95,
         "compareOffsetY": 40,
@@ -22717,7 +23099,9 @@
         "paramSDEF": 55,
         "paramSPD": 70,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.62,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -3.5,
@@ -22779,7 +23163,9 @@
         "paramSDEF": 65,
         "paramSPD": 95,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.33,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -16.5,
@@ -22841,7 +23227,9 @@
         "paramSDEF": 85,
         "paramSPD": 120,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.84,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -13,
@@ -22965,7 +23353,9 @@
         "paramSDEF": 50,
         "paramSPD": 45,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.52,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -3.5,
@@ -23028,7 +23418,9 @@
         "paramSDEF": 60,
         "paramSPD": 55,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.18,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -5,
@@ -23091,7 +23483,9 @@
         "paramSDEF": 70,
         "paramSPD": 80,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.1,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -8.5,
@@ -23215,7 +23609,9 @@
         "paramSDEF": 50,
         "paramSPD": 40,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.51,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -2.5,
@@ -23278,7 +23674,9 @@
         "paramSDEF": 70,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.82,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -7.5,
@@ -23341,7 +23739,9 @@
         "paramSDEF": 90,
         "paramSPD": 60,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.3,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -12,
@@ -26537,7 +26937,9 @@
         "paramSDEF": 40,
         "paramSPD": 30,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.65,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -5,
@@ -26601,7 +27003,9 @@
         "paramSDEF": 50,
         "paramSPD": 40,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.3,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -10.5,
@@ -26665,7 +27069,9 @@
         "paramSDEF": 60,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.25,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -8,
@@ -28694,7 +29100,9 @@
         "paramSDEF": 75,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.32,
         "compareLayoutScale": 0.9,
         "compareOffsetY": 0,
@@ -28757,7 +29165,9 @@
         "paramSDEF": 105,
         "paramSPD": 80,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.33,
         "compareLayoutScale": 0.85,
         "compareOffsetY": 0,
@@ -29525,7 +29935,9 @@
         "paramSDEF": 87,
         "paramSPD": 23,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.1,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -7,
@@ -29588,7 +30000,9 @@
         "paramSDEF": 107,
         "paramSPD": 43,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.35,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -8,
@@ -29651,7 +30065,9 @@
         "paramSDEF": 50,
         "paramSPD": 75,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.01,
         "compareLayoutScale": 0.9,
         "compareOffsetY": 0,
@@ -29714,7 +30130,9 @@
         "paramSDEF": 80,
         "paramSPD": 45,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.72,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -10.5,
@@ -30653,7 +31071,9 @@
         "paramSDEF": 60,
         "paramSPD": 75,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.3,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -5.5,
@@ -31033,7 +31453,9 @@
         "paramSDEF": 50,
         "paramSPD": 25,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.07,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -5.5,
@@ -31097,7 +31519,9 @@
         "paramSDEF": 70,
         "paramSPD": 45,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.6,
         "compareLayoutScale": 0.95,
         "compareOffsetY": -14,
@@ -31161,7 +31585,9 @@
         "paramSDEF": 90,
         "paramSPD": 65,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.69,
         "compareLayoutScale": 1,
         "compareOffsetY": -17,
@@ -31411,7 +31837,9 @@
         "paramSDEF": 65,
         "paramSPD": 55,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.28,
         "compareLayoutScale": 0.9,
         "compareOffsetY": 0,
@@ -31535,7 +31963,9 @@
         "paramSDEF": 30,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.75,
         "compareLayoutScale": 0.7,
         "compareOffsetY": -4.5,
@@ -31597,7 +32027,9 @@
         "paramSDEF": 50,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.25,
         "compareLayoutScale": 0.95,
         "compareOffsetY": -9,
@@ -31660,7 +32092,9 @@
         "paramSDEF": 80,
         "paramSPD": 100,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.14,
         "compareLayoutScale": 0.95,
         "compareOffsetY": -12.5,
@@ -31785,7 +32219,9 @@
         "paramSDEF": 60,
         "paramSPD": 30,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.82,
         "compareLayoutScale": 1,
         "compareOffsetY": 0,
@@ -31848,7 +32284,9 @@
         "paramSDEF": 80,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.75,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -4,
@@ -31911,7 +32349,9 @@
         "paramSDEF": 90,
         "paramSPD": 70,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -30,
@@ -32035,7 +32475,9 @@
         "paramSDEF": 100,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.03,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -9,
@@ -32097,7 +32539,9 @@
         "paramSDEF": 200,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.04,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -9.5,
@@ -32159,7 +32603,9 @@
         "paramSDEF": 150,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.38,
         "compareLayoutScale": 0.95,
         "compareOffsetY": -6,
@@ -32221,7 +32667,9 @@
         "paramSDEF": 130,
         "paramSPD": 110,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.6,
         "compareLayoutScale": 0.95,
         "compareOffsetY": 0,
@@ -32345,7 +32793,9 @@
         "paramSDEF": 110,
         "paramSPD": 110,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.1,
         "compareLayoutScale": 0.9,
         "compareOffsetY": 0,
@@ -32468,7 +32918,9 @@
         "paramSDEF": 140,
         "paramSPD": 90,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 6.4,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -80,
@@ -32590,7 +33042,9 @@
         "paramSDEF": 90,
         "paramSPD": 90,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 5.35,
         "compareLayoutScale": 1,
         "compareOffsetY": -38.5,
@@ -32714,7 +33168,9 @@
         "paramSDEF": 90,
         "paramSPD": 95,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.7,
         "compareLayoutScale": 1,
         "compareOffsetY": 0,
@@ -37287,7 +37743,9 @@
         "paramSDEF": 108,
         "paramSPD": 35,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.3,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -3.5,
@@ -37350,7 +37808,9 @@
         "paramSDEF": 45,
         "paramSPD": 42,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.73,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -4,
@@ -37413,7 +37873,9 @@
         "paramSDEF": 55,
         "paramSPD": 82,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.5,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -7.5,
@@ -37476,7 +37938,9 @@
         "paramSDEF": 85,
         "paramSPD": 102,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.18,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -13.5,
@@ -39022,7 +39486,9 @@
         "paramSDEF": 85,
         "paramSPD": 95,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.23,
         "compareLayoutScale": 1,
         "compareOffsetY": -8.5,
@@ -39084,7 +39550,9 @@
         "paramSDEF": 95,
         "paramSPD": 83,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.15,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -14,
@@ -40302,7 +40770,9 @@
         "paramSDEF": 130,
         "paramSPD": 95,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.33,
         "compareLayoutScale": 0.8,
         "compareOffsetY": 65,
@@ -40363,7 +40833,9 @@
         "paramSDEF": 105,
         "paramSPD": 80,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.46,
         "compareLayoutScale": 0.8,
         "compareOffsetY": 57.5,
@@ -40424,7 +40896,9 @@
         "paramSDEF": 70,
         "paramSPD": 115,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.42,
         "compareLayoutScale": 0.8,
         "compareOffsetY": 61.5,
@@ -40487,7 +40961,9 @@
         "paramSDEF": 100,
         "paramSPD": 90,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 5.35,
         "compareLayoutScale": 1,
         "compareOffsetY": -32.5,
@@ -40550,7 +41026,9 @@
         "paramSDEF": 120,
         "paramSPD": 100,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.85,
         "compareLayoutScale": 1,
         "compareOffsetY": -28.5,
@@ -40612,7 +41090,9 @@
         "paramSDEF": 106,
         "paramSPD": 77,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.8,
         "compareLayoutScale": 1,
         "compareOffsetY": -43,
@@ -40673,7 +41153,9 @@
         "paramSDEF": 110,
         "paramSPD": 100,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 5.2,
         "compareLayoutScale": 1,
         "compareOffsetY": -13,
@@ -40736,7 +41218,9 @@
         "paramSDEF": 120,
         "paramSPD": 90,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 5.7,
         "compareLayoutScale": 1,
         "compareOffsetY": -32,
@@ -40798,7 +41282,9 @@
         "paramSDEF": 100,
         "paramSPD": 90,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 4.8,
         "compareLayoutScale": 1,
         "compareOffsetY": 21,
@@ -40858,8 +41344,10 @@
         "paramSATK": 75,
         "paramSDEF": 130,
         "paramSPD": 85,
-        "isLegend": 1,
-        "appearSoftwareAper": [],
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.66,
         "compareLayoutScale": 0.85,
         "compareOffsetY": 0,
@@ -40919,7 +41407,7 @@
         "paramSATK": 80,
         "paramSDEF": 80,
         "paramSPD": 80,
-        "isLegend": 0,
+        "isLegend": 1,
         "appearSoftwareAper": [],
         "compareSizeScale": 0.75,
         "compareLayoutScale": 1,
@@ -42325,7 +42813,9 @@
         "paramSDEF": 100,
         "paramSPD": 100,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.55,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -2.5,
@@ -44683,7 +45173,9 @@
         "paramSDEF": 86,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.38,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -4.5,
@@ -47282,7 +47774,9 @@
         "paramSDEF": 45,
         "paramSPD": 22,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.81,
         "compareLayoutScale": 1,
         "compareOffsetY": -19,
@@ -47346,7 +47840,9 @@
         "paramSDEF": 65,
         "paramSPD": 32,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.57,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -7.5,
@@ -47408,7 +47904,9 @@
         "paramSDEF": 45,
         "paramSPD": 70,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -6.5,
@@ -47470,7 +47968,9 @@
         "paramSDEF": 65,
         "paramSPD": 110,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.33,
         "compareLayoutScale": 0.7,
         "compareOffsetY": -10,
@@ -51022,7 +51522,9 @@
         "paramSDEF": 135,
         "paramSPD": 105,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.13,
         "compareLayoutScale": 0.95,
         "compareOffsetY": 20,
@@ -52777,7 +53279,9 @@
         "paramSDEF": 80,
         "paramSPD": 111,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.55,
         "compareLayoutScale": 0.8,
         "compareOffsetY": 6,
@@ -52838,7 +53342,9 @@
         "paramSDEF": 90,
         "paramSPD": 121,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.13,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -7,
@@ -52901,7 +53407,9 @@
         "paramSDEF": 80,
         "paramSPD": 111,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.53,
         "compareLayoutScale": 0.8,
         "compareOffsetY": 6.5,
@@ -52963,7 +53471,9 @@
         "paramSDEF": 80,
         "paramSPD": 101,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.23,
         "compareLayoutScale": 0.85,
         "compareOffsetY": 0.5,
@@ -53154,7 +53664,9 @@
         "paramSDEF": 80,
         "paramSPD": 101,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.6,
         "compareLayoutScale": 0.8,
         "compareOffsetY": 5,
@@ -53216,7 +53728,9 @@
         "paramSDEF": 80,
         "paramSPD": 91,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.62,
         "compareLayoutScale": 0.85,
         "compareOffsetY": 10.5,
@@ -53722,7 +54236,9 @@
         "paramSDEF": 95,
         "paramSPD": 99,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.67,
         "compareLayoutScale": 0.75,
         "compareOffsetY": -9,
@@ -53784,7 +54300,9 @@
         "paramSDEF": 95,
         "paramSPD": 99,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.67,
         "compareLayoutScale": 0.75,
         "compareOffsetY": -9,
@@ -53846,7 +54364,9 @@
         "paramSDEF": 95,
         "paramSPD": 99,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.67,
         "compareLayoutScale": 0.75,
         "compareOffsetY": -9,
@@ -53908,7 +54428,9 @@
         "paramSDEF": 95,
         "paramSPD": 99,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.67,
         "compareLayoutScale": 0.75,
         "compareOffsetY": -9,
@@ -53970,7 +54492,9 @@
         "paramSDEF": 95,
         "paramSPD": 99,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.67,
         "compareLayoutScale": 0.75,
         "compareOffsetY": -9,
@@ -54575,7 +55099,7 @@
         "mdForm": "FN0658001",
         "formGender": 1,
         "mdFormCategory": "",
-        "mdEvoPatId": "EV0237",
+        "mdEvoPatId": "EV0001",
         "mdTokuIds": [
             "TK0210"
         ],
@@ -62232,7 +62756,9 @@
         "paramSDEF": 45,
         "paramSPD": 48,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.25,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -9.5,
@@ -62295,7 +62821,9 @@
         "paramSDEF": 59,
         "paramSPD": 71,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.46,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -18.5,
@@ -62358,7 +62886,9 @@
         "paramSDEF": 63,
         "paramSPD": 46,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.79,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -9.5,
@@ -62421,7 +62951,9 @@
         "paramSDEF": 92,
         "paramSPD": 58,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.08,
         "compareLayoutScale": 0.85,
         "compareOffsetY": -11,
@@ -62680,7 +63212,9 @@
         "paramSDEF": 150,
         "paramSPD": 50,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.37,
         "compareLayoutScale": 0.85,
         "compareOffsetY": 10,
@@ -63923,7 +64457,9 @@
         "paramSDEF": 98,
         "paramSPD": 99,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 4.345,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -26,
@@ -63984,7 +64520,9 @@
         "paramSDEF": 98,
         "paramSPD": 99,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 4.345,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -26,
@@ -64046,7 +64584,9 @@
         "paramSDEF": 98,
         "paramSPD": 99,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 5.32,
         "compareLayoutScale": 1.05,
         "compareOffsetY": 9,
@@ -64113,7 +64653,9 @@
         "paramSDEF": 95,
         "paramSPD": 95,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.93,
         "compareLayoutScale": 1,
         "compareOffsetY": -11,
@@ -64180,7 +64722,9 @@
         "paramSDEF": 85,
         "paramSPD": 115,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.525,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -17,
@@ -64246,7 +64790,9 @@
         "paramSDEF": 85,
         "paramSPD": 115,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.525,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -17,
@@ -64312,7 +64858,9 @@
         "paramSDEF": 95,
         "paramSPD": 95,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.93,
         "compareLayoutScale": 1,
         "compareOffsetY": -11,
@@ -64378,7 +64926,9 @@
         "paramSDEF": 95,
         "paramSPD": 85,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 5.27,
         "compareLayoutScale": 1,
         "compareOffsetY": -23,
@@ -64440,7 +64990,9 @@
         "paramSDEF": 150,
         "paramSPD": 50,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.81,
         "compareLayoutScale": 0.85,
         "compareOffsetY": 38,
@@ -64688,7 +65240,9 @@
         "paramSDEF": 90,
         "paramSPD": 70,
         "isLegend": 1,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.85,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -30,
@@ -71926,7 +72480,9 @@
         "paramSDEF": 75,
         "paramSPD": 130,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.87,
         "compareLayoutScale": 0.7,
         "compareOffsetY": 9.5,
@@ -71988,7 +72544,9 @@
         "paramSDEF": 115,
         "paramSPD": 95,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.2,
         "compareLayoutScale": 0.65,
         "compareOffsetY": 6,
@@ -72050,7 +72608,9 @@
         "paramSDEF": 95,
         "paramSPD": 75,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.99,
         "compareLayoutScale": 0.8,
         "compareOffsetY": 10.5,
@@ -72112,7 +72672,9 @@
         "paramSDEF": 130,
         "paramSPD": 85,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.37,
         "compareLayoutScale": 0.65,
         "compareOffsetY": 8,
@@ -72428,7 +72990,9 @@
         "paramSDEF": 131,
         "paramSPD": 103,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.2,
         "compareLayoutScale": 0.65,
         "compareOffsetY": 6.5,
@@ -72490,7 +73054,9 @@
         "paramSDEF": 53,
         "paramSPD": 79,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 2.77,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -4,
@@ -72552,7 +73118,9 @@
         "paramSDEF": 37,
         "paramSPD": 151,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.87,
         "compareLayoutScale": 0.65,
         "compareOffsetY": -4.5,
@@ -72613,7 +73181,9 @@
         "paramSDEF": 71,
         "paramSPD": 83,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 4.19,
         "compareLayoutScale": 0.8,
         "compareOffsetY": -17,
@@ -72675,7 +73245,9 @@
         "paramSDEF": 101,
         "paramSPD": 61,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 9.99,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -15.5,
@@ -72737,7 +73309,9 @@
         "paramSDEF": 31,
         "paramSPD": 109,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.6,
         "compareLayoutScale": 0.9,
         "compareOffsetY": 30,
@@ -72799,7 +73373,9 @@
         "paramSDEF": 53,
         "paramSPD": 43,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 9.18,
         "compareLayoutScale": 0.95,
         "compareOffsetY": -20.5,
@@ -73305,7 +73881,9 @@
         "paramSDEF": 67,
         "paramSPD": 73,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 0.65,
         "compareLayoutScale": 0.65,
         "compareOffsetY": 8.5,
@@ -73367,7 +73945,9 @@
         "paramSDEF": 73,
         "paramSPD": 121,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 3.3,
         "compareLayoutScale": 1,
         "compareOffsetY": 0,
@@ -73429,7 +74009,9 @@
         "paramSDEF": 101,
         "paramSPD": 13,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 8.2,
         "compareLayoutScale": 0.95,
         "compareOffsetY": -20.5,
@@ -73491,7 +74073,9 @@
         "paramSDEF": 79,
         "paramSPD": 107,
         "isLegend": 0,
-        "appearSoftwareAper": [],
+        "appearSoftwareAper": [
+            "TT005"
+        ],
         "compareSizeScale": 1.7,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -6,
@@ -85286,6 +85870,450 @@
         "compareSizeScale": 2.75,
         "compareLayoutScale": 0.9,
         "compareOffsetY": -16,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0894000",
+        "dictionaryId": 894,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0894",
+        "mdTypeIds": [
+            "TY0012"
+        ],
+        "mdPokemonImage": "PI0894000",
+        "voice": "mt_PV_EV_894_00_00",
+        "voiceFemale": "mt_PV_EV_894_00_00",
+        "mdCateId": "CA0894000",
+        "mdHeightId": "HE0894000",
+        "mdWeightId": "WE0894000",
+        "mdDescTextId": "TX0894000",
+        "mdForm": "FN0894000",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0262"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0003",
+        "mdKata": "KT0011",
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 80,
+        "paramATK": 100,
+        "paramDEF": 50,
+        "paramSATK": 100,
+        "paramSDEF": 50,
+        "paramSPD": 200,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 2.5,
+        "compareLayoutScale": 1,
+        "compareOffsetY": -35.5,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0895000",
+        "dictionaryId": 895,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0895",
+        "mdTypeIds": [
+            "TY0015"
+        ],
+        "mdPokemonImage": "PI0895000",
+        "voice": "mt_PV_EV_895_00_00",
+        "voiceFemale": "mt_PV_EV_895_00_00",
+        "mdCateId": "CA0895000",
+        "mdHeightId": "HE0895000",
+        "mdWeightId": "WE0895000",
+        "mdDescTextId": "TX0895000",
+        "mdForm": "FN0895000",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0263"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0004",
+        "mdKata": "KT0011",
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 200,
+        "paramATK": 100,
+        "paramDEF": 50,
+        "paramSATK": 100,
+        "paramSDEF": 50,
+        "paramSPD": 80,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 2.225,
+        "compareLayoutScale": 1,
+        "compareOffsetY": -2.5,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0896000",
+        "dictionaryId": 896,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0896",
+        "mdTypeIds": [
+            "TY0014"
+        ],
+        "mdPokemonImage": "PI0896000",
+        "voice": "mt_PV_EV_896_00_00",
+        "voiceFemale": "mt_PV_EV_896_00_00",
+        "mdCateId": "CA0896000",
+        "mdHeightId": "HE0896000",
+        "mdWeightId": "WE0896000",
+        "mdDescTextId": "TX0896000",
+        "mdForm": "FN0896000",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0264"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0009",
+        "mdKata": "KT0005",
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 100,
+        "paramATK": 145,
+        "paramDEF": 130,
+        "paramSATK": 65,
+        "paramSDEF": 110,
+        "paramSPD": 30,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 2.3,
+        "compareLayoutScale": 0.75,
+        "compareOffsetY": -13,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0897000",
+        "dictionaryId": 897,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0897",
+        "mdTypeIds": [
+            "TY0007"
+        ],
+        "mdPokemonImage": "PI0897000",
+        "voice": "mt_PV_EV_897_00_00",
+        "voiceFemale": "mt_PV_EV_897_00_00",
+        "mdCateId": "CA0897000",
+        "mdHeightId": "HE0897000",
+        "mdWeightId": "WE0897000",
+        "mdDescTextId": "TX0897000",
+        "mdForm": "FN0897000",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0265"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0005",
+        "mdKata": "KT0005",
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 100,
+        "paramATK": 65,
+        "paramDEF": 60,
+        "paramSATK": 145,
+        "paramSDEF": 80,
+        "paramSPD": 130,
+        "isLegend": 0,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 2.55,
+        "compareLayoutScale": 1,
+        "compareOffsetY": -15,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0898000",
+        "dictionaryId": 898,
+        "formNo": 0,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0898",
+        "mdTypeIds": [
+            "TY0013",
+            "TY0011"
+        ],
+        "mdPokemonImage": "PI0898000",
+        "voice": "mt_PV_EV_898_00_00",
+        "voiceFemale": "mt_PV_EV_898_00_00",
+        "mdCateId": "CA0898000",
+        "mdHeightId": "HE0898000",
+        "mdWeightId": "WE0898000",
+        "mdDescTextId": "TX0898000",
+        "mdForm": "FN0898000",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0127"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0004",
+        "mdKata": "KT0011",
+        "isInNumberSort": 1,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 100,
+        "paramATK": 80,
+        "paramDEF": 80,
+        "paramSATK": 80,
+        "paramSDEF": 80,
+        "paramSPD": 80,
+        "isLegend": 1,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 1.25,
+        "compareLayoutScale": 0.575,
+        "compareOffsetY": -9.5,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0898001",
+        "dictionaryId": 898,
+        "formNo": 1,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0898",
+        "mdTypeIds": [
+            "TY0013",
+            "TY0014"
+        ],
+        "mdPokemonImage": "PI0898001",
+        "voice": "mt_PV_EV_898_01_00",
+        "voiceFemale": "mt_PV_EV_898_01_00",
+        "mdCateId": "CA0898001",
+        "mdHeightId": "HE0898001",
+        "mdWeightId": "WE0898001",
+        "mdDescTextId": "TX0898001",
+        "mdForm": "FN0898001",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0266"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0009",
+        "mdKata": "KT0005",
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 100,
+        "paramATK": 165,
+        "paramDEF": 150,
+        "paramSATK": 85,
+        "paramSDEF": 130,
+        "paramSPD": 50,
+        "isLegend": 1,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 2.5,
+        "compareLayoutScale": 1,
+        "compareOffsetY": -5.5,
+        "compareOffsetX": 0
+    },
+    {
+        "id": "DI0898002",
+        "dictionaryId": 898,
+        "formNo": 2,
+        "mdFormChangeDics": [],
+        "formChangeDicsNum": -1,
+        "regionIds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "mdNameId": "NM0898",
+        "mdTypeIds": [
+            "TY0013",
+            "TY0007"
+        ],
+        "mdPokemonImage": "PI0898002",
+        "voice": "mt_PV_EV_898_02_00",
+        "voiceFemale": "mt_PV_EV_898_02_00",
+        "mdCateId": "CA0898002",
+        "mdHeightId": "HE0898002",
+        "mdWeightId": "WE0898002",
+        "mdDescTextId": "TX0898002",
+        "mdForm": "FN0898002",
+        "formGender": 0,
+        "mdFormCategory": "",
+        "mdEvoPatId": "EV0001",
+        "mdTokuIds": [
+            "TK0267"
+        ],
+        "tokuTemplatePrefab": "",
+        "mdColor": "IR0005",
+        "mdKata": "KT0005",
+        "isInNumberSort": 0,
+        "isInAllForm": 1,
+        "isDMax": 0,
+        "isReferDMaxSpFlag": 0,
+        "isMega": 0,
+        "isGenshi": 0,
+        "isNushi": 0,
+        "isArora": 0,
+        "isGalar": 0,
+        "free": -1,
+        "dmaxLinkFormNos": [],
+        "exLinkFormNos": [],
+        "paramHP": 100,
+        "paramATK": 85,
+        "paramDEF": 80,
+        "paramSATK": 165,
+        "paramSDEF": 100,
+        "paramSPD": 150,
+        "isLegend": 1,
+        "appearSoftwareAper": [
+            "TT005"
+        ],
+        "compareSizeScale": 2.225,
+        "compareLayoutScale": 0.55,
+        "compareOffsetY": -9,
         "compareOffsetX": 0
     }
 ]

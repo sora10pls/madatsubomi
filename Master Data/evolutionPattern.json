@@ -3941,10 +3941,11 @@
     },
     {
         "id": "EV0421",
-        "templatePrefab": "EvoInfoType2Prefab",
+        "templatePrefab": "EvoInfoType3BPrefab",
         "mdPokemonImages": [
             "DI0079001",
-            "DI0080002"
+            "DI0080002",
+            "DI0199001"
         ],
         "imageVariations": []
     }
