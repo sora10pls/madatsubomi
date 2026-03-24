@@ -70900,8 +70900,10 @@
         "id": "DI0809000",
         "dictionaryId": 809,
         "formNo": 0,
-        "mdFormChangeDics": [],
-        "formChangeDicsNum": -1,
+        "mdFormChangeDics": [
+            "DI0809000"
+        ],
+        "formChangeDicsNum": 1,
         "regionIds": [
             0,
             0,
@@ -70995,7 +70997,7 @@
         "mdColor": "IR0008",
         "mdKata": "KT0011",
         "isInNumberSort": 0,
-        "isInAllForm": 1,
+        "isInAllForm": 0,
         "isDMax": 1,
         "isMega": 0,
         "isGenshi": 0,
