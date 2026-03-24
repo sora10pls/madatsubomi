@@ -47,7 +47,7 @@
             "SF043"
         ],
         "appearTarget": 1,
-        "appearTargetSort": 4
+        "appearTargetSort": 5
     },
     {
         "id": "TT005",
@@ -57,7 +57,7 @@
             "SF045"
         ],
         "appearTarget": 1,
-        "appearTargetSort": 3
+        "appearTargetSort": 4
     },
     {
         "id": "TT006",
@@ -67,13 +67,23 @@
             "SF049"
         ],
         "appearTarget": 1,
-        "appearTargetSort": 2
+        "appearTargetSort": 3
     },
     {
         "id": "TT007",
         "ms": "",
         "mdSoftwares": [
             "SF047"
+        ],
+        "appearTarget": 1,
+        "appearTargetSort": 2
+    },
+    {
+        "id": "TT008",
+        "ms": "",
+        "mdSoftwares": [
+            "SF050",
+            "SF051"
         ],
         "appearTarget": 1,
         "appearTargetSort": 1

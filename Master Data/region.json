@@ -78,5 +78,10 @@
         "id": "RG016",
         "no": 16,
         "ms": "place_name_spe:MAPNAME_BDSP"
+    },
+    {
+        "id": "RG017",
+        "no": 17,
+        "ms": "place_name_spe:MAPNAME_PALDEA"
     }
 ]

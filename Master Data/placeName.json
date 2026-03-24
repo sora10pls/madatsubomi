@@ -22988,5 +22988,1598 @@
         ],
         "placeNameIds": "379-384",
         "msPlace": "BDSP_place_name:DP_fld_arenames_081"
+    },
+    {
+        "id": "2520",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "0",
+        "msPlace": "SV_place_name:MAPNAME_NOTHING"
+    },
+    {
+        "id": "2521",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "1",
+        "msPlace": "SV_place_name:MAPNAME_NOTHING_01"
+    },
+    {
+        "id": "2522",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "2",
+        "msPlace": "SV_place_name:MAPNAME_NAZONOBASYO"
+    },
+    {
+        "id": "2523",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "3",
+        "msPlace": "SV_place_name:MAPNAME_NAZONOBASYO_01"
+    },
+    {
+        "id": "2524",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "4",
+        "msPlace": "SV_place_name:MAPNAME_TOOIBASYO"
+    },
+    {
+        "id": "2525",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "5",
+        "msPlace": "SV_place_name:MAPNAME_TOOIBASYO_01"
+    },
+    {
+        "id": "2526",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "6,7",
+        "msPlace": "SV_place_name:PLACENAME_a_w01_01"
+    },
+    {
+        "id": "2527",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "8,9",
+        "msPlace": "SV_place_name:PLACENAME_a_w02_01"
+    },
+    {
+        "id": "2528",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "10,11",
+        "msPlace": "SV_place_name:PLACENAME_a_w03_01"
+    },
+    {
+        "id": "2529",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "12,13",
+        "msPlace": "SV_place_name:PLACENAME_a_w04_01"
+    },
+    {
+        "id": "2530",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "14,15",
+        "msPlace": "SV_place_name:PLACENAME_a_w05_01"
+    },
+    {
+        "id": "2531",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "16,17",
+        "msPlace": "SV_place_name:PLACENAME_a_w06_01"
+    },
+    {
+        "id": "2532",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "18,19",
+        "msPlace": "SV_place_name:PLACENAME_a_w07_01"
+    },
+    {
+        "id": "2533",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "20,21",
+        "msPlace": "SV_place_name:PLACENAME_a_w08_01"
+    },
+    {
+        "id": "2534",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "22,23",
+        "msPlace": "SV_place_name:PLACENAME_a_w09_01"
+    },
+    {
+        "id": "2535",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "24,25",
+        "msPlace": "SV_place_name:PLACENAME_a_w10_01"
+    },
+    {
+        "id": "2536",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "26,27",
+        "msPlace": "SV_place_name:PLACENAME_a_w11_01"
+    },
+    {
+        "id": "2537",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "28,29",
+        "msPlace": "SV_place_name:PLACENAME_a_w12_01"
+    },
+    {
+        "id": "2538",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30,31",
+        "msPlace": "SV_place_name:PLACENAME_a_w13_01"
+    },
+    {
+        "id": "2539",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "32,33",
+        "msPlace": "SV_place_name:PLACENAME_a_w14_01"
+    },
+    {
+        "id": "2540",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "34,35",
+        "msPlace": "SV_place_name:PLACENAME_a_w15_01"
+    },
+    {
+        "id": "2541",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "36,37",
+        "msPlace": "SV_place_name:PLACENAME_a_w16_01"
+    },
+    {
+        "id": "2542",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "38,39",
+        "msPlace": "SV_place_name:PLACENAME_a_w17_01"
+    },
+    {
+        "id": "2543",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40,41",
+        "msPlace": "SV_place_name:PLACENAME_a_w18_01"
+    },
+    {
+        "id": "2544",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "44,45",
+        "msPlace": "SV_place_name:PLACENAME_a_w20_01"
+    },
+    {
+        "id": "2545",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "46,47",
+        "msPlace": "SV_place_name:PLACENAME_a_w21_01"
+    },
+    {
+        "id": "2546",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "48,49",
+        "msPlace": "SV_place_name:PLACENAME_a_w22_01"
+    },
+    {
+        "id": "2547",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "50,51",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_01"
+    },
+    {
+        "id": "2548",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "52,53",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i01_01"
+    },
+    {
+        "id": "2549",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "56,57",
+        "msPlace": "SV_place_name:PLACENAME_a_w24_01"
+    },
+    {
+        "id": "2550",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "58,59",
+        "msPlace": "SV_place_name:PLACENAME_a_w25_01"
+    },
+    {
+        "id": "2551",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "60,61",
+        "msPlace": "SV_place_name:PLACENAME_a_w26_01"
+    },
+    {
+        "id": "2552",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "62,63",
+        "msPlace": "SV_place_name:PLACENAME_a_w27_01"
+    },
+    {
+        "id": "2553",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "64,65",
+        "msPlace": "SV_place_name:PLACENAME_a_d01_01"
+    },
+    {
+        "id": "2554",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "66",
+        "msPlace": "SV_place_name:PLACENAME_a_d0401_01"
+    },
+    {
+        "id": "2555",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "67",
+        "msPlace": "SV_place_name:PLACENAME_a_d0401_02"
+    },
+    {
+        "id": "2556",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "68",
+        "msPlace": "SV_place_name:PLACENAME_a_d08_01"
+    },
+    {
+        "id": "2557",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "69",
+        "msPlace": "SV_place_name:PLACENAME_a_d08_02"
+    },
+    {
+        "id": "2558",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "70,71",
+        "msPlace": "SV_place_name:PLACENAME_subarea_r01_01"
+    },
+    {
+        "id": "2559",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "72,74",
+        "msPlace": "SV_place_name:PLACENAME_subarea_c01school_01"
+    },
+    {
+        "id": "2560",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "76,77",
+        "msPlace": "SV_place_name:PLACENAME_subarea_c02_01"
+    },
+    {
+        "id": "2561",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "78,79",
+        "msPlace": "SV_place_name:PLACENAME_subarea_c03_01"
+    },
+    {
+        "id": "2562",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "80,81",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t01_01"
+    },
+    {
+        "id": "2563",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "82,83",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t02_01"
+    },
+    {
+        "id": "2564",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "84,85",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t03_01"
+    },
+    {
+        "id": "2565",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "86,87",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t04_01"
+    },
+    {
+        "id": "2566",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "88,89",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t05_01"
+    },
+    {
+        "id": "2567",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "90,91",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t06_01"
+    },
+    {
+        "id": "2568",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "92,93",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t07_01"
+    },
+    {
+        "id": "2569",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "94,95",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t08_01"
+    },
+    {
+        "id": "2570",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "96,97",
+        "msPlace": "SV_place_name:PLACENAME_subarea_t09_01"
+    },
+    {
+        "id": "2571",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "98",
+        "msPlace": "SV_place_name:PLACENAME_subarea_combatteam_01"
+    },
+    {
+        "id": "2572",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "99",
+        "msPlace": "SV_place_name:PLACENAME_subarea_combatteam_02"
+    },
+    {
+        "id": "2573",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "100",
+        "msPlace": "SV_place_name:PLACENAME_subarea_evilteam_01"
+    },
+    {
+        "id": "2574",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "101",
+        "msPlace": "SV_place_name:PLACENAME_subarea_evilteam_02"
+    },
+    {
+        "id": "2575",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "102",
+        "msPlace": "SV_place_name:PLACENAME_subarea_fairyteam_01"
+    },
+    {
+        "id": "2576",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "103",
+        "msPlace": "SV_place_name:PLACENAME_subarea_fairyteam_02"
+    },
+    {
+        "id": "2577",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "104",
+        "msPlace": "SV_place_name:PLACENAME_subarea_fireteam_01"
+    },
+    {
+        "id": "2578",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "105",
+        "msPlace": "SV_place_name:PLACENAME_subarea_fireteam_02"
+    },
+    {
+        "id": "2579",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "106",
+        "msPlace": "SV_place_name:PLACENAME_subarea_poisonteam_01"
+    },
+    {
+        "id": "2580",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "107",
+        "msPlace": "SV_place_name:PLACENAME_subarea_poisonteam_02"
+    },
+    {
+        "id": "2581",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "108",
+        "msPlace": "SV_place_name:PLACENAME_subarea_area18forest_01"
+    },
+    {
+        "id": "2582",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "109",
+        "msPlace": "SV_place_name:PLACENAME_subarea_area18forest_02"
+    },
+    {
+        "id": "2583",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "110",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i11_01"
+    },
+    {
+        "id": "2584",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "111",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i11_02"
+    },
+    {
+        "id": "2585",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "112",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i12_01"
+    },
+    {
+        "id": "2586",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "113",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i12_02"
+    },
+    {
+        "id": "2587",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "114",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i13_01"
+    },
+    {
+        "id": "2588",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "115",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i13_02"
+    },
+    {
+        "id": "2589",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "116",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i14_01"
+    },
+    {
+        "id": "2590",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "117",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i14_02"
+    },
+    {
+        "id": "2591",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "118",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_i21_01"
+    },
+    {
+        "id": "2592",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "124,125",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_field_1_01"
+    },
+    {
+        "id": "2593",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "130",
+        "msPlace": "SV_place_name:PLACENAME_subarea_c01school_02_A"
+    },
+    {
+        "id": "2594",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "131",
+        "msPlace": "SV_place_name:PLACENAME_subarea_c01school_02_B"
+    },
+    {
+        "id": "2595",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40001",
+        "msPlace": "SV_place_name_out:MAPNAME_SUTEKINABASYO"
+    },
+    {
+        "id": "2596",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40002",
+        "msPlace": "SV_place_name_out:MAPNAME_TOOIBASYO_OUT"
+    },
+    {
+        "id": "2597",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40003",
+        "msPlace": "SV_place_name_out:MAPNAME_EIGA"
+    },
+    {
+        "id": "2598",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40004",
+        "msPlace": "SV_place_name_out:MAPNAME_EIGA23"
+    },
+    {
+        "id": "2599",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40005",
+        "msPlace": "SV_place_name_out:MAPNAME_EIGA24"
+    },
+    {
+        "id": "2600",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40006",
+        "msPlace": "SV_place_name_out:MAPNAME_EIGA25"
+    },
+    {
+        "id": "2601",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40007",
+        "msPlace": "SV_place_name_out:MAPNAME_EIGA26"
+    },
+    {
+        "id": "2602",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40008",
+        "msPlace": "SV_place_name_out:MAPNAME_EIGA27"
+    },
+    {
+        "id": "2603",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40009",
+        "msPlace": "SV_place_name_out:MAPNAME_EIGA28"
+    },
+    {
+        "id": "2604",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40010",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMOANIME"
+    },
+    {
+        "id": "2605",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40011",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONSENTAH"
+    },
+    {
+        "id": "2606",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40012",
+        "msPlace": "SV_place_name_out:MAPNAME_PCTOHOKU"
+    },
+    {
+        "id": "2607",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40013",
+        "msPlace": "SV_place_name_out:MAPNAME_WCS"
+    },
+    {
+        "id": "2608",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40014",
+        "msPlace": "SV_place_name_out:MAPNAME_WCS23"
+    },
+    {
+        "id": "2609",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40015",
+        "msPlace": "SV_place_name_out:MAPNAME_WCS24"
+    },
+    {
+        "id": "2610",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40016",
+        "msPlace": "SV_place_name_out:MAPNAME_WCS25"
+    },
+    {
+        "id": "2611",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40017",
+        "msPlace": "SV_place_name_out:MAPNAME_WCS26"
+    },
+    {
+        "id": "2612",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40018",
+        "msPlace": "SV_place_name_out:MAPNAME_WCS27"
+    },
+    {
+        "id": "2613",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40019",
+        "msPlace": "SV_place_name_out:MAPNAME_WCS28"
+    },
+    {
+        "id": "2614",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40020",
+        "msPlace": "SV_place_name_out:MAPNAME_WORLDS"
+    },
+    {
+        "id": "2615",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40021",
+        "msPlace": "SV_place_name_out:MAPNAME_WORLDS23"
+    },
+    {
+        "id": "2616",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40022",
+        "msPlace": "SV_place_name_out:MAPNAME_WORLDS24"
+    },
+    {
+        "id": "2617",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40023",
+        "msPlace": "SV_place_name_out:MAPNAME_WORLDS25"
+    },
+    {
+        "id": "2618",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40024",
+        "msPlace": "SV_place_name_out:MAPNAME_WORLDS26"
+    },
+    {
+        "id": "2619",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40025",
+        "msPlace": "SV_place_name_out:MAPNAME_WORLDS27"
+    },
+    {
+        "id": "2620",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40026",
+        "msPlace": "SV_place_name_out:MAPNAME_WORLDS28"
+    },
+    {
+        "id": "2621",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40027",
+        "msPlace": "SV_place_name_out:MAPNAME_VGE"
+    },
+    {
+        "id": "2622",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40028",
+        "msPlace": "SV_place_name_out:MAPNAME_VGE23"
+    },
+    {
+        "id": "2623",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40029",
+        "msPlace": "SV_place_name_out:MAPNAME_VGE24"
+    },
+    {
+        "id": "2624",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40030",
+        "msPlace": "SV_place_name_out:MAPNAME_VGE25"
+    },
+    {
+        "id": "2625",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40031",
+        "msPlace": "SV_place_name_out:MAPNAME_VGE26"
+    },
+    {
+        "id": "2626",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40032",
+        "msPlace": "SV_place_name_out:MAPNAME_VGE27"
+    },
+    {
+        "id": "2627",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40033",
+        "msPlace": "SV_place_name_out:MAPNAME_VGE28"
+    },
+    {
+        "id": "2628",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40034",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONIBENTO"
+    },
+    {
+        "id": "2629",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40035",
+        "msPlace": "SV_place_name_out:MAPNAME_BATORUTAIKAI"
+    },
+    {
+        "id": "2630",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40036",
+        "msPlace": "SV_place_name_out:MAPNAME_GEHMUIBENTO"
+    },
+    {
+        "id": "2631",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40037",
+        "msPlace": "SV_place_name_out:MAPNAME_DAISUKIKURABU"
+    },
+    {
+        "id": "2632",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40038",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONBANGUMI"
+    },
+    {
+        "id": "2633",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40039",
+        "msPlace": "SV_place_name_out:MAPNAME_KONSAHTO"
+    },
+    {
+        "id": "2634",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40040",
+        "msPlace": "SV_place_name_out:MAPNAME_ONRAINPUREZENTO"
+    },
+    {
+        "id": "2635",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40041",
+        "msPlace": "SV_place_name_out:MAPNAME_PGL"
+    },
+    {
+        "id": "2636",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40042",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONIBENTO23"
+    },
+    {
+        "id": "2637",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40043",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONIBENTO24"
+    },
+    {
+        "id": "2638",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40044",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONIBENTO25"
+    },
+    {
+        "id": "2639",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40045",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONIBENTO26"
+    },
+    {
+        "id": "2640",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40046",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONIBENTO27"
+    },
+    {
+        "id": "2641",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40047",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONIBENTO28"
+    },
+    {
+        "id": "2642",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40048",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONFYESUTA"
+    },
+    {
+        "id": "2643",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40049",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONFYESUTA23"
+    },
+    {
+        "id": "2644",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40050",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONFYESUTA24"
+    },
+    {
+        "id": "2645",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40051",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONFYESUTA25"
+    },
+    {
+        "id": "2646",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40052",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONFYESUTA26"
+    },
+    {
+        "id": "2647",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40053",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONFYESUTA27"
+    },
+    {
+        "id": "2648",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40054",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEMONFYESUTA28"
+    },
+    {
+        "id": "2649",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40055",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEPAHKU"
+    },
+    {
+        "id": "2650",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40056",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEPAHKU23"
+    },
+    {
+        "id": "2651",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40057",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEPAHKU24"
+    },
+    {
+        "id": "2652",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40058",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEPAHKU25"
+    },
+    {
+        "id": "2653",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40059",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEPAHKU26"
+    },
+    {
+        "id": "2654",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40060",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEPAHKU27"
+    },
+    {
+        "id": "2655",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40061",
+        "msPlace": "SV_place_name_out:MAPNAME_POKEPAHKU28"
+    },
+    {
+        "id": "2656",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40062",
+        "msPlace": "SV_place_name_out:MAPNAME_IBENTOKAIZYOU"
+    },
+    {
+        "id": "2657",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40063",
+        "msPlace": "SV_place_name_out:MAPNAME_GEEMUFURIIKU"
+    },
+    {
+        "id": "2658",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40064",
+        "msPlace": "SV_place_name_out:MAPNAME_SUTAJIAMU"
+    },
+    {
+        "id": "2659",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40065",
+        "msPlace": "SV_place_name_out:MAPNAME_VGC"
+    },
+    {
+        "id": "2660",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40066",
+        "msPlace": "SV_place_name_out:MAPNAME_VGC23"
+    },
+    {
+        "id": "2661",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40067",
+        "msPlace": "SV_place_name_out:MAPNAME_VGC24"
+    },
+    {
+        "id": "2662",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40068",
+        "msPlace": "SV_place_name_out:MAPNAME_VGC25"
+    },
+    {
+        "id": "2663",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40069",
+        "msPlace": "SV_place_name_out:MAPNAME_VGC26"
+    },
+    {
+        "id": "2664",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40070",
+        "msPlace": "SV_place_name_out:MAPNAME_VGC27"
+    },
+    {
+        "id": "2665",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40071",
+        "msPlace": "SV_place_name_out:MAPNAME_VGC28"
+    },
+    {
+        "id": "2666",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40072",
+        "msPlace": "SV_place_name_out:MAPNAME_VC"
+    },
+    {
+        "id": "2667",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40073",
+        "msPlace": "SV_place_name_out:MAPNAME_PMGO"
+    },
+    {
+        "id": "2668",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40074",
+        "msPlace": "SV_place_name_out:MAPNAME_PMBANK"
+    },
+    {
+        "id": "2669",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40075",
+        "msPlace": "SV_place_name_out:MAPNAME_PMSHOP"
+    },
+    {
+        "id": "2670",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40076",
+        "msPlace": "SV_place_name_out:MAPNAME_TAIKENBAN"
+    },
+    {
+        "id": "2671",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40077",
+        "msPlace": "SV_place_name_out:MAPNAME_MBPLUS"
+    },
+    {
+        "id": "2672",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "40078",
+        "msPlace": "SV_place_name_out:MAPNAME_PMMEGABANK"
+    },
+    {
+        "id": "2673",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30001",
+        "msPlace": "SV_place_name_spe:MAPNAME_NAIBUTUUSINKOUKAN"
+    },
+    {
+        "id": "2674",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30002",
+        "msPlace": "SV_place_name_spe:MAPNAME_TUUSINKOUKAN"
+    },
+    {
+        "id": "2675",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30003",
+        "msPlace": "SV_place_name_spe:MAPNAME_KANTO"
+    },
+    {
+        "id": "2676",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30004",
+        "msPlace": "SV_place_name_spe:MAPNAME_ZYOTO"
+    },
+    {
+        "id": "2677",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30005",
+        "msPlace": "SV_place_name_spe:MAPNAME_HOUEN"
+    },
+    {
+        "id": "2678",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30006",
+        "msPlace": "SV_place_name_spe:MAPNAME_SINOH"
+    },
+    {
+        "id": "2679",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30007",
+        "msPlace": "SV_place_name_spe:MAPNAME_TOOKUHANARETATOTI"
+    },
+    {
+        "id": "2680",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30008",
+        "msPlace": "SV_place_name_spe:MAPNAME_HUSEINAKOHDO"
+    },
+    {
+        "id": "2681",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30009",
+        "msPlace": "SV_place_name_spe:MAPNAME_IISHU"
+    },
+    {
+        "id": "2682",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30010",
+        "msPlace": "SV_place_name_spe:MAPNAME_KAROSU"
+    },
+    {
+        "id": "2683",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30011",
+        "msPlace": "SV_place_name_spe:MAPNAME_3DSLINK"
+    },
+    {
+        "id": "2684",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30012",
+        "msPlace": "SV_place_name_spe:MAPNAME_HOLOHOLO"
+    },
+    {
+        "id": "2685",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30013",
+        "msPlace": "SV_place_name_spe:MAPNAME_VCKANTOH"
+    },
+    {
+        "id": "2686",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30014",
+        "msPlace": "SV_place_name_spe:MAPNAME_ORAS"
+    },
+    {
+        "id": "2687",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30015",
+        "msPlace": "SV_place_name_spe:MAPNAME_AROORA"
+    },
+    {
+        "id": "2688",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30016",
+        "msPlace": "SV_place_name_spe:MAPNAME_POKERESORT"
+    },
+    {
+        "id": "2689",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30017",
+        "msPlace": "SV_place_name_spe:MAPNAME_VCZYOTO"
+    },
+    {
+        "id": "2690",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30018",
+        "msPlace": "SV_place_name_spe:MAPNAME_MEGATURTLE"
+    },
+    {
+        "id": "2691",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30019",
+        "msPlace": "SV_place_name_spe:MAPNAME_LETSGO"
+    },
+    {
+        "id": "2692",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30020",
+        "msPlace": "SV_place_name_spe:MAPNAME_GARARU"
+    },
+    {
+        "id": "2693",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30021",
+        "msPlace": "SV_place_name_spe:MAPNAME_HISUI"
+    },
+    {
+        "id": "2694",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30022",
+        "msPlace": "SV_place_name_spe:MAPNAME_SINOH_2"
+    },
+    {
+        "id": "2695",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30023",
+        "msPlace": "SV_place_name_spe:MAPNAME_PICNIC"
+    },
+    {
+        "id": "2696",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "30024",
+        "msPlace": "SV_place_name_spe:MAPNAME_CRYSTAL"
     }
 ]

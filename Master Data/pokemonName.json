@@ -3618,5 +3618,425 @@
     {
         "id": "NM0905",
         "msname": "monsname:MONSNAME_905"
+    },
+    {
+        "id": "NM0906",
+        "msname": "monsname:MONSNAME_906"
+    },
+    {
+        "id": "NM0907",
+        "msname": "monsname:MONSNAME_907"
+    },
+    {
+        "id": "NM0908",
+        "msname": "monsname:MONSNAME_908"
+    },
+    {
+        "id": "NM0909",
+        "msname": "monsname:MONSNAME_909"
+    },
+    {
+        "id": "NM0910",
+        "msname": "monsname:MONSNAME_910"
+    },
+    {
+        "id": "NM0911",
+        "msname": "monsname:MONSNAME_911"
+    },
+    {
+        "id": "NM0912",
+        "msname": "monsname:MONSNAME_912"
+    },
+    {
+        "id": "NM0913",
+        "msname": "monsname:MONSNAME_913"
+    },
+    {
+        "id": "NM0914",
+        "msname": "monsname:MONSNAME_914"
+    },
+    {
+        "id": "NM0915",
+        "msname": "monsname:MONSNAME_915"
+    },
+    {
+        "id": "NM0916",
+        "msname": "monsname:MONSNAME_916"
+    },
+    {
+        "id": "NM0917",
+        "msname": "monsname:MONSNAME_917"
+    },
+    {
+        "id": "NM0918",
+        "msname": "monsname:MONSNAME_918"
+    },
+    {
+        "id": "NM0919",
+        "msname": "monsname:MONSNAME_919"
+    },
+    {
+        "id": "NM0920",
+        "msname": "monsname:MONSNAME_920"
+    },
+    {
+        "id": "NM0921",
+        "msname": "monsname:MONSNAME_921"
+    },
+    {
+        "id": "NM0922",
+        "msname": "monsname:MONSNAME_922"
+    },
+    {
+        "id": "NM0923",
+        "msname": "monsname:MONSNAME_923"
+    },
+    {
+        "id": "NM0924",
+        "msname": "monsname:MONSNAME_924"
+    },
+    {
+        "id": "NM0925",
+        "msname": "monsname:MONSNAME_925"
+    },
+    {
+        "id": "NM0926",
+        "msname": "monsname:MONSNAME_926"
+    },
+    {
+        "id": "NM0927",
+        "msname": "monsname:MONSNAME_927"
+    },
+    {
+        "id": "NM0928",
+        "msname": "monsname:MONSNAME_928"
+    },
+    {
+        "id": "NM0929",
+        "msname": "monsname:MONSNAME_929"
+    },
+    {
+        "id": "NM0930",
+        "msname": "monsname:MONSNAME_930"
+    },
+    {
+        "id": "NM0931",
+        "msname": "monsname:MONSNAME_931"
+    },
+    {
+        "id": "NM0932",
+        "msname": "monsname:MONSNAME_932"
+    },
+    {
+        "id": "NM0933",
+        "msname": "monsname:MONSNAME_933"
+    },
+    {
+        "id": "NM0934",
+        "msname": "monsname:MONSNAME_934"
+    },
+    {
+        "id": "NM0935",
+        "msname": "monsname:MONSNAME_935"
+    },
+    {
+        "id": "NM0936",
+        "msname": "monsname:MONSNAME_936"
+    },
+    {
+        "id": "NM0937",
+        "msname": "monsname:MONSNAME_937"
+    },
+    {
+        "id": "NM0938",
+        "msname": "monsname:MONSNAME_938"
+    },
+    {
+        "id": "NM0939",
+        "msname": "monsname:MONSNAME_939"
+    },
+    {
+        "id": "NM0940",
+        "msname": "monsname:MONSNAME_940"
+    },
+    {
+        "id": "NM0941",
+        "msname": "monsname:MONSNAME_941"
+    },
+    {
+        "id": "NM0942",
+        "msname": "monsname:MONSNAME_942"
+    },
+    {
+        "id": "NM0943",
+        "msname": "monsname:MONSNAME_943"
+    },
+    {
+        "id": "NM0944",
+        "msname": "monsname:MONSNAME_944"
+    },
+    {
+        "id": "NM0945",
+        "msname": "monsname:MONSNAME_945"
+    },
+    {
+        "id": "NM0946",
+        "msname": "monsname:MONSNAME_946"
+    },
+    {
+        "id": "NM0947",
+        "msname": "monsname:MONSNAME_947"
+    },
+    {
+        "id": "NM0948",
+        "msname": "monsname:MONSNAME_948"
+    },
+    {
+        "id": "NM0949",
+        "msname": "monsname:MONSNAME_949"
+    },
+    {
+        "id": "NM0950",
+        "msname": "monsname:MONSNAME_950"
+    },
+    {
+        "id": "NM0951",
+        "msname": "monsname:MONSNAME_951"
+    },
+    {
+        "id": "NM0952",
+        "msname": "monsname:MONSNAME_952"
+    },
+    {
+        "id": "NM0953",
+        "msname": "monsname:MONSNAME_953"
+    },
+    {
+        "id": "NM0954",
+        "msname": "monsname:MONSNAME_954"
+    },
+    {
+        "id": "NM0955",
+        "msname": "monsname:MONSNAME_955"
+    },
+    {
+        "id": "NM0956",
+        "msname": "monsname:MONSNAME_956"
+    },
+    {
+        "id": "NM0957",
+        "msname": "monsname:MONSNAME_957"
+    },
+    {
+        "id": "NM0958",
+        "msname": "monsname:MONSNAME_958"
+    },
+    {
+        "id": "NM0959",
+        "msname": "monsname:MONSNAME_959"
+    },
+    {
+        "id": "NM0960",
+        "msname": "monsname:MONSNAME_960"
+    },
+    {
+        "id": "NM0961",
+        "msname": "monsname:MONSNAME_961"
+    },
+    {
+        "id": "NM0962",
+        "msname": "monsname:MONSNAME_962"
+    },
+    {
+        "id": "NM0963",
+        "msname": "monsname:MONSNAME_963"
+    },
+    {
+        "id": "NM0964",
+        "msname": "monsname:MONSNAME_964"
+    },
+    {
+        "id": "NM0965",
+        "msname": "monsname:MONSNAME_965"
+    },
+    {
+        "id": "NM0966",
+        "msname": "monsname:MONSNAME_966"
+    },
+    {
+        "id": "NM0967",
+        "msname": "monsname:MONSNAME_967"
+    },
+    {
+        "id": "NM0968",
+        "msname": "monsname:MONSNAME_968"
+    },
+    {
+        "id": "NM0969",
+        "msname": "monsname:MONSNAME_969"
+    },
+    {
+        "id": "NM0970",
+        "msname": "monsname:MONSNAME_970"
+    },
+    {
+        "id": "NM0971",
+        "msname": "monsname:MONSNAME_971"
+    },
+    {
+        "id": "NM0972",
+        "msname": "monsname:MONSNAME_972"
+    },
+    {
+        "id": "NM0973",
+        "msname": "monsname:MONSNAME_973"
+    },
+    {
+        "id": "NM0974",
+        "msname": "monsname:MONSNAME_974"
+    },
+    {
+        "id": "NM0975",
+        "msname": "monsname:MONSNAME_975"
+    },
+    {
+        "id": "NM0976",
+        "msname": "monsname:MONSNAME_976"
+    },
+    {
+        "id": "NM0977",
+        "msname": "monsname:MONSNAME_977"
+    },
+    {
+        "id": "NM0978",
+        "msname": "monsname:MONSNAME_978"
+    },
+    {
+        "id": "NM0979",
+        "msname": "monsname:MONSNAME_979"
+    },
+    {
+        "id": "NM0980",
+        "msname": "monsname:MONSNAME_980"
+    },
+    {
+        "id": "NM0981",
+        "msname": "monsname:MONSNAME_981"
+    },
+    {
+        "id": "NM0982",
+        "msname": "monsname:MONSNAME_982"
+    },
+    {
+        "id": "NM0983",
+        "msname": "monsname:MONSNAME_983"
+    },
+    {
+        "id": "NM0984",
+        "msname": "monsname:MONSNAME_984"
+    },
+    {
+        "id": "NM0985",
+        "msname": "monsname:MONSNAME_985"
+    },
+    {
+        "id": "NM0986",
+        "msname": "monsname:MONSNAME_986"
+    },
+    {
+        "id": "NM0987",
+        "msname": "monsname:MONSNAME_987"
+    },
+    {
+        "id": "NM0988",
+        "msname": "monsname:MONSNAME_988"
+    },
+    {
+        "id": "NM0989",
+        "msname": "monsname:MONSNAME_989"
+    },
+    {
+        "id": "NM0990",
+        "msname": "monsname:MONSNAME_990"
+    },
+    {
+        "id": "NM0991",
+        "msname": "monsname:MONSNAME_991"
+    },
+    {
+        "id": "NM0992",
+        "msname": "monsname:MONSNAME_992"
+    },
+    {
+        "id": "NM0993",
+        "msname": "monsname:MONSNAME_993"
+    },
+    {
+        "id": "NM0994",
+        "msname": "monsname:MONSNAME_994"
+    },
+    {
+        "id": "NM0995",
+        "msname": "monsname:MONSNAME_995"
+    },
+    {
+        "id": "NM0996",
+        "msname": "monsname:MONSNAME_996"
+    },
+    {
+        "id": "NM0997",
+        "msname": "monsname:MONSNAME_997"
+    },
+    {
+        "id": "NM0998",
+        "msname": "monsname:MONSNAME_998"
+    },
+    {
+        "id": "NM0999",
+        "msname": "monsname:MONSNAME_999"
+    },
+    {
+        "id": "NM1000",
+        "msname": "monsname:MONSNAME_1000"
+    },
+    {
+        "id": "NM1001",
+        "msname": "monsname:MONSNAME_1001"
+    },
+    {
+        "id": "NM1002",
+        "msname": "monsname:MONSNAME_1002"
+    },
+    {
+        "id": "NM1003",
+        "msname": "monsname:MONSNAME_1003"
+    },
+    {
+        "id": "NM1004",
+        "msname": "monsname:MONSNAME_1004"
+    },
+    {
+        "id": "NM1005",
+        "msname": "monsname:MONSNAME_1005"
+    },
+    {
+        "id": "NM1006",
+        "msname": "monsname:MONSNAME_1006"
+    },
+    {
+        "id": "NM1007",
+        "msname": "monsname:MONSNAME_1007"
+    },
+    {
+        "id": "NM1008",
+        "msname": "monsname:MONSNAME_1008"
+    },
+    {
+        "id": "NM1009",
+        "msname": "monsname:MONSNAME_1009"
+    },
+    {
+        "id": "NM1010",
+        "msname": "monsname:MONSNAME_1010"
     }
 ]

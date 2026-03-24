@@ -2,7 +2,8 @@
     {
         "id": "TY0000",
         "image": "cmn_type_normal",
-        "color": "9099A1",
+        "image2": "bnk_move_icon_type_normal",
+        "color": "999999",
         "mdTypes0_0": [
             "TY0007"
         ],
@@ -16,7 +17,8 @@
     {
         "id": "TY0001",
         "image": "cmn_type_fighting",
-        "color": "CE406A",
+        "image2": "bnk_move_icon_type_fighting",
+        "color": "ffa202",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0006",
@@ -34,7 +36,8 @@
     {
         "id": "TY0002",
         "image": "cmn_type_flying",
-        "color": "8FA8DD",
+        "image2": "bnk_move_icon_type_flying",
+        "color": "95c9ff",
         "mdTypes0_0": [
             "TY0004"
         ],
@@ -54,7 +57,8 @@
     {
         "id": "TY0003",
         "image": "cmn_type_poison",
-        "color": "AB6AC8",
+        "image2": "bnk_move_icon_type_poison",
+        "color": "994dcf",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0011",
@@ -73,7 +77,8 @@
     {
         "id": "TY0004",
         "image": "cmn_type_ground",
-        "color": "D97745",
+        "image2": "bnk_move_icon_type_ground",
+        "color": "ab7939",
         "mdTypes0_0": [
             "TY0012"
         ],
@@ -92,7 +97,8 @@
     {
         "id": "TY0005",
         "image": "cmn_type_rock",
-        "color": "C7B78B",
+        "image2": "bnk_move_icon_type_rock",
+        "color": "bcb889",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0000",
@@ -113,7 +119,8 @@
     {
         "id": "TY0006",
         "image": "cmn_type_bug",
-        "color": "90C12D",
+        "image2": "bnk_move_icon_type_bug",
+        "color": "9fa424",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0011",
@@ -131,7 +138,8 @@
     {
         "id": "TY0007",
         "image": "cmn_type_ghost",
-        "color": "5369AC",
+        "image2": "bnk_move_icon_type_ghost",
+        "color": "6e4570",
         "mdTypes0_0": [
             "TY0000",
             "TY0001"
@@ -150,7 +158,8 @@
     {
         "id": "TY0008",
         "image": "cmn_type_steel",
-        "color": "598EA1",
+        "image2": "bnk_move_icon_type_steel",
+        "color": "6aaed3",
         "mdTypes0_0": [
             "TY0003"
         ],
@@ -177,7 +186,8 @@
     {
         "id": "TY0009",
         "image": "cmn_type_fire",
-        "color": "FF9C54",
+        "image2": "bnk_move_icon_type_fire",
+        "color": "ff612c",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0009",
@@ -198,7 +208,8 @@
     {
         "id": "TY0010",
         "image": "cmn_type_water",
-        "color": "4E90D6",
+        "image2": "bnk_move_icon_type_water",
+        "color": "2992ff",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0009",
@@ -216,7 +227,8 @@
     {
         "id": "TY0011",
         "image": "cmn_type_grass",
-        "color": "63BB5B",
+        "image2": "bnk_move_icon_type_grass",
+        "color": "42bf24",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0010",
@@ -237,7 +249,8 @@
     {
         "id": "TY0012",
         "image": "cmn_type_electric",
-        "color": "F4D23C",
+        "image2": "bnk_move_icon_type_electric",
+        "color": "ffdb00",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0012",
@@ -253,7 +266,8 @@
     {
         "id": "TY0013",
         "image": "cmn_type_psychic",
-        "color": "F97177",
+        "image2": "bnk_move_icon_type_psychic",
+        "color": "ff637f",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0001",
@@ -270,7 +284,8 @@
     {
         "id": "TY0014",
         "image": "cmn_type_ice",
-        "color": "73CEC0",
+        "image2": "bnk_move_icon_type_ice",
+        "color": "42d8ff",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0014"
@@ -287,7 +302,8 @@
     {
         "id": "TY0015",
         "image": "cmn_type_dragon",
-        "color": "0A6DC4",
+        "image2": "bnk_move_icon_type_dragon",
+        "color": "5462d6",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0009",
@@ -306,7 +322,8 @@
     {
         "id": "TY0016",
         "image": "cmn_type_dark",
-        "color": "5A5366",
+        "image2": "bnk_move_icon_type_dark",
+        "color": "4f4747",
         "mdTypes0_0": [
             "TY0013"
         ],
@@ -325,7 +342,8 @@
     {
         "id": "TY0017",
         "image": "cmn_type_fairy",
-        "color": "ED8FE6",
+        "image2": "bnk_move_icon_type_fairy",
+        "color": "ffb1ff",
         "mdTypes0_0": [
             "TY0015"
         ],

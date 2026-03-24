@@ -1,7 +1,7 @@
 [
     {
         "id": "DM002000",
-        "sortOrder": 4,
+        "sortOrder": 5,
         "msRegionDicName": "sp_softwaredictionary_001",
         "dicMdName": "SW001",
         "hostDicId": "",
@@ -10,31 +10,34 @@
             "SF045"
         ],
         "dispProfileType": 2,
+        "silhouetteType": 1,
         "listAtlasName": "SoftDicIconSW001"
     },
     {
         "id": "DM002001",
-        "sortOrder": 5,
+        "sortOrder": 6,
         "msRegionDicName": "sp_softwaredictionary_002",
         "dicMdName": "SW002",
         "hostDicId": "DM002000",
         "mdSoftwareIds": [],
         "dispProfileType": 2,
+        "silhouetteType": 1,
         "listAtlasName": "SoftDicIconSW002"
     },
     {
         "id": "DM002002",
-        "sortOrder": 6,
+        "sortOrder": 7,
         "msRegionDicName": "sp_softwaredictionary_003",
         "dicMdName": "SW003",
         "hostDicId": "DM002000",
         "mdSoftwareIds": [],
         "dispProfileType": 2,
+        "silhouetteType": 1,
         "listAtlasName": "SoftDicIconSW003"
     },
     {
         "id": "DM003000",
-        "sortOrder": 7,
+        "sortOrder": 8,
         "msRegionDicName": "sp_softwaredictionary_004",
         "dicMdName": "SW004",
         "hostDicId": "",
@@ -43,11 +46,12 @@
             "SF043"
         ],
         "dispProfileType": 2,
+        "silhouetteType": 1,
         "listAtlasName": "SoftDicIconSW004"
     },
     {
         "id": "DM004000",
-        "sortOrder": 3,
+        "sortOrder": 4,
         "msRegionDicName": "sp_softwaredictionary_005",
         "dicMdName": "SW005",
         "hostDicId": "",
@@ -56,11 +60,12 @@
             "SF049"
         ],
         "dispProfileType": 2,
+        "silhouetteType": 1,
         "listAtlasName": "SoftDicIconSW005"
     },
     {
         "id": "DM005000",
-        "sortOrder": 2,
+        "sortOrder": 3,
         "msRegionDicName": "sp_softwaredictionary_006",
         "dicMdName": "SW006",
         "hostDicId": "",
@@ -68,11 +73,12 @@
             "SF047"
         ],
         "dispProfileType": 2,
+        "silhouetteType": 2,
         "listAtlasName": "SoftDicIconSW006"
     },
     {
         "id": "DM006000",
-        "sortOrder": 8,
+        "sortOrder": 9,
         "msRegionDicName": "sp_softwaredictionary_007",
         "dicMdName": "SW007",
         "hostDicId": "",
@@ -80,6 +86,21 @@
             "SF034"
         ],
         "dispProfileType": 1,
+        "silhouetteType": 1,
         "listAtlasName": ""
+    },
+    {
+        "id": "DM007000",
+        "sortOrder": 2,
+        "msRegionDicName": "sp_softwaredictionary_008",
+        "dicMdName": "SW008",
+        "hostDicId": "",
+        "mdSoftwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "dispProfileType": 2,
+        "silhouetteType": 3,
+        "listAtlasName": "SoftDicIconSW008"
     }
 ]

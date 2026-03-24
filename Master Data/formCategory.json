@@ -25,6 +25,11 @@
         "msname": "sp_ui_formcategory05"
     },
     {
+        "id": "FC0006",
+        "no": 6,
+        "msname": "sp_ui_formcategory06"
+    },
+    {
         "id": "FC0099",
         "no": 4,
         "msname": "sp_ui_formcategory99"

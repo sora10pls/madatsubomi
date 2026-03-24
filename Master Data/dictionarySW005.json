@@ -30,8 +30,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0003_128",
         "topImage": "sw005_cap0003",
-        "topImageX": 560,
-        "topImageY": 560,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_389_00_00"
     },
@@ -55,7 +55,7 @@
         "listImage": "sw005_cap0005_128",
         "topImage": "sw005_cap0005",
         "topImageX": 512,
-        "topImageY": 560,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_391_00_00"
     },
@@ -67,7 +67,7 @@
         "listImage": "sw005_cap0006_128",
         "topImage": "sw005_cap0006",
         "topImageX": 512,
-        "topImageY": 572,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_392_00_00"
     },
@@ -102,8 +102,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0009_128",
         "topImage": "sw005_cap0009",
-        "topImageX": 560,
-        "topImageY": 560,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_395_00_00"
     },
@@ -222,7 +222,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0019_128",
         "topImage": "sw005_cap0019",
-        "topImageX": 560,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_405_00_00"
@@ -234,7 +234,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0020_128",
         "topImage": "sw005_cap0020",
-        "topImageX": 560,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_063_00_00"
@@ -246,8 +246,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0021_128",
         "topImage": "sw005_cap0021",
-        "topImageX": 560,
-        "topImageY": 540,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_064_00_00"
     },
@@ -258,8 +258,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0022_128",
         "topImage": "sw005_cap0022",
-        "topImageX": 560,
-        "topImageY": 540,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_065_00_00"
     },
@@ -282,8 +282,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0024_128",
         "topImage": "sw005_cap0024",
-        "topImageX": 600,
-        "topImageY": 560,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_130_00_00"
     },
@@ -319,7 +319,7 @@
         "listImage": "sw005_cap0027_128",
         "topImage": "sw005_cap0027",
         "topImageX": 512,
-        "topImageY": 560,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_407_00_00"
     },
@@ -354,7 +354,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0030_128",
         "topImage": "sw005_cap0030",
-        "topImageX": 600,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_169_00_00"
@@ -378,7 +378,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0032_128",
         "topImage": "sw005_cap0032",
-        "topImageX": 1024,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_075_00_00"
@@ -390,7 +390,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0033_128",
         "topImage": "sw005_cap0033",
-        "topImageX": 600,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_076_00_00"
@@ -403,7 +403,7 @@
         "listImage": "sw005_cap0034_128",
         "topImage": "sw005_cap0034",
         "topImageX": 512,
-        "topImageY": 560,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_095_00_00"
     },
@@ -414,8 +414,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0035_128",
         "topImage": "sw005_cap0035",
-        "topImageX": 680,
-        "topImageY": 540,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_208_00_00"
     },
@@ -439,7 +439,7 @@
         "listImage": "sw005_cap0037_128",
         "topImage": "sw005_cap0037",
         "topImageX": 512,
-        "topImageY": 540,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_409_00_00"
     },
@@ -462,7 +462,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0039_128",
         "topImage": "sw005_cap0039",
-        "topImageX": 600,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_411_00_00"
@@ -498,8 +498,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0042_128",
         "topImage": "sw005_cap0042",
-        "topImageX": 540,
-        "topImageY": 540,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_068_00_00"
     },
@@ -534,7 +534,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0045_128",
         "topImage": "sw005_cap0045",
-        "topImageX": 680,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_412_00_00"
@@ -558,7 +558,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0047_128",
         "topImage": "sw005_cap0047",
-        "topImageX": 660,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_414_00_00"
@@ -594,7 +594,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0050_128",
         "topImage": "sw005_cap0050",
-        "topImageX": 540,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_267_00_00"
@@ -618,7 +618,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0052_128",
         "topImage": "sw005_cap0052",
-        "topImageX": 540,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_269_00_00"
@@ -630,7 +630,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0053_128",
         "topImage": "sw005_cap0053",
-        "topImageX": 640,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_415_00_00"
@@ -679,7 +679,7 @@
         "listImage": "sw005_cap0057_128",
         "topImage": "sw005_cap0057",
         "topImageX": 512,
-        "topImageY": 540,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_419_00_00"
     },
@@ -702,7 +702,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0059_128",
         "topImage": "sw005_cap0059",
-        "topImageX": 560,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_421_00_00"
@@ -714,7 +714,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0060_128",
         "topImage": "sw005_cap0060",
-        "topImageX": 580,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_422_00_00"
@@ -726,7 +726,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0061_128",
         "topImage": "sw005_cap0061",
-        "topImageX": 680,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_423_00_00"
@@ -775,7 +775,7 @@
         "listImage": "sw005_cap0065_128",
         "topImage": "sw005_cap0065",
         "topImageX": 512,
-        "topImageY": 540,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_425_00_00"
     },
@@ -787,7 +787,7 @@
         "listImage": "sw005_cap0066_128",
         "topImage": "sw005_cap0066",
         "topImageX": 512,
-        "topImageY": 580,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_426_00_00"
     },
@@ -834,7 +834,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0070_128",
         "topImage": "sw005_cap0070",
-        "topImageX": 600,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_093_00_00"
@@ -871,7 +871,7 @@
         "listImage": "sw005_cap0073_128",
         "topImage": "sw005_cap0073",
         "topImageX": 512,
-        "topImageY": 560,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_429_00_00"
     },
@@ -942,8 +942,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0079_128",
         "topImage": "sw005_cap0079",
-        "topImageX": 540,
-        "topImageY": 540,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_119_00_00"
     },
@@ -1002,7 +1002,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0084_128",
         "topImage": "sw005_cap0084",
-        "topImageX": 540,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_434_00_00"
@@ -1014,7 +1014,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0085_128",
         "topImage": "sw005_cap0085",
-        "topImageX": 600,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_435_00_00"
@@ -1039,7 +1039,7 @@
         "listImage": "sw005_cap0087_128",
         "topImage": "sw005_cap0087",
         "topImageX": 512,
-        "topImageY": 540,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_308_00_00"
     },
@@ -1062,8 +1062,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0089_128",
         "topImage": "sw005_cap0089",
-        "topImageX": 640,
-        "topImageY": 540,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_437_00_00"
     },
@@ -1086,8 +1086,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0091_128",
         "topImage": "sw005_cap0091",
-        "topImageX": 580,
-        "topImageY": 540,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_078_00_00"
     },
@@ -1134,7 +1134,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0095_128",
         "topImage": "sw005_cap0095",
-        "topImageX": 524,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_122_00_00"
@@ -1170,7 +1170,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0098_128",
         "topImage": "sw005_cap0098",
-        "topImageX": 540,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_242_00_00"
@@ -1326,8 +1326,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0111_128",
         "topImage": "sw005_cap0111",
-        "topImageX": 560,
-        "topImageY": 560,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_445_00_00"
     },
@@ -1350,8 +1350,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0113_128",
         "topImage": "sw005_cap0113",
-        "topImageX": 560,
-        "topImageY": 540,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_143_00_00"
     },
@@ -1387,7 +1387,7 @@
         "listImage": "sw005_cap0116_128",
         "topImage": "sw005_cap0116",
         "topImageX": 512,
-        "topImageY": 540,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_448_00_00"
     },
@@ -1422,7 +1422,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0119_128",
         "topImage": "sw005_cap0119",
-        "topImageX": 580,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_278_00_00"
@@ -1434,7 +1434,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0120_128",
         "topImage": "sw005_cap0120",
-        "topImageX": 580,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_279_00_00"
@@ -1470,7 +1470,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0123_128",
         "topImage": "sw005_cap0123",
-        "topImageX": 640,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_450_00_00"
@@ -1530,7 +1530,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0128_128",
         "topImage": "sw005_cap0128",
-        "topImageX": 700,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_452_00_00"
@@ -1566,7 +1566,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0131_128",
         "topImage": "sw005_cap0131",
-        "topImageX": 580,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_455_00_00"
@@ -1590,7 +1590,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0133_128",
         "topImage": "sw005_cap0133",
-        "topImageX": 580,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_224_00_00"
@@ -1662,8 +1662,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0139_128",
         "topImage": "sw005_cap0139",
-        "topImageX": 560,
-        "topImageY": 560,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_350_00_00"
     },
@@ -1698,7 +1698,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0142_128",
         "topImage": "sw005_cap0142",
-        "topImageX": 560,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_459_00_00"
@@ -1710,7 +1710,7 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0143_128",
         "topImage": "sw005_cap0143",
-        "topImageX": 1024,
+        "topImageX": 512,
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_460_00_00"
@@ -1782,8 +1782,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0149_128",
         "topImage": "sw005_cap0149",
-        "topImageX": 580,
-        "topImageY": 580,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_483_00_00"
     },
@@ -1794,8 +1794,8 @@
         "listAtlasNo": 1,
         "listImage": "sw005_cap0150_128",
         "topImage": "sw005_cap0150",
-        "topImageX": 560,
-        "topImageY": 560,
+        "topImageX": 512,
+        "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_484_00_00"
     }

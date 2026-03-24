@@ -243,7 +243,8 @@
         "id": "LIB027-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0139"
+            "SL0139",
+            "SL0487"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -253,7 +254,8 @@
         "id": "LIB027-02",
         "clearValue": 20,
         "mdSeals": [
-            "SL0138"
+            "SL0138",
+            "SL0486"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -263,7 +265,8 @@
         "id": "LIB027-03",
         "clearValue": 50,
         "mdSeals": [
-            "SL0137"
+            "SL0137",
+            "SL0485"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -273,7 +276,8 @@
         "id": "LIB028-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0106"
+            "SL0106",
+            "SL0454"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -283,7 +287,8 @@
         "id": "LIB028-02",
         "clearValue": 20,
         "mdSeals": [
-            "SL0105"
+            "SL0105",
+            "SL0453"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -293,7 +298,8 @@
         "id": "LIB028-03",
         "clearValue": 50,
         "mdSeals": [
-            "SL0104"
+            "SL0104",
+            "SL0452"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -303,7 +309,8 @@
         "id": "LIB029-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0130"
+            "SL0130",
+            "SL0478"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -313,7 +320,8 @@
         "id": "LIB029-02",
         "clearValue": 30,
         "mdSeals": [
-            "SL0129"
+            "SL0129",
+            "SL0477"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -323,7 +331,8 @@
         "id": "LIB029-03",
         "clearValue": 70,
         "mdSeals": [
-            "SL0128"
+            "SL0128",
+            "SL0476"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -333,7 +342,8 @@
         "id": "LIB030-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0094"
+            "SL0094",
+            "SL0442"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -343,7 +353,8 @@
         "id": "LIB030-02",
         "clearValue": 20,
         "mdSeals": [
-            "SL0093"
+            "SL0093",
+            "SL0441"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -353,7 +364,8 @@
         "id": "LIB030-03",
         "clearValue": 50,
         "mdSeals": [
-            "SL0092"
+            "SL0092",
+            "SL0440"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -363,7 +375,8 @@
         "id": "LIB031-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0124"
+            "SL0124",
+            "SL0472"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -373,7 +386,8 @@
         "id": "LIB031-02",
         "clearValue": 30,
         "mdSeals": [
-            "SL0123"
+            "SL0123",
+            "SL0471"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -383,7 +397,8 @@
         "id": "LIB031-03",
         "clearValue": 80,
         "mdSeals": [
-            "SL0122"
+            "SL0122",
+            "SL0470"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -393,7 +408,8 @@
         "id": "LIB032-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0112"
+            "SL0112",
+            "SL0460"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -403,7 +419,8 @@
         "id": "LIB032-02",
         "clearValue": 15,
         "mdSeals": [
-            "SL0111"
+            "SL0111",
+            "SL0459"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -413,7 +430,8 @@
         "id": "LIB032-03",
         "clearValue": 40,
         "mdSeals": [
-            "SL0110"
+            "SL0110",
+            "SL0458"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -423,7 +441,8 @@
         "id": "LIB033-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0133"
+            "SL0133",
+            "SL0481"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -433,7 +452,8 @@
         "id": "LIB033-02",
         "clearValue": 15,
         "mdSeals": [
-            "SL0132"
+            "SL0132",
+            "SL0480"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -443,7 +463,8 @@
         "id": "LIB033-03",
         "clearValue": 40,
         "mdSeals": [
-            "SL0131"
+            "SL0131",
+            "SL0479"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -453,7 +474,8 @@
         "id": "LIB034-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0103"
+            "SL0103",
+            "SL0451"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -463,7 +485,8 @@
         "id": "LIB034-02",
         "clearValue": 20,
         "mdSeals": [
-            "SL0102"
+            "SL0102",
+            "SL0450"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -473,7 +496,8 @@
         "id": "LIB034-03",
         "clearValue": 50,
         "mdSeals": [
-            "SL0101"
+            "SL0101",
+            "SL0449"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -483,7 +507,8 @@
         "id": "LIB035-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0127"
+            "SL0127",
+            "SL0475"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -493,7 +518,8 @@
         "id": "LIB035-02",
         "clearValue": 20,
         "mdSeals": [
-            "SL0126"
+            "SL0126",
+            "SL0474"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -503,7 +529,8 @@
         "id": "LIB035-03",
         "clearValue": 50,
         "mdSeals": [
-            "SL0125"
+            "SL0125",
+            "SL0473"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -513,7 +540,8 @@
         "id": "LIB036-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0100"
+            "SL0100",
+            "SL0448"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -523,7 +551,8 @@
         "id": "LIB036-02",
         "clearValue": 20,
         "mdSeals": [
-            "SL0099"
+            "SL0099",
+            "SL0447"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -533,7 +562,8 @@
         "id": "LIB036-03",
         "clearValue": 50,
         "mdSeals": [
-            "SL0098"
+            "SL0098",
+            "SL0446"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -543,7 +573,8 @@
         "id": "LIB037-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0136"
+            "SL0136",
+            "SL0484"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -553,7 +584,8 @@
         "id": "LIB037-02",
         "clearValue": 15,
         "mdSeals": [
-            "SL0135"
+            "SL0135",
+            "SL0483"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -563,7 +595,8 @@
         "id": "LIB037-03",
         "clearValue": 40,
         "mdSeals": [
-            "SL0134"
+            "SL0134",
+            "SL0482"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -573,7 +606,8 @@
         "id": "LIB038-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0091"
+            "SL0091",
+            "SL0439"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -583,7 +617,8 @@
         "id": "LIB038-02",
         "clearValue": 30,
         "mdSeals": [
-            "SL0090"
+            "SL0090",
+            "SL0438"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -593,7 +628,8 @@
         "id": "LIB038-03",
         "clearValue": 90,
         "mdSeals": [
-            "SL0089"
+            "SL0089",
+            "SL0437"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -603,7 +639,8 @@
         "id": "LIB039-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0115"
+            "SL0115",
+            "SL0463"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -613,7 +650,8 @@
         "id": "LIB039-02",
         "clearValue": 20,
         "mdSeals": [
-            "SL0114"
+            "SL0114",
+            "SL0462"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -623,7 +661,8 @@
         "id": "LIB039-03",
         "clearValue": 50,
         "mdSeals": [
-            "SL0113"
+            "SL0113",
+            "SL0461"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -633,7 +672,8 @@
         "id": "LIB040-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0097"
+            "SL0097",
+            "SL0445"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -643,7 +683,8 @@
         "id": "LIB040-02",
         "clearValue": 25,
         "mdSeals": [
-            "SL0096"
+            "SL0096",
+            "SL0444"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -653,7 +694,8 @@
         "id": "LIB040-03",
         "clearValue": 60,
         "mdSeals": [
-            "SL0095"
+            "SL0095",
+            "SL0443"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -663,7 +705,8 @@
         "id": "LIB041-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0142"
+            "SL0142",
+            "SL0490"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -673,7 +716,8 @@
         "id": "LIB041-02",
         "clearValue": 15,
         "mdSeals": [
-            "SL0141"
+            "SL0141",
+            "SL0489"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -683,7 +727,8 @@
         "id": "LIB041-03",
         "clearValue": 40,
         "mdSeals": [
-            "SL0140"
+            "SL0140",
+            "SL0488"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -693,7 +738,8 @@
         "id": "LIB042-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0118"
+            "SL0118",
+            "SL0466"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -703,7 +749,8 @@
         "id": "LIB042-02",
         "clearValue": 20,
         "mdSeals": [
-            "SL0117"
+            "SL0117",
+            "SL0465"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -713,7 +760,8 @@
         "id": "LIB042-03",
         "clearValue": 50,
         "mdSeals": [
-            "SL0116"
+            "SL0116",
+            "SL0464"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -723,7 +771,8 @@
         "id": "LIB043-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0121"
+            "SL0121",
+            "SL0469"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -733,7 +782,8 @@
         "id": "LIB043-02",
         "clearValue": 40,
         "mdSeals": [
-            "SL0120"
+            "SL0120",
+            "SL0468"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -743,7 +793,8 @@
         "id": "LIB043-03",
         "clearValue": 110,
         "mdSeals": [
-            "SL0119"
+            "SL0119",
+            "SL0467"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -753,7 +804,8 @@
         "id": "LIB044-01",
         "clearValue": 5,
         "mdSeals": [
-            "SL0109"
+            "SL0109",
+            "SL0457"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -763,7 +815,8 @@
         "id": "LIB044-02",
         "clearValue": 25,
         "mdSeals": [
-            "SL0108"
+            "SL0108",
+            "SL0456"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -773,7 +826,8 @@
         "id": "LIB044-03",
         "clearValue": 60,
         "mdSeals": [
-            "SL0107"
+            "SL0107",
+            "SL0455"
         ],
         "pokeMaile": 0,
         "openAchieveId": [],
@@ -4318,5 +4372,135 @@
         "pokeMaile": 0,
         "openAchieveId": [],
         "ms": "sp_achstep_oth_s_0046"
+    },
+    {
+        "id": "TRA056-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0416"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_trd_s_0046"
+    },
+    {
+        "id": "TRA057-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0417"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_trd_s_0047"
+    },
+    {
+        "id": "TRA060-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0420"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_trd_s_0050"
+    },
+    {
+        "id": "TRA061-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0421"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_trd_s_0051"
+    },
+    {
+        "id": "TRA062-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0422"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_trd_s_0052"
+    },
+    {
+        "id": "TRA063-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0423"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_trd_s_0053"
+    },
+    {
+        "id": "LIB062-01",
+        "clearValue": 3,
+        "mdSeals": [
+            "SL0424"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_lib_s_0038"
+    },
+    {
+        "id": "LIB063-01",
+        "clearValue": 4,
+        "mdSeals": [
+            "SL0425"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_lib_s_0039"
+    },
+    {
+        "id": "LIB064-01",
+        "clearValue": 3,
+        "mdSeals": [
+            "SL0426"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_lib_s_0040"
+    },
+    {
+        "id": "LIB066-01",
+        "clearValue": 2,
+        "mdSeals": [
+            "SL0428"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_lib_s_0042"
+    },
+    {
+        "id": "BOX146-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0433"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_box_s_0084"
+    },
+    {
+        "id": "BOX147-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0434"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_box_s_0085"
+    },
+    {
+        "id": "LIB071-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0435"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_box_s_0083"
     }
 ]
