@@ -136,10 +136,10 @@
         "model": "pm0006_00_00_prefab",
         "variation": "00_00",
         "scale1": 0.523560209,
-        "scale2": 1,
+        "scale2": 0.98,
         "posOffset": [
             0,
-            0.1,
+            0,
             0
         ],
         "modelHeight": 170,
@@ -4011,11 +4011,11 @@
         "scale2": 1.25,
         "posOffset": [
             0,
-            0.1,
+            -0.05,
             0
         ],
         "modelHeight": 650,
-        "trdDemoPosRatio": 1.2,
+        "trdDemoPosRatio": 0.9,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
@@ -4033,11 +4033,11 @@
         "scale2": 1.25,
         "posOffset": [
             0,
-            0.1,
+            -0.05,
             0
         ],
         "modelHeight": 650,
-        "trdDemoPosRatio": 1.2,
+        "trdDemoPosRatio": 0.9,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
@@ -7182,11 +7182,11 @@
         "scale2": 1.1,
         "posOffset": [
             0,
-            0.4,
+            0.3,
             0
         ],
         "modelHeight": 210,
-        "trdDemoPosRatio": 1.7,
+        "trdDemoPosRatio": 1.6,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
@@ -7745,14 +7745,14 @@
         "model": "pm0250_00_00_prefab",
         "variation": "00_00",
         "scale1": 0.30418251,
-        "scale2": 0.9,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0,
             0
         ],
         "modelHeight": 380,
-        "trdDemoPosRatio": 2.25,
+        "trdDemoPosRatio": 2.15,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
@@ -10568,11 +10568,11 @@
         "scale2": 1.2,
         "posOffset": [
             0,
-            0,
+            -0.1,
             0
         ],
         "modelHeight": 200,
-        "trdDemoPosRatio": 2.25,
+        "trdDemoPosRatio": 2,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
@@ -11134,11 +11134,11 @@
         "scale2": 1,
         "posOffset": [
             0,
-            0.2,
+            0.1,
             0
         ],
         "modelHeight": 450,
-        "trdDemoPosRatio": 1.25,
+        "trdDemoPosRatio": 1.2,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
@@ -11175,7 +11175,7 @@
         "model": "pm0384_00_00_prefab",
         "variation": "00_00",
         "scale1": 0.425531915,
-        "scale2": 0.8,
+        "scale2": 0.77,
         "posOffset": [
             0,
             -0.1,
@@ -13979,10 +13979,10 @@
         "model": "pm0472_00_00_prefab",
         "variation": "00_00",
         "scale1": 0.636942675,
-        "scale2": 1,
+        "scale2": 0.97,
         "posOffset": [
             0,
-            0.1,
+            0.07,
             0
         ],
         "modelHeight": 200,
@@ -14610,7 +14610,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "11_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14632,7 +14632,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "12_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14654,7 +14654,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "13_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14676,7 +14676,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "14_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14698,7 +14698,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "15_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14720,7 +14720,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "16_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14742,7 +14742,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "17_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14764,7 +14764,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "18_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14786,7 +14786,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "19_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14808,7 +14808,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "20_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14830,7 +14830,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "21_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14852,7 +14852,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "22_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14874,7 +14874,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "23_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14896,7 +14896,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "24_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14918,7 +14918,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "25_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14940,7 +14940,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "26_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14962,7 +14962,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "27_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -14984,7 +14984,7 @@
         "model": "pm0493_11_00_prefab",
         "variation": "28_00",
         "scale1": 0.363636364,
-        "scale2": 1,
+        "scale2": 0.87,
         "posOffset": [
             0,
             0.1,
@@ -18451,7 +18451,7 @@
         "scale2": 0.95,
         "posOffset": [
             0,
-            0.05,
+            0.03,
             0
         ],
         "modelHeight": 180,
@@ -20134,28 +20134,6 @@
         ]
     },
     {
-        "id": "PM06700054",
-        "model": "pm0670_16_00_prefab",
-        "variation": "16_00",
-        "scale1": 1,
-        "scale2": 1.4,
-        "posOffset": [
-            0,
-            0.1,
-            0
-        ],
-        "modelHeight": 20,
-        "trdDemoPosRatio": 4,
-        "idleAnimName": "ba10_waitA01",
-        "accentAnimName": [
-            "ba02_roar01"
-        ],
-        "accentAnimNameBank": [
-            "ba02_roar01",
-            "ba20_buturi01"
-        ]
-    },
-    {
         "id": "PM06710004",
         "model": "pm0671_11_00_prefab",
         "variation": "11_00",
@@ -21626,14 +21604,14 @@
         "model": "pm0717_00_00_prefab",
         "variation": "00_00",
         "scale1": 0.290909091,
-        "scale2": 0.8,
+        "scale2": 0.85,
         "posOffset": [
             0,
-            0.1,
+            -0.08,
             0
         ],
         "modelHeight": 580,
-        "trdDemoPosRatio": 1.9,
+        "trdDemoPosRatio": 1.7,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
@@ -23972,14 +23950,14 @@
         "model": "pm0781_00_00_prefab",
         "variation": "00_00",
         "scale1": 0.291970803,
-        "scale2": 1,
+        "scale2": 0.97,
         "posOffset": [
             0,
-            0.1,
+            0.05,
             0
         ],
         "modelHeight": 390,
-        "trdDemoPosRatio": 2,
+        "trdDemoPosRatio": 1.9,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
             "ba02_roar01"
@@ -24388,7 +24366,7 @@
         "model": "pm0800_00_00_prefab",
         "variation": "00_00",
         "scale1": 0.553633218,
-        "scale2": 0.85,
+        "scale2": 0.8,
         "posOffset": [
             0,
             0,

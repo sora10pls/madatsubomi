@@ -3666,6 +3666,28 @@
         "jdata": ""
     },
     {
+        "id": "OTH009",
+        "judgenum": 40009,
+        "group": 2,
+        "unlock": 1,
+        "cycle": 1,
+        "type": 1,
+        "category": 40009,
+        "sort": 5051,
+        "image": "GIF001",
+        "mdAchievementSteps": [
+            "OTH006-01"
+        ],
+        "cntReset": 2,
+        "startAt": "0",
+        "endAt": "9999999999",
+        "actionType": "",
+        "isSpecial": 1,
+        "ms": "sp_ach_oth_s_0004",
+        "dispCondition": "none",
+        "jdata": "OTH009_00004123028375_00004123028365"
+    },
+    {
         "id": "TRA112",
         "judgenum": 11012,
         "group": 0,

@@ -2,9 +2,8 @@
     {
         "id": "SF000",
         "romId": 0,
-        "": null,
         "image": "PokeTitle_S_000_Bank",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "PokeTitle_L_000_Bank_JP",
         "titleImageUSA": "PokeTitle_L_000_Bank_EN",
         "titleImageFRA": "PokeTitle_L_000_Bank_FR",
@@ -25,14 +24,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF001",
         "romId": 1,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -53,14 +52,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF002",
         "romId": 2,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -81,14 +80,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF003",
         "romId": 3,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -109,14 +108,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF004",
         "romId": 4,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -137,14 +136,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF005",
         "romId": 5,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -165,14 +164,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF007",
         "romId": 7,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -193,14 +192,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF008",
         "romId": 8,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -221,14 +220,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF010",
         "romId": 10,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -249,14 +248,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF011",
         "romId": 11,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -277,14 +276,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF012",
         "romId": 12,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -305,14 +304,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF015",
         "romId": 15,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -333,14 +332,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF020",
         "romId": 20,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -361,14 +360,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF021",
         "romId": 21,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -389,14 +388,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF022",
         "romId": 22,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -417,14 +416,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF023",
         "romId": 23,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -445,14 +444,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF024",
         "romId": 24,
-        "": null,
         "image": "PokeTitle_S_101_X",
-        "imageBg": null,
+        "imageBg": "lib_explain_watermark_x",
         "titleImageJPN": "PokeTitle_L_101_X_JP",
         "titleImageUSA": "PokeTitle_L_101_X_EN",
         "titleImageFRA": "PokeTitle_L_101_X_FR",
@@ -473,14 +472,14 @@
         "msZukanCommentFile": "zukan_comment_x",
         "msZukanCommentID": "zc:ZKN_X_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF025",
         "romId": 25,
-        "": null,
         "image": "PokeTitle_S_101_Y",
-        "imageBg": null,
+        "imageBg": "lib_explain_watermark_y",
         "titleImageJPN": "PokeTitle_L_101_Y_JP",
         "titleImageUSA": "PokeTitle_L_101_Y_EN",
         "titleImageFRA": "PokeTitle_L_101_Y_FR",
@@ -501,14 +500,14 @@
         "msZukanCommentFile": "zukan_comment_y",
         "msZukanCommentID": "zc:ZKN_Y_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF026",
         "romId": 26,
-        "": null,
         "image": "PokeTitle_S_102_AS",
-        "imageBg": null,
+        "imageBg": "lib_explain_watermark_alphasapphire",
         "titleImageJPN": "PokeTitle_L_102_AS_JP",
         "titleImageUSA": "PokeTitle_L_102_AS_EN",
         "titleImageFRA": "PokeTitle_L_102_AS_FR",
@@ -529,14 +528,14 @@
         "msZukanCommentFile": "zukan_comment_alpha",
         "msZukanCommentID": "zc:ZKN_ALPHA_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF027",
         "romId": 27,
-        "": null,
         "image": "PokeTitle_S_102_OR",
-        "imageBg": null,
+        "imageBg": "lib_explain_watermark_omegaruby",
         "titleImageJPN": "PokeTitle_L_102_OR_JP",
         "titleImageUSA": "PokeTitle_L_102_OR_EN",
         "titleImageFRA": "PokeTitle_L_102_OR_FR",
@@ -557,14 +556,14 @@
         "msZukanCommentFile": "zukan_comment_omega",
         "msZukanCommentID": "zc:ZKN_OMEGA_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF030",
         "romId": 30,
-        "": null,
         "image": "PokeTitle_S_103_Sun",
-        "imageBg": null,
+        "imageBg": "lib_explain_watermark_sun",
         "titleImageJPN": "PokeTitle_L_103_Sun_JP",
         "titleImageUSA": "PokeTitle_L_103_Sun_EN",
         "titleImageFRA": "PokeTitle_L_103_Sun_FR",
@@ -585,14 +584,14 @@
         "msZukanCommentFile": "zukan_comment_sun",
         "msZukanCommentID": "zc:ZKN_SUN_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 6
     },
     {
         "id": "SF031",
         "romId": 31,
-        "": null,
         "image": "PokeTitle_S_103_Moon",
-        "imageBg": null,
+        "imageBg": "lib_explain_watermark_moon",
         "titleImageJPN": "PokeTitle_L_103_Moon_JP",
         "titleImageUSA": "PokeTitle_L_103_Moon_EN",
         "titleImageFRA": "PokeTitle_L_103_Moon_FR",
@@ -613,14 +612,14 @@
         "msZukanCommentFile": "zukan_comment_moon",
         "msZukanCommentID": "zc:ZKN_MOON_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 6
     },
     {
         "id": "SF032",
         "romId": 32,
-        "": null,
         "image": "PokeTitle_S_104_US",
-        "imageBg": null,
+        "imageBg": "lib_explain_watermark_sun",
         "titleImageJPN": "PokeTitle_L_104_US_JP",
         "titleImageUSA": "PokeTitle_L_104_US_EN",
         "titleImageFRA": "PokeTitle_L_104_US_FR",
@@ -641,14 +640,14 @@
         "msZukanCommentFile": "zukan_comment_ultrasun",
         "msZukanCommentID": "zc:ZKN_ULSUN_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 6
     },
     {
         "id": "SF033",
         "romId": 33,
-        "": null,
         "image": "PokeTitle_S_104_UM",
-        "imageBg": null,
+        "imageBg": "lib_explain_watermark_moon",
         "titleImageJPN": "PokeTitle_L_104_UM_JP",
         "titleImageUSA": "PokeTitle_L_104_UM_EN",
         "titleImageFRA": "PokeTitle_L_104_UM_FR",
@@ -669,14 +668,14 @@
         "msZukanCommentFile": "zukan_comment_ultramoon",
         "msZukanCommentID": "zc:ZKN_ULMOON_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 6
     },
     {
         "id": "SF034",
         "romId": 34,
-        "": null,
         "image": "PokeTitle_S_501_GO",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "PokeTitle_L_501_GO_ALL",
         "titleImageUSA": "PokeTitle_L_501_GO_ALL",
         "titleImageFRA": "PokeTitle_L_501_GO_ALL",
@@ -697,14 +696,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 6
     },
     {
         "id": "SF035",
         "romId": 35,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -725,14 +724,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 1,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF036",
         "romId": 36,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -753,14 +752,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 1,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF037",
         "romId": 37,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -781,14 +780,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 1,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF038",
         "romId": 38,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -809,14 +808,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 1,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF039",
         "romId": 39,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -837,14 +836,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 1,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF040",
         "romId": 40,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -865,14 +864,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 1,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF041",
         "romId": 41,
-        "": null,
         "image": "",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "",
         "titleImageUSA": "",
         "titleImageFRA": "",
@@ -893,14 +892,14 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 1,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 5
     },
     {
         "id": "SF042",
         "romId": 42,
-        "": null,
         "image": "PokeTitle_S_105_P",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "PokeTitle_L_105_P_JP",
         "titleImageUSA": "PokeTitle_L_105_P_EN",
         "titleImageFRA": "PokeTitle_L_105_P_FR",
@@ -921,14 +920,14 @@
         "msZukanCommentFile": "zukan_comment_letsgo",
         "msZukanCommentID": "zc:ZKN_LETSGO_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 1
+        "hasAwakening": 1,
+        "idDigit": 6
     },
     {
         "id": "SF043",
         "romId": 43,
-        "": null,
         "image": "PokeTitle_S_105_E",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "PokeTitle_L_105_E_JP",
         "titleImageUSA": "PokeTitle_L_105_E_EN",
         "titleImageFRA": "PokeTitle_L_105_E_FR",
@@ -949,14 +948,14 @@
         "msZukanCommentFile": "zukan_comment_letsgo",
         "msZukanCommentID": "zc:ZKN_LETSGO_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 1
+        "hasAwakening": 1,
+        "idDigit": 6
     },
     {
         "id": "SF044",
         "romId": 44,
-        "": null,
         "image": "PokeTitle_S_106_SW",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "PokeTitle_L_106_SW_JP",
         "titleImageUSA": "PokeTitle_L_106_SW_EN",
         "titleImageFRA": "PokeTitle_L_106_SW_FR",
@@ -977,14 +976,14 @@
         "msZukanCommentFile": "zukan_comment_sword",
         "msZukanCommentID": "zc:ZKN_SWORD_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 6
     },
     {
         "id": "SF045",
         "romId": 45,
-        "": null,
         "image": "PokeTitle_S_106_SH",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "PokeTitle_L_106_SH_JP",
         "titleImageUSA": "PokeTitle_L_106_SH_EN",
         "titleImageFRA": "PokeTitle_L_106_SH_FR",
@@ -1005,14 +1004,14 @@
         "msZukanCommentFile": "zukan_comment_shield",
         "msZukanCommentID": "zc:ZKN_SHIELD_{0:D3}_{1:D3}",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 6
     },
     {
         "id": "SF046",
         "romId": 46,
-        "": null,
         "image": "PokeTitle_S_001_Home",
-        "imageBg": null,
+        "imageBg": "",
         "titleImageJPN": "PokeTitle_L_001_Home_ALL",
         "titleImageUSA": "PokeTitle_L_001_Home_ALL",
         "titleImageFRA": "PokeTitle_L_001_Home_ALL",
@@ -1033,6 +1032,7 @@
         "msZukanCommentFile": "",
         "msZukanCommentID": "",
         "vcFlag": 0,
-        "hasAwakening": 0
+        "hasAwakening": 0,
+        "idDigit": 6
     }
 ]

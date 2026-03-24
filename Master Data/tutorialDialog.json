@@ -167,5 +167,19 @@
             "0",
             "0"
         ]
+    },
+    {
+        "id": "battle_data_0001",
+        "place": 10,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_battle_data_0001_001",
+            "sp_monbo_battle_data_0001_002"
+        ],
+        "images": [
+            "0",
+            "0"
+        ]
     }
 ]

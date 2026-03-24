@@ -2,7 +2,12 @@
     {
         "id": "PL01",
         "planId": 0,
-        "isFree": 1
+        "isFree": 1,
+        "productIdGoogle": "",
+        "productIdApple": "",
+        "msname": "",
+        "msinfo": "",
+        "msprice": ""
     },
     {
         "id": "PL02",

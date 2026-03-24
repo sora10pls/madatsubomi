@@ -11021,14 +11021,6 @@
         "overrideFormNo": -1
     },
     {
-        "id": "TX0670005",
-        "mdSoftwares": [
-            "SF032",
-            "SF033"
-        ],
-        "overrideFormNo": -1
-    },
-    {
         "id": "TX0671000",
         "mdSoftwares": [
             "SF024",

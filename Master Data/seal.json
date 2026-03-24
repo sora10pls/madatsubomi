@@ -4590,5 +4590,19 @@
         "width": 600,
         "height": 800,
         "achieveIconScale": 1
+    },
+    {
+        "id": "SL0326",
+        "sealId": 326,
+        "sort": 326,
+        "sealImagePath": "seal_p_0071",
+        "sealIconImagePath": "seal_p_0071_thn",
+        "mdSealCategory": "SC000",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS03",
+        "ms": "",
+        "width": 364,
+        "height": 472,
+        "achieveIconScale": 1
     }
 ]

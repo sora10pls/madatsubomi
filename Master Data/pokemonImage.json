@@ -22,7 +22,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0000_f00_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0000_f00_s0"
+        "modelCaptureShiny": "cap0000_f00_s0",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0001000",
@@ -131,7 +134,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0003_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0003_f01_s0_r"
+        "modelCaptureShiny": "cap0003_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0004000",
@@ -240,7 +246,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0006_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0006_f81_s0_r"
+        "modelCaptureShiny": "cap0006_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0006001",
@@ -265,7 +274,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0006_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0006_f01_s0_r"
+        "modelCaptureShiny": "cap0006_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0006002",
@@ -290,7 +302,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0006_f02_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0006_f02_s0_r"
+        "modelCaptureShiny": "cap0006_f02_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0007000",
@@ -399,7 +414,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0009_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0009_f01_s0_r"
+        "modelCaptureShiny": "cap0009_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0010000",
@@ -508,7 +526,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0012_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0012_f81_s0_r"
+        "modelCaptureShiny": "cap0012_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0013000",
@@ -617,7 +638,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0015_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0015_f01_s0_r"
+        "modelCaptureShiny": "cap0015_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0016000",
@@ -726,7 +750,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0018_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0018_f01_s0_r"
+        "modelCaptureShiny": "cap0018_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0019000",
@@ -863,7 +890,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0020_f02_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0020_f02_s0_r"
+        "modelCaptureShiny": "cap0020_f02_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0021000",
@@ -1028,7 +1058,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0025_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0025_f81_s0_r"
+        "modelCaptureShiny": "cap0025_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0025001",
@@ -1055,7 +1088,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0025_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00250013"
+        "mdPokemonModel": "PM00250013",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0025002",
@@ -1082,7 +1116,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0025_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00250023"
+        "mdPokemonModel": "PM00250023",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0025003",
@@ -1109,7 +1144,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0025_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00250033"
+        "mdPokemonModel": "PM00250033",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0025004",
@@ -1136,7 +1172,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0025_f04_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00250043"
+        "mdPokemonModel": "PM00250043",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0025005",
@@ -1163,7 +1200,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0025_f05_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00250053"
+        "mdPokemonModel": "PM00250053",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0025006",
@@ -1190,7 +1228,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0025_f06_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00250063"
+        "mdPokemonModel": "PM00250063",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0025007",
@@ -1217,7 +1256,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0025_f07_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00250073"
+        "mdPokemonModel": "PM00250073",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0025008",
@@ -1242,7 +1282,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0025_f08_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0025_f08_s0_r"
+        "modelCaptureShiny": "cap0025_f08_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0026000",
@@ -1521,7 +1564,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0032_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00320003"
+        "mdPokemonModel": "PM00320003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0033000",
@@ -1548,7 +1592,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0033_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00330003"
+        "mdPokemonModel": "PM00330003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0034000",
@@ -1575,7 +1620,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0034_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00340003"
+        "mdPokemonModel": "PM00340003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0035000",
@@ -2216,7 +2262,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0052_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0052_f81_s0_r"
+        "modelCaptureShiny": "cap0052_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0052001",
@@ -2689,7 +2738,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0065_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0065_f01_s0_r"
+        "modelCaptureShiny": "cap0065_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0066000",
@@ -2798,7 +2850,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0068_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0068_f81_s0_r"
+        "modelCaptureShiny": "cap0068_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0069000",
@@ -3357,7 +3412,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0081_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00810005"
+        "mdPokemonModel": "PM00810005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0082000",
@@ -3384,7 +3440,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0082_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM00820005"
+        "mdPokemonModel": "PM00820005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0083000",
@@ -3829,7 +3886,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0094_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0094_f81_s0_r"
+        "modelCaptureShiny": "cap0094_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0094001",
@@ -3854,7 +3914,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0094_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0094_f01_s0_r"
+        "modelCaptureShiny": "cap0094_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0095000",
@@ -4019,7 +4082,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0099_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0099_f81_s0_r"
+        "modelCaptureShiny": "cap0099_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0100000",
@@ -4046,7 +4112,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0100_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01000005"
+        "mdPokemonModel": "PM01000005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0101000",
@@ -4073,7 +4140,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0101_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01010005"
+        "mdPokemonModel": "PM01010005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0102000",
@@ -4266,7 +4334,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0105_f02_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0105_f02_s0_r"
+        "modelCaptureShiny": "cap0105_f02_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0106000",
@@ -4293,7 +4364,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0106_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01060003"
+        "mdPokemonModel": "PM01060003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0107000",
@@ -4320,7 +4392,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0107_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01070003"
+        "mdPokemonModel": "PM01070003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0108000",
@@ -4597,7 +4670,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0115_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0115_f01_s0_r"
+        "modelCaptureShiny": "cap0115_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0116000",
@@ -4736,7 +4812,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0120_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01200005"
+        "mdPokemonModel": "PM01200005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0121000",
@@ -4763,7 +4840,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0121_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01210005"
+        "mdPokemonModel": "PM01210005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0122000",
@@ -4984,7 +5062,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0127_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0127_f01_s0_r"
+        "modelCaptureShiny": "cap0127_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0128000",
@@ -5011,7 +5092,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0128_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01280003"
+        "mdPokemonModel": "PM01280003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0129000",
@@ -5092,7 +5174,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0130_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0130_f01_s0_r"
+        "modelCaptureShiny": "cap0130_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0131000",
@@ -5145,7 +5230,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0131_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0131_f81_s0_r"
+        "modelCaptureShiny": "cap0131_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0132000",
@@ -5172,7 +5260,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0132_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01320005"
+        "mdPokemonModel": "PM01320005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0133000",
@@ -5225,7 +5314,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0133_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0133_f81_s0_r"
+        "modelCaptureShiny": "cap0133_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0133001",
@@ -5251,7 +5343,9 @@
         "modelCapture": "cap0133_f01_s0",
         "modelCaptureFemale": "cap0133_f01_s1",
         "modelCaptureShiny": "cap0133_f01_s0_r",
-        "modelCaptureFemaleShiny": "cap0133_f01_s1_r"
+        "modelCaptureFemaleShiny": "cap0133_f01_s1_r",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0134000",
@@ -5362,7 +5456,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0137_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01370005"
+        "mdPokemonModel": "PM01370005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0138000",
@@ -5527,7 +5622,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0142_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0142_f01_s0_r"
+        "modelCaptureShiny": "cap0142_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0143000",
@@ -5580,7 +5678,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0143_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0143_f81_s0_r"
+        "modelCaptureShiny": "cap0143_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0144000",
@@ -5607,7 +5708,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0144_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01440005"
+        "mdPokemonModel": "PM01440005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0145000",
@@ -5634,7 +5736,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0145_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01450005"
+        "mdPokemonModel": "PM01450005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0146000",
@@ -5661,7 +5764,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0146_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01460005"
+        "mdPokemonModel": "PM01460005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0147000",
@@ -5772,7 +5876,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0150_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01500005"
+        "mdPokemonModel": "PM01500005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0150001",
@@ -5797,7 +5902,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0150_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0150_f01_s0_r"
+        "modelCaptureShiny": "cap0150_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0150002",
@@ -5822,7 +5930,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0150_f02_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0150_f02_s0_r"
+        "modelCaptureShiny": "cap0150_f02_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0151000",
@@ -5849,7 +5960,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0151_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM01510005"
+        "mdPokemonModel": "PM01510005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0152000",
@@ -6714,7 +6826,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0181_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0181_f01_s0_r"
+        "modelCaptureShiny": "cap0181_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0182000",
@@ -7273,7 +7388,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010005"
+        "mdPokemonModel": "PM02010005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201001",
@@ -7300,7 +7416,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010015"
+        "mdPokemonModel": "PM02010015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201002",
@@ -7327,7 +7444,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010025"
+        "mdPokemonModel": "PM02010025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201003",
@@ -7354,7 +7472,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010035"
+        "mdPokemonModel": "PM02010035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201004",
@@ -7381,7 +7500,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f04_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010045"
+        "mdPokemonModel": "PM02010045",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201005",
@@ -7408,7 +7528,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f05_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010055"
+        "mdPokemonModel": "PM02010055",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201006",
@@ -7435,7 +7556,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f06_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010065"
+        "mdPokemonModel": "PM02010065",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201007",
@@ -7462,7 +7584,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f07_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010075"
+        "mdPokemonModel": "PM02010075",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201008",
@@ -7489,7 +7612,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f08_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010085"
+        "mdPokemonModel": "PM02010085",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201009",
@@ -7516,7 +7640,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f09_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010095"
+        "mdPokemonModel": "PM02010095",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201010",
@@ -7543,7 +7668,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f10_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010105"
+        "mdPokemonModel": "PM02010105",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201011",
@@ -7570,7 +7696,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f11_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010115"
+        "mdPokemonModel": "PM02010115",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201012",
@@ -7597,7 +7724,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f12_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010125"
+        "mdPokemonModel": "PM02010125",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201013",
@@ -7624,7 +7752,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010135"
+        "mdPokemonModel": "PM02010135",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201014",
@@ -7651,7 +7780,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f14_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010145"
+        "mdPokemonModel": "PM02010145",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201015",
@@ -7678,7 +7808,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f15_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010155"
+        "mdPokemonModel": "PM02010155",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201016",
@@ -7705,7 +7836,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f16_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010165"
+        "mdPokemonModel": "PM02010165",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201017",
@@ -7732,7 +7864,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f17_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010175"
+        "mdPokemonModel": "PM02010175",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201018",
@@ -7759,7 +7892,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f18_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010185"
+        "mdPokemonModel": "PM02010185",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201019",
@@ -7786,7 +7920,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f19_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010195"
+        "mdPokemonModel": "PM02010195",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201020",
@@ -7813,7 +7948,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f20_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010205"
+        "mdPokemonModel": "PM02010205",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201021",
@@ -7840,7 +7976,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f21_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010215"
+        "mdPokemonModel": "PM02010215",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201022",
@@ -7867,7 +8004,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f22_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010225"
+        "mdPokemonModel": "PM02010225",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201023",
@@ -7894,7 +8032,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f23_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010235"
+        "mdPokemonModel": "PM02010235",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201024",
@@ -7921,7 +8060,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f24_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010245"
+        "mdPokemonModel": "PM02010245",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201025",
@@ -7948,7 +8088,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f25_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010255"
+        "mdPokemonModel": "PM02010255",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201026",
@@ -7975,7 +8116,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f26_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010265"
+        "mdPokemonModel": "PM02010265",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0201027",
@@ -8002,7 +8144,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0201_f27_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02010275"
+        "mdPokemonModel": "PM02010275",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0202000",
@@ -8223,7 +8366,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0208_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0208_f01_s0_r"
+        "modelCaptureShiny": "cap0208_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0209000",
@@ -8360,7 +8506,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0212_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0212_f01_s0_r"
+        "modelCaptureShiny": "cap0212_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0213000",
@@ -8441,7 +8590,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0214_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0214_f01_s0_r"
+        "modelCaptureShiny": "cap0214_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0215000",
@@ -8914,7 +9066,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0229_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0229_f01_s0_r"
+        "modelCaptureShiny": "cap0229_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0230000",
@@ -9025,7 +9180,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0233_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02330005"
+        "mdPokemonModel": "PM02330005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0234000",
@@ -9108,7 +9264,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0236_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02360003"
+        "mdPokemonModel": "PM02360003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0237000",
@@ -9135,7 +9292,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0237_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02370003"
+        "mdPokemonModel": "PM02370003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0238000",
@@ -9302,7 +9460,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0243_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02430005"
+        "mdPokemonModel": "PM02430005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0244000",
@@ -9329,7 +9488,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0244_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02440005"
+        "mdPokemonModel": "PM02440005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0245000",
@@ -9356,7 +9516,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0245_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02450005"
+        "mdPokemonModel": "PM02450005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0246000",
@@ -9465,7 +9626,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0248_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0248_f01_s0_r"
+        "modelCaptureShiny": "cap0248_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0249000",
@@ -9492,7 +9656,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0249_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02490005"
+        "mdPokemonModel": "PM02490005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0250000",
@@ -9519,7 +9684,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0250_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02500005"
+        "mdPokemonModel": "PM02500005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0251000",
@@ -9546,7 +9712,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0251_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02510005"
+        "mdPokemonModel": "PM02510005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0252000",
@@ -9655,7 +9822,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0254_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0254_f01_s0_r"
+        "modelCaptureShiny": "cap0254_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0255000",
@@ -9764,7 +9934,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0257_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0257_f01_s0_r"
+        "modelCaptureShiny": "cap0257_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0258000",
@@ -9873,7 +10046,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0260_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0260_f01_s0_r"
+        "modelCaptureShiny": "cap0260_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0261000",
@@ -10570,7 +10746,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0282_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0282_f01_s0_r"
+        "modelCaptureShiny": "cap0282_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0283000",
@@ -10849,7 +11028,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0292_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM02920005"
+        "mdPokemonModel": "PM02920005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0293000",
@@ -11154,7 +11334,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0302_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0302_f01_s0_r"
+        "modelCaptureShiny": "cap0302_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0303000",
@@ -11207,7 +11390,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0303_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0303_f01_s0_r"
+        "modelCaptureShiny": "cap0303_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0304000",
@@ -11316,7 +11502,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0306_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0306_f01_s0_r"
+        "modelCaptureShiny": "cap0306_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0307000",
@@ -11397,7 +11586,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0308_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0308_f01_s0_r"
+        "modelCaptureShiny": "cap0308_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0309000",
@@ -11478,7 +11670,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0310_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0310_f01_s0_r"
+        "modelCaptureShiny": "cap0310_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0311000",
@@ -11561,7 +11756,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0313_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03130003"
+        "mdPokemonModel": "PM03130003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0314000",
@@ -11754,7 +11950,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0319_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0319_f01_s0_r"
+        "modelCaptureShiny": "cap0319_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0320000",
@@ -11891,7 +12090,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0323_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0323_f01_s0_r"
+        "modelCaptureShiny": "cap0323_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0324000",
@@ -12224,7 +12426,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0334_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0334_f01_s0_r"
+        "modelCaptureShiny": "cap0334_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0335000",
@@ -12307,7 +12512,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0337_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03370005"
+        "mdPokemonModel": "PM03370005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0338000",
@@ -12334,7 +12540,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0338_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03380005"
+        "mdPokemonModel": "PM03380005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0339000",
@@ -12473,7 +12680,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0343_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03430005"
+        "mdPokemonModel": "PM03430005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0344000",
@@ -12500,7 +12708,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0344_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03440005"
+        "mdPokemonModel": "PM03440005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0345000",
@@ -12889,7 +13098,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0354_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0354_f01_s0_r"
+        "modelCaptureShiny": "cap0354_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0355000",
@@ -13054,7 +13266,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0359_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0359_f01_s0_r"
+        "modelCaptureShiny": "cap0359_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0360000",
@@ -13163,7 +13378,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0362_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0362_f01_s0_r"
+        "modelCaptureShiny": "cap0362_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0363000",
@@ -13496,7 +13714,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0373_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0373_f01_s0_r"
+        "modelCaptureShiny": "cap0373_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0374000",
@@ -13523,7 +13744,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0374_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03740005"
+        "mdPokemonModel": "PM03740005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0375000",
@@ -13550,7 +13772,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0375_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03750005"
+        "mdPokemonModel": "PM03750005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0376000",
@@ -13577,7 +13800,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0376_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03760005"
+        "mdPokemonModel": "PM03760005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0376001",
@@ -13602,7 +13826,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0376_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0376_f01_s0_r"
+        "modelCaptureShiny": "cap0376_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0377000",
@@ -13629,7 +13856,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0377_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03770005"
+        "mdPokemonModel": "PM03770005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0378000",
@@ -13656,7 +13884,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0378_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03780005"
+        "mdPokemonModel": "PM03780005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0379000",
@@ -13683,7 +13912,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0379_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03790005"
+        "mdPokemonModel": "PM03790005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0380000",
@@ -13736,7 +13966,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0380_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0380_f01_s0_r"
+        "modelCaptureShiny": "cap0380_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0381000",
@@ -13763,7 +13996,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0381_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03810003"
+        "mdPokemonModel": "PM03810003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0381001",
@@ -13788,7 +14022,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0381_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0381_f01_s0_r"
+        "modelCaptureShiny": "cap0381_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0382000",
@@ -13815,7 +14052,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0382_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03820005"
+        "mdPokemonModel": "PM03820005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0382001",
@@ -13842,7 +14080,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0382_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03820015"
+        "mdPokemonModel": "PM03820015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0383000",
@@ -13869,7 +14108,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0383_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03830005"
+        "mdPokemonModel": "PM03830005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0383001",
@@ -13896,7 +14136,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0383_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03830015"
+        "mdPokemonModel": "PM03830015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0384000",
@@ -13923,7 +14164,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0384_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03840005"
+        "mdPokemonModel": "PM03840005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0384001",
@@ -13950,7 +14192,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0384_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03840015"
+        "mdPokemonModel": "PM03840015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0385000",
@@ -13977,7 +14220,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0385_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03850005"
+        "mdPokemonModel": "PM03850005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0386000",
@@ -14004,7 +14248,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0386_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03860005"
+        "mdPokemonModel": "PM03860005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0386001",
@@ -14031,7 +14276,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0386_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03860015"
+        "mdPokemonModel": "PM03860015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0386002",
@@ -14058,7 +14304,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0386_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03860025"
+        "mdPokemonModel": "PM03860025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0386003",
@@ -14085,7 +14332,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0386_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM03860035"
+        "mdPokemonModel": "PM03860035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0387000",
@@ -14980,7 +15228,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0414_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04140003"
+        "mdPokemonModel": "PM04140003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0414001",
@@ -15007,7 +15256,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0414_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04140003"
+        "mdPokemonModel": "PM04140003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0414002",
@@ -15034,7 +15284,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0414_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04140003"
+        "mdPokemonModel": "PM04140003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0415000",
@@ -15535,7 +15786,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0428_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0428_f01_s0_r"
+        "modelCaptureShiny": "cap0428_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0429000",
@@ -15758,7 +16012,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0436_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04360005"
+        "mdPokemonModel": "PM04360005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0437000",
@@ -15785,7 +16040,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0437_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04370005"
+        "mdPokemonModel": "PM04370005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0438000",
@@ -16034,7 +16290,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0445_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0445_f01_s0_r"
+        "modelCaptureShiny": "cap0445_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0446000",
@@ -16143,7 +16402,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0448_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0448_f01_s0_r"
+        "modelCaptureShiny": "cap0448_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0449000",
@@ -16504,7 +16766,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0460_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0460_f01_s0_r"
+        "modelCaptureShiny": "cap0460_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0461000",
@@ -16923,7 +17188,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0475_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04750003"
+        "mdPokemonModel": "PM04750003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0475001",
@@ -16948,7 +17214,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0475_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0475_f01_s0_r"
+        "modelCaptureShiny": "cap0475_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0476000",
@@ -17059,7 +17328,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0479_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04790005"
+        "mdPokemonModel": "PM04790005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0479001",
@@ -17086,7 +17356,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0479_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04790015"
+        "mdPokemonModel": "PM04790015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0479002",
@@ -17113,7 +17384,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0479_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04790025"
+        "mdPokemonModel": "PM04790025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0479003",
@@ -17140,7 +17412,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0479_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04790035"
+        "mdPokemonModel": "PM04790035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0479004",
@@ -17167,7 +17440,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0479_f04_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04790045"
+        "mdPokemonModel": "PM04790045",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0479005",
@@ -17194,7 +17468,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0479_f05_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04790055"
+        "mdPokemonModel": "PM04790055",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0480000",
@@ -17221,7 +17496,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0480_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04800005"
+        "mdPokemonModel": "PM04800005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0481000",
@@ -17248,7 +17524,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0481_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04810005"
+        "mdPokemonModel": "PM04810005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0482000",
@@ -17275,7 +17552,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0482_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04820005"
+        "mdPokemonModel": "PM04820005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0483000",
@@ -17302,7 +17580,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0483_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04830005"
+        "mdPokemonModel": "PM04830005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0484000",
@@ -17329,7 +17608,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0484_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04840005"
+        "mdPokemonModel": "PM04840005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0485000",
@@ -17384,7 +17664,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0486_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04860005"
+        "mdPokemonModel": "PM04860005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0487000",
@@ -17411,7 +17692,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0487_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04870005"
+        "mdPokemonModel": "PM04870005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0487001",
@@ -17438,7 +17720,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0487_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04870015"
+        "mdPokemonModel": "PM04870015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0488000",
@@ -17493,7 +17776,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0489_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04890005"
+        "mdPokemonModel": "PM04890005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0490000",
@@ -17520,7 +17804,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0490_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04900005"
+        "mdPokemonModel": "PM04900005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0491000",
@@ -17547,7 +17832,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0491_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04910005"
+        "mdPokemonModel": "PM04910005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0492000",
@@ -17574,7 +17860,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0492_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04920005"
+        "mdPokemonModel": "PM04920005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0492001",
@@ -17601,7 +17888,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0492_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04920015"
+        "mdPokemonModel": "PM04920015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493000",
@@ -17628,7 +17916,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930005"
+        "mdPokemonModel": "PM04930005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493001",
@@ -17655,7 +17944,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930015"
+        "mdPokemonModel": "PM04930015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493002",
@@ -17682,7 +17972,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930025"
+        "mdPokemonModel": "PM04930025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493003",
@@ -17709,7 +18000,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930035"
+        "mdPokemonModel": "PM04930035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493004",
@@ -17736,7 +18028,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f04_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930045"
+        "mdPokemonModel": "PM04930045",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493005",
@@ -17763,7 +18056,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f05_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930055"
+        "mdPokemonModel": "PM04930055",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493006",
@@ -17790,7 +18084,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f06_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930065"
+        "mdPokemonModel": "PM04930065",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493007",
@@ -17817,7 +18112,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f07_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930075"
+        "mdPokemonModel": "PM04930075",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493008",
@@ -17844,7 +18140,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f08_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930085"
+        "mdPokemonModel": "PM04930085",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493009",
@@ -17871,7 +18168,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f09_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930095"
+        "mdPokemonModel": "PM04930095",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493010",
@@ -17898,7 +18196,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f10_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930105"
+        "mdPokemonModel": "PM04930105",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493011",
@@ -17925,7 +18224,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f11_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930115"
+        "mdPokemonModel": "PM04930115",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493012",
@@ -17952,7 +18252,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f12_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930125"
+        "mdPokemonModel": "PM04930125",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493013",
@@ -17979,7 +18280,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930135"
+        "mdPokemonModel": "PM04930135",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493014",
@@ -18006,7 +18308,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f14_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930145"
+        "mdPokemonModel": "PM04930145",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493015",
@@ -18033,7 +18336,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f15_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930155"
+        "mdPokemonModel": "PM04930155",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493016",
@@ -18060,7 +18364,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f16_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930165"
+        "mdPokemonModel": "PM04930165",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0493017",
@@ -18087,7 +18392,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0493_f17_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04930175"
+        "mdPokemonModel": "PM04930175",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0494000",
@@ -18114,7 +18420,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0494_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM04940005"
+        "mdPokemonModel": "PM04940005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0495000",
@@ -19175,7 +19482,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0531_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0531_f01_s0_r"
+        "modelCaptureShiny": "cap0531_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0532000",
@@ -19370,7 +19680,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0538_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM05380003"
+        "mdPokemonModel": "PM05380003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0539000",
@@ -19397,7 +19708,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0539_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM05390003"
+        "mdPokemonModel": "PM05390003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0540000",
@@ -20430,7 +20742,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0569_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0569_f81_s0_r"
+        "modelCaptureShiny": "cap0569_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0570000",
@@ -21437,7 +21752,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0599_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM05990005"
+        "mdPokemonModel": "PM05990005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0600000",
@@ -21464,7 +21780,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0600_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06000005"
+        "mdPokemonModel": "PM06000005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0601000",
@@ -21491,7 +21808,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0601_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06010005"
+        "mdPokemonModel": "PM06010005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0602000",
@@ -21882,7 +22200,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0615_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06150005"
+        "mdPokemonModel": "PM06150005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0616000",
@@ -22105,7 +22424,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0622_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06220005"
+        "mdPokemonModel": "PM06220005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0623000",
@@ -22132,7 +22452,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0623_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06230005"
+        "mdPokemonModel": "PM06230005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0624000",
@@ -22243,7 +22564,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0627_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06270003"
+        "mdPokemonModel": "PM06270003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0628000",
@@ -22270,7 +22592,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0628_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06280003"
+        "mdPokemonModel": "PM06280003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0629000",
@@ -22549,7 +22872,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0638_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06380005"
+        "mdPokemonModel": "PM06380005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0639000",
@@ -22576,7 +22900,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0639_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06390005"
+        "mdPokemonModel": "PM06390005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0640000",
@@ -22603,7 +22928,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0640_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06400005"
+        "mdPokemonModel": "PM06400005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0641000",
@@ -22630,7 +22956,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0641_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06410003"
+        "mdPokemonModel": "PM06410003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0641001",
@@ -22657,7 +22984,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0641_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06410013"
+        "mdPokemonModel": "PM06410013",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0642000",
@@ -22684,7 +23012,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0642_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06420003"
+        "mdPokemonModel": "PM06420003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0642001",
@@ -22711,7 +23040,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0642_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06420013"
+        "mdPokemonModel": "PM06420013",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0643000",
@@ -22738,7 +23068,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0643_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06430005"
+        "mdPokemonModel": "PM06430005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0644000",
@@ -22765,7 +23096,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0644_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06440005"
+        "mdPokemonModel": "PM06440005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0645000",
@@ -22792,7 +23124,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0645_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06450003"
+        "mdPokemonModel": "PM06450003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0645001",
@@ -22819,7 +23152,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0645_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06450013"
+        "mdPokemonModel": "PM06450013",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0646000",
@@ -22846,7 +23180,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0646_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06460005"
+        "mdPokemonModel": "PM06460005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0646001",
@@ -22873,7 +23208,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0646_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06460015"
+        "mdPokemonModel": "PM06460015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0646002",
@@ -22900,7 +23236,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0646_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06460025"
+        "mdPokemonModel": "PM06460025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0647000",
@@ -22927,7 +23264,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0647_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06470005"
+        "mdPokemonModel": "PM06470005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0647001",
@@ -22954,7 +23292,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0647_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06470015"
+        "mdPokemonModel": "PM06470015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0648000",
@@ -22981,7 +23320,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0648_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06480005"
+        "mdPokemonModel": "PM06480005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0648001",
@@ -23008,7 +23348,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0648_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06480015"
+        "mdPokemonModel": "PM06480015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0649000",
@@ -23035,7 +23376,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0649_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06490005"
+        "mdPokemonModel": "PM06490005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0649001",
@@ -23062,7 +23404,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0649_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06490015"
+        "mdPokemonModel": "PM06490015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0649002",
@@ -23089,7 +23432,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0649_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06490025"
+        "mdPokemonModel": "PM06490025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0649003",
@@ -23116,7 +23460,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0649_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06490035"
+        "mdPokemonModel": "PM06490035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0649004",
@@ -23143,7 +23488,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0649_f04_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06490045"
+        "mdPokemonModel": "PM06490045",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0650000",
@@ -23422,7 +23768,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0658_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06580013"
+        "mdPokemonModel": "PM06580013",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0658002",
@@ -23449,7 +23796,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0658_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06580023"
+        "mdPokemonModel": "PM06580023",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0659000",
@@ -25608,34 +25956,6 @@
         "mdPokemonModelFemale": "PM06700044"
     },
     {
-        "id": "PI0670005",
-        "image": "cap0670_f05_s0",
-        "bankListImage": "cap0670_f05_s0_128",
-        "bankListImageFemale": "",
-        "bankListImageShiny": "cap0670_f05_s0_128_r",
-        "bankListImageShinyFemale": "",
-        "dicListImage": "cap0670_f05_s0_128",
-        "dicListImageFemale": "",
-        "dicListImageShiny": "cap0670_f05_s0_128_r",
-        "dicListImageShinyFemale": "",
-        "dicDetailImage": "cap0670_f05_s0",
-        "dicDetailImageFemale": "",
-        "dicDetailImageShiny": "cap0670_f05_s0_r",
-        "dicDetailImageShinyFemale": "",
-        "dicDetailImageBack": "",
-        "dicDetailImageBackFemale": "",
-        "dicDetailImageBackShiny": "",
-        "dicDetailImageBackShinyFemale": "",
-        "dotImage": "",
-        "dotImageFlip": "",
-        "modelCapture": "cap0670_f05_s0",
-        "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0670_f05_s0_r",
-        "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "",
-        "mdPokemonModelFemale": "PM06700054"
-    },
-    {
         "id": "PI0671000",
         "image": "cap0671_f00_s0",
         "bankListImage": "cap0671_f00_s0_128",
@@ -26220,7 +26540,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0678_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM06780003"
+        "mdPokemonModel": "PM06780003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0678001",
@@ -26975,7 +27296,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0703_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07030005"
+        "mdPokemonModel": "PM07030005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0704000",
@@ -27506,7 +27828,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0716_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07160005"
+        "mdPokemonModel": "PM07160005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0716001",
@@ -27533,7 +27856,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0716_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07160015"
+        "mdPokemonModel": "PM07160015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0717000",
@@ -27560,7 +27884,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0717_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07170005"
+        "mdPokemonModel": "PM07170005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0718000",
@@ -27587,7 +27912,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0718_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07180005"
+        "mdPokemonModel": "PM07180005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0718001",
@@ -27614,7 +27940,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0718_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07180015"
+        "mdPokemonModel": "PM07180015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0718002",
@@ -27641,7 +27968,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0718_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07180025"
+        "mdPokemonModel": "PM07180025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0718003",
@@ -27668,7 +27996,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0718_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07180035"
+        "mdPokemonModel": "PM07180035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0718004",
@@ -27695,7 +28024,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0718_f04_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07180045"
+        "mdPokemonModel": "PM07180045",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0719000",
@@ -27722,7 +28052,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0719_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07190005"
+        "mdPokemonModel": "PM07190005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0719001",
@@ -27749,7 +28080,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0719_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07190015"
+        "mdPokemonModel": "PM07190015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0720000",
@@ -27776,7 +28108,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0720_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07200005"
+        "mdPokemonModel": "PM07200005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0720001",
@@ -27803,7 +28136,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0720_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07200015"
+        "mdPokemonModel": "PM07200015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0721000",
@@ -27830,7 +28164,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0721_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07210005"
+        "mdPokemonModel": "PM07210005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0722000",
@@ -28247,7 +28582,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0735_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0735_f01_s0_r"
+        "modelCaptureShiny": "cap0735_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0736000",
@@ -28356,7 +28694,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0738_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0738_f01_s0_r"
+        "modelCaptureShiny": "cap0738_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0739000",
@@ -28605,7 +28946,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0743_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0743_f01_s0_r"
+        "modelCaptureShiny": "cap0743_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0744000",
@@ -28994,7 +29338,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0752_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0752_f01_s0_r"
+        "modelCaptureShiny": "cap0752_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0753000",
@@ -29075,7 +29422,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0754_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0754_f01_s0_r"
+        "modelCaptureShiny": "cap0754_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0755000",
@@ -29212,7 +29562,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0758_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0758_f01_s0_r"
+        "modelCaptureShiny": "cap0758_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0759000",
@@ -29603,7 +29956,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0772_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07720005"
+        "mdPokemonModel": "PM07720005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773000",
@@ -29630,7 +29984,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730005"
+        "mdPokemonModel": "PM07730005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773001",
@@ -29657,7 +30012,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730015"
+        "mdPokemonModel": "PM07730015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773002",
@@ -29684,7 +30040,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730025"
+        "mdPokemonModel": "PM07730025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773003",
@@ -29711,7 +30068,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730035"
+        "mdPokemonModel": "PM07730035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773004",
@@ -29738,7 +30096,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f04_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730045"
+        "mdPokemonModel": "PM07730045",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773005",
@@ -29765,7 +30124,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f05_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730055"
+        "mdPokemonModel": "PM07730055",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773006",
@@ -29792,7 +30152,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f06_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730065"
+        "mdPokemonModel": "PM07730065",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773007",
@@ -29819,7 +30180,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f07_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730075"
+        "mdPokemonModel": "PM07730075",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773008",
@@ -29846,7 +30208,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f08_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730085"
+        "mdPokemonModel": "PM07730085",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773009",
@@ -29873,7 +30236,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f09_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730095"
+        "mdPokemonModel": "PM07730095",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773010",
@@ -29900,7 +30264,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f10_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730105"
+        "mdPokemonModel": "PM07730105",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773011",
@@ -29927,7 +30292,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f11_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730115"
+        "mdPokemonModel": "PM07730115",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773012",
@@ -29954,7 +30320,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f12_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730125"
+        "mdPokemonModel": "PM07730125",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773013",
@@ -29981,7 +30348,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730135"
+        "mdPokemonModel": "PM07730135",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773014",
@@ -30008,7 +30376,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f14_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730145"
+        "mdPokemonModel": "PM07730145",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773015",
@@ -30035,7 +30404,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f15_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730155"
+        "mdPokemonModel": "PM07730155",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773016",
@@ -30062,7 +30432,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f16_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730165"
+        "mdPokemonModel": "PM07730165",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0773017",
@@ -30089,7 +30460,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0773_f17_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07730175"
+        "mdPokemonModel": "PM07730175",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774000",
@@ -30116,7 +30488,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740005"
+        "mdPokemonModel": "PM07740005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774001",
@@ -30143,7 +30516,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740015"
+        "mdPokemonModel": "PM07740015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774002",
@@ -30170,7 +30544,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740025"
+        "mdPokemonModel": "PM07740025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774003",
@@ -30197,7 +30572,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740035"
+        "mdPokemonModel": "PM07740035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774004",
@@ -30224,7 +30600,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f04_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740045"
+        "mdPokemonModel": "PM07740045",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774005",
@@ -30251,7 +30628,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f05_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740055"
+        "mdPokemonModel": "PM07740055",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774006",
@@ -30278,7 +30656,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f06_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740065"
+        "mdPokemonModel": "PM07740065",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774007",
@@ -30305,7 +30684,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740075"
+        "mdPokemonModel": "PM07740075",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774008",
@@ -30332,7 +30712,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740085"
+        "mdPokemonModel": "PM07740085",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774009",
@@ -30359,7 +30740,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740095"
+        "mdPokemonModel": "PM07740095",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774010",
@@ -30386,7 +30768,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740105"
+        "mdPokemonModel": "PM07740105",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774011",
@@ -30413,7 +30796,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740115"
+        "mdPokemonModel": "PM07740115",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774012",
@@ -30440,7 +30824,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740125"
+        "mdPokemonModel": "PM07740125",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0774013",
@@ -30467,7 +30852,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0774_f13_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07740135"
+        "mdPokemonModel": "PM07740135",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0775000",
@@ -30576,7 +30962,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0777_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0777_f01_s0_r"
+        "modelCaptureShiny": "cap0777_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0778000",
@@ -30657,7 +31046,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0778_f02_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0778_f02_s0_r"
+        "modelCaptureShiny": "cap0778_f02_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0778003",
@@ -30682,7 +31074,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0778_f03_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0778_f03_s0_r"
+        "modelCaptureShiny": "cap0778_f03_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0779000",
@@ -30765,7 +31160,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0781_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07810005"
+        "mdPokemonModel": "PM07810005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0782000",
@@ -30874,7 +31270,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0784_f01_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0784_f01_s0_r"
+        "modelCaptureShiny": "cap0784_f01_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0785000",
@@ -30901,7 +31300,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0785_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07850005"
+        "mdPokemonModel": "PM07850005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0786000",
@@ -30928,7 +31328,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0786_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07860005"
+        "mdPokemonModel": "PM07860005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0787000",
@@ -30955,7 +31356,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0787_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07870005"
+        "mdPokemonModel": "PM07870005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0788000",
@@ -30982,7 +31384,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0788_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07880005"
+        "mdPokemonModel": "PM07880005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0789000",
@@ -31009,7 +31412,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0789_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07890005"
+        "mdPokemonModel": "PM07890005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0790000",
@@ -31036,7 +31440,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0790_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07900005"
+        "mdPokemonModel": "PM07900005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0791000",
@@ -31063,7 +31468,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0791_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07910005"
+        "mdPokemonModel": "PM07910005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0792000",
@@ -31090,7 +31496,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0792_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07920005"
+        "mdPokemonModel": "PM07920005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0793000",
@@ -31117,7 +31524,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0793_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07930005"
+        "mdPokemonModel": "PM07930005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0794000",
@@ -31144,7 +31552,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0794_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07940005"
+        "mdPokemonModel": "PM07940005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0795000",
@@ -31171,7 +31580,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0795_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07950005"
+        "mdPokemonModel": "PM07950005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0796000",
@@ -31198,7 +31608,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0796_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07960005"
+        "mdPokemonModel": "PM07960005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0797000",
@@ -31225,7 +31636,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0797_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07970005"
+        "mdPokemonModel": "PM07970005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0798000",
@@ -31252,7 +31664,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0798_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07980005"
+        "mdPokemonModel": "PM07980005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0799000",
@@ -31279,7 +31692,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0799_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM07990005"
+        "mdPokemonModel": "PM07990005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0800000",
@@ -31306,7 +31720,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0800_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08000005"
+        "mdPokemonModel": "PM08000005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0800001",
@@ -31333,7 +31748,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0800_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08000015"
+        "mdPokemonModel": "PM08000015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0800002",
@@ -31360,7 +31776,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0800_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08000025"
+        "mdPokemonModel": "PM08000025",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0800003",
@@ -31387,7 +31804,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0800_f03_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08000035"
+        "mdPokemonModel": "PM08000035",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0801000",
@@ -31414,7 +31832,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0801_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08010005"
+        "mdPokemonModel": "PM08010005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0801001",
@@ -31441,7 +31860,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0801_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08010015"
+        "mdPokemonModel": "PM08010015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0802000",
@@ -31468,7 +31888,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0802_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08020005"
+        "mdPokemonModel": "PM08020005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0803000",
@@ -31495,7 +31916,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0803_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08030005"
+        "mdPokemonModel": "PM08030005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0804000",
@@ -31522,7 +31944,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0804_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08040005"
+        "mdPokemonModel": "PM08040005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0805000",
@@ -31549,7 +31972,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0805_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08050005"
+        "mdPokemonModel": "PM08050005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0806000",
@@ -31576,7 +32000,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0806_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08060005"
+        "mdPokemonModel": "PM08060005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0807000",
@@ -31603,7 +32028,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0807_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08070005"
+        "mdPokemonModel": "PM08070005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0808000",
@@ -31630,7 +32056,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0808_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08080005"
+        "mdPokemonModel": "PM08080005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0809000",
@@ -31657,7 +32084,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0809_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08090005"
+        "mdPokemonModel": "PM08090005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0809000G",
@@ -31682,7 +32110,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0809_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0809_f81_s0_r"
+        "modelCaptureShiny": "cap0809_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0810000",
@@ -32099,7 +32530,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0823_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0823_f81_s0_r"
+        "modelCaptureShiny": "cap0823_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0824000",
@@ -32208,7 +32642,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0826_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0826_f81_s0_r"
+        "modelCaptureShiny": "cap0826_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0827000",
@@ -32457,7 +32894,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0834_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0834_f81_s0_r"
+        "modelCaptureShiny": "cap0834_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0835000",
@@ -32622,7 +33062,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0839_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0839_f81_s0_r"
+        "modelCaptureShiny": "cap0839_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0840000",
@@ -32703,7 +33146,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0841_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0841_f81_s0_r"
+        "modelCaptureShiny": "cap0841_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0842000",
@@ -32756,7 +33202,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0842_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0842_f81_s0_r"
+        "modelCaptureShiny": "cap0842_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0843000",
@@ -32837,7 +33286,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0844_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0844_f81_s0_r"
+        "modelCaptureShiny": "cap0844_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0845000",
@@ -33058,7 +33510,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0849_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0849_f81_s0_r"
+        "modelCaptureShiny": "cap0849_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0849001",
@@ -33111,7 +33566,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0849_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0849_f81_s0_r"
+        "modelCaptureShiny": "cap0849_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0850000",
@@ -33192,7 +33650,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0851_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0851_f81_s0_r"
+        "modelCaptureShiny": "cap0851_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0852000",
@@ -33275,7 +33736,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0854_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08540005"
+        "mdPokemonModel": "PM08540005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0854001",
@@ -33302,7 +33764,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0854_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08540015"
+        "mdPokemonModel": "PM08540015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0855000",
@@ -33329,7 +33792,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0855_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08550005"
+        "mdPokemonModel": "PM08550005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0855001",
@@ -33356,7 +33820,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0855_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08550015"
+        "mdPokemonModel": "PM08550015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0856000",
@@ -33465,7 +33930,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0858_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0858_f81_s0_r"
+        "modelCaptureShiny": "cap0858_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0859000",
@@ -33492,7 +33960,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0859_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08590003"
+        "mdPokemonModel": "PM08590003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0860000",
@@ -33519,7 +33988,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0860_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08600003"
+        "mdPokemonModel": "PM08600003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0861000",
@@ -33546,7 +34016,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0861_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08610003"
+        "mdPokemonModel": "PM08610003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0861000G",
@@ -33571,7 +34042,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0861_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0861_f81_s0_r"
+        "modelCaptureShiny": "cap0861_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0862000",
@@ -35556,7 +36030,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0869_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0869_f81_s0_r"
+        "modelCaptureShiny": "cap0869_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0870000",
@@ -35583,7 +36060,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0870_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08700005"
+        "mdPokemonModel": "PM08700005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0871000",
@@ -35778,7 +36256,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0876_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08760003"
+        "mdPokemonModel": "PM08760003",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0876001",
@@ -35943,7 +36422,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0879_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0879_f81_s0_r"
+        "modelCaptureShiny": "cap0879_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0880000",
@@ -35970,7 +36452,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0880_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08800005"
+        "mdPokemonModel": "PM08800005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0881000",
@@ -35997,7 +36480,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0881_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08810005"
+        "mdPokemonModel": "PM08810005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0882000",
@@ -36024,7 +36508,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0882_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08820005"
+        "mdPokemonModel": "PM08820005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0883000",
@@ -36051,7 +36536,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0883_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08830005"
+        "mdPokemonModel": "PM08830005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0884000",
@@ -36104,7 +36590,10 @@
         "dotImageFlip": "",
         "modelCapture": "cap0884_f81_s0",
         "modelCaptureFemale": "",
-        "modelCaptureShiny": "cap0884_f81_s0_r"
+        "modelCaptureShiny": "cap0884_f81_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0885000",
@@ -36215,7 +36704,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0888_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08880005"
+        "mdPokemonModel": "PM08880005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0888001",
@@ -36242,7 +36732,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0888_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08880015"
+        "mdPokemonModel": "PM08880015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0889000",
@@ -36269,7 +36760,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0889_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08890005"
+        "mdPokemonModel": "PM08890005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0889001",
@@ -36296,7 +36788,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0889_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08890015"
+        "mdPokemonModel": "PM08890015",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0890000",
@@ -36323,7 +36816,8 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0890_f00_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08900005"
+        "mdPokemonModel": "PM08900005",
+        "mdPokemonModelFemale": ""
     },
     {
         "id": "PI0890001",
@@ -36350,6 +36844,7 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap0890_f01_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM08900015"
+        "mdPokemonModel": "PM08900015",
+        "mdPokemonModelFemale": ""
     }
 ]
