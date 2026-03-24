@@ -258,5 +258,20 @@
             "0"
         ],
         "category": 2
+    },
+    {
+        "id": "miracle_box_0002",
+        "place": 13,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_ui_gift_confirm_body_nalink_v12",
+            "sp_ui_gift_confirm_button_nalink_v12"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 1
     }
 ]
