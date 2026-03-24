@@ -224,5 +224,39 @@
             "0"
         ],
         "category": 1
+    },
+    {
+        "id": "software_library_0001",
+        "place": 12,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_software_library_0001_001",
+            "sp_monbo_software_library_0001_002",
+            "sp_monbo_software_library_0001_003",
+            "sp_monbo_software_library_0001_004"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "home_0003",
+        "place": 1,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_gift_0001_003",
+            "sp_monbo_gift_0001_002"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 2
     }
 ]

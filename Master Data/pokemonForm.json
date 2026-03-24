@@ -828,6 +828,15 @@
         "isViewGTS": 1
     },
     {
+        "id": "FN0058001",
+        "mdPokemonImage": "PI0058001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_058_001",
+        "gtsForm": "FG0058001",
+        "isViewGTS": 1
+    },
+    {
         "id": "FN0059000",
         "mdPokemonImage": "PI0059000",
         "variationNum": 0,
@@ -835,6 +844,24 @@
         "ms": "zkn_form:ZKN_FORM_059_000",
         "gtsForm": "FG0059000",
         "isViewGTS": 1
+    },
+    {
+        "id": "FN0059001",
+        "mdPokemonImage": "PI0059001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_059_001",
+        "gtsForm": "FG0059001",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0059002",
+        "mdPokemonImage": "PI0059002",
+        "variationNum": 0,
+        "formNo": 2,
+        "ms": "zkn_form:ZKN_FORM_059_002",
+        "gtsForm": "FG0059002",
+        "isViewGTS": 0
     },
     {
         "id": "FN0060000",
@@ -1350,6 +1377,15 @@
         "isViewGTS": 1
     },
     {
+        "id": "FN0100001",
+        "mdPokemonImage": "PI0100001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_100_001",
+        "gtsForm": "FG0100001",
+        "isViewGTS": 1
+    },
+    {
         "id": "FN0101000",
         "mdPokemonImage": "PI0101000",
         "variationNum": 0,
@@ -1357,6 +1393,24 @@
         "ms": "zkn_form:ZKN_FORM_101_000",
         "gtsForm": "FG0101000",
         "isViewGTS": 1
+    },
+    {
+        "id": "FN0101001",
+        "mdPokemonImage": "PI0101001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_101_001",
+        "gtsForm": "FG0101001",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0101002",
+        "mdPokemonImage": "PI0101002",
+        "variationNum": 0,
+        "formNo": 2,
+        "ms": "zkn_form:ZKN_FORM_101_002",
+        "gtsForm": "FG0101002",
+        "isViewGTS": 0
     },
     {
         "id": "FN0102000",
@@ -2022,6 +2076,15 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_157_000",
         "gtsForm": "FG0157000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0157001",
+        "mdPokemonImage": "PI0157001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_157_001",
+        "gtsForm": "FG0157001",
         "isViewGTS": 1
     },
     {
@@ -2781,6 +2844,15 @@
         "isViewGTS": 1
     },
     {
+        "id": "FN0211001",
+        "mdPokemonImage": "PI0211001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_211_001",
+        "gtsForm": "FG0211001",
+        "isViewGTS": 1
+    },
+    {
         "id": "FN0212000",
         "mdPokemonImage": "PI0212000",
         "variationNum": 0,
@@ -2832,6 +2904,15 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_215_000",
         "gtsForm": "FG0215000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0215001",
+        "mdPokemonImage": "PI0215001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_215_001",
+        "gtsForm": "FG0215001",
         "isViewGTS": 1
     },
     {
@@ -5715,6 +5796,15 @@
         "isViewGTS": 1
     },
     {
+        "id": "FN0483001",
+        "mdPokemonImage": "PI0483001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_483_001",
+        "gtsForm": "FG0483001",
+        "isViewGTS": 0
+    },
+    {
         "id": "FN0484000",
         "mdPokemonImage": "PI0484000",
         "variationNum": 0,
@@ -5722,6 +5812,15 @@
         "ms": "zkn_form:ZKN_FORM_484_000",
         "gtsForm": "FG0484000",
         "isViewGTS": 1
+    },
+    {
+        "id": "FN0484001",
+        "mdPokemonImage": "PI0484001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_484_001",
+        "gtsForm": "FG0484001",
+        "isViewGTS": 0
     },
     {
         "id": "FN0485000",
@@ -5976,6 +6075,15 @@
         "isViewGTS": 0
     },
     {
+        "id": "FN0493018",
+        "mdPokemonImage": "PI0493018",
+        "variationNum": 0,
+        "formNo": 18,
+        "ms": "zkn_form:ZKN_FORM_493_018",
+        "gtsForm": "FG0493018",
+        "isViewGTS": 0
+    },
+    {
         "id": "FN0494000",
         "mdPokemonImage": "PI0494000",
         "variationNum": 0,
@@ -6063,6 +6171,15 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_503_000",
         "gtsForm": "FG0503000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0503001",
+        "mdPokemonImage": "PI0503001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_503_001",
+        "gtsForm": "FG0503001",
         "isViewGTS": 1
     },
     {
@@ -6489,6 +6606,24 @@
         "isViewGTS": 1
     },
     {
+        "id": "FN0549001",
+        "mdPokemonImage": "PI0549001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_549_001",
+        "gtsForm": "FG0549001",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0549002",
+        "mdPokemonImage": "PI0549002",
+        "variationNum": 0,
+        "formNo": 2,
+        "ms": "zkn_form:ZKN_FORM_549_002",
+        "gtsForm": "FG0549002",
+        "isViewGTS": 0
+    },
+    {
         "id": "FN0550000",
         "mdPokemonImage": "PI0550000",
         "variationNum": 0,
@@ -6504,6 +6639,15 @@
         "formNo": 1,
         "ms": "zkn_form:ZKN_FORM_550_001",
         "gtsForm": "FG0550001",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0550002",
+        "mdPokemonImage": "PI0550002",
+        "variationNum": 0,
+        "formNo": 2,
+        "ms": "zkn_form:ZKN_FORM_550_002",
+        "gtsForm": "FG0550002",
         "isViewGTS": 1
     },
     {
@@ -6741,12 +6885,30 @@
         "isViewGTS": 1
     },
     {
+        "id": "FN0570001",
+        "mdPokemonImage": "PI0570001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_570_001",
+        "gtsForm": "FG0570001",
+        "isViewGTS": 1
+    },
+    {
         "id": "FN0571000",
         "mdPokemonImage": "PI0571000",
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_571_000",
         "gtsForm": "FG0571000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0571001",
+        "mdPokemonImage": "PI0571001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_571_001",
+        "gtsForm": "FG0571001",
         "isViewGTS": 1
     },
     {
@@ -7323,6 +7485,15 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_628_000",
         "gtsForm": "FG0628000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0628001",
+        "mdPokemonImage": "PI0628001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_628_001",
+        "gtsForm": "FG0628001",
         "isViewGTS": 1
     },
     {
@@ -8865,12 +9036,30 @@
         "isViewGTS": 1
     },
     {
+        "id": "FN0705001",
+        "mdPokemonImage": "PI0705001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_705_001",
+        "gtsForm": "FG0705001",
+        "isViewGTS": 1
+    },
+    {
         "id": "FN0706000",
         "mdPokemonImage": "PI0706000",
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_706_000",
         "gtsForm": "FG0706000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0706001",
+        "mdPokemonImage": "PI0706001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_706_001",
+        "gtsForm": "FG0706001",
         "isViewGTS": 1
     },
     {
@@ -8989,6 +9178,24 @@
         "ms": "zkn_form:ZKN_FORM_713_000",
         "gtsForm": "FG0713000",
         "isViewGTS": 1
+    },
+    {
+        "id": "FN0713001",
+        "mdPokemonImage": "PI0713001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_713_001",
+        "gtsForm": "FG0713001",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0713002",
+        "mdPokemonImage": "PI0713002",
+        "variationNum": 0,
+        "formNo": 2,
+        "ms": "zkn_form:ZKN_FORM_713_002",
+        "gtsForm": "FG0713002",
+        "isViewGTS": 0
     },
     {
         "id": "FN0714000",
@@ -9150,6 +9357,15 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_724_000",
         "gtsForm": "FG0724000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0724001",
+        "mdPokemonImage": "PI0724001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_724_001",
+        "gtsForm": "FG0724001",
         "isViewGTS": 1
     },
     {
@@ -11581,5 +11797,95 @@
         "ms": "zkn_form:ZKN_FORM_898_002",
         "gtsForm": "FG0898002",
         "isViewGTS": 0
+    },
+    {
+        "id": "FN0899000",
+        "mdPokemonImage": "PI0899000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_899_000",
+        "gtsForm": "FG0899000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0900000",
+        "mdPokemonImage": "PI0900000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_900_000",
+        "gtsForm": "FG0900000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0900001",
+        "mdPokemonImage": "PI0900001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_900_001",
+        "gtsForm": "FG0900001",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN0901000",
+        "mdPokemonImage": "PI0901000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_901_000",
+        "gtsForm": "FG0901000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0902000",
+        "mdPokemonImage": "PI0902000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_902_000",
+        "gtsForm": "FG0902000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0902001",
+        "mdPokemonImage": "PI0902001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_902_001",
+        "gtsForm": "FG0902001",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0903000",
+        "mdPokemonImage": "PI0903000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_903_000",
+        "gtsForm": "FG0903000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0904000",
+        "mdPokemonImage": "PI0904000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_904_000",
+        "gtsForm": "FG0904000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0905000",
+        "mdPokemonImage": "PI0905000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_905_000",
+        "gtsForm": "FG0905000",
+        "isViewGTS": 1
+    },
+    {
+        "id": "FN0905001",
+        "mdPokemonImage": "PI0905001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_905_001",
+        "gtsForm": "FG0905001",
+        "isViewGTS": 1
     }
 ]

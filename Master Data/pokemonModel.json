@@ -2329,7 +2329,32 @@
         "accentAnimNameBank": [
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 41,
+        "viewCenterYFix": 31,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM00580010",
+        "model": "pm0058_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.9375",
+        "scale2Fix": 90,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 80,
+        "trdDemoPosRatioFix": 115,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 21,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -2354,7 +2379,32 @@
             "ba02_roar01",
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 101,
+        "viewCenterYFix": 91,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM00590010",
+        "model": "pm0059_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.526315789",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 200,
+        "trdDemoPosRatioFix": 150,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 85,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -3831,6 +3881,31 @@
         "viewAngleMin": -45
     },
     {
+        "id": "PM01000015",
+        "model": "pm0100_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "1.1",
+        "scale2Fix": 92,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 50,
+        "trdDemoPosRatioFix": 125,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 27,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
         "id": "PM01010005",
         "model": "pm0101_00_00_prefab",
         "variation": "00_00",
@@ -3850,6 +3925,31 @@
         "accentAnimNameBank": [
             "ba02_roar01",
             "ba20_buturi01"
+        ],
+        "viewCenterYFix": 61,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM01010015",
+        "model": "pm0101_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.625",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 120,
+        "trdDemoPosRatioFix": 150,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
         ],
         "viewCenterYFix": 61,
         "viewAngleMax": 45,
@@ -5793,6 +5893,31 @@
             "ba21_tokusyu01"
         ],
         "viewCenterYFix": 88,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM01570010",
+        "model": "pm0157_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.64516129",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 160,
+        "trdDemoPosRatioFix": 150,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 78,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -8186,6 +8311,31 @@
         "viewAngleMin": -45
     },
     {
+        "id": "PM02110010",
+        "model": "pm0211_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "1.1",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            0,
+            0
+        ],
+        "modelHeightFix": 50,
+        "trdDemoPosRatioFix": 250,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 42,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
         "id": "PM02120001",
         "model": "pm0212_00_00_prefab",
         "variation": "00_00",
@@ -8381,7 +8531,7 @@
             "ba02_roar01",
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 52,
+        "viewCenterYFix": 25,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -8406,7 +8556,57 @@
             "ba02_roar01",
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 49,
+        "viewCenterYFix": 25,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM02150011",
+        "model": "pm0215_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.9375",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 90,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 22,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM02150012",
+        "model": "pm0215_00_41_prefab",
+        "variation": "01_41",
+        "scale1Str": "0.9375",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 90,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 22,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -17665,6 +17865,31 @@
         "viewAngleMin": -45
     },
     {
+        "id": "PM04830015",
+        "model": "pm0483_12_00_prefab",
+        "variation": "12_00",
+        "scale1Str": "0.213618158",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 700,
+        "trdDemoPosRatioFix": 150,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 377,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
         "id": "PM04840005",
         "model": "pm0484_00_00_prefab",
         "variation": "00_00",
@@ -17686,6 +17911,31 @@
             "ba20_buturi01"
         ],
         "viewCenterYFix": 207,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM04840015",
+        "model": "pm0484_12_00_prefab",
+        "variation": "12_00",
+        "scale1Str": "0.238450075",
+        "scale2Fix": 90,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 630,
+        "trdDemoPosRatioFix": 150,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 311,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -18387,6 +18637,31 @@
         "viewAngleMin": -45
     },
     {
+        "id": "PM04930185",
+        "model": "pm0493_11_00_prefab",
+        "variation": "29_00",
+        "scale1Str": "0.363636364",
+        "scale2Fix": 87,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 320,
+        "trdDemoPosRatioFix": 165,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 161,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
         "id": "PM04940005",
         "model": "pm0494_00_00_prefab",
         "variation": "00_00",
@@ -18632,6 +18907,31 @@
             "ba20_buturi01"
         ],
         "viewCenterYFix": 59,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM05030010",
+        "model": "pm0503_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.625",
+        "scale2Fix": 110,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 150,
+        "trdDemoPosRatioFix": 130,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 39,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -19828,7 +20128,32 @@
             "ba02_roar01",
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 70,
+        "viewCenterYFix": 51,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM05490014",
+        "model": "pm0549_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.625",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 120,
+        "trdDemoPosRatioFix": 135,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 56,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -19879,6 +20204,31 @@
             "ba20_buturi01"
         ],
         "viewCenterYFix": 61,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM05500020",
+        "model": "pm0550_13_41_prefab",
+        "variation": "13_41",
+        "scale1Str": "1.071428571",
+        "scale2Fix": 75,
+        "posOffsetFix": [
+            0,
+            0,
+            0
+        ],
+        "modelHeightFix": 100,
+        "trdDemoPosRatioFix": 130,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 51,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -20276,7 +20626,7 @@
         ],
         "accentAnimNameBank": [
             "ba02_roar01",
-            "ba20_buturi01"
+            "ba21_tokusyu01"
         ],
         "viewCenterYFix": 31,
         "viewAngleMax": 45,
@@ -20508,6 +20858,31 @@
         "viewAngleMin": -45
     },
     {
+        "id": "PM05700010",
+        "model": "pm0570_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "1.071428571",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 70,
+        "trdDemoPosRatioFix": 120,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 20,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
         "id": "PM05710000",
         "model": "pm0571_00_00_prefab",
         "variation": "00_00",
@@ -20528,7 +20903,32 @@
             "ba02_roar01",
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 115,
+        "viewCenterYFix": 55,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM05710010",
+        "model": "pm0571_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.763358779",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 160,
+        "trdDemoPosRatioFix": 110,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 60,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -22170,7 +22570,32 @@
             "ba02_roar01",
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 243,
+        "viewCenterYFix": 203,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM06280013",
+        "model": "pm0628_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.431654676",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            0,
+            0
+        ],
+        "modelHeightFix": 170,
+        "trdDemoPosRatioFix": 380,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 165,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -25484,7 +25909,32 @@
             "ba02_roar01",
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 69,
+        "viewCenterYFix": 39,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM07050010",
+        "model": "pm0705_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.6",
+        "scale2Fix": 115,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 70,
+        "trdDemoPosRatioFix": 200,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 24,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -25508,6 +25958,31 @@
         "accentAnimNameBank": [
             "ba02_roar01",
             "ba20_buturi01"
+        ],
+        "viewCenterYFix": 101,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM07060010",
+        "model": "pm0706_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.465116279",
+        "scale2Fix": 115,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 170,
+        "trdDemoPosRatioFix": 150,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
         ],
         "viewCenterYFix": 111,
         "viewAngleMax": 45,
@@ -25834,6 +26309,31 @@
             "ba20_buturi01"
         ],
         "viewCenterYFix": 171,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM07130010",
+        "model": "pm0713_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.283687943",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 140,
+        "trdDemoPosRatioFix": 280,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 105,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -26281,6 +26781,31 @@
         "accentAnimNameBank": [
             "ba02_roar01",
             "ba20_buturi01"
+        ],
+        "viewCenterYFix": 86,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM07240010",
+        "model": "pm0724_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.625",
+        "scale2Fix": 95,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 160,
+        "trdDemoPosRatioFix": 130,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
         ],
         "viewCenterYFix": 86,
         "viewAngleMax": 45,
@@ -33569,6 +34094,231 @@
             "ba20_buturi01"
         ],
         "viewCenterYFix": 92,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM08990000",
+        "model": "pm0899_00_00_prefab",
+        "variation": "00_00",
+        "scale1Str": "0.584795322",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 180,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 62,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM09000000",
+        "model": "pm0900_00_00_prefab",
+        "variation": "00_00",
+        "scale1Str": "0.571428571",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 180,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 80,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM09010000",
+        "model": "pm0901_00_00_prefab",
+        "variation": "00_00",
+        "scale1Str": "0.553633218",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 240,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 82,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM09020003",
+        "model": "pm0902_11_41_prefab",
+        "variation": "11_41",
+        "scale1Str": "0.699300699",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 300,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 92,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM09020014",
+        "model": "pm0902_12_41_prefab",
+        "variation": "12_41",
+        "scale1Str": "0.699300699",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 300,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 92,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM09030000",
+        "model": "pm0903_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.806451613",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 130,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 50,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM09040000",
+        "model": "pm0904_00_41_prefab",
+        "variation": "00_41",
+        "scale1Str": "0.416666667",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 250,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 165,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM09050004",
+        "model": "pm0905_11_00_prefab",
+        "variation": "11_00",
+        "scale1Str": "0.625",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 160,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 82,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM09050014",
+        "model": "pm0905_12_00_prefab",
+        "variation": "12_00",
+        "scale1Str": "0.625",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 160,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba21_tokusyu01"
+        ],
+        "accentAnimNameBank": [
+            "ba20_buturi01",
+            "ba21_tokusyu01"
+        ],
+        "viewCenterYFix": 42,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     }

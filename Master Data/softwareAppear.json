@@ -6,7 +6,8 @@
             "SF024",
             "SF025"
         ],
-        "appearTarget": 0
+        "appearTarget": 0,
+        "appearTargetSort": 0
     },
     {
         "id": "TT001",
@@ -15,7 +16,8 @@
             "SF026",
             "SF027"
         ],
-        "appearTarget": 0
+        "appearTarget": 0,
+        "appearTargetSort": 0
     },
     {
         "id": "TT002",
@@ -24,7 +26,8 @@
             "SF030",
             "SF031"
         ],
-        "appearTarget": 0
+        "appearTarget": 0,
+        "appearTargetSort": 0
     },
     {
         "id": "TT003",
@@ -33,7 +36,8 @@
             "SF032",
             "SF033"
         ],
-        "appearTarget": 0
+        "appearTarget": 0,
+        "appearTargetSort": 0
     },
     {
         "id": "TT004",
@@ -42,7 +46,8 @@
             "SF042",
             "SF043"
         ],
-        "appearTarget": 1
+        "appearTarget": 1,
+        "appearTargetSort": 4
     },
     {
         "id": "TT005",
@@ -51,6 +56,26 @@
             "SF044",
             "SF045"
         ],
-        "appearTarget": 1
+        "appearTarget": 1,
+        "appearTargetSort": 3
+    },
+    {
+        "id": "TT006",
+        "ms": "",
+        "mdSoftwares": [
+            "SF048",
+            "SF049"
+        ],
+        "appearTarget": 1,
+        "appearTargetSort": 2
+    },
+    {
+        "id": "TT007",
+        "ms": "",
+        "mdSoftwares": [
+            "SF047"
+        ],
+        "appearTarget": 1,
+        "appearTargetSort": 1
     }
 ]

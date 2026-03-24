@@ -40,5 +40,17 @@
         "no": 6,
         "ms": "",
         "image": "bnk_mark_region_go"
+    },
+    {
+        "id": "BP008",
+        "no": 7,
+        "ms": "",
+        "image": "bnk_mark_region_BDSP"
+    },
+    {
+        "id": "BP009",
+        "no": 8,
+        "ms": "",
+        "image": "bnk_mark_region_LA"
     }
 ]

@@ -1,0 +1,1592 @@
+[
+    {
+        "dictionaryId": 25,
+        "formNo": 0,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 26,
+        "formNo": 0,
+        "oybnScale": 210
+    },
+    {
+        "dictionaryId": 35,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 36,
+        "formNo": 0,
+        "oybnScale": 130
+    },
+    {
+        "dictionaryId": 37,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 37,
+        "formNo": 1,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 38,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 38,
+        "formNo": 1,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 41,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 42,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 46,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 47,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 54,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 55,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 58,
+        "formNo": 1,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 59,
+        "formNo": 1,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 59,
+        "formNo": 2,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 63,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 64,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 65,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 66,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 67,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 68,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 72,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 73,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 74,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 75,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 76,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 77,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 78,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 81,
+        "formNo": 0,
+        "oybnScale": 244
+    },
+    {
+        "dictionaryId": 82,
+        "formNo": 0,
+        "oybnScale": 225
+    },
+    {
+        "dictionaryId": 92,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 93,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 94,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 95,
+        "formNo": 0,
+        "oybnScale": 110
+    },
+    {
+        "dictionaryId": 100,
+        "formNo": 1,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 101,
+        "formNo": 1,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 101,
+        "formNo": 2,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 108,
+        "formNo": 0,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 111,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 112,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 113,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 114,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 122,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 123,
+        "formNo": 0,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 125,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 126,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 129,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 130,
+        "formNo": 0,
+        "oybnScale": 108
+    },
+    {
+        "dictionaryId": 133,
+        "formNo": 0,
+        "oybnScale": 270
+    },
+    {
+        "dictionaryId": 134,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 135,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 136,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 137,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 143,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 155,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 156,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 157,
+        "formNo": 1,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 169,
+        "formNo": 0,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 172,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 173,
+        "formNo": 0,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 175,
+        "formNo": 0,
+        "oybnScale": 280
+    },
+    {
+        "dictionaryId": 176,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 185,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 190,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 193,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 196,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 197,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 198,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 200,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 1,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 2,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 3,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 4,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 5,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 6,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 7,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 8,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 9,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 10,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 11,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 12,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 13,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 14,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 15,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 16,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 17,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 18,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 19,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 20,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 21,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 22,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 23,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 24,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 25,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 26,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 201,
+        "formNo": 27,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 207,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 208,
+        "formNo": 0,
+        "oybnScale": 98
+    },
+    {
+        "dictionaryId": 211,
+        "formNo": 1,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 212,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 214,
+        "formNo": 0,
+        "oybnScale": 210
+    },
+    {
+        "dictionaryId": 215,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 215,
+        "formNo": 1,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 216,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 217,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 220,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 221,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 223,
+        "formNo": 0,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 224,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 226,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 233,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 234,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 239,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 240,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 242,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 265,
+        "formNo": 0,
+        "oybnScale": 440
+    },
+    {
+        "dictionaryId": 266,
+        "formNo": 0,
+        "oybnScale": 270
+    },
+    {
+        "dictionaryId": 267,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 268,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 269,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 280,
+        "formNo": 0,
+        "oybnScale": 260
+    },
+    {
+        "dictionaryId": 281,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 282,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 299,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 315,
+        "formNo": 0,
+        "oybnScale": 450
+    },
+    {
+        "dictionaryId": 339,
+        "formNo": 0,
+        "oybnScale": 350
+    },
+    {
+        "dictionaryId": 340,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 355,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 356,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 358,
+        "formNo": 0,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 361,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 362,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 363,
+        "formNo": 0,
+        "oybnScale": 135
+    },
+    {
+        "dictionaryId": 364,
+        "formNo": 0,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 365,
+        "formNo": 0,
+        "oybnScale": 155
+    },
+    {
+        "dictionaryId": 387,
+        "formNo": 0,
+        "oybnScale": 280
+    },
+    {
+        "dictionaryId": 388,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 389,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 390,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 391,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 392,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 393,
+        "formNo": 0,
+        "oybnScale": 280
+    },
+    {
+        "dictionaryId": 394,
+        "formNo": 0,
+        "oybnScale": 210
+    },
+    {
+        "dictionaryId": 395,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 396,
+        "formNo": 0,
+        "oybnScale": 340
+    },
+    {
+        "dictionaryId": 397,
+        "formNo": 0,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 398,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 399,
+        "formNo": 0,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 400,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 401,
+        "formNo": 0,
+        "oybnScale": 350
+    },
+    {
+        "dictionaryId": 402,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 403,
+        "formNo": 0,
+        "oybnScale": 240
+    },
+    {
+        "dictionaryId": 404,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 405,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 406,
+        "formNo": 0,
+        "oybnScale": 480
+    },
+    {
+        "dictionaryId": 407,
+        "formNo": 0,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 408,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 409,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 410,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 411,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 412,
+        "formNo": 0,
+        "oybnScale": 500
+    },
+    {
+        "dictionaryId": 412,
+        "formNo": 1,
+        "oybnScale": 500
+    },
+    {
+        "dictionaryId": 412,
+        "formNo": 2,
+        "oybnScale": 500
+    },
+    {
+        "dictionaryId": 413,
+        "formNo": 0,
+        "oybnScale": 350
+    },
+    {
+        "dictionaryId": 413,
+        "formNo": 1,
+        "oybnScale": 350
+    },
+    {
+        "dictionaryId": 413,
+        "formNo": 2,
+        "oybnScale": 350
+    },
+    {
+        "dictionaryId": 414,
+        "formNo": 0,
+        "oybnScale": 210
+    },
+    {
+        "dictionaryId": 414,
+        "formNo": 1,
+        "oybnScale": 210
+    },
+    {
+        "dictionaryId": 414,
+        "formNo": 2,
+        "oybnScale": 210
+    },
+    {
+        "dictionaryId": 415,
+        "formNo": 0,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 416,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 417,
+        "formNo": 0,
+        "oybnScale": 280
+    },
+    {
+        "dictionaryId": 418,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 419,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 420,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 421,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 421,
+        "formNo": 1,
+        "oybnScale": 240
+    },
+    {
+        "dictionaryId": 422,
+        "formNo": 0,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 422,
+        "formNo": 1,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 423,
+        "formNo": 0,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 423,
+        "formNo": 1,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 424,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 425,
+        "formNo": 0,
+        "oybnScale": 280
+    },
+    {
+        "dictionaryId": 426,
+        "formNo": 0,
+        "oybnScale": 240
+    },
+    {
+        "dictionaryId": 427,
+        "formNo": 0,
+        "oybnScale": 280
+    },
+    {
+        "dictionaryId": 428,
+        "formNo": 0,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 429,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 430,
+        "formNo": 0,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 431,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 432,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 433,
+        "formNo": 0,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 434,
+        "formNo": 0,
+        "oybnScale": 240
+    },
+    {
+        "dictionaryId": 435,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 436,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 437,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 438,
+        "formNo": 0,
+        "oybnScale": 220
+    },
+    {
+        "dictionaryId": 439,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 440,
+        "formNo": 0,
+        "oybnScale": 210
+    },
+    {
+        "dictionaryId": 441,
+        "formNo": 0,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 442,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 443,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 444,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 445,
+        "formNo": 0,
+        "oybnScale": 155
+    },
+    {
+        "dictionaryId": 446,
+        "formNo": 0,
+        "oybnScale": 240
+    },
+    {
+        "dictionaryId": 447,
+        "formNo": 0,
+        "oybnScale": 189
+    },
+    {
+        "dictionaryId": 448,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 449,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 450,
+        "formNo": 0,
+        "oybnScale": 120
+    },
+    {
+        "dictionaryId": 451,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 452,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 453,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 454,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 455,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 456,
+        "formNo": 0,
+        "oybnScale": 320
+    },
+    {
+        "dictionaryId": 457,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 458,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 459,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 460,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 461,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 462,
+        "formNo": 0,
+        "oybnScale": 130
+    },
+    {
+        "dictionaryId": 463,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 464,
+        "formNo": 0,
+        "oybnScale": 115
+    },
+    {
+        "dictionaryId": 465,
+        "formNo": 0,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 466,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 467,
+        "formNo": 0,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 468,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 469,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 470,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 471,
+        "formNo": 0,
+        "oybnScale": 190
+    },
+    {
+        "dictionaryId": 472,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 473,
+        "formNo": 0,
+        "oybnScale": 120
+    },
+    {
+        "dictionaryId": 474,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 475,
+        "formNo": 0,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 476,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 477,
+        "formNo": 0,
+        "oybnScale": 150
+    },
+    {
+        "dictionaryId": 478,
+        "formNo": 0,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 479,
+        "formNo": 0,
+        "oybnScale": 370
+    },
+    {
+        "dictionaryId": 479,
+        "formNo": 1,
+        "oybnScale": 370
+    },
+    {
+        "dictionaryId": 479,
+        "formNo": 2,
+        "oybnScale": 370
+    },
+    {
+        "dictionaryId": 479,
+        "formNo": 3,
+        "oybnScale": 370
+    },
+    {
+        "dictionaryId": 479,
+        "formNo": 4,
+        "oybnScale": 400
+    },
+    {
+        "dictionaryId": 479,
+        "formNo": 5,
+        "oybnScale": 340
+    },
+    {
+        "dictionaryId": 480,
+        "formNo": 0,
+        "oybnScale": 204
+    },
+    {
+        "dictionaryId": 481,
+        "formNo": 0,
+        "oybnScale": 204
+    },
+    {
+        "dictionaryId": 482,
+        "formNo": 0,
+        "oybnScale": 204
+    },
+    {
+        "dictionaryId": 483,
+        "formNo": 0,
+        "oybnScale": 75
+    },
+    {
+        "dictionaryId": 483,
+        "formNo": 1,
+        "oybnScale": 70
+    },
+    {
+        "dictionaryId": 484,
+        "formNo": 0,
+        "oybnScale": 85
+    },
+    {
+        "dictionaryId": 484,
+        "formNo": 1,
+        "oybnScale": 70
+    },
+    {
+        "dictionaryId": 485,
+        "formNo": 0,
+        "oybnScale": 85
+    },
+    {
+        "dictionaryId": 486,
+        "formNo": 0,
+        "oybnScale": 90
+    },
+    {
+        "dictionaryId": 487,
+        "formNo": 0,
+        "oybnScale": 80
+    },
+    {
+        "dictionaryId": 487,
+        "formNo": 1,
+        "oybnScale": 90
+    },
+    {
+        "dictionaryId": 488,
+        "formNo": 0,
+        "oybnScale": 100
+    },
+    {
+        "dictionaryId": 489,
+        "formNo": 0,
+        "oybnScale": 158
+    },
+    {
+        "dictionaryId": 490,
+        "formNo": 0,
+        "oybnScale": 132
+    },
+    {
+        "dictionaryId": 491,
+        "formNo": 0,
+        "oybnScale": 115
+    },
+    {
+        "dictionaryId": 492,
+        "formNo": 0,
+        "oybnScale": 187
+    },
+    {
+        "dictionaryId": 492,
+        "formNo": 1,
+        "oybnScale": 187
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 0,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 1,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 2,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 3,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 4,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 5,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 6,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 7,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 8,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 9,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 10,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 11,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 12,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 13,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 14,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 15,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 16,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 17,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 493,
+        "formNo": 18,
+        "oybnScale": 95
+    },
+    {
+        "dictionaryId": 501,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 502,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 503,
+        "formNo": 1,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 548,
+        "formNo": 0,
+        "oybnScale": 250
+    },
+    {
+        "dictionaryId": 549,
+        "formNo": 1,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 549,
+        "formNo": 2,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 550,
+        "formNo": 2,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 570,
+        "formNo": 1,
+        "oybnScale": 180
+    },
+    {
+        "dictionaryId": 571,
+        "formNo": 1,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 627,
+        "formNo": 0,
+        "oybnScale": 240
+    },
+    {
+        "dictionaryId": 628,
+        "formNo": 1,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 641,
+        "formNo": 0,
+        "oybnScale": 130
+    },
+    {
+        "dictionaryId": 641,
+        "formNo": 1,
+        "oybnScale": 130
+    },
+    {
+        "dictionaryId": 642,
+        "formNo": 0,
+        "oybnScale": 130
+    },
+    {
+        "dictionaryId": 642,
+        "formNo": 1,
+        "oybnScale": 130
+    },
+    {
+        "dictionaryId": 645,
+        "formNo": 0,
+        "oybnScale": 130
+    },
+    {
+        "dictionaryId": 645,
+        "formNo": 1,
+        "oybnScale": 130
+    },
+    {
+        "dictionaryId": 700,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 704,
+        "formNo": 0,
+        "oybnScale": 270
+    },
+    {
+        "dictionaryId": 705,
+        "formNo": 1,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 706,
+        "formNo": 1,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 712,
+        "formNo": 0,
+        "oybnScale": 170
+    },
+    {
+        "dictionaryId": 713,
+        "formNo": 1,
+        "oybnScale": 100
+    },
+    {
+        "dictionaryId": 713,
+        "formNo": 2,
+        "oybnScale": 800
+    },
+    {
+        "dictionaryId": 722,
+        "formNo": 0,
+        "oybnScale": 300
+    },
+    {
+        "dictionaryId": 723,
+        "formNo": 0,
+        "oybnScale": 230
+    },
+    {
+        "dictionaryId": 724,
+        "formNo": 1,
+        "oybnScale": 160
+    },
+    {
+        "dictionaryId": 899,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 900,
+        "formNo": 0,
+        "oybnScale": 132
+    },
+    {
+        "dictionaryId": 900,
+        "formNo": 1,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 901,
+        "formNo": 0,
+        "oybnScale": 136
+    },
+    {
+        "dictionaryId": 902,
+        "formNo": 0,
+        "oybnScale": 120
+    },
+    {
+        "dictionaryId": 902,
+        "formNo": 1,
+        "oybnScale": 120
+    },
+    {
+        "dictionaryId": 903,
+        "formNo": 0,
+        "oybnScale": 200
+    },
+    {
+        "dictionaryId": 904,
+        "formNo": 0,
+        "oybnScale": 140
+    },
+    {
+        "dictionaryId": 905,
+        "formNo": 0,
+        "oybnScale": 120
+    },
+    {
+        "dictionaryId": 905,
+        "formNo": 1,
+        "oybnScale": 130
+    }
+]

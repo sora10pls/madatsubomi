@@ -1,7 +1,6 @@
 [
     {
         "id": "RB000",
-        "name": "\u30AB\u30ED\u30B9\u3000\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_05",
         "image_b": "",
         "order": 9,
@@ -12,7 +11,6 @@
     },
     {
         "id": "RB001",
-        "name": "\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_03",
         "image_b": "",
         "order": 10,
@@ -23,7 +21,6 @@
     },
     {
         "id": "RB002",
-        "name": "\u30B7\u30F3\u30AA\u30A6\u3000\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_04",
         "image_b": "",
         "order": 11,
@@ -34,7 +31,6 @@
     },
     {
         "id": "RB003",
-        "name": "\u306A\u304B\u3088\u3057\u30EA\u30DC\u30F3",
         "image_a": "ribbon_06",
         "image_b": "",
         "order": 18,
@@ -45,7 +41,6 @@
     },
     {
         "id": "RB004",
-        "name": "\u3057\u3085\u304E\u3087\u3046\u30EA\u30DC\u30F3",
         "image_a": "ribbon_07",
         "image_b": "",
         "order": 19,
@@ -56,7 +51,6 @@
     },
     {
         "id": "RB005",
-        "name": "\u30B0\u30EC\u30FC\u30C8\u30D0\u30C8\u30EB\u30EA\u30DC\u30F3",
         "image_a": "ribbon_08",
         "image_b": "",
         "order": 20,
@@ -67,7 +61,6 @@
     },
     {
         "id": "RB006",
-        "name": "\u30DE\u30B9\u30BF\u30FC\u30D0\u30C8\u30EB\u30EA\u30DC\u30F3",
         "image_a": "ribbon_09",
         "image_b": "",
         "order": 21,
@@ -78,7 +71,6 @@
     },
     {
         "id": "RB007",
-        "name": "\u304C\u3093\u3070\u30EA\u30DC\u30F3",
         "image_a": "ribbon_11",
         "image_b": "",
         "order": 22,
@@ -89,7 +81,6 @@
     },
     {
         "id": "RB008",
-        "name": "\u3057\u3083\u3063\u304D\u30EA\u30DC\u30F3",
         "image_a": "ribbon_12",
         "image_b": "",
         "order": 23,
@@ -100,7 +91,6 @@
     },
     {
         "id": "RB009",
-        "name": "\u3069\u3063\u304D\u30EA\u30DC\u30F3",
         "image_a": "ribbon_13",
         "image_b": "",
         "order": 24,
@@ -111,7 +101,6 @@
     },
     {
         "id": "RB010",
-        "name": "\u3057\u3087\u3093\u307C\u30EA\u30DC\u30F3",
         "image_a": "ribbon_14",
         "image_b": "",
         "order": 25,
@@ -122,7 +111,6 @@
     },
     {
         "id": "RB011",
-        "name": "\u3046\u3063\u304B\u30EA\u30DC\u30F3",
         "image_a": "ribbon_15",
         "image_b": "",
         "order": 26,
@@ -133,7 +121,6 @@
     },
     {
         "id": "RB012",
-        "name": "\u3059\u3063\u304D\u30EA\u30DC\u30F3",
         "image_a": "ribbon_16",
         "image_b": "",
         "order": 27,
@@ -144,7 +131,6 @@
     },
     {
         "id": "RB013",
-        "name": "\u3050\u3063\u3059\u30EA\u30DC\u30F3",
         "image_a": "ribbon_17",
         "image_b": "",
         "order": 28,
@@ -155,7 +141,6 @@
     },
     {
         "id": "RB014",
-        "name": "\u306B\u3063\u3053\u30EA\u30DC\u30F3",
         "image_a": "ribbon_18",
         "image_b": "",
         "order": 29,
@@ -166,7 +151,6 @@
     },
     {
         "id": "RB015",
-        "name": "\u30B4\u30FC\u30B8\u30E3\u30B9\u30EA\u30DC\u30F3",
         "image_a": "ribbon_19",
         "image_b": "",
         "order": 30,
@@ -177,7 +161,6 @@
     },
     {
         "id": "RB016",
-        "name": "\u30ED\u30A4\u30E4\u30EB\u30EA\u30DC\u30F3",
         "image_a": "ribbon_20",
         "image_b": "",
         "order": 31,
@@ -188,7 +171,6 @@
     },
     {
         "id": "RB017",
-        "name": "\u30B4\u30FC\u30B8\u30E3\u30B9\u30ED\u30A4\u30E4\u30EB\u30EA\u30DC\u30F3",
         "image_a": "ribbon_21",
         "image_b": "",
         "order": 32,
@@ -199,7 +181,6 @@
     },
     {
         "id": "RB018",
-        "name": "\u30D6\u30ED\u30DE\u30A4\u30C9\u30EA\u30DC\u30F3",
         "image_a": "ribbon_10",
         "image_b": "",
         "order": 33,
@@ -210,7 +191,6 @@
     },
     {
         "id": "RB019",
-        "name": "\u3042\u3057\u3042\u3068\u30EA\u30DC\u30F3",
         "image_a": "ribbon_22",
         "image_b": "",
         "order": 34,
@@ -221,7 +201,6 @@
     },
     {
         "id": "RB020",
-        "name": "\u30EC\u30B3\u30FC\u30C9\u30EA\u30DC\u30F3",
         "image_a": "ribbon_23",
         "image_b": "",
         "order": 35,
@@ -232,7 +211,6 @@
     },
     {
         "id": "RB021",
-        "name": "\u30EC\u30B8\u30A7\u30F3\u30C9\u30EA\u30DC\u30F3",
         "image_a": "ribbon_24",
         "image_b": "",
         "order": 36,
@@ -243,7 +221,6 @@
     },
     {
         "id": "RB022",
-        "name": "\u30AB\u30F3\u30C8\u30EA\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_25",
         "image_b": "",
         "order": 37,
@@ -254,7 +231,6 @@
     },
     {
         "id": "RB023",
-        "name": "\u30CA\u30B7\u30E7\u30CA\u30EB\u30EA\u30DC\u30F3",
         "image_a": "ribbon_26",
         "image_b": "",
         "order": 38,
@@ -265,7 +241,6 @@
     },
     {
         "id": "RB024",
-        "name": "\u30A2\u30FC\u30B9\u30EA\u30DC\u30F3",
         "image_a": "ribbon_27",
         "image_b": "",
         "order": 39,
@@ -276,7 +251,6 @@
     },
     {
         "id": "RB025",
-        "name": "\u30EF\u30FC\u30EB\u30C9\u30EA\u30DC\u30F3",
         "image_a": "ribbon_28",
         "image_b": "",
         "order": 40,
@@ -287,7 +261,6 @@
     },
     {
         "id": "RB026",
-        "name": "\u30AF\u30E9\u30B7\u30C3\u30AF\u30EA\u30DC\u30F3",
         "image_a": "ribbon_29",
         "image_b": "",
         "order": 41,
@@ -298,7 +271,6 @@
     },
     {
         "id": "RB027",
-        "name": "\u30D7\u30EC\u30DF\u30A2\u30EA\u30DC\u30F3",
         "image_a": "ribbon_30",
         "image_b": "",
         "order": 42,
@@ -309,7 +281,6 @@
     },
     {
         "id": "RB028",
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30EA\u30DC\u30F3",
         "image_a": "ribbon_31",
         "image_b": "",
         "order": 43,
@@ -320,7 +291,6 @@
     },
     {
         "id": "RB029",
-        "name": "\u30D0\u30FC\u30B9\u30C7\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_32",
         "image_b": "",
         "order": 44,
@@ -331,7 +301,6 @@
     },
     {
         "id": "RB030",
-        "name": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30EA\u30DC\u30F3",
         "image_a": "ribbon_33",
         "image_b": "",
         "order": 45,
@@ -342,7 +311,6 @@
     },
     {
         "id": "RB031",
-        "name": "\u30E1\u30E2\u30EA\u30A2\u30EB\u30EA\u30DC\u30F3",
         "image_a": "ribbon_34",
         "image_b": "",
         "order": 46,
@@ -353,7 +321,6 @@
     },
     {
         "id": "RB032",
-        "name": "\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30DC\u30F3",
         "image_a": "ribbon_35",
         "image_b": "",
         "order": 47,
@@ -364,7 +331,6 @@
     },
     {
         "id": "RB033",
-        "name": "\u30D0\u30C8\u30EB\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_36",
         "image_b": "",
         "order": 48,
@@ -375,7 +341,6 @@
     },
     {
         "id": "RB034",
-        "name": "\u30A8\u30EA\u30A2\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_37",
         "image_b": "",
         "order": 49,
@@ -386,7 +351,6 @@
     },
     {
         "id": "RB035",
-        "name": "\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_38",
         "image_b": "",
         "order": 50,
@@ -397,7 +361,6 @@
     },
     {
         "id": "RB036",
-        "name": "\u30EF\u30FC\u30EB\u30C9\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_39",
         "image_b": "",
         "order": 51,
@@ -408,7 +371,6 @@
     },
     {
         "id": "RB037",
-        "name": "\u304A\u3082\u3044\u3067\u30B3\u30F3\u30C6\u30B9\u30C8\u30EA\u30DC\u30F3",
         "image_a": "ribbon_01_a",
         "image_b": "ribbon_01_b",
         "order": 52,
@@ -419,7 +381,6 @@
     },
     {
         "id": "RB038",
-        "name": "\u304A\u3082\u3044\u3067\u30D0\u30C8\u30EB\u30EA\u30DC\u30F3",
         "image_a": "ribbon_02_a",
         "image_b": "ribbon_02_b",
         "order": 53,
@@ -430,7 +391,6 @@
     },
     {
         "id": "RB039",
-        "name": "\u30DB\u30A6\u30A8\u30F3\u3000\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_40",
         "image_b": "",
         "order": 8,
@@ -441,7 +401,6 @@
     },
     {
         "id": "RB040",
-        "name": "\u30B3\u30F3\u30C6\u30B9\u30C8\u30B9\u30BF\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_41",
         "image_b": "",
         "order": 12,
@@ -452,7 +411,6 @@
     },
     {
         "id": "RB041",
-        "name": "\u304B\u3063\u3053\u3088\u3055\u3000\u30DE\u30B9\u30BF\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_42",
         "image_b": "",
         "order": 13,
@@ -463,7 +421,6 @@
     },
     {
         "id": "RB042",
-        "name": "\u3046\u3064\u304F\u3057\u3055\u3000\u30DE\u30B9\u30BF\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_43",
         "image_b": "",
         "order": 14,
@@ -474,7 +431,6 @@
     },
     {
         "id": "RB043",
-        "name": "\u304B\u308F\u3044\u3055\u3000\u30DE\u30B9\u30BF\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_44",
         "image_b": "",
         "order": 15,
@@ -485,7 +441,6 @@
     },
     {
         "id": "RB044",
-        "name": "\u304B\u3057\u3053\u3055\u3000\u30DE\u30B9\u30BF\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_45",
         "image_b": "",
         "order": 16,
@@ -496,7 +451,6 @@
     },
     {
         "id": "RB045",
-        "name": "\u305F\u304F\u307E\u3057\u3055\u3000\u30DE\u30B9\u30BF\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_46",
         "image_b": "",
         "order": 17,
@@ -507,7 +461,6 @@
     },
     {
         "id": "RB046",
-        "name": "\u30A2\u30ED\u30FC\u30E9\u3000\u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_47",
         "image_b": "",
         "order": 4,
@@ -518,7 +471,6 @@
     },
     {
         "id": "RB047",
-        "name": "\u30ED\u30A4\u30E4\u30EB\u30DE\u30B9\u30BF\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_48",
         "image_b": "",
         "order": 5,
@@ -529,7 +481,6 @@
     },
     {
         "id": "RB048",
-        "name": "\u30B0\u30EC\u30FC\u30C8\u30C4\u30EA\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_49",
         "image_b": "",
         "order": 6,
@@ -540,7 +491,6 @@
     },
     {
         "id": "RB049",
-        "name": "\u30DE\u30B9\u30BF\u30FC\u30C4\u30EA\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_50",
         "image_b": "",
         "order": 7,
@@ -551,7 +501,6 @@
     },
     {
         "id": "RB050",
-        "name": "\u30AC\u30E9\u30EB \u30C1\u30E3\u30F3\u30D7\u30EA\u30DC\u30F3",
         "image_a": "ribbon_51",
         "image_b": "",
         "order": 1,
@@ -562,7 +511,6 @@
     },
     {
         "id": "RB051",
-        "name": "\u30DE\u30B9\u30BF\u30FC\u30BF\u30EF\u30FC\u30EA\u30DC\u30F3",
         "image_a": "ribbon_52",
         "image_b": "",
         "order": 2,
@@ -573,7 +521,6 @@
     },
     {
         "id": "RB052",
-        "name": "\u30DE\u30B9\u30BF\u30FC\u30E9\u30F3\u30AF\u30EA\u30DC\u30F3",
         "image_a": "ribbon_53",
         "image_b": "",
         "order": 3,
@@ -584,10 +531,9 @@
     },
     {
         "id": "RB053",
-        "name": "\u3057\u3087\u3046\u3054\u3042\u304B\u3057",
         "image_a": "ribbon_54",
         "image_b": "",
-        "order": 54,
+        "order": 55,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_054",
@@ -595,10 +541,9 @@
     },
     {
         "id": "RB054",
-        "name": "\u3057\u3087\u3046\u3057\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_55",
         "image_b": "",
-        "order": 55,
+        "order": 56,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_055",
@@ -606,10 +551,9 @@
     },
     {
         "id": "RB055",
-        "name": "\u305F\u305D\u304C\u308C\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_56",
         "image_b": "",
-        "order": 56,
+        "order": 57,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_056",
@@ -617,10 +561,9 @@
     },
     {
         "id": "RB056",
-        "name": "\u3042\u304B\u3064\u304D\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_57",
         "image_b": "",
-        "order": 57,
+        "order": 58,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_057",
@@ -628,10 +571,9 @@
     },
     {
         "id": "RB057",
-        "name": "\u3069\u3093\u3066\u3093\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_58",
         "image_b": "",
-        "order": 58,
+        "order": 59,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_058",
@@ -639,10 +581,9 @@
     },
     {
         "id": "RB058",
-        "name": "\u3042\u3081\u3075\u308A\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_59",
         "image_b": "",
-        "order": 59,
+        "order": 60,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_059",
@@ -650,10 +591,9 @@
     },
     {
         "id": "RB059",
-        "name": "\u3044\u304B\u3065\u3061\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_60",
         "image_b": "",
-        "order": 60,
+        "order": 61,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_060",
@@ -661,10 +601,9 @@
     },
     {
         "id": "RB060",
-        "name": "\u3053\u3046\u305B\u3064\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_61",
         "image_b": "",
-        "order": 61,
+        "order": 62,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_061",
@@ -672,10 +611,9 @@
     },
     {
         "id": "RB061",
-        "name": "\u3054\u3046\u305B\u3064\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_62",
         "image_b": "",
-        "order": 62,
+        "order": 63,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_062",
@@ -683,10 +621,9 @@
     },
     {
         "id": "RB062",
-        "name": "\u304B\u3093\u305D\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_63",
         "image_b": "",
-        "order": 63,
+        "order": 64,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_063",
@@ -694,10 +631,9 @@
     },
     {
         "id": "RB063",
-        "name": "\u3055\u3058\u3093\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_64",
         "image_b": "",
-        "order": 64,
+        "order": 65,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_064",
@@ -705,10 +641,9 @@
     },
     {
         "id": "RB064",
-        "name": "\u306E\u3046\u3080\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_65",
         "image_b": "",
-        "order": 65,
+        "order": 66,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_065",
@@ -716,10 +651,9 @@
     },
     {
         "id": "RB065",
-        "name": "\u3046\u3093\u3081\u3044\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_66",
         "image_b": "",
-        "order": 66,
+        "order": 67,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_066",
@@ -727,10 +661,9 @@
     },
     {
         "id": "RB066",
-        "name": "\u3064\u308A\u3042\u3052\u3089\u308C\u305F\u3042\u304B\u3057",
         "image_a": "ribbon_67",
         "image_b": "",
-        "order": 67,
+        "order": 68,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_067",
@@ -738,10 +671,9 @@
     },
     {
         "id": "RB067",
-        "name": "\u30AB\u30EC\u30FC\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_68",
         "image_b": "",
-        "order": 68,
+        "order": 69,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_068",
@@ -749,10 +681,9 @@
     },
     {
         "id": "RB068",
-        "name": "\u3068\u304D\u3069\u304D\u307F\u308B\u3042\u304B\u3057",
         "image_a": "ribbon_69",
         "image_b": "",
-        "order": 69,
+        "order": 70,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_069",
@@ -760,10 +691,9 @@
     },
     {
         "id": "RB069",
-        "name": "\u307F\u305F\u3053\u3068\u306E\u306A\u3044\u3042\u304B\u3057",
         "image_a": "ribbon_70",
         "image_b": "",
-        "order": 70,
+        "order": 71,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_070",
@@ -771,10 +701,9 @@
     },
     {
         "id": "RB070",
-        "name": "\uFF33\u308F\u3093\u3071\u304F\u306A\u3042\u304B\u3057",
         "image_a": "ribbon_71",
         "image_b": "",
-        "order": 71,
+        "order": 72,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_071",
@@ -782,10 +711,9 @@
     },
     {
         "id": "RB071",
-        "name": "\uFF33\u306E\u3046\u3066\u3093\u304D\u306A\u3042\u304B\u3057",
         "image_a": "ribbon_72",
         "image_b": "",
-        "order": 72,
+        "order": 73,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_072",
@@ -793,10 +721,9 @@
     },
     {
         "id": "RB072",
-        "name": "\u304D\u3093\u3061\u3087\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_75",
         "image_b": "",
-        "order": 75,
+        "order": 74,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_075",
@@ -804,10 +731,9 @@
     },
     {
         "id": "RB073",
-        "name": "\u304D\u305F\u3044\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_76",
         "image_b": "",
-        "order": 76,
+        "order": 75,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_076",
@@ -815,10 +741,9 @@
     },
     {
         "id": "RB074",
-        "name": "\u30AB\u30EA\u30B9\u30DE\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_77",
         "image_b": "",
-        "order": 77,
+        "order": 76,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_077",
@@ -826,10 +751,9 @@
     },
     {
         "id": "RB075",
-        "name": "\u308C\u3044\u305B\u3044\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_78",
         "image_b": "",
-        "order": 78,
+        "order": 77,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_078",
@@ -837,10 +761,9 @@
     },
     {
         "id": "RB076",
-        "name": "\u3058\u3087\u3046\u306D\u3064\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_79",
         "image_b": "",
-        "order": 79,
+        "order": 78,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_079",
@@ -848,10 +771,9 @@
     },
     {
         "id": "RB077",
-        "name": "\u3086\u3060\u3093\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_80",
         "image_b": "",
-        "order": 80,
+        "order": 79,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_080",
@@ -859,10 +781,9 @@
     },
     {
         "id": "RB078",
-        "name": "\u305F\u3053\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_81",
         "image_b": "",
-        "order": 81,
+        "order": 80,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_081",
@@ -870,10 +791,9 @@
     },
     {
         "id": "RB079",
-        "name": "\u3075\u3093\u306C\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_82",
         "image_b": "",
-        "order": 82,
+        "order": 81,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_082",
@@ -881,10 +801,9 @@
     },
     {
         "id": "RB080",
-        "name": "\u3073\u3057\u3087\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_83",
         "image_b": "",
-        "order": 83,
+        "order": 82,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_083",
@@ -892,10 +811,9 @@
     },
     {
         "id": "RB081",
-        "name": "\u3072\u305D\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_84",
         "image_b": "",
-        "order": 84,
+        "order": 83,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_084",
@@ -903,10 +821,9 @@
     },
     {
         "id": "RB082",
-        "name": "\u304B\u3044\u3061\u3087\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_85",
         "image_b": "",
-        "order": 85,
+        "order": 84,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_085",
@@ -914,10 +831,9 @@
     },
     {
         "id": "RB083",
-        "name": "\u3052\u304D\u306F\u3064\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_86",
         "image_b": "",
-        "order": 86,
+        "order": 85,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_086",
@@ -925,10 +841,9 @@
     },
     {
         "id": "RB084",
-        "name": "\u308A\u305B\u3044\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_87",
         "image_b": "",
-        "order": 87,
+        "order": 86,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_087",
@@ -936,10 +851,9 @@
     },
     {
         "id": "RB085",
-        "name": "\u307B\u3093\u306E\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_88",
         "image_b": "",
-        "order": 88,
+        "order": 87,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_088",
@@ -947,10 +861,9 @@
     },
     {
         "id": "RB086",
-        "name": "\u3053\u3046\u304B\u3064\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_89",
         "image_b": "",
-        "order": 89,
+        "order": 88,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_089",
@@ -958,10 +871,9 @@
     },
     {
         "id": "RB087",
-        "name": "\u3053\u308F\u3082\u3066\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_90",
         "image_b": "",
-        "order": 90,
+        "order": 89,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_090",
@@ -969,10 +881,9 @@
     },
     {
         "id": "RB088",
-        "name": "\u3084\u3055\u304C\u305F\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_91",
         "image_b": "",
-        "order": 91,
+        "order": 90,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_091",
@@ -980,10 +891,9 @@
     },
     {
         "id": "RB089",
-        "name": "\u3069\u3046\u3088\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_92",
         "image_b": "",
-        "order": 92,
+        "order": 91,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_092",
@@ -991,10 +901,9 @@
     },
     {
         "id": "RB090",
-        "name": "\u3053\u3046\u3088\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_93",
         "image_b": "",
-        "order": 93,
+        "order": 92,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_093",
@@ -1002,10 +911,9 @@
     },
     {
         "id": "RB091",
-        "name": "\u3051\u3093\u305F\u3044\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_94",
         "image_b": "",
-        "order": 94,
+        "order": 93,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_094",
@@ -1013,10 +921,9 @@
     },
     {
         "id": "RB092",
-        "name": "\u3058\u3057\u3093\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_95",
         "image_b": "",
-        "order": 95,
+        "order": 94,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_095",
@@ -1024,10 +931,9 @@
     },
     {
         "id": "RB093",
-        "name": "\u3075\u3057\u3093\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_96",
         "image_b": "",
-        "order": 96,
+        "order": 95,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_096",
@@ -1035,10 +941,9 @@
     },
     {
         "id": "RB094",
-        "name": "\u307C\u304F\u3068\u3064\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_97",
         "image_b": "",
-        "order": 97,
+        "order": 96,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_097",
@@ -1046,10 +951,9 @@
     },
     {
         "id": "RB095",
-        "name": "\u3075\u3058\u3085\u3093\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_98",
         "image_b": "",
-        "order": 98,
+        "order": 97,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_098",
@@ -1057,10 +961,9 @@
     },
     {
         "id": "RB096",
-        "name": "\u3052\u3093\u304D\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_99",
         "image_b": "",
-        "order": 99,
+        "order": 98,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_099",
@@ -1068,13 +971,32 @@
     },
     {
         "id": "RB097",
-        "name": "\u3075\u3061\u3087\u3046\u306E\u3042\u304B\u3057",
         "image_a": "ribbon_100",
         "image_b": "",
-        "order": 100,
+        "order": 99,
         "lumpingIndex": 0,
         "lumpingMax": 0,
         "msname": "ribbon:mes_ribbon_name_100",
         "mstext": "ribbon:mes_ribbon_info_100"
+    },
+    {
+        "id": "RB098",
+        "image_a": "",
+        "image_b": "",
+        "order": -1,
+        "lumpingIndex": 0,
+        "lumpingMax": 0,
+        "msname": "",
+        "mstext": ""
+    },
+    {
+        "id": "RB099",
+        "image_a": "ribbon_101",
+        "image_b": "",
+        "order": 54,
+        "lumpingIndex": 0,
+        "lumpingMax": 0,
+        "msname": "ribbon:mes_ribbon_name_101",
+        "mstext": "ribbon:mes_ribbon_info_101"
     }
 ]

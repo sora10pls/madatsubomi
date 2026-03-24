@@ -68,5 +68,15 @@
         "id": "RG014",
         "no": 14,
         "ms": "place_name_spe:MAPNAME_TOOKUHANARETATOTI"
+    },
+    {
+        "id": "RG015",
+        "no": 15,
+        "ms": "place_name_spe:MAPNAME_HISUI"
+    },
+    {
+        "id": "RG016",
+        "no": 16,
+        "ms": "place_name_spe:MAPNAME_BDSP"
     }
 ]
