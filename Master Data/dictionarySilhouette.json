@@ -5,8 +5,8 @@
         "sizeY": 0,
         "imageName": "",
         "silhouetteColor": "C9C4DBA0",
-        "grayScaleEffectFactor": 1,
-        "grayScaleColorFactor": 1
+        "grayScaleEffectFactor": 100,
+        "grayScaleColorFactor": 100
     },
     {
         "id": "DS002",
@@ -14,8 +14,8 @@
         "sizeY": 0,
         "imageName": "",
         "silhouetteColor": "7D7A8599",
-        "grayScaleEffectFactor": 1,
-        "grayScaleColorFactor": 1
+        "grayScaleEffectFactor": 100,
+        "grayScaleColorFactor": 100
     },
     {
         "id": "DS003",

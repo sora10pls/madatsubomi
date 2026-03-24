@@ -27566,12 +27566,13 @@
         ],
         "modelHeightFix": 300,
         "trdDemoPosRatioFix": 220,
-        "idleAnimName": "fi01_wait01",
+        "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
-            "none"
+            "ba02_roar01"
         ],
         "accentAnimNameBank": [
-            "none"
+            "ba02_roar01",
+            "ba20_buturi01"
         ],
         "viewCenterYFix": 166,
         "viewAngleMax": 45,
