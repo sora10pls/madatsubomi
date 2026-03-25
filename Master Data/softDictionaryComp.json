@@ -1,0 +1,23 @@
+[
+    {
+        "id": "SDC0001",
+        "categoryId": 5,
+        "dicMdNames": [
+            "SW008",
+            "SW009",
+            "SW010"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_001_001",
+            "sp_oak_softdic_comp_001_002",
+            "sp_oak_softdic_comp_001_003",
+            "sp_oak_softdic_comp_001_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
+    }
+]

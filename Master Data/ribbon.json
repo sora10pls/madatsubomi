@@ -11,10 +11,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "001",
-        "msname": "ribbon:mes_ribbon_name_000",
-        "mstext": "ribbon:mes_ribbon_info_000"
+        ]
     },
     {
         "id": "RB001",
@@ -28,10 +25,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "002",
-        "msname": "ribbon:mes_ribbon_name_001",
-        "mstext": "ribbon:mes_ribbon_info_001"
+        ]
     },
     {
         "id": "RB002",
@@ -45,10 +39,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "003",
-        "msname": "ribbon:mes_ribbon_name_002",
-        "mstext": "ribbon:mes_ribbon_info_002"
+        ]
     },
     {
         "id": "RB003",
@@ -62,10 +53,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "004",
-        "msname": "ribbon:mes_ribbon_name_003",
-        "mstext": "ribbon:mes_ribbon_info_003"
+        ]
     },
     {
         "id": "RB004",
@@ -79,10 +67,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "005",
-        "msname": "ribbon:mes_ribbon_name_004",
-        "mstext": "ribbon:mes_ribbon_info_004"
+        ]
     },
     {
         "id": "RB005",
@@ -96,10 +81,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "006",
-        "msname": "ribbon:mes_ribbon_name_005",
-        "mstext": "ribbon:mes_ribbon_info_005"
+        ]
     },
     {
         "id": "RB006",
@@ -113,10 +95,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "007",
-        "msname": "ribbon:mes_ribbon_name_006",
-        "mstext": "ribbon:mes_ribbon_info_006"
+        ]
     },
     {
         "id": "RB007",
@@ -130,10 +109,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "008",
-        "msname": "ribbon:mes_ribbon_name_007",
-        "mstext": "ribbon:mes_ribbon_info_007"
+        ]
     },
     {
         "id": "RB008",
@@ -147,10 +123,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "009",
-        "msname": "ribbon:mes_ribbon_name_008",
-        "mstext": "ribbon:mes_ribbon_info_008"
+        ]
     },
     {
         "id": "RB009",
@@ -164,10 +137,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "010",
-        "msname": "ribbon:mes_ribbon_name_009",
-        "mstext": "ribbon:mes_ribbon_info_009"
+        ]
     },
     {
         "id": "RB010",
@@ -181,10 +151,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "011",
-        "msname": "ribbon:mes_ribbon_name_010",
-        "mstext": "ribbon:mes_ribbon_info_010"
+        ]
     },
     {
         "id": "RB011",
@@ -198,10 +165,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "012",
-        "msname": "ribbon:mes_ribbon_name_011",
-        "mstext": "ribbon:mes_ribbon_info_011"
+        ]
     },
     {
         "id": "RB012",
@@ -215,10 +179,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "013",
-        "msname": "ribbon:mes_ribbon_name_012",
-        "mstext": "ribbon:mes_ribbon_info_012"
+        ]
     },
     {
         "id": "RB013",
@@ -232,10 +193,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "014",
-        "msname": "ribbon:mes_ribbon_name_013",
-        "mstext": "ribbon:mes_ribbon_info_013"
+        ]
     },
     {
         "id": "RB014",
@@ -249,10 +207,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "015",
-        "msname": "ribbon:mes_ribbon_name_014",
-        "mstext": "ribbon:mes_ribbon_info_014"
+        ]
     },
     {
         "id": "RB015",
@@ -266,10 +221,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "016",
-        "msname": "ribbon:mes_ribbon_name_015",
-        "mstext": "ribbon:mes_ribbon_info_015"
+        ]
     },
     {
         "id": "RB016",
@@ -283,10 +235,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "017",
-        "msname": "ribbon:mes_ribbon_name_016",
-        "mstext": "ribbon:mes_ribbon_info_016"
+        ]
     },
     {
         "id": "RB017",
@@ -300,10 +249,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "018",
-        "msname": "ribbon:mes_ribbon_name_017",
-        "mstext": "ribbon:mes_ribbon_info_017"
+        ]
     },
     {
         "id": "RB018",
@@ -317,10 +263,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "019",
-        "msname": "ribbon:mes_ribbon_name_018",
-        "mstext": "ribbon:mes_ribbon_info_018"
+        ]
     },
     {
         "id": "RB019",
@@ -334,10 +277,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "020",
-        "msname": "ribbon:mes_ribbon_name_019",
-        "mstext": "ribbon:mes_ribbon_info_019"
+        ]
     },
     {
         "id": "RB020",
@@ -351,10 +291,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "021",
-        "msname": "ribbon:mes_ribbon_name_020",
-        "mstext": "ribbon:mes_ribbon_info_020"
+        ]
     },
     {
         "id": "RB021",
@@ -368,10 +305,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "022",
-        "msname": "ribbon:mes_ribbon_name_021",
-        "mstext": "ribbon:mes_ribbon_info_021"
+        ]
     },
     {
         "id": "RB022",
@@ -385,10 +319,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "023",
-        "msname": "ribbon:mes_ribbon_name_022",
-        "mstext": "ribbon:mes_ribbon_info_022"
+        ]
     },
     {
         "id": "RB023",
@@ -402,10 +333,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "024",
-        "msname": "ribbon:mes_ribbon_name_023",
-        "mstext": "ribbon:mes_ribbon_info_023"
+        ]
     },
     {
         "id": "RB024",
@@ -419,10 +347,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "025",
-        "msname": "ribbon:mes_ribbon_name_024",
-        "mstext": "ribbon:mes_ribbon_info_024"
+        ]
     },
     {
         "id": "RB025",
@@ -436,10 +361,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "026",
-        "msname": "ribbon:mes_ribbon_name_025",
-        "mstext": "ribbon:mes_ribbon_info_025"
+        ]
     },
     {
         "id": "RB026",
@@ -453,10 +375,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "027",
-        "msname": "ribbon:mes_ribbon_name_026",
-        "mstext": "ribbon:mes_ribbon_info_026"
+        ]
     },
     {
         "id": "RB027",
@@ -470,10 +389,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "028",
-        "msname": "ribbon:mes_ribbon_name_027",
-        "mstext": "ribbon:mes_ribbon_info_027"
+        ]
     },
     {
         "id": "RB028",
@@ -487,10 +403,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "029",
-        "msname": "ribbon:mes_ribbon_name_028",
-        "mstext": "ribbon:mes_ribbon_info_028"
+        ]
     },
     {
         "id": "RB029",
@@ -504,10 +417,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "030",
-        "msname": "ribbon:mes_ribbon_name_029",
-        "mstext": "ribbon:mes_ribbon_info_029"
+        ]
     },
     {
         "id": "RB030",
@@ -521,10 +431,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "031",
-        "msname": "ribbon:mes_ribbon_name_030",
-        "mstext": "ribbon:mes_ribbon_info_030"
+        ]
     },
     {
         "id": "RB031",
@@ -538,10 +445,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "032",
-        "msname": "ribbon:mes_ribbon_name_031",
-        "mstext": "ribbon:mes_ribbon_info_031"
+        ]
     },
     {
         "id": "RB032",
@@ -555,10 +459,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "033",
-        "msname": "ribbon:mes_ribbon_name_032",
-        "mstext": "ribbon:mes_ribbon_info_032"
+        ]
     },
     {
         "id": "RB033",
@@ -572,10 +473,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "034",
-        "msname": "ribbon:mes_ribbon_name_033",
-        "mstext": "ribbon:mes_ribbon_info_033"
+        ]
     },
     {
         "id": "RB034",
@@ -589,10 +487,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "035",
-        "msname": "ribbon:mes_ribbon_name_034",
-        "mstext": "ribbon:mes_ribbon_info_034"
+        ]
     },
     {
         "id": "RB035",
@@ -606,10 +501,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "036",
-        "msname": "ribbon:mes_ribbon_name_035",
-        "mstext": "ribbon:mes_ribbon_info_035"
+        ]
     },
     {
         "id": "RB036",
@@ -623,10 +515,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "037",
-        "msname": "ribbon:mes_ribbon_name_036",
-        "mstext": "ribbon:mes_ribbon_info_036"
+        ]
     },
     {
         "id": "RB037",
@@ -640,10 +529,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "038",
-        "msname": "ribbon:mes_ribbon_name_037",
-        "mstext": "ribbon:mes_ribbon_info_037"
+        ]
     },
     {
         "id": "RB038",
@@ -657,10 +543,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "039",
-        "msname": "ribbon:mes_ribbon_name_038",
-        "mstext": "ribbon:mes_ribbon_info_038"
+        ]
     },
     {
         "id": "RB039",
@@ -674,10 +557,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "040",
-        "msname": "ribbon:mes_ribbon_name_039",
-        "mstext": "ribbon:mes_ribbon_info_039"
+        ]
     },
     {
         "id": "RB040",
@@ -691,10 +571,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "041",
-        "msname": "ribbon:mes_ribbon_name_040",
-        "mstext": "ribbon:mes_ribbon_info_040"
+        ]
     },
     {
         "id": "RB041",
@@ -708,10 +585,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "042",
-        "msname": "ribbon:mes_ribbon_name_041",
-        "mstext": "ribbon:mes_ribbon_info_041"
+        ]
     },
     {
         "id": "RB042",
@@ -725,10 +599,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "043",
-        "msname": "ribbon:mes_ribbon_name_042",
-        "mstext": "ribbon:mes_ribbon_info_042"
+        ]
     },
     {
         "id": "RB043",
@@ -742,10 +613,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "044",
-        "msname": "ribbon:mes_ribbon_name_043",
-        "mstext": "ribbon:mes_ribbon_info_043"
+        ]
     },
     {
         "id": "RB044",
@@ -759,10 +627,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "045",
-        "msname": "ribbon:mes_ribbon_name_044",
-        "mstext": "ribbon:mes_ribbon_info_044"
+        ]
     },
     {
         "id": "RB045",
@@ -776,10 +641,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "046",
-        "msname": "ribbon:mes_ribbon_name_045",
-        "mstext": "ribbon:mes_ribbon_info_045"
+        ]
     },
     {
         "id": "RB046",
@@ -793,10 +655,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "047",
-        "msname": "ribbon:mes_ribbon_name_046",
-        "mstext": "ribbon:mes_ribbon_info_046"
+        ]
     },
     {
         "id": "RB047",
@@ -810,10 +669,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "048",
-        "msname": "ribbon:mes_ribbon_name_047",
-        "mstext": "ribbon:mes_ribbon_info_047"
+        ]
     },
     {
         "id": "RB048",
@@ -827,10 +683,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "049",
-        "msname": "ribbon:mes_ribbon_name_048",
-        "mstext": "ribbon:mes_ribbon_info_048"
+        ]
     },
     {
         "id": "RB049",
@@ -844,10 +697,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "050",
-        "msname": "ribbon:mes_ribbon_name_049",
-        "mstext": "ribbon:mes_ribbon_info_049"
+        ]
     },
     {
         "id": "RB050",
@@ -860,10 +710,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "051",
-        "msname": "ribbon:mes_ribbon_name_050",
-        "mstext": "ribbon:mes_ribbon_info_050"
+        ]
     },
     {
         "id": "RB051",
@@ -876,10 +723,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "052",
-        "msname": "ribbon:mes_ribbon_name_051",
-        "mstext": "ribbon:mes_ribbon_info_051"
+        ]
     },
     {
         "id": "RB052",
@@ -892,10 +736,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "053",
-        "msname": "ribbon:mes_ribbon_name_052",
-        "mstext": "ribbon:mes_ribbon_info_052"
+        ]
     },
     {
         "id": "RB053",
@@ -908,10 +749,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "054",
-        "msname": "ribbon:mes_ribbon_name_053",
-        "mstext": "ribbon:mes_ribbon_info_053"
+        ]
     },
     {
         "id": "RB054",
@@ -924,10 +762,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "055",
-        "msname": "ribbon:mes_ribbon_name_054",
-        "mstext": "ribbon:mes_ribbon_info_054"
+        ]
     },
     {
         "id": "RB055",
@@ -940,10 +775,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "056",
-        "msname": "ribbon:mes_ribbon_name_055",
-        "mstext": "ribbon:mes_ribbon_info_055"
+        ]
     },
     {
         "id": "RB056",
@@ -956,10 +788,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "057",
-        "msname": "ribbon:mes_ribbon_name_056",
-        "mstext": "ribbon:mes_ribbon_info_056"
+        ]
     },
     {
         "id": "RB057",
@@ -972,10 +801,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "058",
-        "msname": "ribbon:mes_ribbon_name_057",
-        "mstext": "ribbon:mes_ribbon_info_057"
+        ]
     },
     {
         "id": "RB058",
@@ -988,10 +814,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "059",
-        "msname": "ribbon:mes_ribbon_name_058",
-        "mstext": "ribbon:mes_ribbon_info_058"
+        ]
     },
     {
         "id": "RB059",
@@ -1004,10 +827,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "060",
-        "msname": "ribbon:mes_ribbon_name_059",
-        "mstext": "ribbon:mes_ribbon_info_059"
+        ]
     },
     {
         "id": "RB060",
@@ -1020,10 +840,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "061",
-        "msname": "ribbon:mes_ribbon_name_060",
-        "mstext": "ribbon:mes_ribbon_info_060"
+        ]
     },
     {
         "id": "RB061",
@@ -1036,10 +853,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "062",
-        "msname": "ribbon:mes_ribbon_name_061",
-        "mstext": "ribbon:mes_ribbon_info_061"
+        ]
     },
     {
         "id": "RB062",
@@ -1052,10 +866,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "063",
-        "msname": "ribbon:mes_ribbon_name_062",
-        "mstext": "ribbon:mes_ribbon_info_062"
+        ]
     },
     {
         "id": "RB063",
@@ -1068,10 +879,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "064",
-        "msname": "ribbon:mes_ribbon_name_063",
-        "mstext": "ribbon:mes_ribbon_info_063"
+        ]
     },
     {
         "id": "RB064",
@@ -1084,10 +892,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "065",
-        "msname": "ribbon:mes_ribbon_name_064",
-        "mstext": "ribbon:mes_ribbon_info_064"
+        ]
     },
     {
         "id": "RB065",
@@ -1100,10 +905,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "066",
-        "msname": "ribbon:mes_ribbon_name_065",
-        "mstext": "ribbon:mes_ribbon_info_065"
+        ]
     },
     {
         "id": "RB066",
@@ -1116,10 +918,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "067",
-        "msname": "ribbon:mes_ribbon_name_066",
-        "mstext": "ribbon:mes_ribbon_info_066"
+        ]
     },
     {
         "id": "RB067",
@@ -1132,10 +931,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "068",
-        "msname": "ribbon:mes_ribbon_name_067",
-        "mstext": "ribbon:mes_ribbon_info_067"
+        ]
     },
     {
         "id": "RB068",
@@ -1148,10 +944,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "069",
-        "msname": "ribbon:mes_ribbon_name_068",
-        "mstext": "ribbon:mes_ribbon_info_068"
+        ]
     },
     {
         "id": "RB069",
@@ -1164,10 +957,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "070",
-        "msname": "ribbon:mes_ribbon_name_069",
-        "mstext": "ribbon:mes_ribbon_info_069"
+        ]
     },
     {
         "id": "RB070",
@@ -1180,10 +970,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "071",
-        "msname": "ribbon:mes_ribbon_name_070",
-        "mstext": "ribbon:mes_ribbon_info_070"
+        ]
     },
     {
         "id": "RB071",
@@ -1196,10 +983,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "072",
-        "msname": "ribbon:mes_ribbon_name_071",
-        "mstext": "ribbon:mes_ribbon_info_071"
+        ]
     },
     {
         "id": "RB072",
@@ -1212,10 +996,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "075",
-        "msname": "ribbon:mes_ribbon_name_072",
-        "mstext": "ribbon:mes_ribbon_info_072"
+        ]
     },
     {
         "id": "RB073",
@@ -1228,10 +1009,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "076",
-        "msname": "ribbon:mes_ribbon_name_073",
-        "mstext": "ribbon:mes_ribbon_info_073"
+        ]
     },
     {
         "id": "RB074",
@@ -1244,10 +1022,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "077",
-        "msname": "ribbon:mes_ribbon_name_074",
-        "mstext": "ribbon:mes_ribbon_info_074"
+        ]
     },
     {
         "id": "RB075",
@@ -1260,10 +1035,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "078",
-        "msname": "ribbon:mes_ribbon_name_075",
-        "mstext": "ribbon:mes_ribbon_info_075"
+        ]
     },
     {
         "id": "RB076",
@@ -1276,10 +1048,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "079",
-        "msname": "ribbon:mes_ribbon_name_076",
-        "mstext": "ribbon:mes_ribbon_info_076"
+        ]
     },
     {
         "id": "RB077",
@@ -1292,10 +1061,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "080",
-        "msname": "ribbon:mes_ribbon_name_077",
-        "mstext": "ribbon:mes_ribbon_info_077"
+        ]
     },
     {
         "id": "RB078",
@@ -1308,10 +1074,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "081",
-        "msname": "ribbon:mes_ribbon_name_078",
-        "mstext": "ribbon:mes_ribbon_info_078"
+        ]
     },
     {
         "id": "RB079",
@@ -1324,10 +1087,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "082",
-        "msname": "ribbon:mes_ribbon_name_079",
-        "mstext": "ribbon:mes_ribbon_info_079"
+        ]
     },
     {
         "id": "RB080",
@@ -1340,10 +1100,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "083",
-        "msname": "ribbon:mes_ribbon_name_080",
-        "mstext": "ribbon:mes_ribbon_info_080"
+        ]
     },
     {
         "id": "RB081",
@@ -1356,10 +1113,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "084",
-        "msname": "ribbon:mes_ribbon_name_081",
-        "mstext": "ribbon:mes_ribbon_info_081"
+        ]
     },
     {
         "id": "RB082",
@@ -1372,10 +1126,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "085",
-        "msname": "ribbon:mes_ribbon_name_082",
-        "mstext": "ribbon:mes_ribbon_info_082"
+        ]
     },
     {
         "id": "RB083",
@@ -1388,10 +1139,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "086",
-        "msname": "ribbon:mes_ribbon_name_083",
-        "mstext": "ribbon:mes_ribbon_info_083"
+        ]
     },
     {
         "id": "RB084",
@@ -1404,10 +1152,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "087",
-        "msname": "ribbon:mes_ribbon_name_084",
-        "mstext": "ribbon:mes_ribbon_info_084"
+        ]
     },
     {
         "id": "RB085",
@@ -1420,10 +1165,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "088",
-        "msname": "ribbon:mes_ribbon_name_085",
-        "mstext": "ribbon:mes_ribbon_info_085"
+        ]
     },
     {
         "id": "RB086",
@@ -1436,10 +1178,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "089",
-        "msname": "ribbon:mes_ribbon_name_086",
-        "mstext": "ribbon:mes_ribbon_info_086"
+        ]
     },
     {
         "id": "RB087",
@@ -1452,10 +1191,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "090",
-        "msname": "ribbon:mes_ribbon_name_087",
-        "mstext": "ribbon:mes_ribbon_info_087"
+        ]
     },
     {
         "id": "RB088",
@@ -1468,10 +1204,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "091",
-        "msname": "ribbon:mes_ribbon_name_088",
-        "mstext": "ribbon:mes_ribbon_info_088"
+        ]
     },
     {
         "id": "RB089",
@@ -1484,10 +1217,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "092",
-        "msname": "ribbon:mes_ribbon_name_089",
-        "mstext": "ribbon:mes_ribbon_info_089"
+        ]
     },
     {
         "id": "RB090",
@@ -1500,10 +1230,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "093",
-        "msname": "ribbon:mes_ribbon_name_090",
-        "mstext": "ribbon:mes_ribbon_info_090"
+        ]
     },
     {
         "id": "RB091",
@@ -1516,10 +1243,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "094",
-        "msname": "ribbon:mes_ribbon_name_091",
-        "mstext": "ribbon:mes_ribbon_info_091"
+        ]
     },
     {
         "id": "RB092",
@@ -1532,10 +1256,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "095",
-        "msname": "ribbon:mes_ribbon_name_092",
-        "mstext": "ribbon:mes_ribbon_info_092"
+        ]
     },
     {
         "id": "RB093",
@@ -1548,10 +1269,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "096",
-        "msname": "ribbon:mes_ribbon_name_093",
-        "mstext": "ribbon:mes_ribbon_info_093"
+        ]
     },
     {
         "id": "RB094",
@@ -1564,10 +1282,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "097",
-        "msname": "ribbon:mes_ribbon_name_094",
-        "mstext": "ribbon:mes_ribbon_info_094"
+        ]
     },
     {
         "id": "RB095",
@@ -1580,10 +1295,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "098",
-        "msname": "ribbon:mes_ribbon_name_095",
-        "mstext": "ribbon:mes_ribbon_info_095"
+        ]
     },
     {
         "id": "RB096",
@@ -1596,10 +1308,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "099",
-        "msname": "ribbon:mes_ribbon_name_096",
-        "mstext": "ribbon:mes_ribbon_info_096"
+        ]
     },
     {
         "id": "RB097",
@@ -1612,10 +1321,7 @@
             "TT005",
             "TT006",
             "TT008"
-        ],
-        "msId": "100",
-        "msname": "ribbon:mes_ribbon_name_097",
-        "mstext": "ribbon:mes_ribbon_info_097"
+        ]
     },
     {
         "id": "RB098",
@@ -1626,10 +1332,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_098",
-        "mstext": "ribbon:mes_ribbon_info_098"
+        ]
     },
     {
         "id": "RB099",
@@ -1641,10 +1344,7 @@
         "softwareAppearIds": [
             "TT006",
             "TT008"
-        ],
-        "msId": "101",
-        "msname": "ribbon:mes_ribbon_name_099",
-        "mstext": "ribbon:mes_ribbon_info_099"
+        ]
     },
     {
         "id": "RB100",
@@ -1655,10 +1355,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_100",
-        "mstext": "ribbon:mes_ribbon_info_100"
+        ]
     },
     {
         "id": "RB101",
@@ -1669,10 +1366,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_101",
-        "mstext": "ribbon:mes_ribbon_info_101"
+        ]
     },
     {
         "id": "RB102",
@@ -1683,10 +1377,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_102",
-        "mstext": "ribbon:mes_ribbon_info_102"
+        ]
     },
     {
         "id": "RB103",
@@ -1697,10 +1388,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_103",
-        "mstext": "ribbon:mes_ribbon_info_103"
+        ]
     },
     {
         "id": "RB104",
@@ -1711,10 +1399,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_104",
-        "mstext": "ribbon:mes_ribbon_info_104"
+        ]
     },
     {
         "id": "RB105",
@@ -1725,10 +1410,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_105",
-        "mstext": "ribbon:mes_ribbon_info_105"
+        ]
     },
     {
         "id": "RB106",
@@ -1739,10 +1421,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_106",
-        "mstext": "ribbon:mes_ribbon_info_106"
+        ]
     },
     {
         "id": "RB107",
@@ -1753,10 +1432,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_107",
-        "mstext": "ribbon:mes_ribbon_info_107"
+        ]
     },
     {
         "id": "RB108",
@@ -1767,10 +1443,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_108",
-        "mstext": "ribbon:mes_ribbon_info_108"
+        ]
     },
     {
         "id": "RB109",
@@ -1781,10 +1454,7 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_109",
-        "mstext": "ribbon:mes_ribbon_info_109"
+        ]
     },
     {
         "id": "RB110",
@@ -1795,9 +1465,6 @@
         "lumpingMax": 0,
         "softwareAppearIds": [
             "TT008"
-        ],
-        "msId": "",
-        "msname": "ribbon:mes_ribbon_name_110",
-        "mstext": "ribbon:mes_ribbon_info_110"
+        ]
     }
 ]

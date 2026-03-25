@@ -1,7 +1,6 @@
 [
     {
         "id": "TT000",
-        "ms": "",
         "mdSoftwares": [
             "SF024",
             "SF025"
@@ -11,7 +10,6 @@
     },
     {
         "id": "TT001",
-        "ms": "",
         "mdSoftwares": [
             "SF026",
             "SF027"
@@ -21,7 +19,6 @@
     },
     {
         "id": "TT002",
-        "ms": "",
         "mdSoftwares": [
             "SF030",
             "SF031"
@@ -31,7 +28,6 @@
     },
     {
         "id": "TT003",
-        "ms": "",
         "mdSoftwares": [
             "SF032",
             "SF033"
@@ -41,7 +37,6 @@
     },
     {
         "id": "TT004",
-        "ms": "",
         "mdSoftwares": [
             "SF042",
             "SF043"
@@ -51,7 +46,6 @@
     },
     {
         "id": "TT005",
-        "ms": "",
         "mdSoftwares": [
             "SF044",
             "SF045"
@@ -61,7 +55,6 @@
     },
     {
         "id": "TT006",
-        "ms": "",
         "mdSoftwares": [
             "SF048",
             "SF049"
@@ -71,7 +64,6 @@
     },
     {
         "id": "TT007",
-        "ms": "",
         "mdSoftwares": [
             "SF047"
         ],
@@ -80,7 +72,6 @@
     },
     {
         "id": "TT008",
-        "ms": "",
         "mdSoftwares": [
             "SF050",
             "SF051"

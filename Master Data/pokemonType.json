@@ -3,7 +3,7 @@
         "id": "TY0000",
         "image": "cmn_type_normal",
         "image2": "bnk_move_icon_type_normal",
-        "color": "999999",
+        "color": "#999999",
         "mdTypes0_0": [
             "TY0007"
         ],
@@ -18,7 +18,7 @@
         "id": "TY0001",
         "image": "cmn_type_fighting",
         "image2": "bnk_move_icon_type_fighting",
-        "color": "ffa202",
+        "color": "#FFA202",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0006",
@@ -37,7 +37,7 @@
         "id": "TY0002",
         "image": "cmn_type_flying",
         "image2": "bnk_move_icon_type_flying",
-        "color": "95c9ff",
+        "color": "#95C9FF",
         "mdTypes0_0": [
             "TY0004"
         ],
@@ -58,7 +58,7 @@
         "id": "TY0003",
         "image": "cmn_type_poison",
         "image2": "bnk_move_icon_type_poison",
-        "color": "994dcf",
+        "color": "#994DCF",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0011",
@@ -78,7 +78,7 @@
         "id": "TY0004",
         "image": "cmn_type_ground",
         "image2": "bnk_move_icon_type_ground",
-        "color": "ab7939",
+        "color": "#AB7939",
         "mdTypes0_0": [
             "TY0012"
         ],
@@ -98,7 +98,7 @@
         "id": "TY0005",
         "image": "cmn_type_rock",
         "image2": "bnk_move_icon_type_rock",
-        "color": "bcb889",
+        "color": "#BCB889",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0000",
@@ -120,7 +120,7 @@
         "id": "TY0006",
         "image": "cmn_type_bug",
         "image2": "bnk_move_icon_type_bug",
-        "color": "9fa424",
+        "color": "#9FA424",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0011",
@@ -139,7 +139,7 @@
         "id": "TY0007",
         "image": "cmn_type_ghost",
         "image2": "bnk_move_icon_type_ghost",
-        "color": "6e4570",
+        "color": "#6E4570",
         "mdTypes0_0": [
             "TY0000",
             "TY0001"
@@ -159,7 +159,7 @@
         "id": "TY0008",
         "image": "cmn_type_steel",
         "image2": "bnk_move_icon_type_steel",
-        "color": "6aaed3",
+        "color": "#6AAED3",
         "mdTypes0_0": [
             "TY0003"
         ],
@@ -187,7 +187,7 @@
         "id": "TY0009",
         "image": "cmn_type_fire",
         "image2": "bnk_move_icon_type_fire",
-        "color": "ff612c",
+        "color": "#FF612C",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0009",
@@ -209,7 +209,7 @@
         "id": "TY0010",
         "image": "cmn_type_water",
         "image2": "bnk_move_icon_type_water",
-        "color": "2992ff",
+        "color": "#2992FF",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0009",
@@ -228,7 +228,7 @@
         "id": "TY0011",
         "image": "cmn_type_grass",
         "image2": "bnk_move_icon_type_grass",
-        "color": "42bf24",
+        "color": "#42BF24",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0010",
@@ -250,7 +250,7 @@
         "id": "TY0012",
         "image": "cmn_type_electric",
         "image2": "bnk_move_icon_type_electric",
-        "color": "ffdb00",
+        "color": "#FFDB00",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0012",
@@ -267,7 +267,7 @@
         "id": "TY0013",
         "image": "cmn_type_psychic",
         "image2": "bnk_move_icon_type_psychic",
-        "color": "ff637f",
+        "color": "#FF637F",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0001",
@@ -285,7 +285,7 @@
         "id": "TY0014",
         "image": "cmn_type_ice",
         "image2": "bnk_move_icon_type_ice",
-        "color": "42d8ff",
+        "color": "#42D8FF",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0014"
@@ -303,7 +303,7 @@
         "id": "TY0015",
         "image": "cmn_type_dragon",
         "image2": "bnk_move_icon_type_dragon",
-        "color": "5462d6",
+        "color": "#5462D6",
         "mdTypes0_0": [],
         "mdTypes0_5": [
             "TY0009",
@@ -323,7 +323,7 @@
         "id": "TY0016",
         "image": "cmn_type_dark",
         "image2": "bnk_move_icon_type_dark",
-        "color": "4f4747",
+        "color": "#4F4747",
         "mdTypes0_0": [
             "TY0013"
         ],
@@ -343,7 +343,7 @@
         "id": "TY0017",
         "image": "cmn_type_fairy",
         "image2": "bnk_move_icon_type_fairy",
-        "color": "ffb1ff",
+        "color": "#FFB1FF",
         "mdTypes0_0": [
             "TY0015"
         ],
