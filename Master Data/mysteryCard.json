@@ -1,0 +1,79 @@
+[
+    {
+        "id": "MSC0001",
+        "giftId": "mystery_card_serial_1",
+        "banner": "mcb_img_00000001",
+        "mdDicId": "DI0591000",
+        "listImage": "cap0591_f00_s0"
+    },
+    {
+        "id": "MSC0002",
+        "giftId": "mystery_card_serial_2",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_2",
+        "giftId": "mystery_card_serial_2_2",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_3",
+        "giftId": "mystery_card_serial_2_3",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_4",
+        "giftId": "mystery_card_serial_2_4",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_5",
+        "giftId": "mystery_card_serial_2_5",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_6",
+        "giftId": "mystery_card_serial_2_6",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_7",
+        "giftId": "mystery_card_serial_2_7",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_8",
+        "giftId": "mystery_card_serial_2_8",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_9",
+        "giftId": "mystery_card_serial_2_9",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    },
+    {
+        "id": "MSC0002_10",
+        "giftId": "mystery_card_serial_2_10",
+        "banner": "mcb_img_00000002",
+        "mdDicId": "",
+        "listImage": ""
+    }
+]

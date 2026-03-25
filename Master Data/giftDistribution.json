@@ -9,6 +9,7 @@
             1
         ],
         "condition": "1",
+        "type": 1,
         "isCheckApi": 0,
         "start": "0",
         "end": "1625065199",
@@ -26,6 +27,7 @@
             1
         ],
         "condition": "4",
+        "type": 1,
         "isCheckApi": 1,
         "start": "0",
         "end": "4102444800",
@@ -43,6 +45,7 @@
             1
         ],
         "condition": "5",
+        "type": 1,
         "isCheckApi": 1,
         "start": "0",
         "end": "4102444800",
@@ -60,6 +63,7 @@
             1
         ],
         "condition": "6",
+        "type": 1,
         "isCheckApi": 1,
         "start": "0",
         "end": "4102444800",
@@ -77,6 +81,7 @@
             1
         ],
         "condition": "7",
+        "type": 1,
         "isCheckApi": 1,
         "start": "0",
         "end": "4102444800",
