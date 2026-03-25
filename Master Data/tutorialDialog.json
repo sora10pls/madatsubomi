@@ -273,5 +273,133 @@
             "0"
         ],
         "category": 1
+    },
+    {
+        "id": "medal_init",
+        "place": 14,
+        "saveType": 1,
+        "saveIndex": 2,
+        "msTexts": [
+            "sp_medal_tutorial_0001",
+            "sp_medal_tutorial_0002",
+            "sp_medal_tutorial_0003",
+            "sp_medal_tutorial_0004",
+            "sp_medal_tutorial_0005",
+            "sp_medal_tutorial_0006",
+            "sp_medal_tutorial_0007",
+            "sp_medal_tutorial_0008"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_stock",
+        "place": 15,
+        "saveType": 1,
+        "saveIndex": 3,
+        "msTexts": [
+            "sp_medal_tutorial_stock_0001",
+            "sp_medal_tutorial_stock_0002",
+            "sp_medal_tutorial_stock_0005",
+            "sp_medal_tutorial_stock_0003",
+            "sp_medal_tutorial_stock_0004"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_tradeandgift",
+        "place": 16,
+        "saveType": 1,
+        "saveIndex": 4,
+        "msTexts": [
+            "sp_medal_tutorial_tradegift_0001",
+            "sp_medal_tutorial_tradegift_0002",
+            "sp_medal_tutorial_tradegift_0003",
+            "sp_medal_tutorial_tradegift_0004",
+            "sp_medal_tutorial_tradegift_0005",
+            "sp_medal_tutorial_tradegift_0006"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_event",
+        "place": 17,
+        "saveType": 1,
+        "saveIndex": 5,
+        "msTexts": [
+            "sp_medal_tutorial_event_0001",
+            "sp_medal_tutorial_event_0002"
+        ],
+        "images": [
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_report",
+        "place": 18,
+        "saveType": 1,
+        "saveIndex": 6,
+        "msTexts": [
+            "sp_medal_tutorial_report_0001",
+            "sp_medal_tutorial_report_0002",
+            "sp_medal_tutorial_report_0003"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
+    },
+    {
+        "id": "medal_init_without_event",
+        "place": 19,
+        "saveType": 1,
+        "saveIndex": 2,
+        "msTexts": [
+            "sp_medal_tutorial_0001",
+            "sp_medal_tutorial_0002",
+            "sp_medal_tutorial_0003",
+            "sp_medal_tutorial_0004",
+            "sp_medal_tutorial_0006",
+            "sp_medal_tutorial_0007",
+            "sp_medal_tutorial_0008"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
     }
 ]
