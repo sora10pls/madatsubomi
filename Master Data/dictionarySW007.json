@@ -11938,5 +11938,89 @@
         "topImageY": 512,
         "frameType": 0,
         "voice": "mt_PV_EV_1017_00_00"
+    },
+    {
+        "id": "DS0996000",
+        "mdDicId": "DI1018000",
+        "regionDicNo": 1018,
+        "listAtlasNo": 0,
+        "listImage": "cap1018_f00_s0_128",
+        "topImage": "cap1018_f00_s0",
+        "topImageX": 512,
+        "topImageY": 512,
+        "frameType": 0,
+        "voice": "mt_PV_EV_1018_00_00"
+    },
+    {
+        "id": "DS0997000",
+        "mdDicId": "DI1019000",
+        "regionDicNo": 1019,
+        "listAtlasNo": 0,
+        "listImage": "cap1019_f00_s0_128",
+        "topImage": "cap1019_f00_s0",
+        "topImageX": 512,
+        "topImageY": 512,
+        "frameType": 0,
+        "voice": "mt_PV_EV_1019_00_00"
+    },
+    {
+        "id": "DS0998000",
+        "mdDicId": "DI1020000",
+        "regionDicNo": 1020,
+        "listAtlasNo": 0,
+        "listImage": "cap1020_f00_s0_128",
+        "topImage": "cap1020_f00_s0",
+        "topImageX": 512,
+        "topImageY": 512,
+        "frameType": 0,
+        "voice": "mt_PV_EV_1020_00_00"
+    },
+    {
+        "id": "DS0999000",
+        "mdDicId": "DI1021000",
+        "regionDicNo": 1021,
+        "listAtlasNo": 0,
+        "listImage": "cap1021_f00_s0_128",
+        "topImage": "cap1021_f00_s0",
+        "topImageX": 512,
+        "topImageY": 512,
+        "frameType": 0,
+        "voice": "mt_PV_EV_1021_00_00"
+    },
+    {
+        "id": "DS1000000",
+        "mdDicId": "DI1022000",
+        "regionDicNo": 1022,
+        "listAtlasNo": 0,
+        "listImage": "cap1022_f00_s0_128",
+        "topImage": "cap1022_f00_s0",
+        "topImageX": 512,
+        "topImageY": 512,
+        "frameType": 0,
+        "voice": "mt_PV_EV_1022_00_00"
+    },
+    {
+        "id": "DS1001000",
+        "mdDicId": "DI1023000",
+        "regionDicNo": 1023,
+        "listAtlasNo": 0,
+        "listImage": "cap1023_f00_s0_128",
+        "topImage": "cap1023_f00_s0",
+        "topImageX": 512,
+        "topImageY": 512,
+        "frameType": 0,
+        "voice": "mt_PV_EV_1023_00_00"
+    },
+    {
+        "id": "DS1002000",
+        "mdDicId": "DI1024000",
+        "regionDicNo": 1024,
+        "listAtlasNo": 0,
+        "listImage": "cap1024_f00_s0_128",
+        "topImage": "cap1024_f00_s0",
+        "topImageX": 512,
+        "topImageY": 512,
+        "frameType": 0,
+        "voice": "mt_PV_EV_1024_00_00"
     }
 ]

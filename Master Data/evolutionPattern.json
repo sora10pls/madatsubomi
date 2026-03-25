@@ -3146,12 +3146,13 @@
     },
     {
         "id": "EV0332",
-        "templatePrefab": "EvoInfoType4CPrefab",
+        "templatePrefab": "EvoInfoType5BPrefab",
         "mdPokemonImages": [
             "DI0840000",
             "DI0841000",
             "DI0842000",
-            "DI1011000"
+            "DI1011000",
+            "DI1019000"
         ],
         "imageVariations": []
     },
@@ -4370,6 +4371,15 @@
         "mdPokemonImages": [
             "DI1012001",
             "DI1013001"
+        ],
+        "imageVariations": []
+    },
+    {
+        "id": "EV0466",
+        "templatePrefab": "EvoInfoType2Prefab",
+        "mdPokemonImages": [
+            "DI0884000",
+            "DI1018000"
         ],
         "imageVariations": []
     }

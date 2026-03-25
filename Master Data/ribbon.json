@@ -1785,5 +1785,19 @@
         "msId": "",
         "msname": "ribbon:mes_ribbon_name_109",
         "mstext": "ribbon:mes_ribbon_info_109"
+    },
+    {
+        "id": "RB110",
+        "image_a": "ribbon_113",
+        "image_b": "",
+        "order": 110,
+        "lumpingIndex": 0,
+        "lumpingMax": 0,
+        "softwareAppearIds": [
+            "TT008"
+        ],
+        "msId": "",
+        "msname": "ribbon:mes_ribbon_name_110",
+        "mstext": "ribbon:mes_ribbon_info_110"
     }
 ]

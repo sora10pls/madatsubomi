@@ -6,7 +6,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_001_000",
         "gtsForm": "FG0001000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0002000",
@@ -15,7 +15,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_002_000",
         "gtsForm": "FG0002000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0003000",
@@ -24,7 +24,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_003_000",
         "gtsForm": "FG0003000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0003000G",
@@ -51,7 +51,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_004_000",
         "gtsForm": "FG0004000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0005000",
@@ -60,7 +60,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_005_000",
         "gtsForm": "FG0005000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0006000",
@@ -69,7 +69,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_006_000",
         "gtsForm": "FG0006000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0006000G",
@@ -105,7 +105,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_007_000",
         "gtsForm": "FG0007000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0008000",
@@ -114,7 +114,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_008_000",
         "gtsForm": "FG0008000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0009000",
@@ -123,7 +123,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_009_000",
         "gtsForm": "FG0009000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0009000G",
@@ -150,7 +150,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_010_000",
         "gtsForm": "FG0010000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0011000",
@@ -159,7 +159,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_011_000",
         "gtsForm": "FG0011000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0012000",
@@ -168,7 +168,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_012_000",
         "gtsForm": "FG0012000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0012000G",
@@ -186,7 +186,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_013_000",
         "gtsForm": "FG0013000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0014000",
@@ -195,7 +195,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_014_000",
         "gtsForm": "FG0014000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0015000",
@@ -204,7 +204,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_015_000",
         "gtsForm": "FG0015000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0015001",
@@ -222,7 +222,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_016_000",
         "gtsForm": "FG0016000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0017000",
@@ -231,7 +231,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_017_000",
         "gtsForm": "FG0017000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0018000",
@@ -240,7 +240,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_018_000",
         "gtsForm": "FG0018000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0018001",
@@ -288,22 +288,13 @@
         "isViewGTS": 1
     },
     {
-        "id": "FN0020002",
-        "mdPokemonImage": "PI0020002",
-        "variationNum": 0,
-        "formNo": 2,
-        "ms": "zkn_form:ZKN_FORM_020_002",
-        "gtsForm": "FG0020002",
-        "isViewGTS": 0
-    },
-    {
         "id": "FN0021000",
         "mdPokemonImage": "PI0021000",
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_021_000",
         "gtsForm": "FG0021000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0022000",
@@ -312,7 +303,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_022_000",
         "gtsForm": "FG0022000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0023000",
@@ -321,7 +312,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_023_000",
         "gtsForm": "FG0023000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0024000",
@@ -330,7 +321,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_024_000",
         "gtsForm": "FG0024000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0025000",
@@ -339,7 +330,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_025_000",
         "gtsForm": "FG0025000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0025000G",
@@ -414,15 +405,6 @@
         "isViewGTS": 0
     },
     {
-        "id": "FN0025008",
-        "mdPokemonImage": "PI0025008",
-        "variationNum": 0,
-        "formNo": 8,
-        "ms": "zkn_form:ZKN_FORM_025_008",
-        "gtsForm": "FG0025008",
-        "isViewGTS": 0
-    },
-    {
         "id": "FN0025009",
         "mdPokemonImage": "PI0025009",
         "variationNum": 0,
@@ -492,7 +474,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_029_000",
         "gtsForm": "FG0029000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0030000",
@@ -501,7 +483,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_030_000",
         "gtsForm": "FG0030000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0031000",
@@ -510,7 +492,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_031_000",
         "gtsForm": "FG0031000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0032000",
@@ -519,7 +501,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_032_000",
         "gtsForm": "FG0032000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0033000",
@@ -528,7 +510,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_033_000",
         "gtsForm": "FG0033000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0034000",
@@ -537,7 +519,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_034_000",
         "gtsForm": "FG0034000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0035000",
@@ -546,7 +528,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_035_000",
         "gtsForm": "FG0035000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0036000",
@@ -555,7 +537,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_036_000",
         "gtsForm": "FG0036000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0037000",
@@ -600,7 +582,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_039_000",
         "gtsForm": "FG0039000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0040000",
@@ -609,7 +591,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_040_000",
         "gtsForm": "FG0040000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0041000",
@@ -618,7 +600,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_041_000",
         "gtsForm": "FG0041000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0042000",
@@ -627,7 +609,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_042_000",
         "gtsForm": "FG0042000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0043000",
@@ -636,7 +618,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_043_000",
         "gtsForm": "FG0043000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0044000",
@@ -645,7 +627,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_044_000",
         "gtsForm": "FG0044000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0045000",
@@ -654,7 +636,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_045_000",
         "gtsForm": "FG0045000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0046000",
@@ -663,7 +645,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_046_000",
         "gtsForm": "FG0046000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0047000",
@@ -672,7 +654,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_047_000",
         "gtsForm": "FG0047000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0048000",
@@ -681,7 +663,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_048_000",
         "gtsForm": "FG0048000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0049000",
@@ -690,7 +672,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_049_000",
         "gtsForm": "FG0049000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0050000",
@@ -789,7 +771,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_054_000",
         "gtsForm": "FG0054000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0055000",
@@ -798,7 +780,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_055_000",
         "gtsForm": "FG0055000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0056000",
@@ -807,7 +789,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_056_000",
         "gtsForm": "FG0056000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0057000",
@@ -816,7 +798,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_057_000",
         "gtsForm": "FG0057000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0058000",
@@ -855,22 +837,13 @@
         "isViewGTS": 1
     },
     {
-        "id": "FN0059002",
-        "mdPokemonImage": "PI0059002",
-        "variationNum": 0,
-        "formNo": 2,
-        "ms": "zkn_form:ZKN_FORM_059_002",
-        "gtsForm": "FG0059002",
-        "isViewGTS": 0
-    },
-    {
         "id": "FN0060000",
         "mdPokemonImage": "PI0060000",
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_060_000",
         "gtsForm": "FG0060000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0061000",
@@ -879,7 +852,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_061_000",
         "gtsForm": "FG0061000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0062000",
@@ -888,7 +861,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_062_000",
         "gtsForm": "FG0062000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0063000",
@@ -897,7 +870,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_063_000",
         "gtsForm": "FG0063000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0064000",
@@ -906,7 +879,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_064_000",
         "gtsForm": "FG0064000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0065000",
@@ -915,7 +888,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_065_000",
         "gtsForm": "FG0065000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0065001",
@@ -933,7 +906,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_066_000",
         "gtsForm": "FG0066000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0067000",
@@ -942,7 +915,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_067_000",
         "gtsForm": "FG0067000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0068000",
@@ -951,7 +924,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_068_000",
         "gtsForm": "FG0068000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0068000G",
@@ -969,7 +942,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_069_000",
         "gtsForm": "FG0069000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0070000",
@@ -978,7 +951,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_070_000",
         "gtsForm": "FG0070000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0071000",
@@ -987,7 +960,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_071_000",
         "gtsForm": "FG0071000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0072000",
@@ -996,7 +969,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_072_000",
         "gtsForm": "FG0072000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0073000",
@@ -1005,7 +978,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_073_000",
         "gtsForm": "FG0073000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0074000",
@@ -1149,7 +1122,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_081_000",
         "gtsForm": "FG0081000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0082000",
@@ -1158,7 +1131,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_082_000",
         "gtsForm": "FG0082000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0083000",
@@ -1185,7 +1158,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_084_000",
         "gtsForm": "FG0084000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0085000",
@@ -1194,7 +1167,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_085_000",
         "gtsForm": "FG0085000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0086000",
@@ -1203,7 +1176,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_086_000",
         "gtsForm": "FG0086000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0087000",
@@ -1212,7 +1185,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_087_000",
         "gtsForm": "FG0087000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0088000",
@@ -1257,7 +1230,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_090_000",
         "gtsForm": "FG0090000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0091000",
@@ -1266,7 +1239,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_091_000",
         "gtsForm": "FG0091000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0092000",
@@ -1275,7 +1248,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_092_000",
         "gtsForm": "FG0092000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0093000",
@@ -1284,7 +1257,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_093_000",
         "gtsForm": "FG0093000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0094000",
@@ -1293,7 +1266,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_094_000",
         "gtsForm": "FG0094000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0094000G",
@@ -1320,7 +1293,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_095_000",
         "gtsForm": "FG0095000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0096000",
@@ -1329,7 +1302,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_096_000",
         "gtsForm": "FG0096000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0097000",
@@ -1338,7 +1311,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_097_000",
         "gtsForm": "FG0097000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0098000",
@@ -1347,7 +1320,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_098_000",
         "gtsForm": "FG0098000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0099000",
@@ -1356,7 +1329,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_099_000",
         "gtsForm": "FG0099000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0099000G",
@@ -1419,7 +1392,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_102_000",
         "gtsForm": "FG0102000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0103000",
@@ -1446,7 +1419,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_104_000",
         "gtsForm": "FG0104000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0105000",
@@ -1467,22 +1440,13 @@
         "isViewGTS": 1
     },
     {
-        "id": "FN0105002",
-        "mdPokemonImage": "PI0105002",
-        "variationNum": 0,
-        "formNo": 2,
-        "ms": "zkn_form:ZKN_FORM_105_002",
-        "gtsForm": "FG0105002",
-        "isViewGTS": 0
-    },
-    {
         "id": "FN0106000",
         "mdPokemonImage": "PI0106000",
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_106_000",
         "gtsForm": "FG0106000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0107000",
@@ -1491,7 +1455,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_107_000",
         "gtsForm": "FG0107000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0108000",
@@ -1500,7 +1464,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_108_000",
         "gtsForm": "FG0108000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0109000",
@@ -1509,7 +1473,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_109_000",
         "gtsForm": "FG0109000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0110000",
@@ -1536,7 +1500,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_111_000",
         "gtsForm": "FG0111000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0112000",
@@ -1545,7 +1509,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_112_000",
         "gtsForm": "FG0112000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0113000",
@@ -1554,7 +1518,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_113_000",
         "gtsForm": "FG0113000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0114000",
@@ -1563,7 +1527,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_114_000",
         "gtsForm": "FG0114000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0115000",
@@ -1572,7 +1536,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_115_000",
         "gtsForm": "FG0115000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0115001",
@@ -1590,7 +1554,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_116_000",
         "gtsForm": "FG0116000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0117000",
@@ -1599,7 +1563,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_117_000",
         "gtsForm": "FG0117000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0118000",
@@ -1608,7 +1572,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_118_000",
         "gtsForm": "FG0118000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0119000",
@@ -1617,7 +1581,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_119_000",
         "gtsForm": "FG0119000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0120000",
@@ -1626,7 +1590,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_120_000",
         "gtsForm": "FG0120000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0121000",
@@ -1635,7 +1599,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_121_000",
         "gtsForm": "FG0121000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0122000",
@@ -1662,7 +1626,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_123_000",
         "gtsForm": "FG0123000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0124000",
@@ -1671,7 +1635,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_124_000",
         "gtsForm": "FG0124000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0125000",
@@ -1680,7 +1644,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_125_000",
         "gtsForm": "FG0125000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0126000",
@@ -1689,7 +1653,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_126_000",
         "gtsForm": "FG0126000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0127000",
@@ -1698,7 +1662,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_127_000",
         "gtsForm": "FG0127000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0127001",
@@ -1752,7 +1716,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_129_000",
         "gtsForm": "FG0129000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0130000",
@@ -1761,7 +1725,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_130_000",
         "gtsForm": "FG0130000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0130001",
@@ -1779,7 +1743,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_131_000",
         "gtsForm": "FG0131000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0131000G",
@@ -1797,7 +1761,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_132_000",
         "gtsForm": "FG0132000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0133000",
@@ -1806,7 +1770,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_133_000",
         "gtsForm": "FG0133000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0133000G",
@@ -1818,22 +1782,13 @@
         "isViewGTS": 0
     },
     {
-        "id": "FN0133001",
-        "mdPokemonImage": "PI0133001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_133_001",
-        "gtsForm": "FG0133001",
-        "isViewGTS": 0
-    },
-    {
         "id": "FN0134000",
         "mdPokemonImage": "PI0134000",
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_134_000",
         "gtsForm": "FG0134000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0135000",
@@ -1842,7 +1797,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_135_000",
         "gtsForm": "FG0135000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0136000",
@@ -1851,7 +1806,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_136_000",
         "gtsForm": "FG0136000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0137000",
@@ -1860,7 +1815,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_137_000",
         "gtsForm": "FG0137000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0138000",
@@ -1869,7 +1824,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_138_000",
         "gtsForm": "FG0138000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0139000",
@@ -1878,7 +1833,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_139_000",
         "gtsForm": "FG0139000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0140000",
@@ -1887,7 +1842,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_140_000",
         "gtsForm": "FG0140000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0141000",
@@ -1896,7 +1851,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_141_000",
         "gtsForm": "FG0141000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0142000",
@@ -1905,7 +1860,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_142_000",
         "gtsForm": "FG0142000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0142001",
@@ -1923,7 +1878,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_143_000",
         "gtsForm": "FG0143000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0143000G",
@@ -1995,7 +1950,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_147_000",
         "gtsForm": "FG0147000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0148000",
@@ -2004,7 +1959,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_148_000",
         "gtsForm": "FG0148000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0149000",
@@ -2013,7 +1968,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_149_000",
         "gtsForm": "FG0149000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0150000",
@@ -2022,7 +1977,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_150_000",
         "gtsForm": "FG0150000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0150001",
@@ -2058,7 +2013,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_152_000",
         "gtsForm": "FG0152000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0153000",
@@ -2067,7 +2022,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_153_000",
         "gtsForm": "FG0153000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0154000",
@@ -2076,7 +2031,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_154_000",
         "gtsForm": "FG0154000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0155000",
@@ -2085,7 +2040,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_155_000",
         "gtsForm": "FG0155000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0156000",
@@ -2094,7 +2049,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_156_000",
         "gtsForm": "FG0156000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0157000",
@@ -2121,7 +2076,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_158_000",
         "gtsForm": "FG0158000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0159000",
@@ -2130,7 +2085,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_159_000",
         "gtsForm": "FG0159000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0160000",
@@ -2139,7 +2094,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_160_000",
         "gtsForm": "FG0160000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0161000",
@@ -2148,7 +2103,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_161_000",
         "gtsForm": "FG0161000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0162000",
@@ -2157,7 +2112,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_162_000",
         "gtsForm": "FG0162000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0163000",
@@ -2166,7 +2121,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_163_000",
         "gtsForm": "FG0163000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0164000",
@@ -2175,7 +2130,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_164_000",
         "gtsForm": "FG0164000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0165000",
@@ -2184,7 +2139,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_165_000",
         "gtsForm": "FG0165000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0166000",
@@ -2193,7 +2148,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_166_000",
         "gtsForm": "FG0166000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0167000",
@@ -2202,7 +2157,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_167_000",
         "gtsForm": "FG0167000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0168000",
@@ -2211,7 +2166,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_168_000",
         "gtsForm": "FG0168000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0169000",
@@ -2220,7 +2175,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_169_000",
         "gtsForm": "FG0169000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0170000",
@@ -2229,7 +2184,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_170_000",
         "gtsForm": "FG0170000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0171000",
@@ -2238,7 +2193,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_171_000",
         "gtsForm": "FG0171000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0172000",
@@ -2247,7 +2202,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_172_000",
         "gtsForm": "FG0172000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0173000",
@@ -2256,7 +2211,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_173_000",
         "gtsForm": "FG0173000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0174000",
@@ -2265,7 +2220,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_174_000",
         "gtsForm": "FG0174000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0175000",
@@ -2274,7 +2229,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_175_000",
         "gtsForm": "FG0175000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0176000",
@@ -2283,7 +2238,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_176_000",
         "gtsForm": "FG0176000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0177000",
@@ -2292,7 +2247,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_177_000",
         "gtsForm": "FG0177000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0178000",
@@ -2301,7 +2256,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_178_000",
         "gtsForm": "FG0178000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0179000",
@@ -2310,7 +2265,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_179_000",
         "gtsForm": "FG0179000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0180000",
@@ -2319,7 +2274,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_180_000",
         "gtsForm": "FG0180000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0181000",
@@ -2328,7 +2283,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_181_000",
         "gtsForm": "FG0181000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0181001",
@@ -2346,7 +2301,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_182_000",
         "gtsForm": "FG0182000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0183000",
@@ -2355,7 +2310,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_183_000",
         "gtsForm": "FG0183000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0184000",
@@ -2364,7 +2319,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_184_000",
         "gtsForm": "FG0184000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0185000",
@@ -2373,7 +2328,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_185_000",
         "gtsForm": "FG0185000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0186000",
@@ -2382,7 +2337,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_186_000",
         "gtsForm": "FG0186000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0187000",
@@ -2391,7 +2346,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_187_000",
         "gtsForm": "FG0187000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0188000",
@@ -2400,7 +2355,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_188_000",
         "gtsForm": "FG0188000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0189000",
@@ -2409,7 +2364,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_189_000",
         "gtsForm": "FG0189000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0190000",
@@ -2418,7 +2373,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_190_000",
         "gtsForm": "FG0190000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0191000",
@@ -2427,7 +2382,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_191_000",
         "gtsForm": "FG0191000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0192000",
@@ -2436,7 +2391,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_192_000",
         "gtsForm": "FG0192000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0193000",
@@ -2445,7 +2400,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_193_000",
         "gtsForm": "FG0193000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0194000",
@@ -2472,7 +2427,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_195_000",
         "gtsForm": "FG0195000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0196000",
@@ -2481,7 +2436,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_196_000",
         "gtsForm": "FG0196000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0197000",
@@ -2490,7 +2445,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_197_000",
         "gtsForm": "FG0197000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0198000",
@@ -2499,7 +2454,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_198_000",
         "gtsForm": "FG0198000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0199000",
@@ -2526,7 +2481,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_200_000",
         "gtsForm": "FG0200000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0201000",
@@ -2787,7 +2742,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_202_000",
         "gtsForm": "FG0202000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0203000",
@@ -2796,7 +2751,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_203_000",
         "gtsForm": "FG0203000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0204000",
@@ -2805,7 +2760,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_204_000",
         "gtsForm": "FG0204000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0205000",
@@ -2814,7 +2769,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_205_000",
         "gtsForm": "FG0205000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0206000",
@@ -2823,7 +2778,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_206_000",
         "gtsForm": "FG0206000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0207000",
@@ -2832,7 +2787,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_207_000",
         "gtsForm": "FG0207000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0208000",
@@ -2841,7 +2796,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_208_000",
         "gtsForm": "FG0208000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0208001",
@@ -2859,7 +2814,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_209_000",
         "gtsForm": "FG0209000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0210000",
@@ -2868,7 +2823,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_210_000",
         "gtsForm": "FG0210000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0211000",
@@ -2895,7 +2850,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_212_000",
         "gtsForm": "FG0212000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0212001",
@@ -2913,7 +2868,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_213_000",
         "gtsForm": "FG0213000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0214000",
@@ -2922,7 +2877,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_214_000",
         "gtsForm": "FG0214000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0214001",
@@ -2958,7 +2913,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_216_000",
         "gtsForm": "FG0216000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0217000",
@@ -2967,7 +2922,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_217_000",
         "gtsForm": "FG0217000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0218000",
@@ -2976,7 +2931,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_218_000",
         "gtsForm": "FG0218000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0219000",
@@ -2985,7 +2940,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_219_000",
         "gtsForm": "FG0219000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0220000",
@@ -2994,7 +2949,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_220_000",
         "gtsForm": "FG0220000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0221000",
@@ -3003,7 +2958,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_221_000",
         "gtsForm": "FG0221000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0222000",
@@ -3030,7 +2985,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_223_000",
         "gtsForm": "FG0223000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0224000",
@@ -3039,7 +2994,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_224_000",
         "gtsForm": "FG0224000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0225000",
@@ -3048,7 +3003,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_225_000",
         "gtsForm": "FG0225000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0226000",
@@ -3057,7 +3012,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_226_000",
         "gtsForm": "FG0226000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0227000",
@@ -3066,7 +3021,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_227_000",
         "gtsForm": "FG0227000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0228000",
@@ -3075,7 +3030,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_228_000",
         "gtsForm": "FG0228000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0229000",
@@ -3084,7 +3039,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_229_000",
         "gtsForm": "FG0229000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0229001",
@@ -3102,7 +3057,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_230_000",
         "gtsForm": "FG0230000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0231000",
@@ -3111,7 +3066,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_231_000",
         "gtsForm": "FG0231000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0232000",
@@ -3120,7 +3075,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_232_000",
         "gtsForm": "FG0232000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0233000",
@@ -3129,7 +3084,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_233_000",
         "gtsForm": "FG0233000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0234000",
@@ -3138,7 +3093,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_234_000",
         "gtsForm": "FG0234000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0235000",
@@ -3147,7 +3102,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_235_000",
         "gtsForm": "FG0235000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0236000",
@@ -3156,7 +3111,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_236_000",
         "gtsForm": "FG0236000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0237000",
@@ -3165,7 +3120,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_237_000",
         "gtsForm": "FG0237000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0238000",
@@ -3174,7 +3129,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_238_000",
         "gtsForm": "FG0238000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0239000",
@@ -3183,7 +3138,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_239_000",
         "gtsForm": "FG0239000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0240000",
@@ -3192,7 +3147,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_240_000",
         "gtsForm": "FG0240000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0241000",
@@ -3201,7 +3156,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_241_000",
         "gtsForm": "FG0241000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0242000",
@@ -3210,7 +3165,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_242_000",
         "gtsForm": "FG0242000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0243000",
@@ -3219,7 +3174,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_243_000",
         "gtsForm": "FG0243000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0244000",
@@ -3228,7 +3183,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_244_000",
         "gtsForm": "FG0244000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0245000",
@@ -3237,7 +3192,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_245_000",
         "gtsForm": "FG0245000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0246000",
@@ -3246,7 +3201,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_246_000",
         "gtsForm": "FG0246000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0247000",
@@ -3255,7 +3210,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_247_000",
         "gtsForm": "FG0247000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0248000",
@@ -3264,7 +3219,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_248_000",
         "gtsForm": "FG0248000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0248001",
@@ -3282,7 +3237,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_249_000",
         "gtsForm": "FG0249000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0250000",
@@ -3291,7 +3246,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_250_000",
         "gtsForm": "FG0250000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0251000",
@@ -3309,7 +3264,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_252_000",
         "gtsForm": "FG0252000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0253000",
@@ -3318,7 +3273,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_253_000",
         "gtsForm": "FG0253000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0254000",
@@ -3327,7 +3282,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_254_000",
         "gtsForm": "FG0254000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0254001",
@@ -3345,7 +3300,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_255_000",
         "gtsForm": "FG0255000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0256000",
@@ -3354,7 +3309,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_256_000",
         "gtsForm": "FG0256000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0257000",
@@ -3363,7 +3318,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_257_000",
         "gtsForm": "FG0257000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0257001",
@@ -3381,7 +3336,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_258_000",
         "gtsForm": "FG0258000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0259000",
@@ -3390,7 +3345,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_259_000",
         "gtsForm": "FG0259000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0260000",
@@ -3399,7 +3354,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_260_000",
         "gtsForm": "FG0260000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0260001",
@@ -3417,7 +3372,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_261_000",
         "gtsForm": "FG0261000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0262000",
@@ -3426,7 +3381,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_262_000",
         "gtsForm": "FG0262000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0263000",
@@ -3471,7 +3426,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_265_000",
         "gtsForm": "FG0265000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0266000",
@@ -3480,7 +3435,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_266_000",
         "gtsForm": "FG0266000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0267000",
@@ -3489,7 +3444,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_267_000",
         "gtsForm": "FG0267000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0268000",
@@ -3498,7 +3453,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_268_000",
         "gtsForm": "FG0268000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0269000",
@@ -3507,7 +3462,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_269_000",
         "gtsForm": "FG0269000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0270000",
@@ -3516,7 +3471,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_270_000",
         "gtsForm": "FG0270000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0271000",
@@ -3525,7 +3480,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_271_000",
         "gtsForm": "FG0271000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0272000",
@@ -3534,7 +3489,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_272_000",
         "gtsForm": "FG0272000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0273000",
@@ -3543,7 +3498,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_273_000",
         "gtsForm": "FG0273000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0274000",
@@ -3552,7 +3507,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_274_000",
         "gtsForm": "FG0274000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0275000",
@@ -3561,7 +3516,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_275_000",
         "gtsForm": "FG0275000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0276000",
@@ -3570,7 +3525,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_276_000",
         "gtsForm": "FG0276000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0277000",
@@ -3579,7 +3534,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_277_000",
         "gtsForm": "FG0277000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0278000",
@@ -3588,7 +3543,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_278_000",
         "gtsForm": "FG0278000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0279000",
@@ -3597,7 +3552,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_279_000",
         "gtsForm": "FG0279000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0280000",
@@ -3606,7 +3561,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_280_000",
         "gtsForm": "FG0280000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0281000",
@@ -3615,7 +3570,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_281_000",
         "gtsForm": "FG0281000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0282000",
@@ -3624,7 +3579,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_282_000",
         "gtsForm": "FG0282000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0282001",
@@ -3642,7 +3597,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_283_000",
         "gtsForm": "FG0283000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0284000",
@@ -3651,7 +3606,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_284_000",
         "gtsForm": "FG0284000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0285000",
@@ -3660,7 +3615,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_285_000",
         "gtsForm": "FG0285000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0286000",
@@ -3669,7 +3624,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_286_000",
         "gtsForm": "FG0286000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0287000",
@@ -3678,7 +3633,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_287_000",
         "gtsForm": "FG0287000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0288000",
@@ -3687,7 +3642,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_288_000",
         "gtsForm": "FG0288000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0289000",
@@ -3696,7 +3651,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_289_000",
         "gtsForm": "FG0289000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0290000",
@@ -3705,7 +3660,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_290_000",
         "gtsForm": "FG0290000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0291000",
@@ -3714,7 +3669,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_291_000",
         "gtsForm": "FG0291000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0292000",
@@ -3723,7 +3678,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_292_000",
         "gtsForm": "FG0292000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0293000",
@@ -3732,7 +3687,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_293_000",
         "gtsForm": "FG0293000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0294000",
@@ -3741,7 +3696,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_294_000",
         "gtsForm": "FG0294000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0295000",
@@ -3750,7 +3705,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_295_000",
         "gtsForm": "FG0295000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0296000",
@@ -3759,7 +3714,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_296_000",
         "gtsForm": "FG0296000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0297000",
@@ -3768,7 +3723,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_297_000",
         "gtsForm": "FG0297000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0298000",
@@ -3777,7 +3732,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_298_000",
         "gtsForm": "FG0298000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0299000",
@@ -3786,7 +3741,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_299_000",
         "gtsForm": "FG0299000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0300000",
@@ -3795,7 +3750,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_300_000",
         "gtsForm": "FG0300000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0301000",
@@ -3804,7 +3759,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_301_000",
         "gtsForm": "FG0301000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0302000",
@@ -3813,7 +3768,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_302_000",
         "gtsForm": "FG0302000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0302001",
@@ -3831,7 +3786,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_303_000",
         "gtsForm": "FG0303000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0303001",
@@ -3849,7 +3804,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_304_000",
         "gtsForm": "FG0304000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0305000",
@@ -3858,7 +3813,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_305_000",
         "gtsForm": "FG0305000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0306000",
@@ -3867,7 +3822,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_306_000",
         "gtsForm": "FG0306000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0306001",
@@ -3885,7 +3840,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_307_000",
         "gtsForm": "FG0307000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0308000",
@@ -3894,7 +3849,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_308_000",
         "gtsForm": "FG0308000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0308001",
@@ -3912,7 +3867,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_309_000",
         "gtsForm": "FG0309000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0310000",
@@ -3921,7 +3876,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_310_000",
         "gtsForm": "FG0310000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0310001",
@@ -3939,7 +3894,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_311_000",
         "gtsForm": "FG0311000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0312000",
@@ -3948,7 +3903,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_312_000",
         "gtsForm": "FG0312000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0313000",
@@ -3957,7 +3912,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_313_000",
         "gtsForm": "FG0313000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0314000",
@@ -3966,7 +3921,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_314_000",
         "gtsForm": "FG0314000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0315000",
@@ -3975,7 +3930,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_315_000",
         "gtsForm": "FG0315000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0316000",
@@ -3984,7 +3939,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_316_000",
         "gtsForm": "FG0316000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0317000",
@@ -3993,7 +3948,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_317_000",
         "gtsForm": "FG0317000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0318000",
@@ -4002,7 +3957,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_318_000",
         "gtsForm": "FG0318000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0319000",
@@ -4011,7 +3966,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_319_000",
         "gtsForm": "FG0319000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0319001",
@@ -4029,7 +3984,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_320_000",
         "gtsForm": "FG0320000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0321000",
@@ -4038,7 +3993,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_321_000",
         "gtsForm": "FG0321000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0322000",
@@ -4047,7 +4002,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_322_000",
         "gtsForm": "FG0322000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0323000",
@@ -4056,7 +4011,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_323_000",
         "gtsForm": "FG0323000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0323001",
@@ -4074,7 +4029,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_324_000",
         "gtsForm": "FG0324000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0325000",
@@ -4083,7 +4038,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_325_000",
         "gtsForm": "FG0325000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0326000",
@@ -4092,7 +4047,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_326_000",
         "gtsForm": "FG0326000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0327000",
@@ -4101,7 +4056,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_327_000",
         "gtsForm": "FG0327000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0328000",
@@ -4110,7 +4065,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_328_000",
         "gtsForm": "FG0328000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0329000",
@@ -4119,7 +4074,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_329_000",
         "gtsForm": "FG0329000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0330000",
@@ -4128,7 +4083,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_330_000",
         "gtsForm": "FG0330000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0331000",
@@ -4137,7 +4092,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_331_000",
         "gtsForm": "FG0331000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0332000",
@@ -4146,7 +4101,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_332_000",
         "gtsForm": "FG0332000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0333000",
@@ -4155,7 +4110,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_333_000",
         "gtsForm": "FG0333000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0334000",
@@ -4164,7 +4119,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_334_000",
         "gtsForm": "FG0334000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0334001",
@@ -4182,7 +4137,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_335_000",
         "gtsForm": "FG0335000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0336000",
@@ -4191,7 +4146,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_336_000",
         "gtsForm": "FG0336000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0337000",
@@ -4200,7 +4155,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_337_000",
         "gtsForm": "FG0337000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0338000",
@@ -4209,7 +4164,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_338_000",
         "gtsForm": "FG0338000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0339000",
@@ -4218,7 +4173,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_339_000",
         "gtsForm": "FG0339000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0340000",
@@ -4227,7 +4182,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_340_000",
         "gtsForm": "FG0340000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0341000",
@@ -4236,7 +4191,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_341_000",
         "gtsForm": "FG0341000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0342000",
@@ -4245,7 +4200,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_342_000",
         "gtsForm": "FG0342000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0343000",
@@ -4254,7 +4209,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_343_000",
         "gtsForm": "FG0343000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0344000",
@@ -4263,7 +4218,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_344_000",
         "gtsForm": "FG0344000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0345000",
@@ -4272,7 +4227,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_345_000",
         "gtsForm": "FG0345000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0346000",
@@ -4281,7 +4236,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_346_000",
         "gtsForm": "FG0346000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0347000",
@@ -4290,7 +4245,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_347_000",
         "gtsForm": "FG0347000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0348000",
@@ -4299,7 +4254,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_348_000",
         "gtsForm": "FG0348000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0349000",
@@ -4308,7 +4263,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_349_000",
         "gtsForm": "FG0349000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0350000",
@@ -4317,7 +4272,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_350_000",
         "gtsForm": "FG0350000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0351000",
@@ -4362,7 +4317,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_352_000",
         "gtsForm": "FG0352000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0353000",
@@ -4371,7 +4326,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_353_000",
         "gtsForm": "FG0353000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0354000",
@@ -4380,7 +4335,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_354_000",
         "gtsForm": "FG0354000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0354001",
@@ -4398,7 +4353,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_355_000",
         "gtsForm": "FG0355000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0356000",
@@ -4407,7 +4362,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_356_000",
         "gtsForm": "FG0356000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0357000",
@@ -4416,7 +4371,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_357_000",
         "gtsForm": "FG0357000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0358000",
@@ -4425,7 +4380,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_358_000",
         "gtsForm": "FG0358000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0359000",
@@ -4434,7 +4389,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_359_000",
         "gtsForm": "FG0359000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0359001",
@@ -4452,7 +4407,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_360_000",
         "gtsForm": "FG0360000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0361000",
@@ -4461,7 +4416,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_361_000",
         "gtsForm": "FG0361000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0362000",
@@ -4470,7 +4425,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_362_000",
         "gtsForm": "FG0362000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0362001",
@@ -4488,7 +4443,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_363_000",
         "gtsForm": "FG0363000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0364000",
@@ -4497,7 +4452,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_364_000",
         "gtsForm": "FG0364000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0365000",
@@ -4506,7 +4461,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_365_000",
         "gtsForm": "FG0365000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0366000",
@@ -4515,7 +4470,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_366_000",
         "gtsForm": "FG0366000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0367000",
@@ -4524,7 +4479,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_367_000",
         "gtsForm": "FG0367000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0368000",
@@ -4533,7 +4488,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_368_000",
         "gtsForm": "FG0368000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0369000",
@@ -4542,7 +4497,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_369_000",
         "gtsForm": "FG0369000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0370000",
@@ -4551,7 +4506,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_370_000",
         "gtsForm": "FG0370000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0371000",
@@ -4560,7 +4515,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_371_000",
         "gtsForm": "FG0371000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0372000",
@@ -4569,7 +4524,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_372_000",
         "gtsForm": "FG0372000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0373000",
@@ -4578,7 +4533,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_373_000",
         "gtsForm": "FG0373000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0373001",
@@ -4596,7 +4551,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_374_000",
         "gtsForm": "FG0374000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0375000",
@@ -4605,7 +4560,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_375_000",
         "gtsForm": "FG0375000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0376000",
@@ -4614,7 +4569,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_376_000",
         "gtsForm": "FG0376000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0376001",
@@ -4632,7 +4587,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_377_000",
         "gtsForm": "FG0377000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0378000",
@@ -4641,7 +4596,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_378_000",
         "gtsForm": "FG0378000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0379000",
@@ -4650,7 +4605,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_379_000",
         "gtsForm": "FG0379000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0380000",
@@ -4659,7 +4614,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_380_000",
         "gtsForm": "FG0380000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0380001",
@@ -4677,7 +4632,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_381_000",
         "gtsForm": "FG0381000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0381001",
@@ -4695,7 +4650,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_382_000",
         "gtsForm": "FG0382000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0382001",
@@ -4713,7 +4668,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_383_000",
         "gtsForm": "FG0383000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0383001",
@@ -4731,7 +4686,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_384_000",
         "gtsForm": "FG0384000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0384001",
@@ -4794,7 +4749,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_387_000",
         "gtsForm": "FG0387000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0388000",
@@ -4803,7 +4758,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_388_000",
         "gtsForm": "FG0388000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0389000",
@@ -4812,7 +4767,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_389_000",
         "gtsForm": "FG0389000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0390000",
@@ -4821,7 +4776,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_390_000",
         "gtsForm": "FG0390000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0391000",
@@ -4830,7 +4785,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_391_000",
         "gtsForm": "FG0391000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0392000",
@@ -4839,7 +4794,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_392_000",
         "gtsForm": "FG0392000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0393000",
@@ -4848,7 +4803,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_393_000",
         "gtsForm": "FG0393000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0394000",
@@ -4857,7 +4812,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_394_000",
         "gtsForm": "FG0394000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0395000",
@@ -4866,7 +4821,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_395_000",
         "gtsForm": "FG0395000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0396000",
@@ -4875,7 +4830,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_396_000",
         "gtsForm": "FG0396000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0397000",
@@ -4884,7 +4839,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_397_000",
         "gtsForm": "FG0397000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0398000",
@@ -4893,7 +4848,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_398_000",
         "gtsForm": "FG0398000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0399000",
@@ -4902,7 +4857,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_399_000",
         "gtsForm": "FG0399000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0400000",
@@ -4911,7 +4866,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_400_000",
         "gtsForm": "FG0400000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0401000",
@@ -4920,7 +4875,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_401_000",
         "gtsForm": "FG0401000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0402000",
@@ -4929,7 +4884,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_402_000",
         "gtsForm": "FG0402000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0403000",
@@ -4938,7 +4893,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_403_000",
         "gtsForm": "FG0403000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0404000",
@@ -4947,7 +4902,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_404_000",
         "gtsForm": "FG0404000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0405000",
@@ -4956,7 +4911,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_405_000",
         "gtsForm": "FG0405000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0406000",
@@ -4965,7 +4920,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_406_000",
         "gtsForm": "FG0406000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0407000",
@@ -4974,7 +4929,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_407_000",
         "gtsForm": "FG0407000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0408000",
@@ -4983,7 +4938,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_408_000",
         "gtsForm": "FG0408000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0409000",
@@ -4992,7 +4947,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_409_000",
         "gtsForm": "FG0409000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0410000",
@@ -5001,7 +4956,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_410_000",
         "gtsForm": "FG0410000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0411000",
@@ -5010,7 +4965,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_411_000",
         "gtsForm": "FG0411000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0412000",
@@ -5100,7 +5055,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_415_000",
         "gtsForm": "FG0415000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0416000",
@@ -5109,7 +5064,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_416_000",
         "gtsForm": "FG0416000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0417000",
@@ -5118,7 +5073,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_417_000",
         "gtsForm": "FG0417000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0418000",
@@ -5127,7 +5082,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_418_000",
         "gtsForm": "FG0418000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0419000",
@@ -5136,7 +5091,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_419_000",
         "gtsForm": "FG0419000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0420000",
@@ -5145,7 +5100,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_420_000",
         "gtsForm": "FG0420000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0421000",
@@ -5208,7 +5163,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_424_000",
         "gtsForm": "FG0424000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0425000",
@@ -5217,7 +5172,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_425_000",
         "gtsForm": "FG0425000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0426000",
@@ -5226,7 +5181,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_426_000",
         "gtsForm": "FG0426000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0427000",
@@ -5235,7 +5190,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_427_000",
         "gtsForm": "FG0427000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0428000",
@@ -5244,7 +5199,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_428_000",
         "gtsForm": "FG0428000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0428001",
@@ -5262,7 +5217,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_429_000",
         "gtsForm": "FG0429000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0430000",
@@ -5271,7 +5226,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_430_000",
         "gtsForm": "FG0430000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0431000",
@@ -5280,7 +5235,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_431_000",
         "gtsForm": "FG0431000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0432000",
@@ -5289,7 +5244,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_432_000",
         "gtsForm": "FG0432000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0433000",
@@ -5298,7 +5253,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_433_000",
         "gtsForm": "FG0433000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0434000",
@@ -5307,7 +5262,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_434_000",
         "gtsForm": "FG0434000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0435000",
@@ -5316,7 +5271,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_435_000",
         "gtsForm": "FG0435000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0436000",
@@ -5325,7 +5280,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_436_000",
         "gtsForm": "FG0436000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0437000",
@@ -5334,7 +5289,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_437_000",
         "gtsForm": "FG0437000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0438000",
@@ -5343,7 +5298,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_438_000",
         "gtsForm": "FG0438000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0439000",
@@ -5352,7 +5307,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_439_000",
         "gtsForm": "FG0439000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0440000",
@@ -5361,7 +5316,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_440_000",
         "gtsForm": "FG0440000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0441000",
@@ -5370,7 +5325,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_441_000",
         "gtsForm": "FG0441000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0442000",
@@ -5379,7 +5334,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_442_000",
         "gtsForm": "FG0442000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0443000",
@@ -5388,7 +5343,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_443_000",
         "gtsForm": "FG0443000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0444000",
@@ -5397,7 +5352,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_444_000",
         "gtsForm": "FG0444000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0445000",
@@ -5406,7 +5361,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_445_000",
         "gtsForm": "FG0445000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0445001",
@@ -5424,7 +5379,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_446_000",
         "gtsForm": "FG0446000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0447000",
@@ -5433,7 +5388,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_447_000",
         "gtsForm": "FG0447000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0448000",
@@ -5442,7 +5397,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_448_000",
         "gtsForm": "FG0448000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0448001",
@@ -5460,7 +5415,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_449_000",
         "gtsForm": "FG0449000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0450000",
@@ -5469,7 +5424,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_450_000",
         "gtsForm": "FG0450000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0451000",
@@ -5478,7 +5433,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_451_000",
         "gtsForm": "FG0451000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0452000",
@@ -5487,7 +5442,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_452_000",
         "gtsForm": "FG0452000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0453000",
@@ -5496,7 +5451,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_453_000",
         "gtsForm": "FG0453000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0454000",
@@ -5505,7 +5460,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_454_000",
         "gtsForm": "FG0454000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0455000",
@@ -5514,7 +5469,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_455_000",
         "gtsForm": "FG0455000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0456000",
@@ -5523,7 +5478,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_456_000",
         "gtsForm": "FG0456000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0457000",
@@ -5532,7 +5487,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_457_000",
         "gtsForm": "FG0457000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0458000",
@@ -5541,7 +5496,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_458_000",
         "gtsForm": "FG0458000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0459000",
@@ -5550,7 +5505,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_459_000",
         "gtsForm": "FG0459000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0460000",
@@ -5559,7 +5514,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_460_000",
         "gtsForm": "FG0460000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0460001",
@@ -5577,7 +5532,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_461_000",
         "gtsForm": "FG0461000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0462000",
@@ -5586,7 +5541,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_462_000",
         "gtsForm": "FG0462000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0463000",
@@ -5595,7 +5550,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_463_000",
         "gtsForm": "FG0463000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0464000",
@@ -5604,7 +5559,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_464_000",
         "gtsForm": "FG0464000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0465000",
@@ -5613,7 +5568,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_465_000",
         "gtsForm": "FG0465000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0466000",
@@ -5622,7 +5577,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_466_000",
         "gtsForm": "FG0466000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0467000",
@@ -5631,7 +5586,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_467_000",
         "gtsForm": "FG0467000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0468000",
@@ -5640,7 +5595,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_468_000",
         "gtsForm": "FG0468000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0469000",
@@ -5649,7 +5604,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_469_000",
         "gtsForm": "FG0469000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0470000",
@@ -5658,7 +5613,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_470_000",
         "gtsForm": "FG0470000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0471000",
@@ -5667,7 +5622,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_471_000",
         "gtsForm": "FG0471000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0472000",
@@ -5676,7 +5631,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_472_000",
         "gtsForm": "FG0472000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0473000",
@@ -5685,7 +5640,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_473_000",
         "gtsForm": "FG0473000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0474000",
@@ -5694,7 +5649,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_474_000",
         "gtsForm": "FG0474000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0475000",
@@ -5703,7 +5658,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_475_000",
         "gtsForm": "FG0475000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0475001",
@@ -5721,7 +5676,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_476_000",
         "gtsForm": "FG0476000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0477000",
@@ -5730,7 +5685,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_477_000",
         "gtsForm": "FG0477000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0478000",
@@ -5739,7 +5694,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_478_000",
         "gtsForm": "FG0478000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0479000",
@@ -5802,7 +5757,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_480_000",
         "gtsForm": "FG0480000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0481000",
@@ -5811,7 +5766,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_481_000",
         "gtsForm": "FG0481000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0482000",
@@ -5820,7 +5775,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_482_000",
         "gtsForm": "FG0482000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0483000",
@@ -5829,7 +5784,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_483_000",
         "gtsForm": "FG0483000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0483001",
@@ -5847,7 +5802,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_484_000",
         "gtsForm": "FG0484000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0484001",
@@ -5865,7 +5820,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_485_000",
         "gtsForm": "FG0485000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0486000",
@@ -5874,7 +5829,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_486_000",
         "gtsForm": "FG0486000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0487000",
@@ -5883,7 +5838,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_487_000",
         "gtsForm": "FG0487000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0487001",
@@ -5901,7 +5856,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_488_000",
         "gtsForm": "FG0488000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0489000",
@@ -6135,7 +6090,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_495_000",
         "gtsForm": "FG0495000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0496000",
@@ -6144,7 +6099,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_496_000",
         "gtsForm": "FG0496000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0497000",
@@ -6153,7 +6108,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_497_000",
         "gtsForm": "FG0497000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0498000",
@@ -6162,7 +6117,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_498_000",
         "gtsForm": "FG0498000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0499000",
@@ -6171,7 +6126,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_499_000",
         "gtsForm": "FG0499000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0500000",
@@ -6180,7 +6135,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_500_000",
         "gtsForm": "FG0500000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0501000",
@@ -6189,7 +6144,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_501_000",
         "gtsForm": "FG0501000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0502000",
@@ -6198,7 +6153,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_502_000",
         "gtsForm": "FG0502000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0503000",
@@ -6225,7 +6180,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_504_000",
         "gtsForm": "FG0504000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0505000",
@@ -6234,7 +6189,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_505_000",
         "gtsForm": "FG0505000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0506000",
@@ -6243,7 +6198,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_506_000",
         "gtsForm": "FG0506000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0507000",
@@ -6252,7 +6207,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_507_000",
         "gtsForm": "FG0507000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0508000",
@@ -6261,7 +6216,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_508_000",
         "gtsForm": "FG0508000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0509000",
@@ -6270,7 +6225,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_509_000",
         "gtsForm": "FG0509000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0510000",
@@ -6279,7 +6234,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_510_000",
         "gtsForm": "FG0510000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0511000",
@@ -6288,7 +6243,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_511_000",
         "gtsForm": "FG0511000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0512000",
@@ -6297,7 +6252,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_512_000",
         "gtsForm": "FG0512000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0513000",
@@ -6306,7 +6261,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_513_000",
         "gtsForm": "FG0513000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0514000",
@@ -6315,7 +6270,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_514_000",
         "gtsForm": "FG0514000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0515000",
@@ -6324,7 +6279,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_515_000",
         "gtsForm": "FG0515000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0516000",
@@ -6333,7 +6288,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_516_000",
         "gtsForm": "FG0516000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0517000",
@@ -6342,7 +6297,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_517_000",
         "gtsForm": "FG0517000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0518000",
@@ -6351,7 +6306,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_518_000",
         "gtsForm": "FG0518000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0519000",
@@ -6360,7 +6315,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_519_000",
         "gtsForm": "FG0519000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0520000",
@@ -6369,7 +6324,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_520_000",
         "gtsForm": "FG0520000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0521000",
@@ -6378,7 +6333,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_521_000",
         "gtsForm": "FG0521000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0522000",
@@ -6387,7 +6342,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_522_000",
         "gtsForm": "FG0522000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0523000",
@@ -6396,7 +6351,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_523_000",
         "gtsForm": "FG0523000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0524000",
@@ -6405,7 +6360,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_524_000",
         "gtsForm": "FG0524000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0525000",
@@ -6414,7 +6369,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_525_000",
         "gtsForm": "FG0525000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0526000",
@@ -6423,7 +6378,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_526_000",
         "gtsForm": "FG0526000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0527000",
@@ -6432,7 +6387,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_527_000",
         "gtsForm": "FG0527000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0528000",
@@ -6441,7 +6396,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_528_000",
         "gtsForm": "FG0528000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0529000",
@@ -6450,7 +6405,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_529_000",
         "gtsForm": "FG0529000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0530000",
@@ -6459,7 +6414,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_530_000",
         "gtsForm": "FG0530000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0531000",
@@ -6468,7 +6423,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_531_000",
         "gtsForm": "FG0531000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0531001",
@@ -6486,7 +6441,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_532_000",
         "gtsForm": "FG0532000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0533000",
@@ -6495,7 +6450,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_533_000",
         "gtsForm": "FG0533000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0534000",
@@ -6504,7 +6459,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_534_000",
         "gtsForm": "FG0534000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0535000",
@@ -6513,7 +6468,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_535_000",
         "gtsForm": "FG0535000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0536000",
@@ -6522,7 +6477,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_536_000",
         "gtsForm": "FG0536000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0537000",
@@ -6531,7 +6486,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_537_000",
         "gtsForm": "FG0537000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0538000",
@@ -6540,7 +6495,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_538_000",
         "gtsForm": "FG0538000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0539000",
@@ -6549,7 +6504,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_539_000",
         "gtsForm": "FG0539000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0540000",
@@ -6558,7 +6513,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_540_000",
         "gtsForm": "FG0540000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0541000",
@@ -6567,7 +6522,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_541_000",
         "gtsForm": "FG0541000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0542000",
@@ -6576,7 +6531,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_542_000",
         "gtsForm": "FG0542000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0543000",
@@ -6585,7 +6540,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_543_000",
         "gtsForm": "FG0543000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0544000",
@@ -6594,7 +6549,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_544_000",
         "gtsForm": "FG0544000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0545000",
@@ -6603,7 +6558,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_545_000",
         "gtsForm": "FG0545000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0546000",
@@ -6612,7 +6567,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_546_000",
         "gtsForm": "FG0546000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0547000",
@@ -6621,7 +6576,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_547_000",
         "gtsForm": "FG0547000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0548000",
@@ -6630,7 +6585,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_548_000",
         "gtsForm": "FG0548000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0549000",
@@ -6649,15 +6604,6 @@
         "ms": "zkn_form:ZKN_FORM_549_001",
         "gtsForm": "FG0549001",
         "isViewGTS": 1
-    },
-    {
-        "id": "FN0549002",
-        "mdPokemonImage": "PI0549002",
-        "variationNum": 0,
-        "formNo": 2,
-        "ms": "zkn_form:ZKN_FORM_549_002",
-        "gtsForm": "FG0549002",
-        "isViewGTS": 0
     },
     {
         "id": "FN0550000",
@@ -6693,7 +6639,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_551_000",
         "gtsForm": "FG0551000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0552000",
@@ -6702,7 +6648,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_552_000",
         "gtsForm": "FG0552000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0553000",
@@ -6711,7 +6657,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_553_000",
         "gtsForm": "FG0553000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0554000",
@@ -6774,7 +6720,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_556_000",
         "gtsForm": "FG0556000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0557000",
@@ -6783,7 +6729,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_557_000",
         "gtsForm": "FG0557000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0558000",
@@ -6792,7 +6738,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_558_000",
         "gtsForm": "FG0558000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0559000",
@@ -6801,7 +6747,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_559_000",
         "gtsForm": "FG0559000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0560000",
@@ -6810,7 +6756,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_560_000",
         "gtsForm": "FG0560000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0561000",
@@ -6819,7 +6765,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_561_000",
         "gtsForm": "FG0561000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0562000",
@@ -6846,7 +6792,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_563_000",
         "gtsForm": "FG0563000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0564000",
@@ -6855,7 +6801,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_564_000",
         "gtsForm": "FG0564000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0565000",
@@ -6864,7 +6810,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_565_000",
         "gtsForm": "FG0565000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0566000",
@@ -6873,7 +6819,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_566_000",
         "gtsForm": "FG0566000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0567000",
@@ -6882,7 +6828,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_567_000",
         "gtsForm": "FG0567000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0568000",
@@ -6891,7 +6837,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_568_000",
         "gtsForm": "FG0568000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0569000",
@@ -6900,7 +6846,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_569_000",
         "gtsForm": "FG0569000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0569000G",
@@ -6954,7 +6900,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_572_000",
         "gtsForm": "FG0572000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0573000",
@@ -6963,7 +6909,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_573_000",
         "gtsForm": "FG0573000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0574000",
@@ -6972,7 +6918,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_574_000",
         "gtsForm": "FG0574000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0575000",
@@ -6981,7 +6927,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_575_000",
         "gtsForm": "FG0575000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0576000",
@@ -6990,7 +6936,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_576_000",
         "gtsForm": "FG0576000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0577000",
@@ -6999,7 +6945,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_577_000",
         "gtsForm": "FG0577000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0578000",
@@ -7008,7 +6954,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_578_000",
         "gtsForm": "FG0578000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0579000",
@@ -7017,7 +6963,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_579_000",
         "gtsForm": "FG0579000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0580000",
@@ -7026,7 +6972,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_580_000",
         "gtsForm": "FG0580000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0581000",
@@ -7035,7 +6981,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_581_000",
         "gtsForm": "FG0581000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0582000",
@@ -7044,7 +6990,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_582_000",
         "gtsForm": "FG0582000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0583000",
@@ -7053,7 +6999,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_583_000",
         "gtsForm": "FG0583000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0584000",
@@ -7062,7 +7008,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_584_000",
         "gtsForm": "FG0584000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0585000",
@@ -7143,7 +7089,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_587_000",
         "gtsForm": "FG0587000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0588000",
@@ -7152,7 +7098,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_588_000",
         "gtsForm": "FG0588000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0589000",
@@ -7161,7 +7107,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_589_000",
         "gtsForm": "FG0589000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0590000",
@@ -7170,7 +7116,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_590_000",
         "gtsForm": "FG0590000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0591000",
@@ -7179,7 +7125,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_591_000",
         "gtsForm": "FG0591000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0592000",
@@ -7188,7 +7134,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_592_000",
         "gtsForm": "FG0592000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0593000",
@@ -7197,7 +7143,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_593_000",
         "gtsForm": "FG0593000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0594000",
@@ -7206,7 +7152,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_594_000",
         "gtsForm": "FG0594000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0595000",
@@ -7215,7 +7161,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_595_000",
         "gtsForm": "FG0595000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0596000",
@@ -7224,7 +7170,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_596_000",
         "gtsForm": "FG0596000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0597000",
@@ -7233,7 +7179,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_597_000",
         "gtsForm": "FG0597000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0598000",
@@ -7242,7 +7188,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_598_000",
         "gtsForm": "FG0598000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0599000",
@@ -7251,7 +7197,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_599_000",
         "gtsForm": "FG0599000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0600000",
@@ -7260,7 +7206,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_600_000",
         "gtsForm": "FG0600000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0601000",
@@ -7269,7 +7215,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_601_000",
         "gtsForm": "FG0601000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0602000",
@@ -7278,7 +7224,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_602_000",
         "gtsForm": "FG0602000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0603000",
@@ -7287,7 +7233,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_603_000",
         "gtsForm": "FG0603000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0604000",
@@ -7296,7 +7242,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_604_000",
         "gtsForm": "FG0604000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0605000",
@@ -7305,7 +7251,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_605_000",
         "gtsForm": "FG0605000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0606000",
@@ -7314,7 +7260,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_606_000",
         "gtsForm": "FG0606000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0607000",
@@ -7323,7 +7269,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_607_000",
         "gtsForm": "FG0607000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0608000",
@@ -7332,7 +7278,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_608_000",
         "gtsForm": "FG0608000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0609000",
@@ -7341,7 +7287,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_609_000",
         "gtsForm": "FG0609000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0610000",
@@ -7350,7 +7296,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_610_000",
         "gtsForm": "FG0610000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0611000",
@@ -7359,7 +7305,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_611_000",
         "gtsForm": "FG0611000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0612000",
@@ -7368,7 +7314,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_612_000",
         "gtsForm": "FG0612000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0613000",
@@ -7377,7 +7323,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_613_000",
         "gtsForm": "FG0613000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0614000",
@@ -7386,7 +7332,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_614_000",
         "gtsForm": "FG0614000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0615000",
@@ -7395,7 +7341,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_615_000",
         "gtsForm": "FG0615000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0616000",
@@ -7404,7 +7350,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_616_000",
         "gtsForm": "FG0616000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0617000",
@@ -7413,7 +7359,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_617_000",
         "gtsForm": "FG0617000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0618000",
@@ -7440,7 +7386,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_619_000",
         "gtsForm": "FG0619000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0620000",
@@ -7449,7 +7395,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_620_000",
         "gtsForm": "FG0620000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0621000",
@@ -7458,7 +7404,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_621_000",
         "gtsForm": "FG0621000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0622000",
@@ -7467,7 +7413,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_622_000",
         "gtsForm": "FG0622000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0623000",
@@ -7476,7 +7422,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_623_000",
         "gtsForm": "FG0623000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0624000",
@@ -7485,7 +7431,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_624_000",
         "gtsForm": "FG0624000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0625000",
@@ -7494,7 +7440,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_625_000",
         "gtsForm": "FG0625000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0626000",
@@ -7503,7 +7449,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_626_000",
         "gtsForm": "FG0626000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0627000",
@@ -7512,7 +7458,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_627_000",
         "gtsForm": "FG0627000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0628000",
@@ -7530,7 +7476,7 @@
         "formNo": 1,
         "ms": "zkn_form:ZKN_FORM_628_001",
         "gtsForm": "FG0628001",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0629000",
@@ -7539,7 +7485,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_629_000",
         "gtsForm": "FG0629000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0630000",
@@ -7548,7 +7494,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_630_000",
         "gtsForm": "FG0630000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0631000",
@@ -7557,7 +7503,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_631_000",
         "gtsForm": "FG0631000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0632000",
@@ -7566,7 +7512,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_632_000",
         "gtsForm": "FG0632000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0633000",
@@ -7575,7 +7521,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_633_000",
         "gtsForm": "FG0633000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0634000",
@@ -7584,7 +7530,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_634_000",
         "gtsForm": "FG0634000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0635000",
@@ -7593,7 +7539,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_635_000",
         "gtsForm": "FG0635000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0636000",
@@ -7602,7 +7548,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_636_000",
         "gtsForm": "FG0636000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0637000",
@@ -7611,7 +7557,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_637_000",
         "gtsForm": "FG0637000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0638000",
@@ -7620,7 +7566,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_638_000",
         "gtsForm": "FG0638000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0639000",
@@ -7629,7 +7575,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_639_000",
         "gtsForm": "FG0639000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0640000",
@@ -7638,7 +7584,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_640_000",
         "gtsForm": "FG0640000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0641000",
@@ -7683,7 +7629,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_643_000",
         "gtsForm": "FG0643000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0644000",
@@ -7692,7 +7638,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_644_000",
         "gtsForm": "FG0644000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0645000",
@@ -7719,7 +7665,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_646_000",
         "gtsForm": "FG0646000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0646001",
@@ -7827,7 +7773,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_650_000",
         "gtsForm": "FG0650000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0651000",
@@ -7836,7 +7782,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_651_000",
         "gtsForm": "FG0651000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0652000",
@@ -7845,7 +7791,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_652_000",
         "gtsForm": "FG0652000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0653000",
@@ -7854,7 +7800,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_653_000",
         "gtsForm": "FG0653000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0654000",
@@ -7863,7 +7809,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_654_000",
         "gtsForm": "FG0654000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0655000",
@@ -7872,7 +7818,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_655_000",
         "gtsForm": "FG0655000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0656000",
@@ -7881,7 +7827,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_656_000",
         "gtsForm": "FG0656000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0657000",
@@ -7890,7 +7836,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_657_000",
         "gtsForm": "FG0657000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0658000",
@@ -7899,7 +7845,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_658_000",
         "gtsForm": "FG0658000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0658001",
@@ -7926,7 +7872,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_659_000",
         "gtsForm": "FG0659000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0660000",
@@ -7935,7 +7881,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_660_000",
         "gtsForm": "FG0660000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0661000",
@@ -7944,7 +7890,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_661_000",
         "gtsForm": "FG0661000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0662000",
@@ -7953,7 +7899,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_662_000",
         "gtsForm": "FG0662000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0663000",
@@ -7962,7 +7908,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_663_000",
         "gtsForm": "FG0663000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0664000",
@@ -8493,7 +8439,7 @@
         "formNo": 18,
         "ms": "zkn_form:ZKN_FORM_666_018",
         "gtsForm": "FG0666018",
-        "isViewGTS": 0
+        "isViewGTS": 1
     },
     {
         "id": "FN0666019",
@@ -8511,7 +8457,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_667_000",
         "gtsForm": "FG0667000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0668000",
@@ -8520,7 +8466,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_668_000",
         "gtsForm": "FG0668000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0669000",
@@ -8613,15 +8559,6 @@
         "isViewGTS": 1
     },
     {
-        "id": "FN0670005",
-        "mdPokemonImage": "PI0670005",
-        "variationNum": 0,
-        "formNo": 5,
-        "ms": "zkn_form:ZKN_FORM_670_005",
-        "gtsForm": "FG0670005",
-        "isViewGTS": 0
-    },
-    {
         "id": "FN0671000",
         "mdPokemonImage": "PI0671000",
         "variationNum": 0,
@@ -8673,7 +8610,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_672_000",
         "gtsForm": "FG0672000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0673000",
@@ -8682,7 +8619,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_673_000",
         "gtsForm": "FG0673000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0674000",
@@ -8691,7 +8628,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_674_000",
         "gtsForm": "FG0674000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0675000",
@@ -8700,7 +8637,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_675_000",
         "gtsForm": "FG0675000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0676000",
@@ -8799,7 +8736,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_677_000",
         "gtsForm": "FG0677000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0678000",
@@ -8826,7 +8763,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_679_000",
         "gtsForm": "FG0679000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0680000",
@@ -8835,7 +8772,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_680_000",
         "gtsForm": "FG0680000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0681000",
@@ -8844,7 +8781,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_681_000",
         "gtsForm": "FG0681000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0681001",
@@ -8862,7 +8799,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_682_000",
         "gtsForm": "FG0682000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0683000",
@@ -8871,7 +8808,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_683_000",
         "gtsForm": "FG0683000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0684000",
@@ -8880,7 +8817,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_684_000",
         "gtsForm": "FG0684000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0685000",
@@ -8889,7 +8826,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_685_000",
         "gtsForm": "FG0685000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0686000",
@@ -8898,7 +8835,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_686_000",
         "gtsForm": "FG0686000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0687000",
@@ -8907,7 +8844,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_687_000",
         "gtsForm": "FG0687000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0688000",
@@ -8916,7 +8853,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_688_000",
         "gtsForm": "FG0688000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0689000",
@@ -8925,7 +8862,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_689_000",
         "gtsForm": "FG0689000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0690000",
@@ -8934,7 +8871,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_690_000",
         "gtsForm": "FG0690000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0691000",
@@ -8943,7 +8880,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_691_000",
         "gtsForm": "FG0691000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0692000",
@@ -8952,7 +8889,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_692_000",
         "gtsForm": "FG0692000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0693000",
@@ -8961,7 +8898,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_693_000",
         "gtsForm": "FG0693000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0694000",
@@ -8970,7 +8907,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_694_000",
         "gtsForm": "FG0694000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0695000",
@@ -8979,7 +8916,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_695_000",
         "gtsForm": "FG0695000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0696000",
@@ -8988,7 +8925,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_696_000",
         "gtsForm": "FG0696000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0697000",
@@ -8997,7 +8934,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_697_000",
         "gtsForm": "FG0697000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0698000",
@@ -9006,7 +8943,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_698_000",
         "gtsForm": "FG0698000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0699000",
@@ -9015,7 +8952,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_699_000",
         "gtsForm": "FG0699000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0700000",
@@ -9024,7 +8961,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_700_000",
         "gtsForm": "FG0700000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0701000",
@@ -9033,7 +8970,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_701_000",
         "gtsForm": "FG0701000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0702000",
@@ -9042,7 +8979,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_702_000",
         "gtsForm": "FG0702000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0703000",
@@ -9051,7 +8988,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_703_000",
         "gtsForm": "FG0703000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0704000",
@@ -9060,7 +8997,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_704_000",
         "gtsForm": "FG0704000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0705000",
@@ -9105,7 +9042,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_707_000",
         "gtsForm": "FG0707000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0708000",
@@ -9114,7 +9051,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_708_000",
         "gtsForm": "FG0708000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0709000",
@@ -9123,7 +9060,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_709_000",
         "gtsForm": "FG0709000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0710000",
@@ -9204,7 +9141,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_712_000",
         "gtsForm": "FG0712000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0713000",
@@ -9225,22 +9162,13 @@
         "isViewGTS": 1
     },
     {
-        "id": "FN0713002",
-        "mdPokemonImage": "PI0713002",
-        "variationNum": 0,
-        "formNo": 2,
-        "ms": "zkn_form:ZKN_FORM_713_002",
-        "gtsForm": "FG0713002",
-        "isViewGTS": 0
-    },
-    {
         "id": "FN0714000",
         "mdPokemonImage": "PI0714000",
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_714_000",
         "gtsForm": "FG0714000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0715000",
@@ -9249,7 +9177,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_715_000",
         "gtsForm": "FG0715000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0716000",
@@ -9258,7 +9186,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_716_000",
         "gtsForm": "FG0716000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0716001",
@@ -9276,7 +9204,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_717_000",
         "gtsForm": "FG0717000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0718000",
@@ -9375,7 +9303,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_722_000",
         "gtsForm": "FG0722000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0723000",
@@ -9384,7 +9312,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_723_000",
         "gtsForm": "FG0723000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0724000",
@@ -9411,7 +9339,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_725_000",
         "gtsForm": "FG0725000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0726000",
@@ -9420,7 +9348,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_726_000",
         "gtsForm": "FG0726000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0727000",
@@ -9429,7 +9357,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_727_000",
         "gtsForm": "FG0727000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0728000",
@@ -9438,7 +9366,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_728_000",
         "gtsForm": "FG0728000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0729000",
@@ -9447,7 +9375,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_729_000",
         "gtsForm": "FG0729000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0730000",
@@ -9456,7 +9384,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_730_000",
         "gtsForm": "FG0730000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0731000",
@@ -9465,7 +9393,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_731_000",
         "gtsForm": "FG0731000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0732000",
@@ -9474,7 +9402,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_732_000",
         "gtsForm": "FG0732000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0733000",
@@ -9483,7 +9411,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_733_000",
         "gtsForm": "FG0733000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0734000",
@@ -9492,7 +9420,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_734_000",
         "gtsForm": "FG0734000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0735000",
@@ -9501,15 +9429,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_735_000",
         "gtsForm": "FG0735000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0735001",
-        "mdPokemonImage": "PI0735001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_735_001",
-        "gtsForm": "FG0735001",
         "isViewGTS": 0
     },
     {
@@ -9519,7 +9438,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_736_000",
         "gtsForm": "FG0736000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0737000",
@@ -9528,7 +9447,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_737_000",
         "gtsForm": "FG0737000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0738000",
@@ -9537,15 +9456,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_738_000",
         "gtsForm": "FG0738000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0738001",
-        "mdPokemonImage": "PI0738001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_738_001",
-        "gtsForm": "FG0738001",
         "isViewGTS": 0
     },
     {
@@ -9555,7 +9465,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_739_000",
         "gtsForm": "FG0739000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0740000",
@@ -9564,7 +9474,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_740_000",
         "gtsForm": "FG0740000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0741000",
@@ -9609,7 +9519,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_742_000",
         "gtsForm": "FG0742000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0743000",
@@ -9618,15 +9528,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_743_000",
         "gtsForm": "FG0743000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0743001",
-        "mdPokemonImage": "PI0743001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_743_001",
-        "gtsForm": "FG0743001",
         "isViewGTS": 0
     },
     {
@@ -9636,7 +9537,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_744_000",
         "gtsForm": "FG0744000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0744001",
@@ -9699,7 +9600,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_747_000",
         "gtsForm": "FG0747000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0748000",
@@ -9708,7 +9609,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_748_000",
         "gtsForm": "FG0748000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0749000",
@@ -9717,7 +9618,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_749_000",
         "gtsForm": "FG0749000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0750000",
@@ -9726,7 +9627,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_750_000",
         "gtsForm": "FG0750000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0751000",
@@ -9735,7 +9636,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_751_000",
         "gtsForm": "FG0751000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0752000",
@@ -9744,15 +9645,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_752_000",
         "gtsForm": "FG0752000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0752001",
-        "mdPokemonImage": "PI0752001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_752_001",
-        "gtsForm": "FG0752001",
         "isViewGTS": 0
     },
     {
@@ -9762,7 +9654,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_753_000",
         "gtsForm": "FG0753000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0754000",
@@ -9771,15 +9663,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_754_000",
         "gtsForm": "FG0754000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0754001",
-        "mdPokemonImage": "PI0754001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_754_001",
-        "gtsForm": "FG0754001",
         "isViewGTS": 0
     },
     {
@@ -9789,7 +9672,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_755_000",
         "gtsForm": "FG0755000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0756000",
@@ -9798,7 +9681,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_756_000",
         "gtsForm": "FG0756000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0757000",
@@ -9807,7 +9690,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_757_000",
         "gtsForm": "FG0757000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0758000",
@@ -9816,15 +9699,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_758_000",
         "gtsForm": "FG0758000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0758001",
-        "mdPokemonImage": "PI0758001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_758_001",
-        "gtsForm": "FG0758001",
         "isViewGTS": 0
     },
     {
@@ -9834,7 +9708,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_759_000",
         "gtsForm": "FG0759000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0760000",
@@ -9843,7 +9717,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_760_000",
         "gtsForm": "FG0760000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0761000",
@@ -9852,7 +9726,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_761_000",
         "gtsForm": "FG0761000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0762000",
@@ -9861,7 +9735,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_762_000",
         "gtsForm": "FG0762000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0763000",
@@ -9870,7 +9744,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_763_000",
         "gtsForm": "FG0763000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0764000",
@@ -9879,7 +9753,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_764_000",
         "gtsForm": "FG0764000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0765000",
@@ -9888,7 +9762,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_765_000",
         "gtsForm": "FG0765000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0766000",
@@ -9897,7 +9771,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_766_000",
         "gtsForm": "FG0766000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0767000",
@@ -9906,7 +9780,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_767_000",
         "gtsForm": "FG0767000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0768000",
@@ -9915,7 +9789,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_768_000",
         "gtsForm": "FG0768000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0769000",
@@ -9924,7 +9798,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_769_000",
         "gtsForm": "FG0769000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0770000",
@@ -9933,7 +9807,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_770_000",
         "gtsForm": "FG0770000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0771000",
@@ -9942,7 +9816,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_771_000",
         "gtsForm": "FG0771000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0772000",
@@ -9951,7 +9825,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_772_000",
         "gtsForm": "FG0772000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0773000",
@@ -9960,7 +9834,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_773_000",
         "gtsForm": "FG0773000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0773001",
@@ -10248,7 +10122,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_775_000",
         "gtsForm": "FG0775000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0776000",
@@ -10257,7 +10131,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_776_000",
         "gtsForm": "FG0776000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0777000",
@@ -10266,15 +10140,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_777_000",
         "gtsForm": "FG0777000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0777001",
-        "mdPokemonImage": "PI0777001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_777_001",
-        "gtsForm": "FG0777001",
         "isViewGTS": 0
     },
     {
@@ -10284,7 +10149,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_778_000",
         "gtsForm": "FG0778000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0778001",
@@ -10296,31 +10161,13 @@
         "isViewGTS": 0
     },
     {
-        "id": "FN0778002",
-        "mdPokemonImage": "PI0778002",
-        "variationNum": 0,
-        "formNo": 2,
-        "ms": "zkn_form:ZKN_FORM_778_002",
-        "gtsForm": "FG0778002",
-        "isViewGTS": 0
-    },
-    {
-        "id": "FN0778003",
-        "mdPokemonImage": "PI0778003",
-        "variationNum": 0,
-        "formNo": 3,
-        "ms": "zkn_form:ZKN_FORM_778_003",
-        "gtsForm": "FG0778003",
-        "isViewGTS": 0
-    },
-    {
         "id": "FN0779000",
         "mdPokemonImage": "PI0779000",
         "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_779_000",
         "gtsForm": "FG0779000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0780000",
@@ -10329,7 +10176,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_780_000",
         "gtsForm": "FG0780000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0781000",
@@ -10338,7 +10185,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_781_000",
         "gtsForm": "FG0781000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0782000",
@@ -10347,7 +10194,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_782_000",
         "gtsForm": "FG0782000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0783000",
@@ -10356,7 +10203,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_783_000",
         "gtsForm": "FG0783000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0784000",
@@ -10365,15 +10212,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_784_000",
         "gtsForm": "FG0784000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0784001",
-        "mdPokemonImage": "PI0784001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_784_001",
-        "gtsForm": "FG0784001",
         "isViewGTS": 0
     },
     {
@@ -10383,7 +10221,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_785_000",
         "gtsForm": "FG0785000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0786000",
@@ -10392,7 +10230,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_786_000",
         "gtsForm": "FG0786000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0787000",
@@ -10401,7 +10239,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_787_000",
         "gtsForm": "FG0787000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0788000",
@@ -10410,7 +10248,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_788_000",
         "gtsForm": "FG0788000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0789000",
@@ -10419,7 +10257,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_789_000",
         "gtsForm": "FG0789000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0790000",
@@ -10428,7 +10266,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_790_000",
         "gtsForm": "FG0790000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0791000",
@@ -10437,7 +10275,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_791_000",
         "gtsForm": "FG0791000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0792000",
@@ -10446,7 +10284,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_792_000",
         "gtsForm": "FG0792000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0793000",
@@ -10455,7 +10293,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_793_000",
         "gtsForm": "FG0793000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0794000",
@@ -10464,7 +10302,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_794_000",
         "gtsForm": "FG0794000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0795000",
@@ -10473,7 +10311,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_795_000",
         "gtsForm": "FG0795000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0796000",
@@ -10482,7 +10320,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_796_000",
         "gtsForm": "FG0796000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0797000",
@@ -10491,7 +10329,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_797_000",
         "gtsForm": "FG0797000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0798000",
@@ -10500,7 +10338,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_798_000",
         "gtsForm": "FG0798000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0799000",
@@ -10509,7 +10347,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_799_000",
         "gtsForm": "FG0799000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0800000",
@@ -10518,7 +10356,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_800_000",
         "gtsForm": "FG0800000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0800001",
@@ -10581,7 +10419,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_803_000",
         "gtsForm": "FG0803000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0804000",
@@ -10590,7 +10428,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_804_000",
         "gtsForm": "FG0804000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0805000",
@@ -10599,7 +10437,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_805_000",
         "gtsForm": "FG0805000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0806000",
@@ -10608,7 +10446,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_806_000",
         "gtsForm": "FG0806000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0807000",
@@ -10653,7 +10491,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_810_000",
         "gtsForm": "FG0810000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0811000",
@@ -10662,7 +10500,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_811_000",
         "gtsForm": "FG0811000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0812000",
@@ -10671,7 +10509,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_812_000",
         "gtsForm": "FG0812000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0812000G",
@@ -10689,7 +10527,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_813_000",
         "gtsForm": "FG0813000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0814000",
@@ -10698,7 +10536,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_814_000",
         "gtsForm": "FG0814000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0815000",
@@ -10707,7 +10545,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_815_000",
         "gtsForm": "FG0815000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0815000G",
@@ -10725,7 +10563,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_816_000",
         "gtsForm": "FG0816000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0817000",
@@ -10734,7 +10572,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_817_000",
         "gtsForm": "FG0817000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0818000",
@@ -10743,7 +10581,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_818_000",
         "gtsForm": "FG0818000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0818000G",
@@ -10761,7 +10599,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_819_000",
         "gtsForm": "FG0819000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0820000",
@@ -10770,7 +10608,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_820_000",
         "gtsForm": "FG0820000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0821000",
@@ -10779,7 +10617,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_821_000",
         "gtsForm": "FG0821000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0822000",
@@ -10788,7 +10626,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_822_000",
         "gtsForm": "FG0822000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0823000",
@@ -10797,7 +10635,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_823_000",
         "gtsForm": "FG0823000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0823000G",
@@ -10815,7 +10653,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_824_000",
         "gtsForm": "FG0824000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0825000",
@@ -10824,7 +10662,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_825_000",
         "gtsForm": "FG0825000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0826000",
@@ -10833,7 +10671,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_826_000",
         "gtsForm": "FG0826000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0826000G",
@@ -10851,7 +10689,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_827_000",
         "gtsForm": "FG0827000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0828000",
@@ -10860,7 +10698,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_828_000",
         "gtsForm": "FG0828000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0829000",
@@ -10869,7 +10707,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_829_000",
         "gtsForm": "FG0829000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0830000",
@@ -10878,7 +10716,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_830_000",
         "gtsForm": "FG0830000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0831000",
@@ -10887,7 +10725,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_831_000",
         "gtsForm": "FG0831000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0832000",
@@ -10896,7 +10734,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_832_000",
         "gtsForm": "FG0832000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0833000",
@@ -10905,7 +10743,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_833_000",
         "gtsForm": "FG0833000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0834000",
@@ -10914,7 +10752,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_834_000",
         "gtsForm": "FG0834000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0834000G",
@@ -10932,7 +10770,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_835_000",
         "gtsForm": "FG0835000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0836000",
@@ -10941,7 +10779,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_836_000",
         "gtsForm": "FG0836000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0837000",
@@ -10950,7 +10788,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_837_000",
         "gtsForm": "FG0837000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0838000",
@@ -10959,7 +10797,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_838_000",
         "gtsForm": "FG0838000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0839000",
@@ -10968,7 +10806,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_839_000",
         "gtsForm": "FG0839000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0839000G",
@@ -10986,7 +10824,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_840_000",
         "gtsForm": "FG0840000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0841000",
@@ -10995,7 +10833,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_841_000",
         "gtsForm": "FG0841000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0841000G",
@@ -11013,7 +10851,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_842_000",
         "gtsForm": "FG0842000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0842000G",
@@ -11031,7 +10869,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_843_000",
         "gtsForm": "FG0843000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0844000",
@@ -11040,7 +10878,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_844_000",
         "gtsForm": "FG0844000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0844000G",
@@ -11058,7 +10896,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_845_000",
         "gtsForm": "FG0845000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0845001",
@@ -11085,7 +10923,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_846_000",
         "gtsForm": "FG0846000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0847000",
@@ -11094,7 +10932,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_847_000",
         "gtsForm": "FG0847000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0848000",
@@ -11103,7 +10941,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_848_000",
         "gtsForm": "FG0848000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0849000",
@@ -11148,7 +10986,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_850_000",
         "gtsForm": "FG0850000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0851000",
@@ -11157,7 +10995,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_851_000",
         "gtsForm": "FG0851000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0851000G",
@@ -11175,7 +11013,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_852_000",
         "gtsForm": "FG0852000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0853000",
@@ -11184,7 +11022,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_853_000",
         "gtsForm": "FG0853000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0854000",
@@ -11229,7 +11067,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_856_000",
         "gtsForm": "FG0856000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0857000",
@@ -11238,7 +11076,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_857_000",
         "gtsForm": "FG0857000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0858000",
@@ -11247,7 +11085,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_858_000",
         "gtsForm": "FG0858000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0858000G",
@@ -11265,7 +11103,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_859_000",
         "gtsForm": "FG0859000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0860000",
@@ -11274,7 +11112,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_860_000",
         "gtsForm": "FG0860000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0861000",
@@ -11283,7 +11121,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_861_000",
         "gtsForm": "FG0861000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0861000G",
@@ -11301,7 +11139,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_862_000",
         "gtsForm": "FG0862000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0863000",
@@ -11310,7 +11148,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_863_000",
         "gtsForm": "FG0863000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0864000",
@@ -11319,7 +11157,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_864_000",
         "gtsForm": "FG0864000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0865000",
@@ -11328,7 +11166,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_865_000",
         "gtsForm": "FG0865000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0866000",
@@ -11337,7 +11175,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_866_000",
         "gtsForm": "FG0866000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0867000",
@@ -11346,7 +11184,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_867_000",
         "gtsForm": "FG0867000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0868000",
@@ -11355,7 +11193,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_868_000",
         "gtsForm": "FG0868000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0869000",
@@ -11454,7 +11292,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_870_000",
         "gtsForm": "FG0870000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0871000",
@@ -11463,7 +11301,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_871_000",
         "gtsForm": "FG0871000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0872000",
@@ -11472,7 +11310,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_872_000",
         "gtsForm": "FG0872000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0873000",
@@ -11481,7 +11319,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_873_000",
         "gtsForm": "FG0873000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0874000",
@@ -11490,7 +11328,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_874_000",
         "gtsForm": "FG0874000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0875000",
@@ -11499,7 +11337,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_875_000",
         "gtsForm": "FG0875000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0875001",
@@ -11535,7 +11373,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_877_000",
         "gtsForm": "FG0877000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0877001",
@@ -11553,7 +11391,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_878_000",
         "gtsForm": "FG0878000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0879000",
@@ -11562,7 +11400,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_879_000",
         "gtsForm": "FG0879000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0879000G",
@@ -11580,7 +11418,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_880_000",
         "gtsForm": "FG0880000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0881000",
@@ -11589,7 +11427,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_881_000",
         "gtsForm": "FG0881000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0882000",
@@ -11598,7 +11436,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_882_000",
         "gtsForm": "FG0882000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0883000",
@@ -11607,7 +11445,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_883_000",
         "gtsForm": "FG0883000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0884000",
@@ -11616,7 +11454,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_884_000",
         "gtsForm": "FG0884000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0884000G",
@@ -11634,7 +11472,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_885_000",
         "gtsForm": "FG0885000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0886000",
@@ -11643,7 +11481,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_886_000",
         "gtsForm": "FG0886000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0887000",
@@ -11697,7 +11535,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_890_000",
         "gtsForm": "FG0890000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0890001",
@@ -11778,7 +11616,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_894_000",
         "gtsForm": "FG0894000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0895000",
@@ -11787,7 +11625,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_895_000",
         "gtsForm": "FG0895000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0896000",
@@ -11796,7 +11634,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_896_000",
         "gtsForm": "FG0896000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0897000",
@@ -11805,7 +11643,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_897_000",
         "gtsForm": "FG0897000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0898000",
@@ -11814,7 +11652,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_898_000",
         "gtsForm": "FG0898000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0898001",
@@ -11841,7 +11679,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_899_000",
         "gtsForm": "FG0899000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0900000",
@@ -11850,15 +11688,6 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_900_000",
         "gtsForm": "FG0900000",
-        "isViewGTS": 1
-    },
-    {
-        "id": "FN0900001",
-        "mdPokemonImage": "PI0900001",
-        "variationNum": 0,
-        "formNo": 1,
-        "ms": "zkn_form:ZKN_FORM_900_001",
-        "gtsForm": "FG0900001",
         "isViewGTS": 0
     },
     {
@@ -11904,7 +11733,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_903_000",
         "gtsForm": "FG0903000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0904000",
@@ -11913,7 +11742,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_904_000",
         "gtsForm": "FG0904000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0905000",
@@ -11940,7 +11769,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_906_000",
         "gtsForm": "FG0906000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0907000",
@@ -11949,7 +11778,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_907_000",
         "gtsForm": "FG0907000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0908000",
@@ -11958,7 +11787,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_908_000",
         "gtsForm": "FG0908000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0909000",
@@ -11967,7 +11796,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_909_000",
         "gtsForm": "FG0909000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0910000",
@@ -11976,7 +11805,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_910_000",
         "gtsForm": "FG0910000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0911000",
@@ -11985,7 +11814,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_911_000",
         "gtsForm": "FG0911000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0912000",
@@ -11994,7 +11823,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_912_000",
         "gtsForm": "FG0912000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0913000",
@@ -12003,7 +11832,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_913_000",
         "gtsForm": "FG0913000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0914000",
@@ -12012,7 +11841,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_914_000",
         "gtsForm": "FG0914000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0915000",
@@ -12021,7 +11850,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_915_000",
         "gtsForm": "FG0915000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0916000",
@@ -12048,7 +11877,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_917_000",
         "gtsForm": "FG0917000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0918000",
@@ -12057,7 +11886,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_918_000",
         "gtsForm": "FG0918000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0919000",
@@ -12066,7 +11895,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_919_000",
         "gtsForm": "FG0919000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0920000",
@@ -12075,7 +11904,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_920_000",
         "gtsForm": "FG0920000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0921000",
@@ -12084,7 +11913,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_921_000",
         "gtsForm": "FG0921000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0922000",
@@ -12093,7 +11922,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_922_000",
         "gtsForm": "FG0922000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0923000",
@@ -12102,7 +11931,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_923_000",
         "gtsForm": "FG0923000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0924000",
@@ -12111,7 +11940,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_924_000",
         "gtsForm": "FG0924000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0925000",
@@ -12138,7 +11967,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_926_000",
         "gtsForm": "FG0926000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0927000",
@@ -12147,7 +11976,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_927_000",
         "gtsForm": "FG0927000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0928000",
@@ -12156,7 +11985,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_928_000",
         "gtsForm": "FG0928000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0929000",
@@ -12165,7 +11994,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_929_000",
         "gtsForm": "FG0929000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0930000",
@@ -12174,7 +12003,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_930_000",
         "gtsForm": "FG0930000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0931000",
@@ -12219,7 +12048,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_932_000",
         "gtsForm": "FG0932000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0933000",
@@ -12228,7 +12057,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_933_000",
         "gtsForm": "FG0933000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0934000",
@@ -12237,7 +12066,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_934_000",
         "gtsForm": "FG0934000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0935000",
@@ -12246,7 +12075,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_935_000",
         "gtsForm": "FG0935000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0936000",
@@ -12255,7 +12084,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_936_000",
         "gtsForm": "FG0936000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0937000",
@@ -12264,7 +12093,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_937_000",
         "gtsForm": "FG0937000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0938000",
@@ -12273,7 +12102,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_938_000",
         "gtsForm": "FG0938000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0939000",
@@ -12282,7 +12111,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_939_000",
         "gtsForm": "FG0939000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0940000",
@@ -12291,7 +12120,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_940_000",
         "gtsForm": "FG0940000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0941000",
@@ -12300,7 +12129,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_941_000",
         "gtsForm": "FG0941000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0942000",
@@ -12309,7 +12138,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_942_000",
         "gtsForm": "FG0942000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0943000",
@@ -12318,7 +12147,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_943_000",
         "gtsForm": "FG0943000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0944000",
@@ -12327,7 +12156,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_944_000",
         "gtsForm": "FG0944000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0945000",
@@ -12336,7 +12165,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_945_000",
         "gtsForm": "FG0945000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0946000",
@@ -12345,7 +12174,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_946_000",
         "gtsForm": "FG0946000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0947000",
@@ -12354,7 +12183,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_947_000",
         "gtsForm": "FG0947000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0948000",
@@ -12363,7 +12192,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_948_000",
         "gtsForm": "FG0948000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0949000",
@@ -12372,7 +12201,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_949_000",
         "gtsForm": "FG0949000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0950000",
@@ -12381,7 +12210,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_950_000",
         "gtsForm": "FG0950000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0951000",
@@ -12390,7 +12219,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_951_000",
         "gtsForm": "FG0951000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0952000",
@@ -12399,7 +12228,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_952_000",
         "gtsForm": "FG0952000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0953000",
@@ -12408,7 +12237,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_953_000",
         "gtsForm": "FG0953000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0954000",
@@ -12417,7 +12246,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_954_000",
         "gtsForm": "FG0954000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0955000",
@@ -12426,7 +12255,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_955_000",
         "gtsForm": "FG0955000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0956000",
@@ -12435,7 +12264,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_956_000",
         "gtsForm": "FG0956000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0957000",
@@ -12444,7 +12273,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_957_000",
         "gtsForm": "FG0957000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0958000",
@@ -12453,7 +12282,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_958_000",
         "gtsForm": "FG0958000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0959000",
@@ -12462,7 +12291,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_959_000",
         "gtsForm": "FG0959000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0960000",
@@ -12471,7 +12300,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_960_000",
         "gtsForm": "FG0960000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0961000",
@@ -12480,7 +12309,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_961_000",
         "gtsForm": "FG0961000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0962000",
@@ -12489,7 +12318,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_962_000",
         "gtsForm": "FG0962000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0963000",
@@ -12498,7 +12327,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_963_000",
         "gtsForm": "FG0963000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0964000",
@@ -12507,7 +12336,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_964_000",
         "gtsForm": "FG0964000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0964001",
@@ -12525,7 +12354,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_965_000",
         "gtsForm": "FG0965000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0966000",
@@ -12534,7 +12363,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_966_000",
         "gtsForm": "FG0966000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0967000",
@@ -12543,7 +12372,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_967_000",
         "gtsForm": "FG0967000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0968000",
@@ -12552,7 +12381,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_968_000",
         "gtsForm": "FG0968000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0969000",
@@ -12561,7 +12390,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_969_000",
         "gtsForm": "FG0969000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0970000",
@@ -12570,7 +12399,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_970_000",
         "gtsForm": "FG0970000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0971000",
@@ -12579,7 +12408,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_971_000",
         "gtsForm": "FG0971000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0972000",
@@ -12588,7 +12417,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_972_000",
         "gtsForm": "FG0972000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0973000",
@@ -12597,7 +12426,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_973_000",
         "gtsForm": "FG0973000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0974000",
@@ -12606,7 +12435,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_974_000",
         "gtsForm": "FG0974000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0975000",
@@ -12615,7 +12444,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_975_000",
         "gtsForm": "FG0975000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0976000",
@@ -12624,7 +12453,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_976_000",
         "gtsForm": "FG0976000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0977000",
@@ -12633,7 +12462,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_977_000",
         "gtsForm": "FG0977000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0978000",
@@ -12669,7 +12498,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_979_000",
         "gtsForm": "FG0979000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0980000",
@@ -12678,7 +12507,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_980_000",
         "gtsForm": "FG0980000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0981000",
@@ -12687,7 +12516,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_981_000",
         "gtsForm": "FG0981000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0982000",
@@ -12714,7 +12543,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_983_000",
         "gtsForm": "FG0983000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0984000",
@@ -12723,7 +12552,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_984_000",
         "gtsForm": "FG0984000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0985000",
@@ -12732,7 +12561,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_985_000",
         "gtsForm": "FG0985000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0986000",
@@ -12741,7 +12570,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_986_000",
         "gtsForm": "FG0986000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0987000",
@@ -12750,7 +12579,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_987_000",
         "gtsForm": "FG0987000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0988000",
@@ -12759,7 +12588,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_988_000",
         "gtsForm": "FG0988000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0989000",
@@ -12768,7 +12597,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_989_000",
         "gtsForm": "FG0989000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0990000",
@@ -12777,7 +12606,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_990_000",
         "gtsForm": "FG0990000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0991000",
@@ -12786,7 +12615,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_991_000",
         "gtsForm": "FG0991000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0992000",
@@ -12795,7 +12624,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_992_000",
         "gtsForm": "FG0992000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0993000",
@@ -12804,7 +12633,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_993_000",
         "gtsForm": "FG0993000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0994000",
@@ -12813,7 +12642,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_994_000",
         "gtsForm": "FG0994000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0995000",
@@ -12822,7 +12651,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_995_000",
         "gtsForm": "FG0995000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0996000",
@@ -12831,7 +12660,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_996_000",
         "gtsForm": "FG0996000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0997000",
@@ -12840,7 +12669,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_997_000",
         "gtsForm": "FG0997000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0998000",
@@ -12849,7 +12678,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_998_000",
         "gtsForm": "FG0998000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN0999000",
@@ -12876,7 +12705,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1000_000",
         "gtsForm": "FG1000000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1001000",
@@ -12885,7 +12714,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1001_000",
         "gtsForm": "FG1001000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1002000",
@@ -12894,7 +12723,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1002_000",
         "gtsForm": "FG1002000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1003000",
@@ -12903,7 +12732,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1003_000",
         "gtsForm": "FG1003000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1004000",
@@ -12912,7 +12741,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1004_000",
         "gtsForm": "FG1004000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1005000",
@@ -12921,7 +12750,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1005_000",
         "gtsForm": "FG1005000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1006000",
@@ -12930,7 +12759,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1006_000",
         "gtsForm": "FG1006000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1007000",
@@ -12939,7 +12768,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1007_000",
         "gtsForm": "FG1007000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1008000",
@@ -12948,7 +12777,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1008_000",
         "gtsForm": "FG1008000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1009000",
@@ -12957,7 +12786,7 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1009_000",
         "gtsForm": "FG1009000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1010000",
@@ -12966,21 +12795,21 @@
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1010_000",
         "gtsForm": "FG1010000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1011000",
         "mdPokemonImage": "PI1011000",
-        "variationNum": 1011,
+        "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1011_000",
         "gtsForm": "FG1011000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1012000",
         "mdPokemonImage": "PI1012000",
-        "variationNum": 1012,
+        "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1012_000",
         "gtsForm": "FG1012000",
@@ -12989,7 +12818,7 @@
     {
         "id": "FN1012001",
         "mdPokemonImage": "PI1012001",
-        "variationNum": 1012,
+        "variationNum": 0,
         "formNo": 1,
         "ms": "zkn_form:ZKN_FORM_1012_001",
         "gtsForm": "FG1012001",
@@ -12998,7 +12827,7 @@
     {
         "id": "FN1013000",
         "mdPokemonImage": "PI1013000",
-        "variationNum": 1013,
+        "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1013_000",
         "gtsForm": "FG1013000",
@@ -13007,7 +12836,7 @@
     {
         "id": "FN1013001",
         "mdPokemonImage": "PI1013001",
-        "variationNum": 1013,
+        "variationNum": 0,
         "formNo": 1,
         "ms": "zkn_form:ZKN_FORM_1013_001",
         "gtsForm": "FG1013001",
@@ -13016,34 +12845,34 @@
     {
         "id": "FN1014000",
         "mdPokemonImage": "PI1014000",
-        "variationNum": 1014,
+        "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1014_000",
         "gtsForm": "FG1014000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1015000",
         "mdPokemonImage": "PI1015000",
-        "variationNum": 1015,
+        "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1015_000",
         "gtsForm": "FG1015000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1016000",
         "mdPokemonImage": "PI1016000",
-        "variationNum": 1016,
+        "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1016_000",
         "gtsForm": "FG1016000",
-        "isViewGTS": 1
+        "isViewGTS": 0
     },
     {
         "id": "FN1017000",
         "mdPokemonImage": "PI1017000",
-        "variationNum": 1017,
+        "variationNum": 0,
         "formNo": 0,
         "ms": "zkn_form:ZKN_FORM_1017_000",
         "gtsForm": "FG1017000",
@@ -13052,7 +12881,7 @@
     {
         "id": "FN1017001",
         "mdPokemonImage": "PI1017001",
-        "variationNum": 1017,
+        "variationNum": 0,
         "formNo": 1,
         "ms": "zkn_form:ZKN_FORM_1017_001",
         "gtsForm": "FG1017001",
@@ -13061,7 +12890,7 @@
     {
         "id": "FN1017002",
         "mdPokemonImage": "PI1017002",
-        "variationNum": 1017,
+        "variationNum": 0,
         "formNo": 2,
         "ms": "zkn_form:ZKN_FORM_1017_002",
         "gtsForm": "FG1017002",
@@ -13070,10 +12899,91 @@
     {
         "id": "FN1017003",
         "mdPokemonImage": "PI1017003",
-        "variationNum": 1017,
+        "variationNum": 0,
         "formNo": 3,
         "ms": "zkn_form:ZKN_FORM_1017_003",
         "gtsForm": "FG1017003",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1018000",
+        "mdPokemonImage": "PI1018000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_1018_000",
+        "gtsForm": "FG1018000",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1019000",
+        "mdPokemonImage": "PI1019000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_1019_000",
+        "gtsForm": "FG1019000",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1020000",
+        "mdPokemonImage": "PI1020000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_1020_000",
+        "gtsForm": "FG1020000",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1021000",
+        "mdPokemonImage": "PI1021000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_1021_000",
+        "gtsForm": "FG1021000",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1022000",
+        "mdPokemonImage": "PI1022000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_1022_000",
+        "gtsForm": "FG1022000",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1023000",
+        "mdPokemonImage": "PI1023000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_1023_000",
+        "gtsForm": "FG1023000",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1024000",
+        "mdPokemonImage": "PI1024000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_1024_000",
+        "gtsForm": "FG1024000",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1024001",
+        "mdPokemonImage": "PI1024001",
+        "variationNum": 0,
+        "formNo": 1,
+        "ms": "zkn_form:ZKN_FORM_1024_001",
+        "gtsForm": "FG1024001",
+        "isViewGTS": 0
+    },
+    {
+        "id": "FN1024002",
+        "mdPokemonImage": "PI1024002",
+        "variationNum": 0,
+        "formNo": 2,
+        "ms": "zkn_form:ZKN_FORM_1024_002",
+        "gtsForm": "FG1024002",
         "isViewGTS": 0
     }
 ]

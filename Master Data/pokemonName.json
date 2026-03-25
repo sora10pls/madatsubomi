@@ -4066,5 +4066,33 @@
     {
         "id": "NM1017",
         "msname": "monsname:MONSNAME_1017"
+    },
+    {
+        "id": "NM1018",
+        "msname": "monsname:MONSNAME_1018"
+    },
+    {
+        "id": "NM1019",
+        "msname": "monsname:MONSNAME_1019"
+    },
+    {
+        "id": "NM1020",
+        "msname": "monsname:MONSNAME_1020"
+    },
+    {
+        "id": "NM1021",
+        "msname": "monsname:MONSNAME_1021"
+    },
+    {
+        "id": "NM1022",
+        "msname": "monsname:MONSNAME_1022"
+    },
+    {
+        "id": "NM1023",
+        "msname": "monsname:MONSNAME_1023"
+    },
+    {
+        "id": "NM1024",
+        "msname": "monsname:MONSNAME_1024"
     }
 ]

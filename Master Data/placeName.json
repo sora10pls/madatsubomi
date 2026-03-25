@@ -24779,5 +24779,149 @@
         ],
         "placeNameIds": "30024",
         "msPlace": "SV_place_name_spe:MAPNAME_CRYSTAL"
+    },
+    {
+        "id": "2719",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "170",
+        "msPlace": "SV_place_name:PLACENAME_dungeon_a_su01d02_01"
+    },
+    {
+        "id": "2720",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "172",
+        "msPlace": "SV_place_name:PLACENAME_a_sch_2_entrance01_01"
+    },
+    {
+        "id": "2721",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "174",
+        "msPlace": "SV_place_name:PLACENAME_a_su0201_01"
+    },
+    {
+        "id": "2722",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "176",
+        "msPlace": "SV_place_name:PLACENAME_a_su0202_01"
+    },
+    {
+        "id": "2723",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "178",
+        "msPlace": "SV_place_name:PLACENAME_a_su0203_01"
+    },
+    {
+        "id": "2724",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "180",
+        "msPlace": "SV_place_name:PLACENAME_a_su0204_01"
+    },
+    {
+        "id": "2725",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "182",
+        "msPlace": "SV_place_name:PLACENAME_subarea_su2city_01"
+    },
+    {
+        "id": "2726",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "184",
+        "msPlace": "SV_place_name:PLACENAME_subarea_su2bigfourfire_01"
+    },
+    {
+        "id": "2727",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "186",
+        "msPlace": "SV_place_name:PLACENAME_subarea_su2bigfourfairy_01"
+    },
+    {
+        "id": "2728",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "188",
+        "msPlace": "SV_place_name:PLACENAME_subarea_su2bigfoursteel_01"
+    },
+    {
+        "id": "2729",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "190",
+        "msPlace": "SV_place_name:PLACENAME_subarea_su2bigfourdragon_01"
+    },
+    {
+        "id": "2730",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "192",
+        "msPlace": "SV_place_name:PLACENAME_a_su02d01_01"
+    },
+    {
+        "id": "2731",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "194",
+        "msPlace": "SV_place_name:PLACENAME_a_su02d02_01"
+    },
+    {
+        "id": "2732",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "196",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_d10_01"
+    },
+    {
+        "id": "2733",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "198",
+        "msPlace": "SV_place_name:PLACENAME_a_w23_d11_01"
+    },
+    {
+        "id": "2734",
+        "softwareIds": [
+            "SF050",
+            "SF051"
+        ],
+        "placeNameIds": "200",
+        "msPlace": "SV_place_name:PLACENAME_subarea_su2approach_01"
     }
 ]

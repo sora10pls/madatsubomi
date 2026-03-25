@@ -88,5 +88,10 @@
         "id": "GT0017",
         "gemType": 17,
         "iconName": "gem_type_17_yousei"
+    },
+    {
+        "id": "GT0099",
+        "gemType": 99,
+        "iconName": "gem_type_99_niji"
     }
 ]

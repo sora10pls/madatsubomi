@@ -39132,5 +39132,239 @@
         "viewCenterYFix": 50,
         "viewAngleMax": 45,
         "viewAngleMin": -45
+    },
+    {
+        "id": "PM10180000",
+        "model": "pm1018_00_00",
+        "modelShiny": "pm1018_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.8",
+        "scale2Fix": 65,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 200,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 100,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10190000",
+        "model": "pm1019_00_00",
+        "modelShiny": "pm1019_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.666666667",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 180,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 80,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10200005",
+        "model": "pm1020_00_00",
+        "modelShiny": "pm1020_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.457142857",
+        "scale2Fix": 72,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 350,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 150,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10210005",
+        "model": "pm1021_00_00",
+        "modelShiny": "pm1021_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.307692308",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 520,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 230,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10220005",
+        "model": "pm1022_00_00",
+        "modelShiny": "pm1022_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.666666667",
+        "scale2Fix": 80,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 150,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 70,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10230005",
+        "model": "pm1023_00_00",
+        "modelShiny": "pm1023_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.75",
+        "scale2Fix": 68,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 160,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 80,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10240000",
+        "model": "pm1024_11_00",
+        "modelShiny": "pm1024_11_00_rare",
+        "variation": "11_00",
+        "scale1Str": "1.75",
+        "scale2Fix": 50,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 20,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 10,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10240010",
+        "model": "pm1024_12_00",
+        "modelShiny": "pm1024_12_00_rare",
+        "variation": "12_00",
+        "scale1Str": "1.166666667",
+        "scale2Fix": 50,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 30,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 50,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
+    },
+    {
+        "id": "PM10240020",
+        "model": "pm1024_00_00",
+        "modelShiny": "pm1024_00_00_rare",
+        "variation": "00_00",
+        "scale1Str": "0.705882353",
+        "scale2Fix": 100,
+        "posOffsetFix": [
+            0,
+            10,
+            0
+        ],
+        "modelHeightFix": 170,
+        "trdDemoPosRatioFix": 100,
+        "idleAnimName": "ba10_waitA01",
+        "accentAnimName": [
+            "ba02_roar01"
+        ],
+        "accentAnimNameBank": [
+            "ba02_roar01",
+            "ba20_buturi01"
+        ],
+        "viewCenterYFix": 50,
+        "viewAngleMax": 45,
+        "viewAngleMin": -45
     }
 ]

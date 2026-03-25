@@ -1,7 +1,7 @@
 [
     {
         "id": "DM002000",
-        "sortOrder": 5,
+        "sortOrder": 6,
         "msRegionDicName": "sp_softwaredictionary_001",
         "dicMdName": "SW001",
         "hostDicId": "",
@@ -16,7 +16,7 @@
     },
     {
         "id": "DM002001",
-        "sortOrder": 6,
+        "sortOrder": 7,
         "msRegionDicName": "sp_softwaredictionary_002",
         "dicMdName": "SW002",
         "hostDicId": "DM002000",
@@ -28,7 +28,7 @@
     },
     {
         "id": "DM002002",
-        "sortOrder": 7,
+        "sortOrder": 8,
         "msRegionDicName": "sp_softwaredictionary_003",
         "dicMdName": "SW003",
         "hostDicId": "DM002000",
@@ -40,7 +40,7 @@
     },
     {
         "id": "DM003000",
-        "sortOrder": 8,
+        "sortOrder": 9,
         "msRegionDicName": "sp_softwaredictionary_004",
         "dicMdName": "SW004",
         "hostDicId": "",
@@ -55,7 +55,7 @@
     },
     {
         "id": "DM004000",
-        "sortOrder": 4,
+        "sortOrder": 5,
         "msRegionDicName": "sp_softwaredictionary_005",
         "dicMdName": "SW005",
         "hostDicId": "",
@@ -70,7 +70,7 @@
     },
     {
         "id": "DM005000",
-        "sortOrder": 3,
+        "sortOrder": 4,
         "msRegionDicName": "sp_softwaredictionary_006",
         "dicMdName": "SW006",
         "hostDicId": "",
@@ -84,7 +84,7 @@
     },
     {
         "id": "DM006000",
-        "sortOrder": 9,
+        "sortOrder": 10,
         "msRegionDicName": "sp_softwaredictionary_007",
         "dicMdName": "SW007",
         "hostDicId": "",
@@ -122,5 +122,17 @@
         "silhouetteType": 3,
         "listAtlasName": "SoftDicIconSW009",
         "kpiToken": "1a8vwv"
+    },
+    {
+        "id": "DM007002",
+        "sortOrder": 3,
+        "msRegionDicName": "sp_softwaredictionary_010",
+        "dicMdName": "SW010",
+        "hostDicId": "DM007000",
+        "mdSoftwareIds": [],
+        "dispProfileType": 2,
+        "silhouetteType": 3,
+        "listAtlasName": "SoftDicIconSW010",
+        "kpiToken": "fvj9k2"
     }
 ]
