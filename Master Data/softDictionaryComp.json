@@ -19,5 +19,43 @@
             0,
             5
         ]
+    },
+    {
+        "id": "SDC0002",
+        "categoryId": 3,
+        "dicMdNames": [
+            "SW006"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_002_001",
+            "sp_oak_softdic_comp_002_002",
+            "sp_oak_softdic_comp_002_003",
+            "sp_oak_softdic_comp_002_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
+    },
+    {
+        "id": "SDC0003",
+        "categoryId": 4,
+        "dicMdNames": [
+            "SW005"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_003_001",
+            "sp_oak_softdic_comp_003_002",
+            "sp_oak_softdic_comp_003_003",
+            "sp_oak_softdic_comp_003_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
     }
 ]
