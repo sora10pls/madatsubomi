@@ -12193,8 +12193,8 @@
         "model": "pm0282_00_00",
         "modelShiny": "pm0282_00_00_rare",
         "scale1": 63,
-        "scaleHome": 75,
-        "scaleBank": 75,
+        "scaleHome": 87,
+        "scaleBank": 87,
         "scaleView": 100,
         "scaleTrade": 100,
         "posOffsetFix": [
@@ -19724,7 +19724,7 @@
         "scale1": 56,
         "scaleHome": 86,
         "scaleBank": 86,
-        "scaleView": 115,
+        "scaleView": 96,
         "scaleTrade": 100,
         "posOffsetFix": [
             0,
@@ -19741,7 +19741,7 @@
             "ba02_roar01",
             "ba20_buturi01"
         ],
-        "viewCenterYFix": 81,
+        "viewCenterYFix": 94,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
@@ -19752,7 +19752,7 @@
         "scale1": 59,
         "scaleHome": 88,
         "scaleBank": 88,
-        "scaleView": 115,
+        "scaleView": 96,
         "scaleTrade": 100,
         "posOffsetFix": [
             0,
@@ -19769,7 +19769,7 @@
             "ba20_buturi01",
             "ba21_tokusyu01"
         ],
-        "viewCenterYFix": 77,
+        "viewCenterYFix": 90,
         "viewAngleMax": 45,
         "viewAngleMin": -45
     },
