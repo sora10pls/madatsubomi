@@ -12985,5 +12985,14 @@
         "ms": "zkn_form:ZKN_FORM_1024_002",
         "gtsForm": "FG1024002",
         "isViewGTS": 0
+    },
+    {
+        "id": "FN1025000",
+        "mdPokemonImage": "PI1025000",
+        "variationNum": 0,
+        "formNo": 0,
+        "ms": "zkn_form:ZKN_FORM_1025_000",
+        "gtsForm": "FG1025000",
+        "isViewGTS": 0
     }
 ]

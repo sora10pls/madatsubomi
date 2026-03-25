@@ -17250,6 +17250,54 @@
         "hayaShopIndex": 0
     },
     {
+        "id": "WZ0781",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0001",
+        "softwareAppearIds": [
+            "TT005",
+            "TT008"
+        ],
+        "power": 0,
+        "accuracy": 0,
+        "pp": 0,
+        "msname": "wazaname:WAZANAME_781",
+        "mstext": "wazainfo_all:WAZAINFO_ALL_781",
+        "sort_jpn": 197,
+        "sort_usa": 57,
+        "sort_fra": 427,
+        "sort_ita": 819,
+        "sort_deu": 326,
+        "sort_esp": 834,
+        "sort_kor": 22,
+        "sort_sch": 404,
+        "sort_tch": 106,
+        "hayaShopIndex": 0
+    },
+    {
+        "id": "WZ0782",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0001",
+        "softwareAppearIds": [
+            "TT005",
+            "TT008"
+        ],
+        "power": 0,
+        "accuracy": 0,
+        "pp": 0,
+        "msname": "wazaname:WAZANAME_782",
+        "mstext": "wazainfo_all:WAZAINFO_ALL_782",
+        "sort_jpn": 198,
+        "sort_usa": 56,
+        "sort_fra": 11,
+        "sort_ita": 160,
+        "sort_deu": 327,
+        "sort_esp": 325,
+        "sort_kor": 23,
+        "sort_sch": 403,
+        "sort_tch": 107,
+        "hayaShopIndex": 0
+    },
+    {
         "id": "WZ0783",
         "mdPokemonType": "TY0012",
         "mdWazaCategory": "WC0001",
@@ -18230,6 +18278,54 @@
         "sort_kor": 740,
         "sort_sch": 441,
         "sort_tch": 664,
+        "hayaShopIndex": 0
+    },
+    {
+        "id": "WZ0824",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0001",
+        "softwareAppearIds": [
+            "TT005",
+            "TT008"
+        ],
+        "power": 0,
+        "accuracy": 0,
+        "pp": 0,
+        "msname": "wazaname:WAZANAME_824",
+        "mstext": "wazainfo_all:WAZAINFO_ALL_824",
+        "sort_jpn": 717,
+        "sort_usa": 316,
+        "sort_fra": 497,
+        "sort_ita": 467,
+        "sort_deu": 75,
+        "sort_esp": 496,
+        "sort_kor": 401,
+        "sort_sch": 795,
+        "sort_tch": 502,
+        "hayaShopIndex": 0
+    },
+    {
+        "id": "WZ0825",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0002",
+        "softwareAppearIds": [
+            "TT005",
+            "TT008"
+        ],
+        "power": 0,
+        "accuracy": 0,
+        "pp": 0,
+        "msname": "wazaname:WAZANAME_825",
+        "mstext": "wazainfo_all:WAZAINFO_ALL_825",
+        "sort_jpn": 37,
+        "sort_usa": 37,
+        "sort_fra": 304,
+        "sort_ita": 721,
+        "sort_deu": 34,
+        "sort_esp": 617,
+        "sort_kor": 531,
+        "sort_sch": 783,
+        "sort_tch": 326,
         "hayaShopIndex": 0
     },
     {
@@ -20279,6 +20375,29 @@
         "sort_kor": 62,
         "sort_sch": 429,
         "sort_tch": 213,
+        "hayaShopIndex": 0
+    },
+    {
+        "id": "WZ0919",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0002",
+        "softwareAppearIds": [
+            "TT008"
+        ],
+        "power": 0,
+        "accuracy": 0,
+        "pp": 0,
+        "msname": "wazaname:WAZANAME_919",
+        "mstext": "wazainfo_all:WAZAINFO_ALL_919",
+        "sort_jpn": 334,
+        "sort_usa": 461,
+        "sort_fra": 133,
+        "sort_ita": 444,
+        "sort_deu": 316,
+        "sort_esp": 145,
+        "sort_kor": 547,
+        "sort_sch": 774,
+        "sort_tch": 195,
         "hayaShopIndex": 0
     }
 ]

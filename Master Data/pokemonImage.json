@@ -34864,7 +34864,30 @@
         "modelCaptureFemale": "",
         "modelCaptureShiny": "cap1024_f02_s0_r",
         "modelCaptureFemaleShiny": "",
-        "mdPokemonModel": "PM10240020",
-        "mdPokemonModelFemale": "PM10240020"
+        "mdPokemonModel": "",
+        "mdPokemonModelFemale": ""
+    },
+    {
+        "id": "PI1025000",
+        "dicListImage": "cap1025_f00_s0_128",
+        "dicListImageFemale": "",
+        "dicListImageShiny": "cap1025_f00_s0_128_r",
+        "dicListImageShinyFemale": "",
+        "dicDetailImage": "cap1025_f00_s0",
+        "dicDetailImageFemale": "",
+        "dicDetailImageShiny": "cap1025_f00_s0_r",
+        "dicDetailImageShinyFemale": "",
+        "dicDetailImageBack": "",
+        "dicDetailImageBackFemale": "",
+        "dicDetailImageBackShiny": "",
+        "dicDetailImageBackShinyFemale": "",
+        "dotImage": "",
+        "dotImageFlip": "",
+        "modelCapture": "cap1025_f00_s0",
+        "modelCaptureFemale": "",
+        "modelCaptureShiny": "cap1025_f00_s0_r",
+        "modelCaptureFemaleShiny": "",
+        "mdPokemonModel": "PM10250005",
+        "mdPokemonModelFemale": ""
     }
 ]

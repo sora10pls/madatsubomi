@@ -5574,5 +5574,22 @@
         "sort_kor": 230,
         "sort_sch": 99,
         "sort_tch": 294
+    },
+    {
+        "id": "TK0310",
+        "softwareAppearIds": [
+            "TT008"
+        ],
+        "msname": "tokusei:TOKUSEI_310",
+        "mstext": "tokuseiinfo_SV:TOKUSEIINFO_SV_310",
+        "sort_jpn": 169,
+        "sort_usa": 176,
+        "sort_fra": 103,
+        "sort_ita": 145,
+        "sort_deu": 92,
+        "sort_esp": 284,
+        "sort_kor": 59,
+        "sort_sch": 58,
+        "sort_tch": 111
     }
 ]

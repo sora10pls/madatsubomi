@@ -4094,5 +4094,9 @@
     {
         "id": "NM1024",
         "msname": "monsname:MONSNAME_1024"
+    },
+    {
+        "id": "NM1025",
+        "msname": "monsname:MONSNAME_1025"
     }
 ]

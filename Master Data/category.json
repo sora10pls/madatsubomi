@@ -4202,5 +4202,9 @@
     {
         "id": "CA1024002",
         "msname": "zkn_type:ZKN_TYPE_1024_002"
+    },
+    {
+        "id": "CA1025000",
+        "msname": "zkn_type:ZKN_TYPE_1025"
     }
 ]

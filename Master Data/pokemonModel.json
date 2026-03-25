@@ -39342,18 +39342,18 @@
         "viewAngleMin": -45
     },
     {
-        "id": "PM10240020",
-        "model": "pm1024_00_00",
-        "modelShiny": "pm1024_00_00_rare",
+        "id": "PM10250005",
+        "model": "pm1025_00_00",
+        "modelShiny": "pm1025_00_00_rare",
         "variation": "00_00",
-        "scale1Str": "0.705882353",
+        "scale1Str": "1.166666667",
         "scale2Fix": 100,
         "posOffsetFix": [
             0,
             10,
             0
         ],
-        "modelHeightFix": 170,
+        "modelHeightFix": 30,
         "trdDemoPosRatioFix": 100,
         "idleAnimName": "ba10_waitA01",
         "accentAnimName": [
