@@ -31576,7 +31576,7 @@
         ],
         "viewCenterYFix": 22,
         "viewAngleMax": 45,
-        "viewAngleMin": -45
+        "viewAngleMin": 0
     },
     {
         "id": "PM07700000",
@@ -31604,7 +31604,7 @@
         ],
         "viewCenterYFix": 58,
         "viewAngleMax": 45,
-        "viewAngleMin": -45
+        "viewAngleMin": 0
     },
     {
         "id": "PM07710000",
