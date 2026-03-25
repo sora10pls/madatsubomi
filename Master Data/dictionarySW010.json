@@ -9,7 +9,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_084_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0002000",
@@ -21,7 +21,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_085_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0003000",
@@ -33,7 +33,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_102_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0004000",
@@ -45,7 +45,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_103_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0005000",
@@ -57,7 +57,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_111_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0006000",
@@ -69,7 +69,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_112_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0007000",
@@ -81,7 +81,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_464_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0008000",
@@ -93,7 +93,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_048_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0009000",
@@ -105,7 +105,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_049_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0010000",
@@ -117,7 +117,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_239_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0011000",
@@ -129,7 +129,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_125_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0012000",
@@ -141,7 +141,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_466_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0013000",
@@ -153,7 +153,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_240_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0014000",
@@ -165,7 +165,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_126_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0015000",
@@ -177,7 +177,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_467_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0016000",
@@ -189,7 +189,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_440_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0017000",
@@ -201,7 +201,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_113_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0018000",
@@ -213,7 +213,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_242_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0019000",
@@ -225,7 +225,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_123_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0020000",
@@ -237,7 +237,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_212_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0021000",
@@ -249,7 +249,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_900_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0022000",
@@ -261,7 +261,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_128_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0023000",
@@ -273,7 +273,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_522_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0024000",
@@ -285,7 +285,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_523_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0025000",
@@ -297,7 +297,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_203_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0026000",
@@ -309,7 +309,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_0981_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0027000",
@@ -321,7 +321,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_551_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0028000",
@@ -333,7 +333,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_552_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0029000",
@@ -345,7 +345,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_553_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0030000",
@@ -357,7 +357,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_0953_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0031000",
@@ -369,7 +369,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_0954_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0032000",
@@ -381,7 +381,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_627_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0033000",
@@ -393,7 +393,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_628_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0034000",
@@ -405,7 +405,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_629_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0035000",
@@ -417,7 +417,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_630_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0036000",
@@ -429,7 +429,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_667_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0037000",
@@ -441,11 +441,11 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_668_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0038000",
-        "mdDicId": "DI0585000",
+        "mdDicId": "DI0585001",
         "regionDicNo": 38,
         "listAtlasNo": 1,
         "listImage": "sw010_cap0038_128",
@@ -453,11 +453,11 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_585_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0039000",
-        "mdDicId": "DI0586000",
+        "mdDicId": "DI0586002",
         "regionDicNo": 39,
         "listAtlasNo": 1,
         "listImage": "sw010_cap0039_128",
@@ -465,7 +465,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_586_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0040000",
@@ -477,7 +477,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_235_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0041000",
@@ -489,7 +489,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_479_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0042000",
@@ -501,7 +501,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_868_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0043000",
@@ -513,7 +513,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_869_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0044000",
@@ -525,7 +525,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_328_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0045000",
@@ -537,7 +537,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_329_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0046000",
@@ -549,7 +549,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_330_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0047000",
@@ -561,7 +561,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_731_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0048000",
@@ -573,7 +573,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_732_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0049000",
@@ -585,7 +585,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_733_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0050000",
@@ -597,7 +597,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_072_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0051000",
@@ -609,7 +609,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_073_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0052000",
@@ -621,7 +621,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_116_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0053000",
@@ -633,7 +633,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_117_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0054000",
@@ -645,7 +645,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_230_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0055000",
@@ -657,7 +657,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_779_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0056000",
@@ -669,7 +669,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_546_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0057000",
@@ -681,7 +681,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_547_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0058000",
@@ -693,7 +693,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_764_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0059000",
@@ -705,7 +705,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_287_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0060000",
@@ -717,7 +717,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_288_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0061000",
@@ -729,7 +729,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_289_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0062000",
@@ -741,7 +741,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_043_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0063000",
@@ -753,7 +753,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_044_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0064000",
@@ -765,7 +765,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_045_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0065000",
@@ -777,7 +777,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_182_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0066000",
@@ -789,7 +789,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_050_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0067000",
@@ -801,7 +801,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_051_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0068000",
@@ -813,7 +813,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_088_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0069000",
@@ -825,7 +825,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_089_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0070000",
@@ -837,7 +837,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_335_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0071000",
@@ -849,7 +849,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_336_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0072000",
@@ -861,7 +861,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_739_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0073000",
@@ -873,7 +873,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_740_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0074000",
@@ -885,7 +885,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_741_02_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0075000",
@@ -897,7 +897,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_079_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0076000",
@@ -909,7 +909,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_080_02_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0077000",
@@ -921,7 +921,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_199_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0078000",
@@ -933,7 +933,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_170_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0079000",
@@ -945,7 +945,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_171_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0080000",
@@ -957,7 +957,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_686_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0081000",
@@ -969,7 +969,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_687_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0082000",
@@ -981,7 +981,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_370_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0083000",
@@ -993,7 +993,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_456_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0084000",
@@ -1005,7 +1005,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_457_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0085000",
@@ -1017,7 +1017,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_594_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0086000",
@@ -1029,7 +1029,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_324_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0087000",
@@ -1041,7 +1041,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_661_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0088000",
@@ -1053,7 +1053,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_662_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0089000",
@@ -1065,7 +1065,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_663_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0090000",
@@ -1077,7 +1077,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_751_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0091000",
@@ -1089,7 +1089,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_752_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0092000",
@@ -1101,7 +1101,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_236_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0093000",
@@ -1113,7 +1113,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_106_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0094000",
@@ -1125,7 +1125,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_107_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0095000",
@@ -1137,7 +1137,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_237_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0096000",
@@ -1149,7 +1149,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_074_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0097000",
@@ -1161,7 +1161,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_075_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0098000",
@@ -1173,7 +1173,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_076_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0099000",
@@ -1185,7 +1185,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_529_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0100000",
@@ -1197,7 +1197,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_530_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0101000",
@@ -1209,7 +1209,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_574_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0102000",
@@ -1221,7 +1221,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_575_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0103000",
@@ -1233,7 +1233,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_576_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0104000",
@@ -1245,7 +1245,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_677_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0105000",
@@ -1257,7 +1257,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_678_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0106000",
@@ -1269,7 +1269,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_774_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0107000",
@@ -1281,7 +1281,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_408_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0108000",
@@ -1293,7 +1293,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_409_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0109000",
@@ -1305,7 +1305,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_410_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0110000",
@@ -1317,7 +1317,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_411_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0111000",
@@ -1329,7 +1329,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_572_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0112000",
@@ -1341,7 +1341,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_573_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0113000",
@@ -1353,7 +1353,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_227_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0114000",
@@ -1365,7 +1365,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_333_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0115000",
@@ -1377,7 +1377,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_334_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0116000",
@@ -1389,7 +1389,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_081_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0117000",
@@ -1401,7 +1401,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_082_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0118000",
@@ -1413,7 +1413,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_462_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0119000",
@@ -1425,7 +1425,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_311_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0120000",
@@ -1437,7 +1437,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_312_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0121000",
@@ -1449,7 +1449,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_559_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0122000",
@@ -1461,7 +1461,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_560_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0123000",
@@ -1473,7 +1473,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_622_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0124000",
@@ -1485,7 +1485,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_623_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0125000",
@@ -1497,7 +1497,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_322_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0126000",
@@ -1509,7 +1509,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_323_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0127000",
@@ -1521,7 +1521,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_854_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0128000",
@@ -1533,7 +1533,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_855_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0129000",
@@ -1545,7 +1545,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_137_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0130000",
@@ -1557,7 +1557,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_233_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0131000",
@@ -1569,7 +1569,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_474_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0132000",
@@ -1581,7 +1581,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_595_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0133000",
@@ -1593,7 +1593,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_596_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0134000",
@@ -1605,7 +1605,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_602_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0135000",
@@ -1617,7 +1617,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_603_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0136000",
@@ -1629,7 +1629,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_604_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0137000",
@@ -1641,7 +1641,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_374_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0138000",
@@ -1653,7 +1653,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_375_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0139000",
@@ -1665,7 +1665,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_376_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0140000",
@@ -1677,7 +1677,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_610_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0141000",
@@ -1689,7 +1689,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_611_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0142000",
@@ -1701,7 +1701,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_612_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0143000",
@@ -1713,7 +1713,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_086_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0144000",
@@ -1725,7 +1725,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_087_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0145000",
@@ -1737,7 +1737,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_131_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0146000",
@@ -1749,7 +1749,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_211_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0147000",
@@ -1761,7 +1761,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_904_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0148000",
@@ -1773,7 +1773,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_577_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0149000",
@@ -1785,7 +1785,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_578_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0150000",
@@ -1797,7 +1797,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_579_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0151000",
@@ -1809,7 +1809,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_209_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0152000",
@@ -1821,7 +1821,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_210_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0153000",
@@ -1833,7 +1833,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_613_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0154000",
@@ -1845,7 +1845,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_614_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0155000",
@@ -1857,7 +1857,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_027_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0156000",
@@ -1869,7 +1869,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_028_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0157000",
@@ -1881,7 +1881,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_037_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0158000",
@@ -1893,7 +1893,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_038_01_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0159000",
@@ -1905,7 +1905,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_459_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0160000",
@@ -1917,7 +1917,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_460_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0161000",
@@ -1929,7 +1929,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_884_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0162000",
@@ -1941,7 +1941,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_1018_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0163000",
@@ -1953,7 +1953,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_1019_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0164000",
@@ -1965,7 +1965,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_001_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0165000",
@@ -1977,7 +1977,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_002_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0166000",
@@ -1989,7 +1989,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_003_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0167000",
@@ -2001,7 +2001,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_004_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0168000",
@@ -2013,7 +2013,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_005_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0169000",
@@ -2025,7 +2025,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_006_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0170000",
@@ -2037,7 +2037,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_007_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0171000",
@@ -2049,7 +2049,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_008_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0172000",
@@ -2061,7 +2061,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_009_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0173000",
@@ -2073,7 +2073,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_152_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0174000",
@@ -2085,7 +2085,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_153_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0175000",
@@ -2097,7 +2097,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_154_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0176000",
@@ -2109,7 +2109,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_155_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0177000",
@@ -2121,7 +2121,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_156_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0178000",
@@ -2133,7 +2133,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_157_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0179000",
@@ -2145,7 +2145,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_158_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0180000",
@@ -2157,7 +2157,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_159_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0181000",
@@ -2169,7 +2169,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_160_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0182000",
@@ -2181,7 +2181,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_252_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0183000",
@@ -2193,7 +2193,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_253_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0184000",
@@ -2205,7 +2205,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_254_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0185000",
@@ -2217,7 +2217,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_255_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0186000",
@@ -2229,7 +2229,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_256_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0187000",
@@ -2241,7 +2241,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_257_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0188000",
@@ -2253,7 +2253,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_258_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0189000",
@@ -2265,7 +2265,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_259_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0190000",
@@ -2277,7 +2277,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_260_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0191000",
@@ -2289,7 +2289,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_387_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0192000",
@@ -2301,7 +2301,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_388_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0193000",
@@ -2313,7 +2313,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_389_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0194000",
@@ -2325,7 +2325,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_390_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0195000",
@@ -2337,7 +2337,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_391_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0196000",
@@ -2349,7 +2349,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_392_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0197000",
@@ -2361,7 +2361,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_393_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0198000",
@@ -2373,7 +2373,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_394_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0199000",
@@ -2385,7 +2385,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_395_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0200000",
@@ -2397,7 +2397,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_495_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0201000",
@@ -2409,7 +2409,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_496_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0202000",
@@ -2421,7 +2421,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_497_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0203000",
@@ -2433,7 +2433,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_498_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0204000",
@@ -2445,7 +2445,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_499_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0205000",
@@ -2457,7 +2457,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_500_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0206000",
@@ -2469,7 +2469,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_501_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0207000",
@@ -2481,7 +2481,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_502_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0208000",
@@ -2493,7 +2493,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_503_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0209000",
@@ -2505,7 +2505,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_650_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0210000",
@@ -2517,7 +2517,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_651_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0211000",
@@ -2529,7 +2529,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_652_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0212000",
@@ -2541,7 +2541,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_653_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0213000",
@@ -2553,7 +2553,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_654_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0214000",
@@ -2565,7 +2565,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_655_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0215000",
@@ -2577,7 +2577,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_656_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0216000",
@@ -2589,7 +2589,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_657_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0217000",
@@ -2601,7 +2601,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_658_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0218000",
@@ -2613,7 +2613,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_722_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0219000",
@@ -2625,7 +2625,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_723_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0220000",
@@ -2637,7 +2637,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_724_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0221000",
@@ -2649,7 +2649,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_725_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0222000",
@@ -2661,7 +2661,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_726_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0223000",
@@ -2673,7 +2673,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_727_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0224000",
@@ -2685,7 +2685,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_728_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0225000",
@@ -2697,7 +2697,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_729_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0226000",
@@ -2709,7 +2709,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_730_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0227000",
@@ -2721,7 +2721,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_810_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0228000",
@@ -2733,7 +2733,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_811_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0229000",
@@ -2745,7 +2745,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_812_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0230000",
@@ -2757,7 +2757,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_813_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0231000",
@@ -2769,7 +2769,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_814_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0232000",
@@ -2781,7 +2781,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_815_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0233000",
@@ -2793,7 +2793,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_816_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0234000",
@@ -2805,7 +2805,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_817_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0235000",
@@ -2817,7 +2817,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_818_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0236000",
@@ -2829,7 +2829,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_1020_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0237000",
@@ -2841,7 +2841,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_1021_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0238000",
@@ -2853,7 +2853,7 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_1023_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0239000",
@@ -2865,11 +2865,11 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_1022_00_00"
+        "voice": "dictionary"
     },
     {
         "id": "DS0240000",
-        "mdDicId": "DI1024000",
+        "mdDicId": "DI1024001",
         "regionDicNo": 240,
         "listAtlasNo": 1,
         "listImage": "sw010_cap0240_128",
@@ -2877,6 +2877,6 @@
         "topImageX": 1024,
         "topImageY": 520,
         "frameType": 0,
-        "voice": "mt_PV_EV_1024_00_00"
+        "voice": "dictionary"
     }
 ]
