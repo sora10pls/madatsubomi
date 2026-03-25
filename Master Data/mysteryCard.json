@@ -75,5 +75,19 @@
         "banner": "mcb_img_00000002",
         "mdDicId": "",
         "listImage": ""
+    },
+    {
+        "id": "MSC0003",
+        "giftId": "mystery_card_serial_3",
+        "banner": "mcb_img_00000003",
+        "mdDicId": "DI0079000",
+        "listImage": "cap0079_f00_s0"
+    },
+    {
+        "id": "MSC0004",
+        "giftId": "mystery_card_serial_4",
+        "banner": "mcb_img_00000004",
+        "mdDicId": "DI0531000",
+        "listImage": "cap0531_f00_s0"
     }
 ]
