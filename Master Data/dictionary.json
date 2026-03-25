@@ -82892,6 +82892,7 @@
         "paramSPD": 34,
         "isLegend": 1,
         "appearSoftwareAper": [
+            "TT004",
             "TT005"
         ],
         "isHideModel": 0,
@@ -82960,6 +82961,7 @@
         "paramSPD": 34,
         "isLegend": 1,
         "appearSoftwareAper": [
+            "TT004",
             "TT005"
         ],
         "isHideModel": 0,

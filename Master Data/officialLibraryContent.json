@@ -3443,5 +3443,538 @@
         "languages": [
             10
         ]
+    },
+    {
+        "id": "OLC000368",
+        "offLibId": "OL00940003",
+        "contentDataId": "OFCD000081",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            9,
+            10
+        ]
+    },
+    {
+        "id": "OLC000369",
+        "offLibId": "OL01620003",
+        "contentDataId": "OFCD000081",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            9,
+            10
+        ]
+    },
+    {
+        "id": "OLC000370",
+        "offLibId": "OL09060003",
+        "contentDataId": "OFCD000081",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            9,
+            10
+        ]
+    },
+    {
+        "id": "OLC000371",
+        "offLibId": "OL00940003",
+        "contentDataId": "OFCD000082",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            8
+        ]
+    },
+    {
+        "id": "OLC000372",
+        "offLibId": "OL01620003",
+        "contentDataId": "OFCD000082",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            8
+        ]
+    },
+    {
+        "id": "OLC000373",
+        "offLibId": "OL09060003",
+        "contentDataId": "OFCD000082",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            8
+        ]
+    },
+    {
+        "id": "OLC000374",
+        "offLibId": "OL00070003",
+        "contentDataId": "OFCD000083",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000375",
+        "offLibId": "OL01320000",
+        "contentDataId": "OFCD000083",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000376",
+        "offLibId": "OL00070003",
+        "contentDataId": "OFCD000084",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "OLC000377",
+        "offLibId": "OL01320000",
+        "contentDataId": "OFCD000084",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "OLC000378",
+        "offLibId": "OL08350003",
+        "contentDataId": "OFCD000085",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            9,
+            10
+        ]
+    },
+    {
+        "id": "OLC000379",
+        "offLibId": "OL08350003",
+        "contentDataId": "OFCD000086",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            8
+        ]
+    },
+    {
+        "id": "OLC000380",
+        "offLibId": "OL08770003",
+        "contentDataId": "OFCD000087",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": "OLC000381",
+        "offLibId": "OL01430003",
+        "contentDataId": "OFCD000087",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": "OLC000382",
+        "offLibId": "OL09090003",
+        "contentDataId": "OFCD000087",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": "OLC000383",
+        "offLibId": "OL09210003",
+        "contentDataId": "OFCD000088",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000384",
+        "offLibId": "OL09220003",
+        "contentDataId": "OFCD000088",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000385",
+        "offLibId": "OL09230003",
+        "contentDataId": "OFCD000088",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000386",
+        "offLibId": "OL00570003",
+        "contentDataId": "OFCD000089",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000387",
+        "offLibId": "OL09980003",
+        "contentDataId": "OFCD000089",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000388",
+        "offLibId": "OL09790003",
+        "contentDataId": "OFCD000089",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000389",
+        "offLibId": "OL01940013",
+        "contentDataId": "OFCD000090",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000390",
+        "offLibId": "OL09800003",
+        "contentDataId": "OFCD000090",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000391",
+        "offLibId": "OL06730003",
+        "contentDataId": "OFCD000091",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000392",
+        "offLibId": "OL05800003",
+        "contentDataId": "OFCD000092",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000393",
+        "offLibId": "OL01130002",
+        "contentDataId": "OFCD000093",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000394",
+        "offLibId": "OL09420003",
+        "contentDataId": "OFCD000093",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000395",
+        "offLibId": "OL09510003",
+        "contentDataId": "OFCD000094",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000396",
+        "offLibId": "OL00810000",
+        "contentDataId": "OFCD000095",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000397",
+        "offLibId": "OL01290003",
+        "contentDataId": "OFCD000096",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000398",
+        "offLibId": "OL01290003",
+        "contentDataId": "OFCD000097",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            2
+        ]
+    },
+    {
+        "id": "OLC000399",
+        "offLibId": "OL01290003",
+        "contentDataId": "OFCD000098",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            8
+        ]
+    },
+    {
+        "id": "OLC000400",
+        "offLibId": "OL01020003",
+        "contentDataId": "OFCD000099",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000401",
+        "offLibId": "OL00670003",
+        "contentDataId": "OFCD000100",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000402",
+        "offLibId": "OL00790003",
+        "contentDataId": "OFCD000101",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000403",
+        "offLibId": "OL00790003",
+        "contentDataId": "OFCD000102",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            2,
+            8
+        ]
+    },
+    {
+        "id": "OLC000404",
+        "offLibId": "OL01200000",
+        "contentDataId": "OFCD000103",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000405",
+        "offLibId": "OL00720003",
+        "contentDataId": "OFCD000104",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000406",
+        "offLibId": "OL01320000",
+        "contentDataId": "OFCD000105",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000407",
+        "offLibId": "OL07710003",
+        "contentDataId": "OFCD000106",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000408",
+        "offLibId": "OL00940003",
+        "contentDataId": "OFCD000107",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000409",
+        "offLibId": "OL00830003",
+        "contentDataId": "OFCD000108",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000410",
+        "offLibId": "OL00830013",
+        "contentDataId": "OFCD000108",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000411",
+        "offLibId": "OL08650003",
+        "contentDataId": "OFCD000108",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000412",
+        "offLibId": "OL00520003",
+        "contentDataId": "OFCD000109",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000413",
+        "offLibId": "OL00520013",
+        "contentDataId": "OFCD000109",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000414",
+        "offLibId": "OL00250003",
+        "contentDataId": "OFCD000110",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000415",
+        "offLibId": "OL01330003",
+        "contentDataId": "OFCD000110",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1
+        ]
+    },
+    {
+        "id": "OLC000416",
+        "offLibId": "OL00250003",
+        "contentDataId": "OFCD000111",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            2,
+            8
+        ]
+    },
+    {
+        "id": "OLC000417",
+        "offLibId": "OL01330003",
+        "contentDataId": "OFCD000111",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            2,
+            8
+        ]
+    },
+    {
+        "id": "OLC000418",
+        "offLibId": "OL00540003",
+        "contentDataId": "OFCD000112",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
+    },
+    {
+        "id": "OLC000419",
+        "offLibId": "OL00680003",
+        "contentDataId": "OFCD000113",
+        "contentInfoCountryGroupId": "group20",
+        "languages": [
+            1,
+            8
+        ]
     }
 ]
