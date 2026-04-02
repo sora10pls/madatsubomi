@@ -2130,6 +2130,36 @@
         "ms": "sp_achstep_box_s_0085"
     },
     {
+        "id": "BOX148-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0506"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_box_s_0086"
+    },
+    {
+        "id": "BOX149-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0507"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_box_s_0087"
+    },
+    {
+        "id": "BOX150-01",
+        "clearValue": 1,
+        "mdSeals": [
+            "SL0508"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_box_s_0088"
+    },
+    {
         "id": "LIB003-01",
         "clearValue": 4,
         "mdSeals": [
@@ -3422,6 +3452,46 @@
         "pokeMaile": 0,
         "openAchieveId": [],
         "ms": "sp_achstep_lib_s_0055"
+    },
+    {
+        "id": "LIB082-01",
+        "clearValue": 10,
+        "mdSeals": [
+            "SL0504"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_lib_s_0058"
+    },
+    {
+        "id": "LIB083-01",
+        "clearValue": 230,
+        "mdSeals": [
+            "SL0502"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_lib_s_0056"
+    },
+    {
+        "id": "LIB084-01",
+        "clearValue": 81,
+        "mdSeals": [
+            "SL0503"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_lib_s_0057"
+    },
+    {
+        "id": "LIB085-01",
+        "clearValue": 131,
+        "mdSeals": [
+            "SL0505"
+        ],
+        "pokeMaile": 0,
+        "openAchieveId": [],
+        "ms": "sp_achstep_lib_s_0059"
     },
     {
         "id": "OTH003-01",

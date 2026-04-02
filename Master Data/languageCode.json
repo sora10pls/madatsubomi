@@ -42,5 +42,9 @@
     {
         "id": "LA10",
         "code": "CHT"
+    },
+    {
+        "id": "LA11",
+        "code": "LAS"
     }
 ]

@@ -8115,7 +8115,7 @@
             "SF031"
         ],
         "placeNameIds": "30012",
-        "msPlace": "SM_place_name_spe:MAPNAME_HOLOHOLO"
+        "msPlace": "SM_place_name_spe:MAPNAME_PMGO"
     },
     {
         "id": "903",
@@ -11103,7 +11103,7 @@
             "SF033"
         ],
         "placeNameIds": "30012",
-        "msPlace": "USUM_place_name_spe:MAPNAME_HOLOHOLO"
+        "msPlace": "USUM_place_name_spe:MAPNAME_PMGO"
     },
     {
         "id": "1235",
@@ -12534,7 +12534,7 @@
             "SF043"
         ],
         "placeNameIds": "30012",
-        "msPlace": "LPLE_place_name_spe:MAPNAME_HOLOHOLO"
+        "msPlace": "LPLE_place_name_spe:MAPNAME_PMGO"
     },
     {
         "id": "1394",
@@ -15441,7 +15441,7 @@
             "SF045"
         ],
         "placeNameIds": "30012",
-        "msPlace": "SWSH_place_name_spe:MAPNAME_HOLOHOLO"
+        "msPlace": "SWSH_place_name_spe:MAPNAME_PMGO"
     },
     {
         "id": "1717",
@@ -15495,7 +15495,7 @@
             "SF045"
         ],
         "placeNameIds": "30018",
-        "msPlace": "SWSH_place_name_spe:MAPNAME_MEGATURTLE"
+        "msPlace": "SWSH_place_name_spe:MAPNAME_HOME"
     },
     {
         "id": "1723",
@@ -19246,7 +19246,7 @@
             "SF047"
         ],
         "placeNameIds": "30012",
-        "msPlace": "ARCEUS_place_name_spe:MAPNAME_HOLOHOLO"
+        "msPlace": "ARCEUS_place_name_spe:MAPNAME_PMGO"
     },
     {
         "id": "2158",
@@ -19294,7 +19294,7 @@
             "SF047"
         ],
         "placeNameIds": "30018",
-        "msPlace": "ARCEUS_place_name_spe:MAPNAME_MEGATURTLE"
+        "msPlace": "ARCEUS_place_name_spe:MAPNAME_HOME"
     },
     {
         "id": "2164",
@@ -24670,7 +24670,7 @@
             "SF051"
         ],
         "placeNameIds": "30012",
-        "msPlace": "SV_place_name_spe:MAPNAME_HOLOHOLO"
+        "msPlace": "SV_place_name_spe:MAPNAME_PMGO"
     },
     {
         "id": "2707",
@@ -24724,7 +24724,7 @@
             "SF051"
         ],
         "placeNameIds": "30018",
-        "msPlace": "SV_place_name_spe:MAPNAME_MEGATURTLE"
+        "msPlace": "SV_place_name_spe:MAPNAME_HOME"
     },
     {
         "id": "2713",
@@ -24923,5 +24923,3117 @@
         ],
         "placeNameIds": "200",
         "msPlace": "SV_place_name:PLACENAME_subarea_su2approach_01"
+    },
+    {
+        "id": "2735",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "0",
+        "msPlace": "ZA_place_name:MAPNAME_NOTHING"
+    },
+    {
+        "id": "2736",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "1",
+        "msPlace": "ZA_place_name:MAPNAME_NOTHING_01"
+    },
+    {
+        "id": "2737",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "2",
+        "msPlace": "ZA_place_name:MAPNAME_NAZONOBASYO"
+    },
+    {
+        "id": "2738",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "3",
+        "msPlace": "ZA_place_name:MAPNAME_NAZONOBASYO_01"
+    },
+    {
+        "id": "2739",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "4",
+        "msPlace": "ZA_place_name:MAPNAME_TOOIBASYO"
+    },
+    {
+        "id": "2740",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "5",
+        "msPlace": "ZA_place_name:MAPNAME_TOOIBASYO_01"
+    },
+    {
+        "id": "2741",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "6",
+        "msPlace": "ZA_place_name:PLACENAME_A01"
+    },
+    {
+        "id": "2742",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "7",
+        "msPlace": "ZA_place_name:PLACENAME_A02"
+    },
+    {
+        "id": "2743",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "8",
+        "msPlace": "ZA_place_name:PLACENAME_A03"
+    },
+    {
+        "id": "2744",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "9",
+        "msPlace": "ZA_place_name:PLACENAME_A04"
+    },
+    {
+        "id": "2745",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "10",
+        "msPlace": "ZA_place_name:PLACENAME_A05"
+    },
+    {
+        "id": "2746",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "11",
+        "msPlace": "ZA_place_name:PLACENAME_A06"
+    },
+    {
+        "id": "2747",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "12",
+        "msPlace": "ZA_place_name:PLACENAME_R01"
+    },
+    {
+        "id": "2748",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "13",
+        "msPlace": "ZA_place_name:PLACENAME_R02"
+    },
+    {
+        "id": "2749",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "14",
+        "msPlace": "ZA_place_name:PLACENAME_R03"
+    },
+    {
+        "id": "2750",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "15",
+        "msPlace": "ZA_place_name:PLACENAME_R04"
+    },
+    {
+        "id": "2751",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "16",
+        "msPlace": "ZA_place_name:PLACENAME_R05"
+    },
+    {
+        "id": "2752",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "17",
+        "msPlace": "ZA_place_name:PLACENAME_A01_r01"
+    },
+    {
+        "id": "2753",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "18",
+        "msPlace": "ZA_place_name:PLACENAME_A01_r02"
+    },
+    {
+        "id": "2754",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "19",
+        "msPlace": "ZA_place_name:PLACENAME_A01_r03"
+    },
+    {
+        "id": "2755",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "20",
+        "msPlace": "ZA_place_name:PLACENAME_A01_r04"
+    },
+    {
+        "id": "2756",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "21",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z01_01"
+    },
+    {
+        "id": "2757",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "22",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z01_02"
+    },
+    {
+        "id": "2758",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "23",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z01_03"
+    },
+    {
+        "id": "2759",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "24",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z01_04"
+    },
+    {
+        "id": "2760",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "25",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z01_05"
+    },
+    {
+        "id": "2761",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "26",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z01_06"
+    },
+    {
+        "id": "2762",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "27",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z02_01"
+    },
+    {
+        "id": "2763",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "28",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z02_02"
+    },
+    {
+        "id": "2764",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "29",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z02_03"
+    },
+    {
+        "id": "2765",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z02_04"
+    },
+    {
+        "id": "2766",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "31",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z02_05"
+    },
+    {
+        "id": "2767",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "32",
+        "msPlace": "ZA_place_name:PLACENAME_A01_z03_01"
+    },
+    {
+        "id": "2768",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "33",
+        "msPlace": "ZA_place_name:PLACENAME_A02_r01"
+    },
+    {
+        "id": "2769",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "34",
+        "msPlace": "ZA_place_name:PLACENAME_A02_r02"
+    },
+    {
+        "id": "2770",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "35",
+        "msPlace": "ZA_place_name:PLACENAME_A02_r03"
+    },
+    {
+        "id": "2771",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "36",
+        "msPlace": "ZA_place_name:PLACENAME_A02_r04"
+    },
+    {
+        "id": "2772",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "37",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z01_01"
+    },
+    {
+        "id": "2773",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "38",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z01_02"
+    },
+    {
+        "id": "2774",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "39",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z01_03"
+    },
+    {
+        "id": "2775",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z01_04"
+    },
+    {
+        "id": "2776",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "41",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z01_05"
+    },
+    {
+        "id": "2777",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "42",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z02_01"
+    },
+    {
+        "id": "2778",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "43",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z02_02"
+    },
+    {
+        "id": "2779",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "44",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z02_03"
+    },
+    {
+        "id": "2780",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "45",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z02_04"
+    },
+    {
+        "id": "2781",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "46",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z02_05"
+    },
+    {
+        "id": "2782",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "47",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z02_06"
+    },
+    {
+        "id": "2783",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "48",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z02_07"
+    },
+    {
+        "id": "2784",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "49",
+        "msPlace": "ZA_place_name:PLACENAME_A02_z03_01"
+    },
+    {
+        "id": "2785",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "50",
+        "msPlace": "ZA_place_name:PLACENAME_A03_r01"
+    },
+    {
+        "id": "2786",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "51",
+        "msPlace": "ZA_place_name:PLACENAME_A03_r02"
+    },
+    {
+        "id": "2787",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "52",
+        "msPlace": "ZA_place_name:PLACENAME_A03_r03"
+    },
+    {
+        "id": "2788",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "53",
+        "msPlace": "ZA_place_name:PLACENAME_A03_r04"
+    },
+    {
+        "id": "2789",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "54",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z01_01"
+    },
+    {
+        "id": "2790",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "55",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z01_02"
+    },
+    {
+        "id": "2791",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "56",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z01_03"
+    },
+    {
+        "id": "2792",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "57",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z01_04"
+    },
+    {
+        "id": "2793",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "58",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z01_05"
+    },
+    {
+        "id": "2794",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "59",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z02_01"
+    },
+    {
+        "id": "2795",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "60",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z02_02"
+    },
+    {
+        "id": "2796",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "61",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z02_03"
+    },
+    {
+        "id": "2797",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "62",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z02_04"
+    },
+    {
+        "id": "2798",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "63",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z02_05"
+    },
+    {
+        "id": "2799",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "64",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z02_06"
+    },
+    {
+        "id": "2800",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "65",
+        "msPlace": "ZA_place_name:PLACENAME_A03_z03_01"
+    },
+    {
+        "id": "2801",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "66",
+        "msPlace": "ZA_place_name:PLACENAME_A04_r01"
+    },
+    {
+        "id": "2802",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "67",
+        "msPlace": "ZA_place_name:PLACENAME_A04_r02"
+    },
+    {
+        "id": "2803",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "68",
+        "msPlace": "ZA_place_name:PLACENAME_A04_r03"
+    },
+    {
+        "id": "2804",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "69",
+        "msPlace": "ZA_place_name:PLACENAME_A04_r04"
+    },
+    {
+        "id": "2805",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "70",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z01_01"
+    },
+    {
+        "id": "2806",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "71",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z01_02"
+    },
+    {
+        "id": "2807",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "72",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z01_03"
+    },
+    {
+        "id": "2808",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "73",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z01_04"
+    },
+    {
+        "id": "2809",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "74",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z01_05"
+    },
+    {
+        "id": "2810",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "75",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z02_01"
+    },
+    {
+        "id": "2811",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "76",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z02_02"
+    },
+    {
+        "id": "2812",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "77",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z02_03"
+    },
+    {
+        "id": "2813",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "78",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z02_04"
+    },
+    {
+        "id": "2814",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "79",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z02_05"
+    },
+    {
+        "id": "2815",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "80",
+        "msPlace": "ZA_place_name:PLACENAME_A04_z03_01"
+    },
+    {
+        "id": "2816",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "81",
+        "msPlace": "ZA_place_name:PLACENAME_A05_r01"
+    },
+    {
+        "id": "2817",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "82",
+        "msPlace": "ZA_place_name:PLACENAME_A05_r02"
+    },
+    {
+        "id": "2818",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "83",
+        "msPlace": "ZA_place_name:PLACENAME_A05_r03"
+    },
+    {
+        "id": "2819",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "84",
+        "msPlace": "ZA_place_name:PLACENAME_A05_r04"
+    },
+    {
+        "id": "2820",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "85",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z01_01"
+    },
+    {
+        "id": "2821",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "86",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z01_02"
+    },
+    {
+        "id": "2822",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "87",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z01_03"
+    },
+    {
+        "id": "2823",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "88",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z01_04"
+    },
+    {
+        "id": "2824",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "89",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z01_05"
+    },
+    {
+        "id": "2825",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "90",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z01_06"
+    },
+    {
+        "id": "2826",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "91",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z02_01"
+    },
+    {
+        "id": "2827",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "92",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z02_02"
+    },
+    {
+        "id": "2828",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "93",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z02_03"
+    },
+    {
+        "id": "2829",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "94",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z02_04"
+    },
+    {
+        "id": "2830",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "95",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z02_05"
+    },
+    {
+        "id": "2831",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "96",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z02_06"
+    },
+    {
+        "id": "2832",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "97",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z02_07"
+    },
+    {
+        "id": "2833",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "98",
+        "msPlace": "ZA_place_name:PLACENAME_A05_z03_01"
+    },
+    {
+        "id": "2834",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "99",
+        "msPlace": "ZA_place_name:PLACENAME_R01_mainstreet"
+    },
+    {
+        "id": "2835",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "100",
+        "msPlace": "ZA_place_name:PLACENAME_A04_artmuseum"
+    },
+    {
+        "id": "2836",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "101",
+        "msPlace": "ZA_place_name:PLACENAME_pokesen_veil"
+    },
+    {
+        "id": "2837",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "102",
+        "msPlace": "ZA_place_name:PLACENAME_hotelz"
+    },
+    {
+        "id": "2838",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "103",
+        "msPlace": "ZA_place_name:PLACENAME_poke_labo"
+    },
+    {
+        "id": "2839",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "104",
+        "msPlace": "ZA_place_name:PLACENAME_prism_tower"
+    },
+    {
+        "id": "2840",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "105",
+        "msPlace": "ZA_place_name:PLACENAME_handsome"
+    },
+    {
+        "id": "2841",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "106",
+        "msPlace": "ZA_place_name:PLACENAME_quasar_building"
+    },
+    {
+        "id": "2842",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "107",
+        "msPlace": "ZA_place_name:PLACENAME_gamedan_hideout"
+    },
+    {
+        "id": "2843",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "108",
+        "msPlace": "ZA_place_name:PLACENAME_veil"
+    },
+    {
+        "id": "2844",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "109",
+        "msPlace": "ZA_place_name:PLACENAME_veil_sg_station"
+    },
+    {
+        "id": "2845",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "110",
+        "msPlace": "ZA_place_name:PLACENAME_blue"
+    },
+    {
+        "id": "2846",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "111",
+        "msPlace": "ZA_place_name:PLACENAME_blue_gang"
+    },
+    {
+        "id": "2847",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "112",
+        "msPlace": "ZA_place_name:PLACENAME_blue_pokecen"
+    },
+    {
+        "id": "2848",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "113",
+        "msPlace": "ZA_place_name:PLACENAME_blue_pokecen2"
+    },
+    {
+        "id": "2849",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "114",
+        "msPlace": "ZA_place_name:PLACENAME_rose"
+    },
+    {
+        "id": "2850",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "115",
+        "msPlace": "ZA_place_name:PLACENAME_rose_fleur_cafe"
+    },
+    {
+        "id": "2851",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "116",
+        "msPlace": "ZA_place_name:PLACENAME_rose_pokecen"
+    },
+    {
+        "id": "2852",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "117",
+        "msPlace": "ZA_place_name:PLACENAME_rose_pokecen2"
+    },
+    {
+        "id": "2853",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "118",
+        "msPlace": "ZA_place_name:PLACENAME_rouge"
+    },
+    {
+        "id": "2854",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "119",
+        "msPlace": "ZA_place_name:PLACENAME_rouge_grandhotel"
+    },
+    {
+        "id": "2855",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "120",
+        "msPlace": "ZA_place_name:PLACENAME_rouge_pokecen"
+    },
+    {
+        "id": "2856",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "121",
+        "msPlace": "ZA_place_name:PLACENAME_rouge_pokecen2"
+    },
+    {
+        "id": "2857",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "122",
+        "msPlace": "ZA_place_name:PLACENAME_jaune"
+    },
+    {
+        "id": "2858",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "123",
+        "msPlace": "ZA_place_name:PLACENAME_jaune_justice"
+    },
+    {
+        "id": "2859",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "124",
+        "msPlace": "ZA_place_name:PLACENAME_jaune_pokecen"
+    },
+    {
+        "id": "2860",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "125",
+        "msPlace": "ZA_place_name:PLACENAME_jaune_pokecen2"
+    },
+    {
+        "id": "2861",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "126",
+        "msPlace": "ZA_place_name:PLACENAME_hairsalon_01"
+    },
+    {
+        "id": "2862",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "127",
+        "msPlace": "ZA_place_name:PLACENAME_stoneshop_01"
+    },
+    {
+        "id": "2863",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "128",
+        "msPlace": "ZA_place_name:PLACENAME_ballshop_01"
+    },
+    {
+        "id": "2864",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "129",
+        "msPlace": "ZA_place_name:PLACENAME_A01_dressup_01"
+    },
+    {
+        "id": "2865",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "130",
+        "msPlace": "ZA_place_name:PLACENAME_A01_dressup_02"
+    },
+    {
+        "id": "2866",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "131",
+        "msPlace": "ZA_place_name:PLACENAME_A01_restaurant_01"
+    },
+    {
+        "id": "2867",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "132",
+        "msPlace": "ZA_place_name:PLACENAME_A01_cafe_01"
+    },
+    {
+        "id": "2868",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "133",
+        "msPlace": "ZA_place_name:PLACENAME_A01_cafe_02"
+    },
+    {
+        "id": "2869",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "134",
+        "msPlace": "ZA_place_name:PLACENAME_A01_cafe_03"
+    },
+    {
+        "id": "2870",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "135",
+        "msPlace": "ZA_place_name:PLACENAME_A02_emptyroom"
+    },
+    {
+        "id": "2871",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "136",
+        "msPlace": "ZA_place_name:PLACENAME_A02_undergroundsewer_01"
+    },
+    {
+        "id": "2872",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "137",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_01"
+    },
+    {
+        "id": "2873",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "138",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_02"
+    },
+    {
+        "id": "2874",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "139",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_03"
+    },
+    {
+        "id": "2875",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "140",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_04"
+    },
+    {
+        "id": "2876",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "141",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_05"
+    },
+    {
+        "id": "2877",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "142",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_06"
+    },
+    {
+        "id": "2878",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "143",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_07"
+    },
+    {
+        "id": "2879",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "144",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_08"
+    },
+    {
+        "id": "2880",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "145",
+        "msPlace": "ZA_place_name:PLACENAME_A02_dressup_09"
+    },
+    {
+        "id": "2881",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "146",
+        "msPlace": "ZA_place_name:PLACENAME_A02_hairsalon_01"
+    },
+    {
+        "id": "2882",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "147",
+        "msPlace": "ZA_place_name:PLACENAME_A02_cafe_01"
+    },
+    {
+        "id": "2883",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "148",
+        "msPlace": "ZA_place_name:PLACENAME_A02_cafe_02"
+    },
+    {
+        "id": "2884",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "149",
+        "msPlace": "ZA_place_name:PLACENAME_A02_cafe_03"
+    },
+    {
+        "id": "2885",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "150",
+        "msPlace": "ZA_place_name:PLACENAME_A03_undergroundsewer_02"
+    },
+    {
+        "id": "2886",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "151",
+        "msPlace": "ZA_place_name:PLACENAME_A03_cafe_01"
+    },
+    {
+        "id": "2887",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "152",
+        "msPlace": "ZA_place_name:PLACENAME_A03_cafe_02"
+    },
+    {
+        "id": "2888",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "153",
+        "msPlace": "ZA_place_name:PLACENAME_A03_cafe_03"
+    },
+    {
+        "id": "2889",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "154",
+        "msPlace": "ZA_place_name:PLACENAME_A03_cafe_04"
+    },
+    {
+        "id": "2890",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "155",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_01"
+    },
+    {
+        "id": "2891",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "156",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_02"
+    },
+    {
+        "id": "2892",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "157",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_03"
+    },
+    {
+        "id": "2893",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "158",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_04"
+    },
+    {
+        "id": "2894",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "159",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_05"
+    },
+    {
+        "id": "2895",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "160",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_06"
+    },
+    {
+        "id": "2896",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "161",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_07"
+    },
+    {
+        "id": "2897",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "162",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_08"
+    },
+    {
+        "id": "2898",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "163",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_09"
+    },
+    {
+        "id": "2899",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "164",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_10"
+    },
+    {
+        "id": "2900",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "165",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_11"
+    },
+    {
+        "id": "2901",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "166",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_12"
+    },
+    {
+        "id": "2902",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "167",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_13"
+    },
+    {
+        "id": "2903",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "168",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_14"
+    },
+    {
+        "id": "2904",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "169",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_15"
+    },
+    {
+        "id": "2905",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "170",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_16"
+    },
+    {
+        "id": "2906",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "171",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_17"
+    },
+    {
+        "id": "2907",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "172",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_18"
+    },
+    {
+        "id": "2908",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "173",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_19"
+    },
+    {
+        "id": "2909",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "174",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_20"
+    },
+    {
+        "id": "2910",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "175",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_21"
+    },
+    {
+        "id": "2911",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "176",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_22"
+    },
+    {
+        "id": "2912",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "177",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_23"
+    },
+    {
+        "id": "2913",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "178",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_24"
+    },
+    {
+        "id": "2914",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "179",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_25"
+    },
+    {
+        "id": "2915",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "180",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_26"
+    },
+    {
+        "id": "2916",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "181",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_27"
+    },
+    {
+        "id": "2917",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "182",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_28"
+    },
+    {
+        "id": "2918",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "183",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_29"
+    },
+    {
+        "id": "2919",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "184",
+        "msPlace": "ZA_place_name:PLACENAME_A04_dressup_30"
+    },
+    {
+        "id": "2920",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "185",
+        "msPlace": "ZA_place_name:PLACENAME_A04_restaurant_01"
+    },
+    {
+        "id": "2921",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "186",
+        "msPlace": "ZA_place_name:PLACENAME_A04_restaurant_02"
+    },
+    {
+        "id": "2922",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "187",
+        "msPlace": "ZA_place_name:PLACENAME_A04_restaurant_03"
+    },
+    {
+        "id": "2923",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "188",
+        "msPlace": "ZA_place_name:PLACENAME_A05_undergroundsewer_01"
+    },
+    {
+        "id": "2924",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "189",
+        "msPlace": "ZA_place_name:PLACENAME_A05_cafe_01"
+    },
+    {
+        "id": "2925",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "190",
+        "msPlace": "ZA_place_name:PLACENAME_A05_cafe_02"
+    },
+    {
+        "id": "2926",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "191",
+        "msPlace": "ZA_place_name:PLACENAME_A05_cafe_03"
+    },
+    {
+        "id": "2927",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "192",
+        "msPlace": "ZA_place_name:PLACENAME_A05_cafe_04"
+    },
+    {
+        "id": "2928",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "193",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0101_w01"
+    },
+    {
+        "id": "2929",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "194",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0102_w01"
+    },
+    {
+        "id": "2930",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "195",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0103_w01"
+    },
+    {
+        "id": "2931",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "196",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0201_w01"
+    },
+    {
+        "id": "2932",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "197",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0202_w01"
+    },
+    {
+        "id": "2933",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "198",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0202_w02"
+    },
+    {
+        "id": "2934",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "199",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0203_w01"
+    },
+    {
+        "id": "2935",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "200",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0301_w01"
+    },
+    {
+        "id": "2936",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "201",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0301_w02"
+    },
+    {
+        "id": "2937",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "202",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0302_w01"
+    },
+    {
+        "id": "2938",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "203",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0303_w01"
+    },
+    {
+        "id": "2939",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "204",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0401_w01"
+    },
+    {
+        "id": "2940",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "205",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0402_w01"
+    },
+    {
+        "id": "2941",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "206",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0403_w01"
+    },
+    {
+        "id": "2942",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "207",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0501_w01"
+    },
+    {
+        "id": "2943",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "208",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0501_w02"
+    },
+    {
+        "id": "2944",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "209",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0502_w01"
+    },
+    {
+        "id": "2945",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "210",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0502_w02"
+    },
+    {
+        "id": "2946",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "211",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0503_w01"
+    },
+    {
+        "id": "2947",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "212",
+        "msPlace": "ZA_place_name:PLACENAME_wild_a0601_w01"
+    },
+    {
+        "id": "2948",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "213",
+        "msPlace": "ZA_place_name:PLACENAME_battle_01"
+    },
+    {
+        "id": "2949",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "214",
+        "msPlace": "ZA_place_name:PLACENAME_passage_a02_z02_04"
+    },
+    {
+        "id": "2950",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "215",
+        "msPlace": "ZA_place_name:PLACENAME_passage_a04_z01_03"
+    },
+    {
+        "id": "2951",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "216",
+        "msPlace": "ZA_place_name:PLACENAME_passage_a04_z02_01"
+    },
+    {
+        "id": "2952",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "217",
+        "msPlace": "ZA_place_name:PLACENAME_passage_a04_z02_05"
+    },
+    {
+        "id": "2953",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "218",
+        "msPlace": "ZA_place_name:PLACENAME_base_a05_z02_01"
+    },
+    {
+        "id": "2954",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "219",
+        "msPlace": "ZA_place_name:PLACENAME_hotelZ_i001"
+    },
+    {
+        "id": "2955",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "220",
+        "msPlace": "ZA_place_name:PLACENAME_base_i011"
+    },
+    {
+        "id": "2956",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "221",
+        "msPlace": "ZA_place_name:PLACENAME_base_i012"
+    },
+    {
+        "id": "2957",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "222",
+        "msPlace": "ZA_place_name:PLACENAME_base_i014"
+    },
+    {
+        "id": "2958",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "223",
+        "msPlace": "ZA_place_name:PLACENAME_station_a01_z01_06"
+    },
+    {
+        "id": "2959",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "224",
+        "msPlace": "ZA_place_name:PLACENAME__i003"
+    },
+    {
+        "id": "2960",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "225",
+        "msPlace": "ZA_place_name:PLACENAME_i004a"
+    },
+    {
+        "id": "2961",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "226",
+        "msPlace": "ZA_place_name:PLACENAME_i004b"
+    },
+    {
+        "id": "2962",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "227",
+        "msPlace": "ZA_place_name:PLACENAME_i004c"
+    },
+    {
+        "id": "2963",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "228",
+        "msPlace": "ZA_place_name:PLACENAME_i004d"
+    },
+    {
+        "id": "2964",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "229",
+        "msPlace": "ZA_place_name:PLACENAME_i005"
+    },
+    {
+        "id": "2965",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "230",
+        "msPlace": "ZA_place_name:PLACENAME_i006"
+    },
+    {
+        "id": "2966",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "231",
+        "msPlace": "ZA_place_name:PLACENAME_i007"
+    },
+    {
+        "id": "2967",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "232",
+        "msPlace": "ZA_place_name:PLACENAME_i008"
+    },
+    {
+        "id": "2968",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "233",
+        "msPlace": "ZA_place_name:PLACENAME_i015"
+    },
+    {
+        "id": "2969",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "234",
+        "msPlace": "ZA_place_name:PLACENAME_t2f"
+    },
+    {
+        "id": "2970",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "235",
+        "msPlace": "ZA_place_name:PLACENAME_t3"
+    },
+    {
+        "id": "2971",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "236",
+        "msPlace": "ZA_place_name:PLACENAME_t1_i001_2"
+    },
+    {
+        "id": "2972",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "237",
+        "msPlace": "ZA_place_name:PLACENAME_t1_i001_3"
+    },
+    {
+        "id": "2973",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "238",
+        "msPlace": "ZA_place_name:PLACENAME_t1_i001_5"
+    },
+    {
+        "id": "2974",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "239",
+        "msPlace": "ZA_place_name:PLACENAME_t1_i001_6"
+    },
+    {
+        "id": "2975",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "240",
+        "msPlace": "ZA_place_name:PLACENAME_short_001"
+    },
+    {
+        "id": "2976",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "241",
+        "msPlace": "ZA_place_name:PLACENAME_short_002"
+    },
+    {
+        "id": "2977",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "242",
+        "msPlace": "ZA_place_name:PLACENAME_short_003"
+    },
+    {
+        "id": "2978",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "243",
+        "msPlace": "ZA_place_name:PLACENAME_short_004"
+    },
+    {
+        "id": "2979",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "244",
+        "msPlace": "ZA_place_name:PLACENAME_short_005"
+    },
+    {
+        "id": "2980",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "245",
+        "msPlace": "ZA_place_name:PLACENAME_i00_floor_001"
+    },
+    {
+        "id": "2981",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "246",
+        "msPlace": "ZA_place_name:PLACENAME_i00_floor_002"
+    },
+    {
+        "id": "2982",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "247",
+        "msPlace": "ZA_place_name:PLACENAME_i00_floor_003"
+    },
+    {
+        "id": "2983",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "248",
+        "msPlace": "ZA_place_name:PLACENAME_base_001"
+    },
+    {
+        "id": "2984",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "249",
+        "msPlace": "ZA_place_name:PLACENAME_base_002"
+    },
+    {
+        "id": "2985",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "250",
+        "msPlace": "ZA_place_name:PLACENAME_base_003"
+    },
+    {
+        "id": "2986",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "251",
+        "msPlace": "ZA_place_name:PLACENAME_t2f_basement_001"
+    },
+    {
+        "id": "2987",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "252",
+        "msPlace": "ZA_place_name:PLACENAME_t2f_basement_002"
+    },
+    {
+        "id": "2988",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "253",
+        "msPlace": "ZA_place_name:PLACENAME_t2f_basement_003"
+    },
+    {
+        "id": "2989",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "254",
+        "msPlace": "ZA_place_name:PLACENAME_t2"
+    },
+    {
+        "id": "2990",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "255",
+        "msPlace": "ZA_place_name:PLACENAME_floor_001"
+    },
+    {
+        "id": "2991",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "256",
+        "msPlace": "ZA_place_name:PLACENAME_floor_002"
+    },
+    {
+        "id": "2992",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "257",
+        "msPlace": "ZA_place_name:PLACENAME_floor_003"
+    },
+    {
+        "id": "2993",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "258",
+        "msPlace": "ZA_place_name:PLACENAME_floorname_001"
+    },
+    {
+        "id": "2994",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "259",
+        "msPlace": "ZA_place_name:PLACENAME_floorname_002"
+    },
+    {
+        "id": "2995",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "260",
+        "msPlace": "ZA_place_name:PLACENAME_floorname_003"
+    },
+    {
+        "id": "2996",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "261",
+        "msPlace": "ZA_place_name:PLACENAME_basement_001"
+    },
+    {
+        "id": "2997",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "262",
+        "msPlace": "ZA_place_name:PLACENAME_basement_002"
+    },
+    {
+        "id": "2998",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "263",
+        "msPlace": "ZA_place_name:PLACENAME_basement_003"
+    },
+    {
+        "id": "2999",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "264",
+        "msPlace": "ZA_place_name:PLACENAME_return"
+    },
+    {
+        "id": "3000",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "265",
+        "msPlace": "ZA_place_name:PLACENAME_A01_cafe_04"
+    },
+    {
+        "id": "3001",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "266",
+        "msPlace": "ZA_place_name:PLACENAME_A02_cafe_04"
+    },
+    {
+        "id": "3002",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "267",
+        "msPlace": "ZA_place_name:PLACENAME_A03_cafe_05"
+    },
+    {
+        "id": "3003",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "268",
+        "msPlace": "ZA_place_name:PLACENAME_dungeon_t2_01"
+    },
+    {
+        "id": "3004",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "269",
+        "msPlace": "ZA_place_name:PLACENAME_dungeon_t3_01"
+    },
+    {
+        "id": "3005",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "270",
+        "msPlace": "ZA_place_name:PLACENAME_dungeon_t3_02"
+    },
+    {
+        "id": "3006",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "271",
+        "msPlace": "ZA_place_name:PLACENAME_dungeon_t3_2_01"
+    },
+    {
+        "id": "3007",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "272",
+        "msPlace": "ZA_place_name:PLACENAME_dim_0"
+    },
+    {
+        "id": "3008",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "273",
+        "msPlace": "ZA_place_name:PLACENAME_dim_1"
+    },
+    {
+        "id": "3009",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "274",
+        "msPlace": "ZA_place_name:PLACENAME_dim_gate_1"
+    },
+    {
+        "id": "3010",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "275",
+        "msPlace": "ZA_place_name:PLACENAME_dim_2"
+    },
+    {
+        "id": "3011",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "276",
+        "msPlace": "ZA_place_name:PLACENAME_dim_3"
+    },
+    {
+        "id": "3012",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "277",
+        "msPlace": "ZA_place_name:PLACENAME_dim_4"
+    },
+    {
+        "id": "3013",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "278",
+        "msPlace": "ZA_place_name:PLACENAME_dim_5"
+    },
+    {
+        "id": "3014",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "279",
+        "msPlace": "ZA_place_name:PLACENAME_dim_6"
+    },
+    {
+        "id": "3015",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "280",
+        "msPlace": "ZA_place_name:PLACENAME_dim_7"
+    },
+    {
+        "id": "3016",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "281",
+        "msPlace": "ZA_place_name:PLACENAME_dim_8"
+    },
+    {
+        "id": "3017",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "282",
+        "msPlace": "ZA_place_name:PLACENAME_dim_9"
+    },
+    {
+        "id": "3018",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "283",
+        "msPlace": "ZA_place_name:PLACENAME_dim_10"
+    },
+    {
+        "id": "3019",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40001",
+        "msPlace": "ZA_place_name_out:MAPNAME_SUTEKINABASYO"
+    },
+    {
+        "id": "3020",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40002",
+        "msPlace": "ZA_place_name_out:MAPNAME_TOOIBASYO_OUT"
+    },
+    {
+        "id": "3021",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40003",
+        "msPlace": "ZA_place_name_out:MAPNAME_EIGA"
+    },
+    {
+        "id": "3022",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40004",
+        "msPlace": "ZA_place_name_out:MAPNAME_EIGA24"
+    },
+    {
+        "id": "3023",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40005",
+        "msPlace": "ZA_place_name_out:MAPNAME_EIGA25"
+    },
+    {
+        "id": "3024",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40006",
+        "msPlace": "ZA_place_name_out:MAPNAME_EIGA26"
+    },
+    {
+        "id": "3025",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40007",
+        "msPlace": "ZA_place_name_out:MAPNAME_EIGA27"
+    },
+    {
+        "id": "3026",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40008",
+        "msPlace": "ZA_place_name_out:MAPNAME_EIGA28"
+    },
+    {
+        "id": "3027",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40009",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMOANIME"
+    },
+    {
+        "id": "3028",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40010",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONSENTAH"
+    },
+    {
+        "id": "3029",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40011",
+        "msPlace": "ZA_place_name_out:MAPNAME_PCTOHOKU"
+    },
+    {
+        "id": "3030",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40012",
+        "msPlace": "ZA_place_name_out:MAPNAME_WCS"
+    },
+    {
+        "id": "3031",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40013",
+        "msPlace": "ZA_place_name_out:MAPNAME_WCS24"
+    },
+    {
+        "id": "3032",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40014",
+        "msPlace": "ZA_place_name_out:MAPNAME_WCS25"
+    },
+    {
+        "id": "3033",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40015",
+        "msPlace": "ZA_place_name_out:MAPNAME_WCS26"
+    },
+    {
+        "id": "3034",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40016",
+        "msPlace": "ZA_place_name_out:MAPNAME_WCS27"
+    },
+    {
+        "id": "3035",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40017",
+        "msPlace": "ZA_place_name_out:MAPNAME_WCS28"
+    },
+    {
+        "id": "3036",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40018",
+        "msPlace": "ZA_place_name_out:MAPNAME_WORLDS"
+    },
+    {
+        "id": "3037",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40019",
+        "msPlace": "ZA_place_name_out:MAPNAME_WORLDS24"
+    },
+    {
+        "id": "3038",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40020",
+        "msPlace": "ZA_place_name_out:MAPNAME_WORLDS25"
+    },
+    {
+        "id": "3039",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40021",
+        "msPlace": "ZA_place_name_out:MAPNAME_WORLDS26"
+    },
+    {
+        "id": "3040",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40022",
+        "msPlace": "ZA_place_name_out:MAPNAME_WORLDS27"
+    },
+    {
+        "id": "3041",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40023",
+        "msPlace": "ZA_place_name_out:MAPNAME_WORLDS28"
+    },
+    {
+        "id": "3042",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40024",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGE"
+    },
+    {
+        "id": "3043",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40025",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGE24"
+    },
+    {
+        "id": "3044",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40026",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGE25"
+    },
+    {
+        "id": "3045",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40027",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGE26"
+    },
+    {
+        "id": "3046",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40028",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGE27"
+    },
+    {
+        "id": "3047",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40029",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGE28"
+    },
+    {
+        "id": "3048",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40030",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONIBENTO"
+    },
+    {
+        "id": "3049",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40031",
+        "msPlace": "ZA_place_name_out:MAPNAME_BATORUTAIKAI"
+    },
+    {
+        "id": "3050",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40032",
+        "msPlace": "ZA_place_name_out:MAPNAME_GEHMUIBENTO"
+    },
+    {
+        "id": "3051",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40033",
+        "msPlace": "ZA_place_name_out:MAPNAME_DAISUKIKURABU"
+    },
+    {
+        "id": "3052",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40034",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONBANGUMI"
+    },
+    {
+        "id": "3053",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40035",
+        "msPlace": "ZA_place_name_out:MAPNAME_KONSAHTO"
+    },
+    {
+        "id": "3054",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40036",
+        "msPlace": "ZA_place_name_out:MAPNAME_ONRAINPUREZENTO"
+    },
+    {
+        "id": "3055",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40037",
+        "msPlace": "ZA_place_name_out:MAPNAME_PGL"
+    },
+    {
+        "id": "3056",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40038",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONIBENTO24"
+    },
+    {
+        "id": "3057",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40039",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONIBENTO25"
+    },
+    {
+        "id": "3058",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40040",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONIBENTO26"
+    },
+    {
+        "id": "3059",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40041",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONIBENTO27"
+    },
+    {
+        "id": "3060",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40042",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONIBENTO28"
+    },
+    {
+        "id": "3061",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40043",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONFYESUTA"
+    },
+    {
+        "id": "3062",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40044",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONFYESUTA24"
+    },
+    {
+        "id": "3063",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40045",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONFYESUTA25"
+    },
+    {
+        "id": "3064",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40046",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONFYESUTA26"
+    },
+    {
+        "id": "3065",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40047",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONFYESUTA27"
+    },
+    {
+        "id": "3066",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40048",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEMONFYESUTA28"
+    },
+    {
+        "id": "3067",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40049",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEPAHKU"
+    },
+    {
+        "id": "3068",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40050",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEPAHKU24"
+    },
+    {
+        "id": "3069",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40051",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEPAHKU25"
+    },
+    {
+        "id": "3070",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40052",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEPAHKU26"
+    },
+    {
+        "id": "3071",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40053",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEPAHKU27"
+    },
+    {
+        "id": "3072",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40054",
+        "msPlace": "ZA_place_name_out:MAPNAME_POKEPAHKU28"
+    },
+    {
+        "id": "3073",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40055",
+        "msPlace": "ZA_place_name_out:MAPNAME_IBENTOKAIZYOU"
+    },
+    {
+        "id": "3074",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40056",
+        "msPlace": "ZA_place_name_out:MAPNAME_GEEMUFURIIKU"
+    },
+    {
+        "id": "3075",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40057",
+        "msPlace": "ZA_place_name_out:MAPNAME_SUTAJIAMU"
+    },
+    {
+        "id": "3076",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40058",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGC"
+    },
+    {
+        "id": "3077",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40059",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGC24"
+    },
+    {
+        "id": "3078",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40060",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGC25"
+    },
+    {
+        "id": "3079",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40061",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGC26"
+    },
+    {
+        "id": "3080",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40062",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGC27"
+    },
+    {
+        "id": "3081",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40063",
+        "msPlace": "ZA_place_name_out:MAPNAME_VGC28"
+    },
+    {
+        "id": "3082",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40064",
+        "msPlace": "ZA_place_name_out:MAPNAME_VC"
+    },
+    {
+        "id": "3083",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40065",
+        "msPlace": "ZA_place_name_out:MAPNAME_PMGO"
+    },
+    {
+        "id": "3084",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40066",
+        "msPlace": "ZA_place_name_out:MAPNAME_PMBANK"
+    },
+    {
+        "id": "3085",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40067",
+        "msPlace": "ZA_place_name_out:MAPNAME_PMSHOP"
+    },
+    {
+        "id": "3086",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40068",
+        "msPlace": "ZA_place_name_out:MAPNAME_TAIKENBAN"
+    },
+    {
+        "id": "3087",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40069",
+        "msPlace": "ZA_place_name_out:MAPNAME_MBPLUS"
+    },
+    {
+        "id": "3088",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "40070",
+        "msPlace": "ZA_place_name_out:MAPNAME_PMMEGABANK"
+    },
+    {
+        "id": "3089",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30001",
+        "msPlace": "ZA_place_name_spe:MAPNAME_NAIBUTUUSINKOUKAN"
+    },
+    {
+        "id": "3090",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30002",
+        "msPlace": "ZA_place_name_spe:MAPNAME_TUUSINKOUKAN"
+    },
+    {
+        "id": "3091",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30003",
+        "msPlace": "ZA_place_name_spe:MAPNAME_KANTO"
+    },
+    {
+        "id": "3092",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30004",
+        "msPlace": "ZA_place_name_spe:MAPNAME_ZYOTO"
+    },
+    {
+        "id": "3093",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30005",
+        "msPlace": "ZA_place_name_spe:MAPNAME_HOUEN"
+    },
+    {
+        "id": "3094",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30006",
+        "msPlace": "ZA_place_name_spe:MAPNAME_SINOH"
+    },
+    {
+        "id": "3095",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30007",
+        "msPlace": "ZA_place_name_spe:MAPNAME_TOOKUHANARETATOTI"
+    },
+    {
+        "id": "3096",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30008",
+        "msPlace": "ZA_place_name_spe:MAPNAME_HUSEINAKOHDO"
+    },
+    {
+        "id": "3097",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30009",
+        "msPlace": "ZA_place_name_spe:MAPNAME_IISHU"
+    },
+    {
+        "id": "3098",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30010",
+        "msPlace": "ZA_place_name_spe:MAPNAME_KAROSU"
+    },
+    {
+        "id": "3099",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30011",
+        "msPlace": "ZA_place_name_spe:MAPNAME_3DSLINK"
+    },
+    {
+        "id": "3100",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30012",
+        "msPlace": "ZA_place_name_spe:MAPNAME_PMGO"
+    },
+    {
+        "id": "3101",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30013",
+        "msPlace": "ZA_place_name_spe:MAPNAME_VCKANTOH"
+    },
+    {
+        "id": "3102",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30014",
+        "msPlace": "ZA_place_name_spe:MAPNAME_ORAS"
+    },
+    {
+        "id": "3103",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30015",
+        "msPlace": "ZA_place_name_spe:MAPNAME_AROORA"
+    },
+    {
+        "id": "3104",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30016",
+        "msPlace": "ZA_place_name_spe:MAPNAME_POKERESORT"
+    },
+    {
+        "id": "3105",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30017",
+        "msPlace": "ZA_place_name_spe:MAPNAME_VCZYOTO"
+    },
+    {
+        "id": "3106",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30018",
+        "msPlace": "ZA_place_name_spe:MAPNAME_HOME"
+    },
+    {
+        "id": "3107",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30019",
+        "msPlace": "ZA_place_name_spe:MAPNAME_LETSGO"
+    },
+    {
+        "id": "3108",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30020",
+        "msPlace": "ZA_place_name_spe:MAPNAME_GARARU"
+    },
+    {
+        "id": "3109",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30021",
+        "msPlace": "ZA_place_name_spe:MAPNAME_HISUI"
+    },
+    {
+        "id": "3110",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30022",
+        "msPlace": "ZA_place_name_spe:MAPNAME_SINOH_2"
+    },
+    {
+        "id": "3111",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30023",
+        "msPlace": "ZA_place_name_spe:MAPNAME_PICNIC"
+    },
+    {
+        "id": "3112",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30024",
+        "msPlace": "ZA_place_name_spe:MAPNAME_CRYSTAL"
+    },
+    {
+        "id": "3113",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30025",
+        "msPlace": "ZA_place_name_spe:MAPNAME_PALUDEA"
+    },
+    {
+        "id": "3114",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30026",
+        "msPlace": "ZA_place_name_spe:MAPNAME_LUMIOSE"
+    },
+    {
+        "id": "3115",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30027",
+        "msPlace": "ZA_place_name_spe:MAPNAME_Lab"
+    },
+    {
+        "id": "3116",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30028",
+        "msPlace": "ZA_place_name_spe:MAPNAME_WildZone11"
+    },
+    {
+        "id": "3117",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30029",
+        "msPlace": "ZA_place_name_spe:MAPNAME_Museum"
+    },
+    {
+        "id": "3118",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30030",
+        "msPlace": "ZA_place_name_spe:MAPNAME_Academie"
+    },
+    {
+        "id": "3119",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30031",
+        "msPlace": "ZA_place_name_spe:MAPNAME_MagentaSector2"
+    },
+    {
+        "id": "3120",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30032",
+        "msPlace": "ZA_place_name_spe:MAPNAME_NorthsideSt"
+    },
+    {
+        "id": "3121",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30033",
+        "msPlace": "ZA_place_name_spe:MAPNAME_RougeSector1"
+    },
+    {
+        "id": "3122",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30034",
+        "msPlace": "ZA_place_name_spe:MAPNAME_DIM"
+    },
+    {
+        "id": "3123",
+        "softwareIds": [
+            "SF052"
+        ],
+        "placeNameIds": "30035",
+        "msPlace": "ZA_place_name_spe:MAPNAME_QUASAR"
     }
 ]

@@ -1,0 +1,1058 @@
+[
+    {
+        "id": "WZ0007",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 21
+    },
+    {
+        "id": "WZ0008",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 23
+    },
+    {
+        "id": "WZ0009",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 22
+    },
+    {
+        "id": "WZ0014",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0016",
+        "mdPokemonType": "TY0002",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0033",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0038",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0040",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0042",
+        "mdPokemonType": "TY0006",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0044",
+        "mdPokemonType": "TY0016",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0052",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0053",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 54
+    },
+    {
+        "id": "WZ0056",
+        "mdPokemonType": "TY0010",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0058",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 56
+    },
+    {
+        "id": "WZ0059",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0063",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 53
+    },
+    {
+        "id": "WZ0071",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0077",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0078",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0079",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0080",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0084",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0085",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 55
+    },
+    {
+        "id": "WZ0086",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0087",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0093",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0094",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 57
+    },
+    {
+        "id": "WZ0095",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0098",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0100",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0102",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0105",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0116",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 16
+    },
+    {
+        "id": "WZ0120",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0126",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0129",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 11
+    },
+    {
+        "id": "WZ0135",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0139",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0141",
+        "mdPokemonType": "TY0006",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 28
+    },
+    {
+        "id": "WZ0145",
+        "mdPokemonType": "TY0010",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0147",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0150",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0151",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0156",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 19
+    },
+    {
+        "id": "WZ0157",
+        "mdPokemonType": "TY0005",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 30
+    },
+    {
+        "id": "WZ0161",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 12
+    },
+    {
+        "id": "WZ0163",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0172",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0181",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0183",
+        "mdPokemonType": "TY0001",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0188",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 39
+    },
+    {
+        "id": "WZ0189",
+        "mdPokemonType": "TY0004",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0190",
+        "mdPokemonType": "TY0010",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0191",
+        "mdPokemonType": "TY0004",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 7
+    },
+    {
+        "id": "WZ0196",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 38
+    },
+    {
+        "id": "WZ0200",
+        "mdPokemonType": "TY0015",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 51
+    },
+    {
+        "id": "WZ0205",
+        "mdPokemonType": "TY0005",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0206",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 1
+    },
+    {
+        "id": "WZ0209",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0224",
+        "mdPokemonType": "TY0006",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 49
+    },
+    {
+        "id": "WZ0231",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 33
+    },
+    {
+        "id": "WZ0237",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0239",
+        "mdPokemonType": "TY0015",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0242",
+        "mdPokemonType": "TY0016",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0246",
+        "mdPokemonType": "TY0005",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0247",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 41
+    },
+    {
+        "id": "WZ0249",
+        "mdPokemonType": "TY0001",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 6
+    },
+    {
+        "id": "WZ0301",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 5
+    },
+    {
+        "id": "WZ0310",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0314",
+        "mdPokemonType": "TY0002",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0315",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0318",
+        "mdPokemonType": "TY0006",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0326",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0332",
+        "mdPokemonType": "TY0002",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 9
+    },
+    {
+        "id": "WZ0334",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0337",
+        "mdPokemonType": "TY0015",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0339",
+        "mdPokemonType": "TY0001",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 17
+    },
+    {
+        "id": "WZ0344",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 61
+    },
+    {
+        "id": "WZ0345",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 13
+    },
+    {
+        "id": "WZ0347",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 18
+    },
+    {
+        "id": "WZ0348",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0352",
+        "mdPokemonType": "TY0010",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 35
+    },
+    {
+        "id": "WZ0355",
+        "mdPokemonType": "TY0002",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0370",
+        "mdPokemonType": "TY0001",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0394",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0396",
+        "mdPokemonType": "TY0001",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0398",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 25
+    },
+    {
+        "id": "WZ0399",
+        "mdPokemonType": "TY0016",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 58
+    },
+    {
+        "id": "WZ0400",
+        "mdPokemonType": "TY0016",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0401",
+        "mdPokemonType": "TY0010",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 46
+    },
+    {
+        "id": "WZ0403",
+        "mdPokemonType": "TY0002",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0404",
+        "mdPokemonType": "TY0006",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 29
+    },
+    {
+        "id": "WZ0405",
+        "mdPokemonType": "TY0006",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0406",
+        "mdPokemonType": "TY0015",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0408",
+        "mdPokemonType": "TY0005",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0409",
+        "mdPokemonType": "TY0001",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 24
+    },
+    {
+        "id": "WZ0412",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 37
+    },
+    {
+        "id": "WZ0413",
+        "mdPokemonType": "TY0002",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0414",
+        "mdPokemonType": "TY0004",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 40
+    },
+    {
+        "id": "WZ0416",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 45
+    },
+    {
+        "id": "WZ0417",
+        "mdPokemonType": "TY0016",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0418",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0420",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0421",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 31
+    },
+    {
+        "id": "WZ0422",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 3
+    },
+    {
+        "id": "WZ0423",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 4
+    },
+    {
+        "id": "WZ0424",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 2
+    },
+    {
+        "id": "WZ0425",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0426",
+        "mdPokemonType": "TY0004",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0427",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 26
+    },
+    {
+        "id": "WZ0428",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 27
+    },
+    {
+        "id": "WZ0430",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 43
+    },
+    {
+        "id": "WZ0434",
+        "mdPokemonType": "TY0015",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 59
+    },
+    {
+        "id": "WZ0437",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0440",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0442",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 32
+    },
+    {
+        "id": "WZ0444",
+        "mdPokemonType": "TY0005",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 50
+    },
+    {
+        "id": "WZ0446",
+        "mdPokemonType": "TY0005",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 10
+    },
+    {
+        "id": "WZ0449",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0451",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 36
+    },
+    {
+        "id": "WZ0452",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0453",
+        "mdPokemonType": "TY0010",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0457",
+        "mdPokemonType": "TY0005",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0458",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0459",
+        "mdPokemonType": "TY0015",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0460",
+        "mdPokemonType": "TY0015",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0462",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0463",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0464",
+        "mdPokemonType": "TY0016",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0465",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0466",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 14
+    },
+    {
+        "id": "WZ0467",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0474",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0491",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0506",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0522",
+        "mdPokemonType": "TY0006",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0523",
+        "mdPokemonType": "TY0004",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 8
+    },
+    {
+        "id": "WZ0528",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 47
+    },
+    {
+        "id": "WZ0542",
+        "mdPokemonType": "TY0002",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0555",
+        "mdPokemonType": "TY0016",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 42
+    },
+    {
+        "id": "WZ0556",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0577",
+        "mdPokemonType": "TY0017",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0583",
+        "mdPokemonType": "TY0017",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 52
+    },
+    {
+        "id": "WZ0584",
+        "mdPokemonType": "TY0017",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0585",
+        "mdPokemonType": "TY0017",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0595",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 34
+    },
+    {
+        "id": "WZ0605",
+        "mdPokemonType": "TY0017",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 44
+    },
+    {
+        "id": "WZ0608",
+        "mdPokemonType": "TY0017",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 20
+    },
+    {
+        "id": "WZ0667",
+        "mdPokemonType": "TY0004",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 48
+    },
+    {
+        "id": "WZ0670",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0710",
+        "mdPokemonType": "TY0010",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0796",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 60
+    },
+    {
+        "id": "WZ0827",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0828",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0829",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 15
+    },
+    {
+        "id": "WZ0830",
+        "mdPokemonType": "TY0005",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0831",
+        "mdPokemonType": "TY0017",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0832",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0833",
+        "mdPokemonType": "TY0009",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0834",
+        "mdPokemonType": "TY0010",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0835",
+        "mdPokemonType": "TY0011",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0836",
+        "mdPokemonType": "TY0014",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0837",
+        "mdPokemonType": "TY0001",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0838",
+        "mdPokemonType": "TY0004",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0839",
+        "mdPokemonType": "TY0003",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0840",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0841",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0842",
+        "mdPokemonType": "TY0008",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0843",
+        "mdPokemonType": "TY0001",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0844",
+        "mdPokemonType": "TY0007",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0845",
+        "mdPokemonType": "TY0016",
+        "mdWazaCategory": "WC0001",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0846",
+        "mdPokemonType": "TY0002",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0847",
+        "mdPokemonType": "TY0012",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0848",
+        "mdPokemonType": "TY0004",
+        "mdWazaCategory": "WC0002",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0849",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    },
+    {
+        "id": "WZ0850",
+        "mdPokemonType": "TY0013",
+        "mdWazaCategory": "WC0003",
+        "shopIndex": 0
+    }
+]

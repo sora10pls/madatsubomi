@@ -1,0 +1,32 @@
+[
+    {
+        "id": "STZ001",
+        "size": 0,
+        "iconName": "size_type_za_xs",
+        "threshold": 15
+    },
+    {
+        "id": "STZ002",
+        "size": 1,
+        "iconName": "size_type_za_s",
+        "threshold": 47
+    },
+    {
+        "id": "STZ003",
+        "size": 2,
+        "iconName": "size_type_za_m",
+        "threshold": 207
+    },
+    {
+        "id": "STZ004",
+        "size": 3,
+        "iconName": "size_type_za_l",
+        "threshold": 239
+    },
+    {
+        "id": "STZ005",
+        "size": 4,
+        "iconName": "size_type_za_xl",
+        "threshold": 255
+    }
+]

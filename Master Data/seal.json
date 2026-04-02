@@ -1185,7 +1185,7 @@
     {
         "id": "SL0092",
         "sealId": 92,
-        "sort": 3003,
+        "sort": 3033,
         "sealImagePath": "seal_p_Type_02L",
         "sealIconImagePath": "seal_p_Type_02L_thn",
         "mdSealCategory": "SC000",
@@ -1198,7 +1198,7 @@
     {
         "id": "SL0093",
         "sealId": 93,
-        "sort": 3004,
+        "sort": 3034,
         "sealImagePath": "seal_p_Type_02M",
         "sealIconImagePath": "seal_p_Type_02M_thn",
         "mdSealCategory": "SC000",
@@ -1211,7 +1211,7 @@
     {
         "id": "SL0094",
         "sealId": 94,
-        "sort": 3005,
+        "sort": 3035,
         "sealImagePath": "seal_p_Type_02S",
         "sealIconImagePath": "seal_p_Type_02S_thn",
         "mdSealCategory": "SC000",
@@ -1224,7 +1224,7 @@
     {
         "id": "SL0095",
         "sealId": 95,
-        "sort": 3006,
+        "sort": 3018,
         "sealImagePath": "seal_p_Type_03L",
         "sealIconImagePath": "seal_p_Type_03L_thn",
         "mdSealCategory": "SC000",
@@ -1237,7 +1237,7 @@
     {
         "id": "SL0096",
         "sealId": 96,
-        "sort": 3007,
+        "sort": 3019,
         "sealImagePath": "seal_p_Type_03M",
         "sealIconImagePath": "seal_p_Type_03M_thn",
         "mdSealCategory": "SC000",
@@ -1250,7 +1250,7 @@
     {
         "id": "SL0097",
         "sealId": 97,
-        "sort": 3008,
+        "sort": 3020,
         "sealImagePath": "seal_p_Type_03S",
         "sealIconImagePath": "seal_p_Type_03S_thn",
         "mdSealCategory": "SC000",
@@ -1263,7 +1263,7 @@
     {
         "id": "SL0098",
         "sealId": 98,
-        "sort": 3009,
+        "sort": 3024,
         "sealImagePath": "seal_p_Type_04L",
         "sealIconImagePath": "seal_p_Type_04L_thn",
         "mdSealCategory": "SC000",
@@ -1276,7 +1276,7 @@
     {
         "id": "SL0099",
         "sealId": 99,
-        "sort": 3010,
+        "sort": 3025,
         "sealImagePath": "seal_p_Type_04M",
         "sealIconImagePath": "seal_p_Type_04M_thn",
         "mdSealCategory": "SC000",
@@ -1289,7 +1289,7 @@
     {
         "id": "SL0100",
         "sealId": 100,
-        "sort": 3011,
+        "sort": 3026,
         "sealImagePath": "seal_p_Type_04S",
         "sealIconImagePath": "seal_p_Type_04S_thn",
         "mdSealCategory": "SC000",
@@ -1302,7 +1302,7 @@
     {
         "id": "SL0101",
         "sealId": 101,
-        "sort": 3012,
+        "sort": 3027,
         "sealImagePath": "seal_p_Type_05L",
         "sealIconImagePath": "seal_p_Type_05L_thn",
         "mdSealCategory": "SC000",
@@ -1315,7 +1315,7 @@
     {
         "id": "SL0102",
         "sealId": 102,
-        "sort": 3013,
+        "sort": 3028,
         "sealImagePath": "seal_p_Type_05M",
         "sealIconImagePath": "seal_p_Type_05M_thn",
         "mdSealCategory": "SC000",
@@ -1328,7 +1328,7 @@
     {
         "id": "SL0103",
         "sealId": 103,
-        "sort": 3014,
+        "sort": 3029,
         "sealImagePath": "seal_p_Type_05S",
         "sealIconImagePath": "seal_p_Type_05S_thn",
         "mdSealCategory": "SC000",
@@ -1341,7 +1341,7 @@
     {
         "id": "SL0104",
         "sealId": 104,
-        "sort": 3015,
+        "sort": 3021,
         "sealImagePath": "seal_p_Type_06L",
         "sealIconImagePath": "seal_p_Type_06L_thn",
         "mdSealCategory": "SC000",
@@ -1354,7 +1354,7 @@
     {
         "id": "SL0105",
         "sealId": 105,
-        "sort": 3016,
+        "sort": 3022,
         "sealImagePath": "seal_p_Type_06M",
         "sealIconImagePath": "seal_p_Type_06M_thn",
         "mdSealCategory": "SC000",
@@ -1367,7 +1367,7 @@
     {
         "id": "SL0106",
         "sealId": 106,
-        "sort": 3017,
+        "sort": 3023,
         "sealImagePath": "seal_p_Type_06S",
         "sealIconImagePath": "seal_p_Type_06S_thn",
         "mdSealCategory": "SC000",
@@ -1380,7 +1380,7 @@
     {
         "id": "SL0107",
         "sealId": 107,
-        "sort": 3018,
+        "sort": 3015,
         "sealImagePath": "seal_p_Type_07L",
         "sealIconImagePath": "seal_p_Type_07L_thn",
         "mdSealCategory": "SC000",
@@ -1393,7 +1393,7 @@
     {
         "id": "SL0108",
         "sealId": 108,
-        "sort": 3019,
+        "sort": 3016,
         "sealImagePath": "seal_p_Type_07M",
         "sealIconImagePath": "seal_p_Type_07M_thn",
         "mdSealCategory": "SC000",
@@ -1406,7 +1406,7 @@
     {
         "id": "SL0109",
         "sealId": 109,
-        "sort": 3020,
+        "sort": 3017,
         "sealImagePath": "seal_p_Type_07S",
         "sealIconImagePath": "seal_p_Type_07S_thn",
         "mdSealCategory": "SC000",
@@ -1419,7 +1419,7 @@
     {
         "id": "SL0110",
         "sealId": 110,
-        "sort": 3021,
+        "sort": 3039,
         "sealImagePath": "seal_p_Type_08L",
         "sealIconImagePath": "seal_p_Type_08L_thn",
         "mdSealCategory": "SC000",
@@ -1432,7 +1432,7 @@
     {
         "id": "SL0111",
         "sealId": 111,
-        "sort": 3022,
+        "sort": 3040,
         "sealImagePath": "seal_p_Type_08M",
         "sealIconImagePath": "seal_p_Type_08M_thn",
         "mdSealCategory": "SC000",
@@ -1445,7 +1445,7 @@
     {
         "id": "SL0112",
         "sealId": 112,
-        "sort": 3023,
+        "sort": 3041,
         "sealImagePath": "seal_p_Type_08S",
         "sealIconImagePath": "seal_p_Type_08S_thn",
         "mdSealCategory": "SC000",
@@ -1458,7 +1458,7 @@
     {
         "id": "SL0113",
         "sealId": 113,
-        "sort": 3024,
+        "sort": 3048,
         "sealImagePath": "seal_p_Type_09L",
         "sealIconImagePath": "seal_p_Type_09L_thn",
         "mdSealCategory": "SC000",
@@ -1471,7 +1471,7 @@
     {
         "id": "SL0114",
         "sealId": 114,
-        "sort": 3025,
+        "sort": 3049,
         "sealImagePath": "seal_p_Type_09M",
         "sealIconImagePath": "seal_p_Type_09M_thn",
         "mdSealCategory": "SC000",
@@ -1484,7 +1484,7 @@
     {
         "id": "SL0115",
         "sealId": 115,
-        "sort": 3026,
+        "sort": 3050,
         "sealImagePath": "seal_p_Type_09S",
         "sealIconImagePath": "seal_p_Type_09S_thn",
         "mdSealCategory": "SC000",
@@ -1497,7 +1497,7 @@
     {
         "id": "SL0116",
         "sealId": 116,
-        "sort": 3027,
+        "sort": 3006,
         "sealImagePath": "seal_p_Type_10L",
         "sealIconImagePath": "seal_p_Type_10L_thn",
         "mdSealCategory": "SC000",
@@ -1510,7 +1510,7 @@
     {
         "id": "SL0117",
         "sealId": 117,
-        "sort": 3028,
+        "sort": 3007,
         "sealImagePath": "seal_p_Type_10M",
         "sealIconImagePath": "seal_p_Type_10M_thn",
         "mdSealCategory": "SC000",
@@ -1523,7 +1523,7 @@
     {
         "id": "SL0118",
         "sealId": 118,
-        "sort": 3029,
+        "sort": 3008,
         "sealImagePath": "seal_p_Type_10S",
         "sealIconImagePath": "seal_p_Type_10S_thn",
         "mdSealCategory": "SC000",
@@ -1536,7 +1536,7 @@
     {
         "id": "SL0119",
         "sealId": 119,
-        "sort": 3030,
+        "sort": 3009,
         "sealImagePath": "seal_p_Type_11L",
         "sealIconImagePath": "seal_p_Type_11L_thn",
         "mdSealCategory": "SC000",
@@ -1549,7 +1549,7 @@
     {
         "id": "SL0120",
         "sealId": 120,
-        "sort": 3031,
+        "sort": 3010,
         "sealImagePath": "seal_p_Type_11M",
         "sealIconImagePath": "seal_p_Type_11M_thn",
         "mdSealCategory": "SC000",
@@ -1562,7 +1562,7 @@
     {
         "id": "SL0121",
         "sealId": 121,
-        "sort": 3032,
+        "sort": 3011,
         "sealImagePath": "seal_p_Type_11S",
         "sealIconImagePath": "seal_p_Type_11S_thn",
         "mdSealCategory": "SC000",
@@ -1575,7 +1575,7 @@
     {
         "id": "SL0122",
         "sealId": 122,
-        "sort": 3033,
+        "sort": 3003,
         "sealImagePath": "seal_p_Type_12L",
         "sealIconImagePath": "seal_p_Type_12L_thn",
         "mdSealCategory": "SC000",
@@ -1588,7 +1588,7 @@
     {
         "id": "SL0123",
         "sealId": 123,
-        "sort": 3034,
+        "sort": 3004,
         "sealImagePath": "seal_p_Type_12M",
         "sealIconImagePath": "seal_p_Type_12M_thn",
         "mdSealCategory": "SC000",
@@ -1601,7 +1601,7 @@
     {
         "id": "SL0124",
         "sealId": 124,
-        "sort": 3035,
+        "sort": 3005,
         "sealImagePath": "seal_p_Type_12S",
         "sealIconImagePath": "seal_p_Type_12S_thn",
         "mdSealCategory": "SC000",
@@ -1614,7 +1614,7 @@
     {
         "id": "SL0125",
         "sealId": 125,
-        "sort": 3036,
+        "sort": 3012,
         "sealImagePath": "seal_p_Type_13L",
         "sealIconImagePath": "seal_p_Type_13L_thn",
         "mdSealCategory": "SC000",
@@ -1627,7 +1627,7 @@
     {
         "id": "SL0126",
         "sealId": 126,
-        "sort": 3037,
+        "sort": 3013,
         "sealImagePath": "seal_p_Type_13M",
         "sealIconImagePath": "seal_p_Type_13M_thn",
         "mdSealCategory": "SC000",
@@ -1640,7 +1640,7 @@
     {
         "id": "SL0127",
         "sealId": 127,
-        "sort": 3038,
+        "sort": 3014,
         "sealImagePath": "seal_p_Type_13S",
         "sealIconImagePath": "seal_p_Type_13S_thn",
         "mdSealCategory": "SC000",
@@ -1653,7 +1653,7 @@
     {
         "id": "SL0128",
         "sealId": 128,
-        "sort": 3039,
+        "sort": 3036,
         "sealImagePath": "seal_p_Type_14L",
         "sealIconImagePath": "seal_p_Type_14L_thn",
         "mdSealCategory": "SC000",
@@ -1666,7 +1666,7 @@
     {
         "id": "SL0129",
         "sealId": 129,
-        "sort": 3040,
+        "sort": 3037,
         "sealImagePath": "seal_p_Type_14M",
         "sealIconImagePath": "seal_p_Type_14M_thn",
         "mdSealCategory": "SC000",
@@ -1679,7 +1679,7 @@
     {
         "id": "SL0130",
         "sealId": 130,
-        "sort": 3041,
+        "sort": 3038,
         "sealImagePath": "seal_p_Type_14S",
         "sealIconImagePath": "seal_p_Type_14S_thn",
         "mdSealCategory": "SC000",
@@ -1692,7 +1692,7 @@
     {
         "id": "SL0131",
         "sealId": 131,
-        "sort": 3042,
+        "sort": 3030,
         "sealImagePath": "seal_p_Type_15L",
         "sealIconImagePath": "seal_p_Type_15L_thn",
         "mdSealCategory": "SC000",
@@ -1705,7 +1705,7 @@
     {
         "id": "SL0132",
         "sealId": 132,
-        "sort": 3043,
+        "sort": 3031,
         "sealImagePath": "seal_p_Type_15M",
         "sealIconImagePath": "seal_p_Type_15M_thn",
         "mdSealCategory": "SC000",
@@ -1718,7 +1718,7 @@
     {
         "id": "SL0133",
         "sealId": 133,
-        "sort": 3044,
+        "sort": 3032,
         "sealImagePath": "seal_p_Type_15S",
         "sealIconImagePath": "seal_p_Type_15S_thn",
         "mdSealCategory": "SC000",
@@ -1731,7 +1731,7 @@
     {
         "id": "SL0134",
         "sealId": 134,
-        "sort": 3045,
+        "sort": 3042,
         "sealImagePath": "seal_p_Type_16L",
         "sealIconImagePath": "seal_p_Type_16L_thn",
         "mdSealCategory": "SC000",
@@ -1744,7 +1744,7 @@
     {
         "id": "SL0135",
         "sealId": 135,
-        "sort": 3046,
+        "sort": 3043,
         "sealImagePath": "seal_p_Type_16M",
         "sealIconImagePath": "seal_p_Type_16M_thn",
         "mdSealCategory": "SC000",
@@ -1757,7 +1757,7 @@
     {
         "id": "SL0136",
         "sealId": 136,
-        "sort": 3047,
+        "sort": 3044,
         "sealImagePath": "seal_p_Type_16S",
         "sealIconImagePath": "seal_p_Type_16S_thn",
         "mdSealCategory": "SC000",
@@ -1770,7 +1770,7 @@
     {
         "id": "SL0137",
         "sealId": 137,
-        "sort": 3048,
+        "sort": 3045,
         "sealImagePath": "seal_p_Type_17L",
         "sealIconImagePath": "seal_p_Type_17L_thn",
         "mdSealCategory": "SC000",
@@ -1783,7 +1783,7 @@
     {
         "id": "SL0138",
         "sealId": 138,
-        "sort": 3049,
+        "sort": 3046,
         "sealImagePath": "seal_p_Type_17M",
         "sealIconImagePath": "seal_p_Type_17M_thn",
         "mdSealCategory": "SC000",
@@ -1796,7 +1796,7 @@
     {
         "id": "SL0139",
         "sealId": 139,
-        "sort": 3050,
+        "sort": 3047,
         "sealImagePath": "seal_p_Type_17S",
         "sealIconImagePath": "seal_p_Type_17S_thn",
         "mdSealCategory": "SC000",
@@ -5696,7 +5696,7 @@
     {
         "id": "SL0440",
         "sealId": 440,
-        "sort": 3057,
+        "sort": 3087,
         "sealImagePath": "seal_p_Type_20L",
         "sealIconImagePath": "seal_p_Type_20L_thn",
         "mdSealCategory": "SC000",
@@ -5709,7 +5709,7 @@
     {
         "id": "SL0441",
         "sealId": 441,
-        "sort": 3058,
+        "sort": 3088,
         "sealImagePath": "seal_p_Type_20M",
         "sealIconImagePath": "seal_p_Type_20M_thn",
         "mdSealCategory": "SC000",
@@ -5722,7 +5722,7 @@
     {
         "id": "SL0442",
         "sealId": 442,
-        "sort": 3059,
+        "sort": 3089,
         "sealImagePath": "seal_p_Type_20S",
         "sealIconImagePath": "seal_p_Type_20S_thn",
         "mdSealCategory": "SC000",
@@ -5735,7 +5735,7 @@
     {
         "id": "SL0443",
         "sealId": 443,
-        "sort": 3060,
+        "sort": 3072,
         "sealImagePath": "seal_p_Type_21L",
         "sealIconImagePath": "seal_p_Type_21L_thn",
         "mdSealCategory": "SC000",
@@ -5748,7 +5748,7 @@
     {
         "id": "SL0444",
         "sealId": 444,
-        "sort": 3061,
+        "sort": 3073,
         "sealImagePath": "seal_p_Type_21M",
         "sealIconImagePath": "seal_p_Type_21M_thn",
         "mdSealCategory": "SC000",
@@ -5761,7 +5761,7 @@
     {
         "id": "SL0445",
         "sealId": 445,
-        "sort": 3062,
+        "sort": 3074,
         "sealImagePath": "seal_p_Type_21S",
         "sealIconImagePath": "seal_p_Type_21S_thn",
         "mdSealCategory": "SC000",
@@ -5774,7 +5774,7 @@
     {
         "id": "SL0446",
         "sealId": 446,
-        "sort": 3063,
+        "sort": 3078,
         "sealImagePath": "seal_p_Type_22L",
         "sealIconImagePath": "seal_p_Type_22L_thn",
         "mdSealCategory": "SC000",
@@ -5787,7 +5787,7 @@
     {
         "id": "SL0447",
         "sealId": 447,
-        "sort": 3064,
+        "sort": 3079,
         "sealImagePath": "seal_p_Type_22M",
         "sealIconImagePath": "seal_p_Type_22M_thn",
         "mdSealCategory": "SC000",
@@ -5800,7 +5800,7 @@
     {
         "id": "SL0448",
         "sealId": 448,
-        "sort": 3065,
+        "sort": 3080,
         "sealImagePath": "seal_p_Type_22S",
         "sealIconImagePath": "seal_p_Type_22S_thn",
         "mdSealCategory": "SC000",
@@ -5813,7 +5813,7 @@
     {
         "id": "SL0449",
         "sealId": 449,
-        "sort": 3066,
+        "sort": 3081,
         "sealImagePath": "seal_p_Type_23L",
         "sealIconImagePath": "seal_p_Type_23L_thn",
         "mdSealCategory": "SC000",
@@ -5826,7 +5826,7 @@
     {
         "id": "SL0450",
         "sealId": 450,
-        "sort": 3067,
+        "sort": 3082,
         "sealImagePath": "seal_p_Type_23M",
         "sealIconImagePath": "seal_p_Type_23M_thn",
         "mdSealCategory": "SC000",
@@ -5839,7 +5839,7 @@
     {
         "id": "SL0451",
         "sealId": 451,
-        "sort": 3068,
+        "sort": 3083,
         "sealImagePath": "seal_p_Type_23S",
         "sealIconImagePath": "seal_p_Type_23S_thn",
         "mdSealCategory": "SC000",
@@ -5852,7 +5852,7 @@
     {
         "id": "SL0452",
         "sealId": 452,
-        "sort": 3069,
+        "sort": 3075,
         "sealImagePath": "seal_p_Type_24L",
         "sealIconImagePath": "seal_p_Type_24L_thn",
         "mdSealCategory": "SC000",
@@ -5865,7 +5865,7 @@
     {
         "id": "SL0453",
         "sealId": 453,
-        "sort": 3070,
+        "sort": 3076,
         "sealImagePath": "seal_p_Type_24M",
         "sealIconImagePath": "seal_p_Type_24M_thn",
         "mdSealCategory": "SC000",
@@ -5878,7 +5878,7 @@
     {
         "id": "SL0454",
         "sealId": 454,
-        "sort": 3071,
+        "sort": 3077,
         "sealImagePath": "seal_p_Type_24S",
         "sealIconImagePath": "seal_p_Type_24S_thn",
         "mdSealCategory": "SC000",
@@ -5891,7 +5891,7 @@
     {
         "id": "SL0455",
         "sealId": 455,
-        "sort": 3072,
+        "sort": 3069,
         "sealImagePath": "seal_p_Type_25L",
         "sealIconImagePath": "seal_p_Type_25L_thn",
         "mdSealCategory": "SC000",
@@ -5904,7 +5904,7 @@
     {
         "id": "SL0456",
         "sealId": 456,
-        "sort": 3073,
+        "sort": 3070,
         "sealImagePath": "seal_p_Type_25M",
         "sealIconImagePath": "seal_p_Type_25M_thn",
         "mdSealCategory": "SC000",
@@ -5917,7 +5917,7 @@
     {
         "id": "SL0457",
         "sealId": 457,
-        "sort": 3074,
+        "sort": 3071,
         "sealImagePath": "seal_p_Type_25S",
         "sealIconImagePath": "seal_p_Type_25S_thn",
         "mdSealCategory": "SC000",
@@ -5930,7 +5930,7 @@
     {
         "id": "SL0458",
         "sealId": 458,
-        "sort": 3075,
+        "sort": 3093,
         "sealImagePath": "seal_p_Type_26L",
         "sealIconImagePath": "seal_p_Type_26L_thn",
         "mdSealCategory": "SC000",
@@ -5943,7 +5943,7 @@
     {
         "id": "SL0459",
         "sealId": 459,
-        "sort": 3076,
+        "sort": 3094,
         "sealImagePath": "seal_p_Type_26M",
         "sealIconImagePath": "seal_p_Type_26M_thn",
         "mdSealCategory": "SC000",
@@ -5956,7 +5956,7 @@
     {
         "id": "SL0460",
         "sealId": 460,
-        "sort": 3077,
+        "sort": 3095,
         "sealImagePath": "seal_p_Type_26S",
         "sealIconImagePath": "seal_p_Type_26S_thn",
         "mdSealCategory": "SC000",
@@ -5969,7 +5969,7 @@
     {
         "id": "SL0461",
         "sealId": 461,
-        "sort": 3078,
+        "sort": 3102,
         "sealImagePath": "seal_p_Type_27L",
         "sealIconImagePath": "seal_p_Type_27L_thn",
         "mdSealCategory": "SC000",
@@ -5982,7 +5982,7 @@
     {
         "id": "SL0462",
         "sealId": 462,
-        "sort": 3079,
+        "sort": 3103,
         "sealImagePath": "seal_p_Type_27M",
         "sealIconImagePath": "seal_p_Type_27M_thn",
         "mdSealCategory": "SC000",
@@ -5995,7 +5995,7 @@
     {
         "id": "SL0463",
         "sealId": 463,
-        "sort": 3080,
+        "sort": 3104,
         "sealImagePath": "seal_p_Type_27S",
         "sealIconImagePath": "seal_p_Type_27S_thn",
         "mdSealCategory": "SC000",
@@ -6008,7 +6008,7 @@
     {
         "id": "SL0464",
         "sealId": 464,
-        "sort": 3081,
+        "sort": 3060,
         "sealImagePath": "seal_p_Type_28L",
         "sealIconImagePath": "seal_p_Type_28L_thn",
         "mdSealCategory": "SC000",
@@ -6021,7 +6021,7 @@
     {
         "id": "SL0465",
         "sealId": 465,
-        "sort": 3082,
+        "sort": 3061,
         "sealImagePath": "seal_p_Type_28M",
         "sealIconImagePath": "seal_p_Type_28M_thn",
         "mdSealCategory": "SC000",
@@ -6034,7 +6034,7 @@
     {
         "id": "SL0466",
         "sealId": 466,
-        "sort": 3083,
+        "sort": 3062,
         "sealImagePath": "seal_p_Type_28S",
         "sealIconImagePath": "seal_p_Type_28S_thn",
         "mdSealCategory": "SC000",
@@ -6047,7 +6047,7 @@
     {
         "id": "SL0467",
         "sealId": 467,
-        "sort": 3084,
+        "sort": 3063,
         "sealImagePath": "seal_p_Type_29L",
         "sealIconImagePath": "seal_p_Type_29L_thn",
         "mdSealCategory": "SC000",
@@ -6060,7 +6060,7 @@
     {
         "id": "SL0468",
         "sealId": 468,
-        "sort": 3085,
+        "sort": 3064,
         "sealImagePath": "seal_p_Type_29M",
         "sealIconImagePath": "seal_p_Type_29M_thn",
         "mdSealCategory": "SC000",
@@ -6073,7 +6073,7 @@
     {
         "id": "SL0469",
         "sealId": 469,
-        "sort": 3086,
+        "sort": 3065,
         "sealImagePath": "seal_p_Type_29S",
         "sealIconImagePath": "seal_p_Type_29S_thn",
         "mdSealCategory": "SC000",
@@ -6086,7 +6086,7 @@
     {
         "id": "SL0470",
         "sealId": 470,
-        "sort": 3087,
+        "sort": 3057,
         "sealImagePath": "seal_p_Type_30L",
         "sealIconImagePath": "seal_p_Type_30L_thn",
         "mdSealCategory": "SC000",
@@ -6099,7 +6099,7 @@
     {
         "id": "SL0471",
         "sealId": 471,
-        "sort": 3088,
+        "sort": 3058,
         "sealImagePath": "seal_p_Type_30M",
         "sealIconImagePath": "seal_p_Type_30M_thn",
         "mdSealCategory": "SC000",
@@ -6112,7 +6112,7 @@
     {
         "id": "SL0472",
         "sealId": 472,
-        "sort": 3089,
+        "sort": 3059,
         "sealImagePath": "seal_p_Type_30S",
         "sealIconImagePath": "seal_p_Type_30S_thn",
         "mdSealCategory": "SC000",
@@ -6125,7 +6125,7 @@
     {
         "id": "SL0473",
         "sealId": 473,
-        "sort": 3090,
+        "sort": 3066,
         "sealImagePath": "seal_p_Type_31L",
         "sealIconImagePath": "seal_p_Type_31L_thn",
         "mdSealCategory": "SC000",
@@ -6138,7 +6138,7 @@
     {
         "id": "SL0474",
         "sealId": 474,
-        "sort": 3091,
+        "sort": 3067,
         "sealImagePath": "seal_p_Type_31M",
         "sealIconImagePath": "seal_p_Type_31M_thn",
         "mdSealCategory": "SC000",
@@ -6151,7 +6151,7 @@
     {
         "id": "SL0475",
         "sealId": 475,
-        "sort": 3092,
+        "sort": 3068,
         "sealImagePath": "seal_p_Type_31S",
         "sealIconImagePath": "seal_p_Type_31S_thn",
         "mdSealCategory": "SC000",
@@ -6164,7 +6164,7 @@
     {
         "id": "SL0476",
         "sealId": 476,
-        "sort": 3093,
+        "sort": 3090,
         "sealImagePath": "seal_p_Type_32L",
         "sealIconImagePath": "seal_p_Type_32L_thn",
         "mdSealCategory": "SC000",
@@ -6177,7 +6177,7 @@
     {
         "id": "SL0477",
         "sealId": 477,
-        "sort": 3094,
+        "sort": 3091,
         "sealImagePath": "seal_p_Type_32M",
         "sealIconImagePath": "seal_p_Type_32M_thn",
         "mdSealCategory": "SC000",
@@ -6190,7 +6190,7 @@
     {
         "id": "SL0478",
         "sealId": 478,
-        "sort": 3095,
+        "sort": 3092,
         "sealImagePath": "seal_p_Type_32S",
         "sealIconImagePath": "seal_p_Type_32S_thn",
         "mdSealCategory": "SC000",
@@ -6203,7 +6203,7 @@
     {
         "id": "SL0479",
         "sealId": 479,
-        "sort": 3096,
+        "sort": 3084,
         "sealImagePath": "seal_p_Type_33L",
         "sealIconImagePath": "seal_p_Type_33L_thn",
         "mdSealCategory": "SC000",
@@ -6216,7 +6216,7 @@
     {
         "id": "SL0480",
         "sealId": 480,
-        "sort": 3097,
+        "sort": 3085,
         "sealImagePath": "seal_p_Type_33M",
         "sealIconImagePath": "seal_p_Type_33M_thn",
         "mdSealCategory": "SC000",
@@ -6229,7 +6229,7 @@
     {
         "id": "SL0481",
         "sealId": 481,
-        "sort": 3098,
+        "sort": 3086,
         "sealImagePath": "seal_p_Type_33S",
         "sealIconImagePath": "seal_p_Type_33S_thn",
         "mdSealCategory": "SC000",
@@ -6242,7 +6242,7 @@
     {
         "id": "SL0482",
         "sealId": 482,
-        "sort": 3099,
+        "sort": 3096,
         "sealImagePath": "seal_p_Type_34L",
         "sealIconImagePath": "seal_p_Type_34L_thn",
         "mdSealCategory": "SC000",
@@ -6255,7 +6255,7 @@
     {
         "id": "SL0483",
         "sealId": 483,
-        "sort": 3100,
+        "sort": 3097,
         "sealImagePath": "seal_p_Type_34M",
         "sealIconImagePath": "seal_p_Type_34M_thn",
         "mdSealCategory": "SC000",
@@ -6268,7 +6268,7 @@
     {
         "id": "SL0484",
         "sealId": 484,
-        "sort": 3101,
+        "sort": 3098,
         "sealImagePath": "seal_p_Type_34S",
         "sealIconImagePath": "seal_p_Type_34S_thn",
         "mdSealCategory": "SC000",
@@ -6281,7 +6281,7 @@
     {
         "id": "SL0485",
         "sealId": 485,
-        "sort": 3102,
+        "sort": 3099,
         "sealImagePath": "seal_p_Type_35L",
         "sealIconImagePath": "seal_p_Type_35L_thn",
         "mdSealCategory": "SC000",
@@ -6294,7 +6294,7 @@
     {
         "id": "SL0486",
         "sealId": 486,
-        "sort": 3103,
+        "sort": 3100,
         "sealImagePath": "seal_p_Type_35M",
         "sealIconImagePath": "seal_p_Type_35M_thn",
         "mdSealCategory": "SC000",
@@ -6307,7 +6307,7 @@
     {
         "id": "SL0487",
         "sealId": 487,
-        "sort": 3104,
+        "sort": 3101,
         "sealImagePath": "seal_p_Type_35S",
         "sealIconImagePath": "seal_p_Type_35S_thn",
         "mdSealCategory": "SC000",
@@ -6497,6 +6497,97 @@
         "mdSealSize": "SS04",
         "width": 600,
         "height": 800,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0502",
+        "sealId": 502,
+        "sort": 53,
+        "sealImagePath": "seal_wall_0059",
+        "sealIconImagePath": "seal_wall_0059_thn",
+        "mdSealCategory": "SC001",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS04",
+        "width": 1024,
+        "height": 1024,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0503",
+        "sealId": 503,
+        "sort": 54,
+        "sealImagePath": "seal_wall_0060",
+        "sealIconImagePath": "seal_wall_0060_thn",
+        "mdSealCategory": "SC001",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS04",
+        "width": 1024,
+        "height": 1024,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0504",
+        "sealId": 504,
+        "sort": 56,
+        "sealImagePath": "seal_wall_0057",
+        "sealIconImagePath": "seal_wall_0057_thn",
+        "mdSealCategory": "SC001",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS04",
+        "width": 1024,
+        "height": 1024,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0505",
+        "sealId": 505,
+        "sort": 55,
+        "sealImagePath": "seal_wall_0058",
+        "sealIconImagePath": "seal_wall_0058_thn",
+        "mdSealCategory": "SC001",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS04",
+        "width": 1024,
+        "height": 1024,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0506",
+        "sealId": 506,
+        "sort": 7153,
+        "sealImagePath": "seal_p_0099",
+        "sealIconImagePath": "seal_p_0099_thn",
+        "mdSealCategory": "SC000",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS03",
+        "width": 258,
+        "height": 284,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0507",
+        "sealId": 507,
+        "sort": 7154,
+        "sealImagePath": "seal_p_0100",
+        "sealIconImagePath": "seal_p_0100_thn",
+        "mdSealCategory": "SC000",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS03",
+        "width": 292,
+        "height": 260,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0508",
+        "sealId": 508,
+        "sort": 7155,
+        "sealImagePath": "seal_p_0101",
+        "sealIconImagePath": "seal_p_0101_thn",
+        "mdSealCategory": "SC000",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS03",
+        "width": 296,
+        "height": 234,
         "achieveIconScaleFix": 100
     },
     {

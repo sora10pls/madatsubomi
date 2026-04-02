@@ -7,46 +7,46 @@
     {
         "id": "category01",
         "msText": "sp_contentinfo_category_01",
-        "color": "#c23732"
+        "color": "#C23732"
     },
     {
         "id": "category02",
         "msText": "sp_contentinfo_category_02",
-        "color": "#6db34e"
+        "color": "#6DB34E"
     },
     {
         "id": "category03",
         "msText": "sp_contentinfo_category_03",
-        "color": "#3f498d"
+        "color": "#3F498D"
     },
     {
         "id": "category04",
         "msText": "sp_contentinfo_category_04",
-        "color": "#2b91d3"
+        "color": "#2B91D3"
     },
     {
         "id": "category05",
         "msText": "sp_contentinfo_category_05",
-        "color": "#1cb491"
+        "color": "#1CB491"
     },
     {
         "id": "category06",
         "msText": "sp_contentinfo_category_06",
-        "color": "#7e4ac2"
+        "color": "#7E4AC2"
     },
     {
         "id": "category07",
         "msText": "sp_contentinfo_category_07",
-        "color": "#c942ae"
+        "color": "#C942AE"
     },
     {
         "id": "category08",
         "msText": "sp_contentinfo_category_08",
-        "color": "#e6b800"
+        "color": "#E6B800"
     },
     {
         "id": "category09",
         "msText": "sp_contentinfo_category_09",
-        "color": "#d65c15"
+        "color": "#D65C15"
     }
 ]

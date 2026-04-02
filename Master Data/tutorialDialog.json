@@ -401,5 +401,26 @@
             "0"
         ],
         "category": 1
+    },
+    {
+        "id": "champ_transfer",
+        "place": 20,
+        "saveType": 0,
+        "saveIndex": 0,
+        "msTexts": [
+            "sp_monbo_champ_0001_001",
+            "sp_monbo_champ_0001_002",
+            "sp_monbo_champ_0001_003",
+            "sp_monbo_champ_0001_004",
+            "sp_monbo_champ_0001_005"
+        ],
+        "images": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "category": 1
     }
 ]

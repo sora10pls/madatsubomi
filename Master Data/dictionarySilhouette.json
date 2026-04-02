@@ -25,5 +25,14 @@
         "silhouetteColor": "#FFFFFFFF",
         "grayScaleEffectFactor": 0,
         "grayScaleColorFactor": 0
+    },
+    {
+        "id": "DS004",
+        "sizeX": 0,
+        "sizeY": 0,
+        "imageName": "",
+        "silhouetteColor": "#C9C4DBA0",
+        "grayScaleEffectFactor": 100,
+        "grayScaleColorFactor": 100
     }
 ]

@@ -37,7 +37,7 @@
     {
         "id": "RG008",
         "no": 8,
-        "ms": "place_name_spe:MAPNAME_HOLOHOLO"
+        "ms": "place_name_spe:MAPNAME_PMGO"
     },
     {
         "id": "RG009",
@@ -83,5 +83,10 @@
         "id": "RG017",
         "no": 17,
         "ms": "place_name_spe:MAPNAME_PALDEA"
+    },
+    {
+        "id": "RG018",
+        "no": 18,
+        "ms": "place_name_spe:MAPNAME_KAROSU_ZA"
     }
 ]

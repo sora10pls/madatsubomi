@@ -58,5 +58,11 @@
         "no": 9,
         "ms": "",
         "image": "bnk_mark_region_SV"
+    },
+    {
+        "id": "BP011",
+        "no": 10,
+        "ms": "",
+        "image": "bnk_mark_region_LZA"
     }
 ]

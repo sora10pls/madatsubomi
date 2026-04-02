@@ -87,5 +87,23 @@
         "end": "4102444800",
         "monboId": "home_0003",
         "giftPokemonInfoIds": []
+    },
+    {
+        "id": "gd00006",
+        "sPokemonRewardId": [
+            "4.0.0_za_reward_1",
+            "4.0.0_za_reward_2",
+            "4.0.0_za_reward_3"
+        ],
+        "country": [
+            1
+        ],
+        "condition": "8",
+        "type": 1,
+        "isCheckApi": 1,
+        "start": "0",
+        "end": "4102444800",
+        "monboId": "home_0003",
+        "giftPokemonInfoIds": []
     }
 ]

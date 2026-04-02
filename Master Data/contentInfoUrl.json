@@ -1,0 +1,622 @@
+[
+    {
+        "id": "CIU0001",
+        "url": "https://pokemongo.com/ja"
+    },
+    {
+        "id": "CIU0002",
+        "url": "https://www.pokemon.co.jp/ex/pokemonbank/"
+    },
+    {
+        "id": "CIU0003",
+        "url": "https://www.pokemon.co.jp/ex/pika_vee/"
+    },
+    {
+        "id": "CIU0004",
+        "url": "https://www.pokemon.co.jp/ex/sword_shield/"
+    },
+    {
+        "id": "CIU0005",
+        "url": "https://www.pokemon.co.jp/ex/bdsp/ja/"
+    },
+    {
+        "id": "CIU0006",
+        "url": "https://www.pokemon.co.jp/ex/legends_arceus/ja/"
+    },
+    {
+        "id": "CIU0007",
+        "url": "https://www.pokemon.co.jp/ex/sv/ja/"
+    },
+    {
+        "id": "CIU0008",
+        "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/"
+    },
+    {
+        "id": "CIU0137",
+        "url": "https://www.pokemonchampions.jp/ja/"
+    },
+    {
+        "id": "CIU0009",
+        "url": "https://pokemongo.com/ko"
+    },
+    {
+        "id": "CIU0010",
+        "url": "https://bank.pokemonkorea.co.kr"
+    },
+    {
+        "id": "CIU0011",
+        "url": "https://pokemonkorea.co.kr/pikachu_eevee"
+    },
+    {
+        "id": "CIU0012",
+        "url": "https://pokemonkorea.co.kr/sword_shield"
+    },
+    {
+        "id": "CIU0013",
+        "url": "https://pokemonkorea.co.kr/bdsp"
+    },
+    {
+        "id": "CIU0014",
+        "url": "https://pokemonkorea.co.kr/legends_arceus"
+    },
+    {
+        "id": "CIU0015",
+        "url": "https://pokemonkorea.co.kr/sv"
+    },
+    {
+        "id": "CIU0016",
+        "url": "https://pokemonkorea.co.kr/legends_z-a"
+    },
+    {
+        "id": "CIU0138",
+        "url": "https://pokemonkorea.co.kr/pokemon_champions"
+    },
+    {
+        "id": "CIU0017",
+        "url": "https://pokemongo.com/zh-Hant"
+    },
+    {
+        "id": "CIU0018",
+        "url": "http://www.pokemon-sunmoon-cn.com/sc/collect/170227_01.html"
+    },
+    {
+        "id": "CIU0019",
+        "url": "http://www.pokemon-sunmoon-cn.com/tc/collect/170227_01.html"
+    },
+    {
+        "id": "CIU0020",
+        "url": "https://tw.portal-pokemon.com/special/pika_vee/sc/"
+    },
+    {
+        "id": "CIU0021",
+        "url": "https://tw.portal-pokemon.com/special/pika_vee/tc/"
+    },
+    {
+        "id": "CIU0022",
+        "url": "https://game.portal-pokemon.com/sword_shield/sc/"
+    },
+    {
+        "id": "CIU0023",
+        "url": "https://game.portal-pokemon.com/sword_shield/tc/"
+    },
+    {
+        "id": "CIU0024",
+        "url": "https://www.pokemon.co.jp/ex/bdsp/sc/"
+    },
+    {
+        "id": "CIU0025",
+        "url": "https://www.pokemon.co.jp/ex/bdsp/tc/"
+    },
+    {
+        "id": "CIU0026",
+        "url": "https://www.pokemon.co.jp/ex/legends_arceus/sc/"
+    },
+    {
+        "id": "CIU0027",
+        "url": "https://www.pokemon.co.jp/ex/legends_arceus/tc/"
+    },
+    {
+        "id": "CIU0028",
+        "url": "https://www.pokemon.co.jp/ex/sv/sc/"
+    },
+    {
+        "id": "CIU0029",
+        "url": "https://www.pokemon.co.jp/ex/sv/tc/"
+    },
+    {
+        "id": "CIU0030",
+        "url": "https://www.pokemon.co.jp/ex/legends_z-a/sc/"
+    },
+    {
+        "id": "CIU0031",
+        "url": "https://www.pokemon.co.jp/ex/legends_z-a/tc/"
+    },
+    {
+        "id": "CIU0139",
+        "url": "https://www.pokemonchampions.jp/sc/"
+    },
+    {
+        "id": "CIU0140",
+        "url": "https://www.pokemonchampions.jp/tc/"
+    },
+    {
+        "id": "CIU0032",
+        "url": "https://pokemongo.com/es-MX"
+    },
+    {
+        "id": "CIU0033",
+        "url": "https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-3DS/Banco-de-Pokemon-845518.html"
+    },
+    {
+        "id": "CIU0034",
+        "url": "https://pokemonletsgo.pokemon.com/es-la/"
+    },
+    {
+        "id": "CIU0035",
+        "url": "https://swordshield.pokemon.com/es-mx/"
+    },
+    {
+        "id": "CIU0036",
+        "url": "https://diamondpearl.pokemon.com/es-mx/"
+    },
+    {
+        "id": "CIU0037",
+        "url": "https://legends.arceus.pokemon.com/es-mx/"
+    },
+    {
+        "id": "CIU0038",
+        "url": "https://scarletviolet.pokemon.com/es-mx/"
+    },
+    {
+        "id": "CIU0039",
+        "url": "https://legends.pokemon.com/es-mx/"
+    },
+    {
+        "id": "CIU0141",
+        "url": "https://champions.pokemon.com/es-mx/"
+    },
+    {
+        "id": "CIU0040",
+        "url": "https://pokemongo.com/en"
+    },
+    {
+        "id": "CIU0041",
+        "url": "https://pokemongo.com/fr"
+    },
+    {
+        "id": "CIU0042",
+        "url": "https://www.pokemon.com/us/pokemon-video-games/pokemon-bank"
+    },
+    {
+        "id": "CIU0043",
+        "url": "https://pokemonletsgo.pokemon.com/en-ca/"
+    },
+    {
+        "id": "CIU0044",
+        "url": "https://pokemonletsgo.pokemon.com/fr-ca/"
+    },
+    {
+        "id": "CIU0045",
+        "url": "https://swordshield.pokemon.com/en-ca/"
+    },
+    {
+        "id": "CIU0046",
+        "url": "https://swordshield.pokemon.com/fr-ca/"
+    },
+    {
+        "id": "CIU0047",
+        "url": "https://diamondpearl.pokemon.com/en-ca/"
+    },
+    {
+        "id": "CIU0048",
+        "url": "https://diamondpearl.pokemon.com/fr-ca/"
+    },
+    {
+        "id": "CIU0049",
+        "url": "https://legends.arceus.pokemon.com/en-ca/"
+    },
+    {
+        "id": "CIU0050",
+        "url": "https://legends.arceus.pokemon.com/fr-ca/"
+    },
+    {
+        "id": "CIU0051",
+        "url": "https://scarletviolet.pokemon.com/en-ca/"
+    },
+    {
+        "id": "CIU0052",
+        "url": "https://scarletviolet.pokemon.com/fr-ca/"
+    },
+    {
+        "id": "CIU0053",
+        "url": "https://legends.pokemon.com/en-ca/"
+    },
+    {
+        "id": "CIU0054",
+        "url": "https://legends.pokemon.com/fr-ca/"
+    },
+    {
+        "id": "CIU0142",
+        "url": "https://champions.pokemon.com/en-ca/"
+    },
+    {
+        "id": "CIU0153",
+        "url": "https://champions.pokemon.com/fr-ca/"
+    },
+    {
+        "id": "CIU0055",
+        "url": "https://pokemonletsgo.pokemon.com/en-us/"
+    },
+    {
+        "id": "CIU0056",
+        "url": "https://swordshield.pokemon.com/en-us/"
+    },
+    {
+        "id": "CIU0057",
+        "url": "https://diamondpearl.pokemon.com/en-us/"
+    },
+    {
+        "id": "CIU0058",
+        "url": "https://legends.arceus.pokemon.com/en-us/"
+    },
+    {
+        "id": "CIU0059",
+        "url": "https://scarletviolet.pokemon.com/en-us/"
+    },
+    {
+        "id": "CIU0060",
+        "url": "https://legends.pokemon.com/en-us/"
+    },
+    {
+        "id": "CIU0154",
+        "url": "https://champions.pokemon.com/en-us/"
+    },
+    {
+        "id": "CIU0061",
+        "url": "https://pokemongo.com/"
+    },
+    {
+        "id": "CIU0062",
+        "url": "https://pokemongo.com/fr  "
+    },
+    {
+        "id": "CIU0063",
+        "url": "https://www.nintendo.be/nl/Games/Nintendo-3DS-downloadsoftware/Pokemon-Bank-845518.html"
+    },
+    {
+        "id": "CIU0064",
+        "url": "https://www.nintendo.be/fr/Jeux/Jeux-a-telecharger-sur-Nintendo-3DS/Banque-Pokemon-845518.html"
+    },
+    {
+        "id": "CIU0065",
+        "url": "https://pokemonletsgo.pokemon.com/nl-be/"
+    },
+    {
+        "id": "CIU0066",
+        "url": "https://pokemonletsgo.pokemon.com/fr-be/"
+    },
+    {
+        "id": "CIU0067",
+        "url": "https://swordshield.pokemon.com/nl-be/"
+    },
+    {
+        "id": "CIU0068",
+        "url": "https://swordshield.pokemon.com/fr-be/"
+    },
+    {
+        "id": "CIU0069",
+        "url": "https://diamondpearl.pokemon.com/nl-be/"
+    },
+    {
+        "id": "CIU0070",
+        "url": "https://diamondpearl.pokemon.com/fr-be/"
+    },
+    {
+        "id": "CIU0071",
+        "url": "https://legends.arceus.pokemon.com/nl-be/"
+    },
+    {
+        "id": "CIU0072",
+        "url": "https://legends.arceus.pokemon.com/fr-be/"
+    },
+    {
+        "id": "CIU0073",
+        "url": "https://scarletviolet.pokemon.com/nl-be/"
+    },
+    {
+        "id": "CIU0074",
+        "url": "https://scarletviolet.pokemon.com/fr-be/"
+    },
+    {
+        "id": "CIU0075",
+        "url": "https://legends.pokemon.com/nl-be/"
+    },
+    {
+        "id": "CIU0076",
+        "url": "https://legends.pokemon.com/fr-be/"
+    },
+    {
+        "id": "CIU0144",
+        "url": "https://champions.pokemon.com/nl-be/"
+    },
+    {
+        "id": "CIU0155",
+        "url": "https://champions.pokemon.com/fr-be/"
+    },
+    {
+        "id": "CIU0077",
+        "url": "https://www.nintendo.fr/Jeux/Jeux-a-telecharger-sur-Nintendo-3DS/Banque-Pokemon-845518.html"
+    },
+    {
+        "id": "CIU0078",
+        "url": "https://pokemonletsgo.pokemon.com/fr-fr/"
+    },
+    {
+        "id": "CIU0079",
+        "url": "https://swordshield.pokemon.com/fr-fr/"
+    },
+    {
+        "id": "CIU0080",
+        "url": "https://diamondpearl.pokemon.com/fr-fr/"
+    },
+    {
+        "id": "CIU0081",
+        "url": "https://legends.arceus.pokemon.com/fr-fr/"
+    },
+    {
+        "id": "CIU0082",
+        "url": "https://scarletviolet.pokemon.com/fr-fr/"
+    },
+    {
+        "id": "CIU0083",
+        "url": "https://legends.pokemon.com/fr-fr/"
+    },
+    {
+        "id": "CIU0145",
+        "url": "https://champions.pokemon.com/fr-fr/"
+    },
+    {
+        "id": "CIU0084",
+        "url": "https://pokemongo.com/de"
+    },
+    {
+        "id": "CIU0085",
+        "url": "https://www.nintendo.de/Spiele/Nintendo-3DS-Download-Software/Pokemon-Bank-845518.html"
+    },
+    {
+        "id": "CIU0086",
+        "url": "https://pokemonletsgo.pokemon.com/de-de/"
+    },
+    {
+        "id": "CIU0087",
+        "url": "https://swordshield.pokemon.com/de-de/"
+    },
+    {
+        "id": "CIU0088",
+        "url": "https://diamondpearl.pokemon.com/de-de/"
+    },
+    {
+        "id": "CIU0089",
+        "url": "https://legends.arceus.pokemon.com/de-de/"
+    },
+    {
+        "id": "CIU0090",
+        "url": "https://scarletviolet.pokemon.com/de-de/"
+    },
+    {
+        "id": "CIU0091",
+        "url": "https://legends.pokemon.com/de-de/"
+    },
+    {
+        "id": "CIU0146",
+        "url": "https://champions.pokemon.com/de-de/"
+    },
+    {
+        "id": "CIU0092",
+        "url": "https://pokemongo.com/it"
+    },
+    {
+        "id": "CIU0093",
+        "url": "https://www.nintendo.it/Giochi/Giochi-scaricabili-per-Nintendo-3DS/Banca-Pokemon-845518.html"
+    },
+    {
+        "id": "CIU0094",
+        "url": "https://pokemonletsgo.pokemon.com/it-it/"
+    },
+    {
+        "id": "CIU0095",
+        "url": "https://swordshield.pokemon.com/it-it/"
+    },
+    {
+        "id": "CIU0096",
+        "url": "https://diamondpearl.pokemon.com/it-it/"
+    },
+    {
+        "id": "CIU0097",
+        "url": "https://legends.arceus.pokemon.com/it-it/"
+    },
+    {
+        "id": "CIU0098",
+        "url": "https://scarletviolet.pokemon.com/it-it/"
+    },
+    {
+        "id": "CIU0099",
+        "url": "https://legends.pokemon.com/it-it/"
+    },
+    {
+        "id": "CIU0147",
+        "url": "https://champions.pokemon.com/it-it/"
+    },
+    {
+        "id": "CIU0100",
+        "url": "https://www.nintendo.nl/Games/Nintendo-3DS-downloadsoftware/Pokemon-Bank-845518.html"
+    },
+    {
+        "id": "CIU0101",
+        "url": "https://pokemonletsgo.pokemon.com/nl-nl/"
+    },
+    {
+        "id": "CIU0102",
+        "url": "https://swordshield.pokemon.com/nl-nl/"
+    },
+    {
+        "id": "CIU0103",
+        "url": "https://diamondpearl.pokemon.com/nl-nl/"
+    },
+    {
+        "id": "CIU0104",
+        "url": "https://legends.arceus.pokemon.com/nl-nl/"
+    },
+    {
+        "id": "CIU0105",
+        "url": "https://scarletviolet.pokemon.com/nl-nl/"
+    },
+    {
+        "id": "CIU0106",
+        "url": "https://legends.pokemon.com/nl-nl/"
+    },
+    {
+        "id": "CIU0156",
+        "url": "https://champions.pokemon.com/nl-nl/"
+    },
+    {
+        "id": "CIU0107",
+        "url": "https://pokemongo.com/pt-BR"
+    },
+    {
+        "id": "CIU0108",
+        "url": "https://www.nintendo.pt/Jogos/Aplicacoes-de-download-da-Nintendo-3DS/Pokemon-Bank-845518.html"
+    },
+    {
+        "id": "CIU0109",
+        "url": "https://pokemonletsgo.pokemon.com/pt-pt/"
+    },
+    {
+        "id": "CIU0110",
+        "url": "https://swordshield.pokemon.com/pt-pt/"
+    },
+    {
+        "id": "CIU0111",
+        "url": "https://diamondpearl.pokemon.com/pt-pt/"
+    },
+    {
+        "id": "CIU0112",
+        "url": "https://legends.arceus.pokemon.com/pt-pt/"
+    },
+    {
+        "id": "CIU0113",
+        "url": "https://scarletviolet.pokemon.com/pt-pt/"
+    },
+    {
+        "id": "CIU0114",
+        "url": "https://legends.pokemon.com/pt-pt/"
+    },
+    {
+        "id": "CIU0148",
+        "url": "https://champions.pokemon.com/pt-pt/"
+    },
+    {
+        "id": "CIU0115",
+        "url": "https://pokemongo.com/es"
+    },
+    {
+        "id": "CIU0116",
+        "url": "https://pokemonletsgo.pokemon.com/es-es/"
+    },
+    {
+        "id": "CIU0117",
+        "url": "https://swordshield.pokemon.com/es-es/"
+    },
+    {
+        "id": "CIU0118",
+        "url": "https://diamondpearl.pokemon.com/es-es/"
+    },
+    {
+        "id": "CIU0119",
+        "url": "https://legends.arceus.pokemon.com/es-es/"
+    },
+    {
+        "id": "CIU0120",
+        "url": "https://scarletviolet.pokemon.com/es-es/"
+    },
+    {
+        "id": "CIU0121",
+        "url": "https://legends.pokemon.com/es-es/"
+    },
+    {
+        "id": "CIU0149",
+        "url": "https://champions.pokemon.com/es-es/"
+    },
+    {
+        "id": "CIU0122",
+        "url": "https://www.nintendo.co.uk/Games/Nintendo-3DS-download-software/Pokemon-Bank-845518.html"
+    },
+    {
+        "id": "CIU0123",
+        "url": "https://pokemonletsgo.pokemon.com/en-gb/"
+    },
+    {
+        "id": "CIU0124",
+        "url": "https://swordshield.pokemon.com/en-gb/"
+    },
+    {
+        "id": "CIU0125",
+        "url": "https://diamondpearl.pokemon.com/en-gb/"
+    },
+    {
+        "id": "CIU0126",
+        "url": "https://legends.arceus.pokemon.com/en-gb/"
+    },
+    {
+        "id": "CIU0127",
+        "url": "https://scarletviolet.pokemon.com/en-gb/"
+    },
+    {
+        "id": "CIU0150",
+        "url": "https://champions.pokemon.com/en-gb/"
+    },
+    {
+        "id": "CIU0128",
+        "url": "https://legends.pokemon.com/en-gb/"
+    },
+    {
+        "id": "CIU0129",
+        "url": "https://pokemonletsgo.pokemon.com/en-au/"
+    },
+    {
+        "id": "CIU0130",
+        "url": "https://swordshield.pokemon.com/en-au/"
+    },
+    {
+        "id": "CIU0131",
+        "url": "https://diamondpearl.pokemon.com/en-au/"
+    },
+    {
+        "id": "CIU0132",
+        "url": "https://legends.arceus.pokemon.com/en-au/"
+    },
+    {
+        "id": "CIU0133",
+        "url": "https://scarletviolet.pokemon.com/en-au/"
+    },
+    {
+        "id": "CIU0134",
+        "url": "https://legends.pokemon.com/en-au/"
+    },
+    {
+        "id": "CIU0151",
+        "url": "https://champions.pokemon.com/en-au/"
+    },
+    {
+        "id": "CIU0135",
+        "url": "https://www.nintendo.at/Spiele/Nintendo-3DS-Download-Software/Pokemon-Bank-845518.html"
+    },
+    {
+        "id": "CIU0136",
+        "url": "https://legends.pokemon.com/pt-br/"
+    },
+    {
+        "id": "CIU0152",
+        "url": "https://champions.pokemon.com/pt-br/"
+    }
+]
