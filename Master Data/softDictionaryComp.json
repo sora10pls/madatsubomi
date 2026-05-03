@@ -97,5 +97,26 @@
             0,
             5
         ]
+    },
+    {
+        "id": "SDC0006",
+        "categoryId": 6,
+        "dicMdNames": [
+            "SW011",
+            "SW012",
+            "SW013"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_006_001",
+            "sp_oak_softdic_comp_006_002",
+            "sp_oak_softdic_comp_006_003",
+            "sp_oak_softdic_comp_006_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
     }
 ]

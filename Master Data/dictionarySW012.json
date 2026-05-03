@@ -46,7 +46,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0004_128",
         "topImage": "sw012_cap0004",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -59,7 +59,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0005_128",
         "topImage": "sw012_cap0005",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -85,7 +85,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0007_128",
         "topImage": "sw012_cap0007",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -124,7 +124,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0010_128",
         "topImage": "sw012_cap0010",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -280,7 +280,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0022_128",
         "topImage": "sw012_cap0022",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -475,7 +475,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0037_128",
         "topImage": "sw012_cap0037",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -540,7 +540,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0042_128",
         "topImage": "sw012_cap0042",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -553,7 +553,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0043_128",
         "topImage": "sw012_cap0043",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -566,7 +566,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0044_128",
         "topImage": "sw012_cap0044",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -631,7 +631,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0049_128",
         "topImage": "sw012_cap0049",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -761,7 +761,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0059_128",
         "topImage": "sw012_cap0059",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1047,7 +1047,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0081_128",
         "topImage": "sw012_cap0081",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1060,7 +1060,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0082_128",
         "topImage": "sw012_cap0082",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1112,7 +1112,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0086_128",
         "topImage": "sw012_cap0086",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1190,7 +1190,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0092_128",
         "topImage": "sw012_cap0092",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1203,7 +1203,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0093_128",
         "topImage": "sw012_cap0093",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1216,7 +1216,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0094_128",
         "topImage": "sw012_cap0094",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1411,7 +1411,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0109_128",
         "topImage": "sw012_cap0109",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1528,7 +1528,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0118_128",
         "topImage": "sw012_cap0118",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
@@ -1567,7 +1567,7 @@
         "listAtlasNo": 1,
         "listImage": "sw012_cap0121_128",
         "topImage": "sw012_cap0121",
-        "topImageX": 512,
+        "topImageX": 1024,
         "topImageY": 512,
         "frameType": 0,
         "voice": "dictionary"
