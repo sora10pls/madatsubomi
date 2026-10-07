@@ -118,5 +118,24 @@
             0,
             5
         ]
+    },
+    {
+        "id": "SDC0007",
+        "categoryId": 7,
+        "dicMdNames": [
+            "SW014"
+        ],
+        "msIds": [
+            "sp_oak_softdic_comp_007_001",
+            "sp_oak_softdic_comp_007_002",
+            "sp_oak_softdic_comp_007_003",
+            "sp_oak_softdic_comp_007_004"
+        ],
+        "imageNos": [
+            2,
+            1,
+            0,
+            5
+        ]
     }
 ]

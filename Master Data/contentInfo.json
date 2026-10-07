@@ -153,6 +153,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI0110",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0159",
+        "engUrl": "CIU0159",
+        "fraUrl": "CIU0159",
+        "itaUrl": "CIU0159",
+        "deuUrl": "CIU0159",
+        "espUrl": "CIU0159",
+        "korUrl": "CIU0159",
+        "schUrl": "CIU0159",
+        "tchUrl": "CIU0159",
+        "lasUrl": "CIU0159",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI0201",
         "categoryId": "category02",
         "msId": "",
@@ -304,6 +321,23 @@
         "tchUrl": "CIU0138",
         "lasUrl": "CIU0138",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI0210",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0160",
+        "engUrl": "CIU0160",
+        "fraUrl": "CIU0160",
+        "itaUrl": "CIU0160",
+        "deuUrl": "CIU0160",
+        "espUrl": "CIU0160",
+        "korUrl": "CIU0160",
+        "schUrl": "CIU0160",
+        "tchUrl": "CIU0160",
+        "lasUrl": "CIU0160",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI0301",
@@ -459,6 +493,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI0310",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0158",
+        "engUrl": "CIU0158",
+        "fraUrl": "CIU0158",
+        "itaUrl": "CIU0158",
+        "deuUrl": "CIU0158",
+        "espUrl": "CIU0158",
+        "korUrl": "CIU0158",
+        "schUrl": "CIU0158",
+        "tchUrl": "CIU0158",
+        "lasUrl": "CIU0158",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI0401",
         "categoryId": "category02",
         "msId": "",
@@ -610,6 +661,23 @@
         "tchUrl": "CIU0140",
         "lasUrl": "CIU0139",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI0410",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0158",
+        "engUrl": "CIU0158",
+        "fraUrl": "CIU0158",
+        "itaUrl": "CIU0158",
+        "deuUrl": "CIU0158",
+        "espUrl": "CIU0158",
+        "korUrl": "CIU0158",
+        "schUrl": "CIU0158",
+        "tchUrl": "CIU0158",
+        "lasUrl": "CIU0158",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI0501",
@@ -765,6 +833,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI0510",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0170",
+        "engUrl": "CIU0170",
+        "fraUrl": "CIU0170",
+        "itaUrl": "CIU0170",
+        "deuUrl": "CIU0170",
+        "espUrl": "CIU0170",
+        "korUrl": "CIU0170",
+        "schUrl": "CIU0170",
+        "tchUrl": "CIU0170",
+        "lasUrl": "CIU0170",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI0601",
         "categoryId": "category02",
         "msId": "",
@@ -916,6 +1001,23 @@
         "tchUrl": "CIU0142",
         "lasUrl": "CIU0142",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI0610",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0158",
+        "engUrl": "CIU0158",
+        "fraUrl": "CIU0169",
+        "itaUrl": "CIU0158",
+        "deuUrl": "CIU0158",
+        "espUrl": "CIU0170",
+        "korUrl": "CIU0158",
+        "schUrl": "CIU0158",
+        "tchUrl": "CIU0158",
+        "lasUrl": "CIU0170",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI0701",
@@ -1071,6 +1173,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI0710",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0158",
+        "engUrl": "CIU0158",
+        "fraUrl": "CIU0158",
+        "itaUrl": "CIU0158",
+        "deuUrl": "CIU0158",
+        "espUrl": "CIU0158",
+        "korUrl": "CIU0158",
+        "schUrl": "CIU0158",
+        "tchUrl": "CIU0158",
+        "lasUrl": "CIU0158",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI0801",
         "categoryId": "category02",
         "msId": "",
@@ -1222,6 +1341,23 @@
         "tchUrl": "CIU0144",
         "lasUrl": "CIU0144",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI0810",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0161",
+        "engUrl": "CIU0161",
+        "fraUrl": "CIU0162",
+        "itaUrl": "CIU0161",
+        "deuUrl": "CIU0161",
+        "espUrl": "CIU0161",
+        "korUrl": "CIU0161",
+        "schUrl": "CIU0161",
+        "tchUrl": "CIU0161",
+        "lasUrl": "CIU0161",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI0901",
@@ -1377,6 +1513,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI0910",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0163",
+        "engUrl": "CIU0163",
+        "fraUrl": "CIU0163",
+        "itaUrl": "CIU0163",
+        "deuUrl": "CIU0163",
+        "espUrl": "CIU0163",
+        "korUrl": "CIU0163",
+        "schUrl": "CIU0163",
+        "tchUrl": "CIU0163",
+        "lasUrl": "CIU0163",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI1001",
         "categoryId": "category02",
         "msId": "",
@@ -1528,6 +1681,23 @@
         "tchUrl": "CIU0146",
         "lasUrl": "CIU0146",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI1010",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0164",
+        "engUrl": "CIU0164",
+        "fraUrl": "CIU0164",
+        "itaUrl": "CIU0164",
+        "deuUrl": "CIU0164",
+        "espUrl": "CIU0164",
+        "korUrl": "CIU0164",
+        "schUrl": "CIU0164",
+        "tchUrl": "CIU0164",
+        "lasUrl": "CIU0164",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI1101",
@@ -1683,6 +1853,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI1110",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0165",
+        "engUrl": "CIU0165",
+        "fraUrl": "CIU0165",
+        "itaUrl": "CIU0165",
+        "deuUrl": "CIU0165",
+        "espUrl": "CIU0165",
+        "korUrl": "CIU0165",
+        "schUrl": "CIU0165",
+        "tchUrl": "CIU0165",
+        "lasUrl": "CIU0165",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI1201",
         "categoryId": "category02",
         "msId": "",
@@ -1834,6 +2021,23 @@
         "tchUrl": "CIU0156",
         "lasUrl": "CIU0156",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI1210",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0166",
+        "engUrl": "CIU0166",
+        "fraUrl": "CIU0166",
+        "itaUrl": "CIU0166",
+        "deuUrl": "CIU0166",
+        "espUrl": "CIU0166",
+        "korUrl": "CIU0166",
+        "schUrl": "CIU0166",
+        "tchUrl": "CIU0166",
+        "lasUrl": "CIU0166",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI1301",
@@ -1989,6 +2193,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI1310",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0167",
+        "engUrl": "CIU0167",
+        "fraUrl": "CIU0167",
+        "itaUrl": "CIU0167",
+        "deuUrl": "CIU0167",
+        "espUrl": "CIU0167",
+        "korUrl": "CIU0167",
+        "schUrl": "CIU0167",
+        "tchUrl": "CIU0167",
+        "lasUrl": "CIU0167",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI1401",
         "categoryId": "category02",
         "msId": "",
@@ -2140,6 +2361,23 @@
         "tchUrl": "CIU0149",
         "lasUrl": "CIU0149",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI1410",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0168",
+        "engUrl": "CIU0168",
+        "fraUrl": "CIU0168",
+        "itaUrl": "CIU0168",
+        "deuUrl": "CIU0168",
+        "espUrl": "CIU0168",
+        "korUrl": "CIU0168",
+        "schUrl": "CIU0168",
+        "tchUrl": "CIU0168",
+        "lasUrl": "CIU0168",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI1501",
@@ -2295,6 +2533,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI1510",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0157",
+        "engUrl": "CIU0157",
+        "fraUrl": "CIU0157",
+        "itaUrl": "CIU0157",
+        "deuUrl": "CIU0157",
+        "espUrl": "CIU0157",
+        "korUrl": "CIU0157",
+        "schUrl": "CIU0157",
+        "tchUrl": "CIU0157",
+        "lasUrl": "CIU0157",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI1601",
         "categoryId": "category02",
         "msId": "",
@@ -2446,6 +2701,23 @@
         "tchUrl": "CIU0151",
         "lasUrl": "CIU0151",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI1610",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0158",
+        "engUrl": "CIU0158",
+        "fraUrl": "CIU0158",
+        "itaUrl": "CIU0158",
+        "deuUrl": "CIU0158",
+        "espUrl": "CIU0158",
+        "korUrl": "CIU0158",
+        "schUrl": "CIU0158",
+        "tchUrl": "CIU0158",
+        "lasUrl": "CIU0158",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI1701",
@@ -2601,6 +2873,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI1710",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0157",
+        "engUrl": "CIU0157",
+        "fraUrl": "CIU0163",
+        "itaUrl": "CIU0165",
+        "deuUrl": "CIU0164",
+        "espUrl": "CIU0157",
+        "korUrl": "CIU0157",
+        "schUrl": "CIU0157",
+        "tchUrl": "CIU0157",
+        "lasUrl": "CIU0157",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI1801",
         "categoryId": "category02",
         "msId": "",
@@ -2752,6 +3041,23 @@
         "tchUrl": "CIU0150",
         "lasUrl": "CIU0150",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI1810",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0157",
+        "engUrl": "CIU0157",
+        "fraUrl": "CIU0157",
+        "itaUrl": "CIU0157",
+        "deuUrl": "CIU0157",
+        "espUrl": "CIU0157",
+        "korUrl": "CIU0157",
+        "schUrl": "CIU0157",
+        "tchUrl": "CIU0157",
+        "lasUrl": "CIU0157",
+        "bannerId": "CIB0010"
     },
     {
         "id": "CI1901",
@@ -2907,6 +3213,23 @@
         "bannerId": "CIB0009"
     },
     {
+        "id": "CI1910",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0158",
+        "engUrl": "CIU0158",
+        "fraUrl": "CIU0158",
+        "itaUrl": "CIU0158",
+        "deuUrl": "CIU0158",
+        "espUrl": "CIU0170",
+        "korUrl": "CIU0158",
+        "schUrl": "CIU0158",
+        "tchUrl": "CIU0158",
+        "lasUrl": "CIU0170",
+        "bannerId": "CIB0010"
+    },
+    {
         "id": "CI2001",
         "categoryId": "category02",
         "msId": "",
@@ -3058,5 +3381,22 @@
         "tchUrl": "CIU0152",
         "lasUrl": "CIU0152",
         "bannerId": "CIB0009"
+    },
+    {
+        "id": "CI2010",
+        "categoryId": "category01",
+        "msId": "",
+        "os": 0,
+        "jpnUrl": "CIU0158",
+        "engUrl": "CIU0158",
+        "fraUrl": "CIU0158",
+        "itaUrl": "CIU0158",
+        "deuUrl": "CIU0158",
+        "espUrl": "CIU0170",
+        "korUrl": "CIU0158",
+        "schUrl": "CIU0158",
+        "tchUrl": "CIU0158",
+        "lasUrl": "CIU0170",
+        "bannerId": "CIB0010"
     }
 ]

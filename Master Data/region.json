@@ -88,5 +88,10 @@
         "id": "RG018",
         "no": 18,
         "ms": "place_name_spe:MAPNAME_KAROSU_ZA"
+    },
+    {
+        "id": "RG019",
+        "no": 19,
+        "ms": "place_name_spe:MAPNAME_KANTO"
     }
 ]

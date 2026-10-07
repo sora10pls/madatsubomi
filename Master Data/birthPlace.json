@@ -64,5 +64,11 @@
         "no": 10,
         "ms": "",
         "image": "bnk_mark_region_LZA"
+    },
+    {
+        "id": "BP012",
+        "no": 11,
+        "ms": "",
+        "image": "bnk_mark_region_GBA"
     }
 ]

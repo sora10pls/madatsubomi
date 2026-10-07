@@ -9563,7 +9563,7 @@
         "id": "FN0801003",
         "formNo": 3,
         "ms": "zkn_form:ZKN_FORM_801_003",
-        "msDetail": "",
+        "msDetail": "zkn_form:ZKN_FORM_801_003_1",
         "isViewGTS": 0,
         "hasGtsFormName": 0
     },
@@ -11459,7 +11459,7 @@
         "id": "FN0978003",
         "formNo": 3,
         "ms": "zkn_form:ZKN_FORM_978_003",
-        "msDetail": "",
+        "msDetail": "zkn_form:ZKN_FORM_978_003_1",
         "isViewGTS": 0,
         "hasGtsFormName": 0
     },
@@ -11467,7 +11467,7 @@
         "id": "FN0978004",
         "formNo": 4,
         "ms": "zkn_form:ZKN_FORM_978_004",
-        "msDetail": "",
+        "msDetail": "zkn_form:ZKN_FORM_978_004_1",
         "isViewGTS": 0,
         "hasGtsFormName": 0
     },
@@ -11475,7 +11475,7 @@
         "id": "FN0978005",
         "formNo": 5,
         "ms": "zkn_form:ZKN_FORM_978_005",
-        "msDetail": "",
+        "msDetail": "zkn_form:ZKN_FORM_978_005_1",
         "isViewGTS": 0,
         "hasGtsFormName": 0
     },

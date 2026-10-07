@@ -289,10 +289,10 @@
     },
     {
         "Name": "spriteatlas_softwareicon",
-        "SizeAndroid": 116792,
-        "SizeIOS": 103184,
-        "VersionAndroid": 68600,
-        "VersionIOS": 68600,
+        "SizeAndroid": 124512,
+        "SizeIOS": 109348,
+        "VersionAndroid": 70600,
+        "VersionIOS": 70600,
         "Files": [
             "SoftWareIcon"
         ]
@@ -15825,14 +15825,15 @@
     },
     {
         "Name": "image_regionmark",
-        "SizeAndroid": 51760,
-        "SizeIOS": 51228,
-        "VersionAndroid": 69000,
-        "VersionIOS": 69000,
+        "SizeAndroid": 57056,
+        "SizeIOS": 56428,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "bnk_mark_region_alola",
             "bnk_mark_region_BDSP",
             "bnk_mark_region_galar",
+            "bnk_mark_region_GBA",
             "bnk_mark_region_go",
             "bnk_mark_region_kalos",
             "bnk_mark_region_LA",
@@ -15844,10 +15845,10 @@
     },
     {
         "Name": "image_seal_p",
-        "SizeAndroid": 4151848,
-        "SizeIOS": 3601348,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 4229916,
+        "SizeIOS": 3669848,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "seal_p_0001",
             "seal_p_0002",
@@ -15951,7 +15952,9 @@
             "seal_p_0098",
             "seal_p_0099",
             "seal_p_0100",
-            "seal_p_0101"
+            "seal_p_0101",
+            "seal_p_0102",
+            "seal_p_0103"
         ]
     },
     {
@@ -16307,10 +16310,10 @@
     },
     {
         "Name": "image_seal_wall_thn",
-        "SizeAndroid": 1809736,
-        "SizeIOS": 1695860,
-        "VersionAndroid": 69800,
-        "VersionIOS": 69800,
+        "SizeAndroid": 1928060,
+        "SizeIOS": 1793596,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "seal_wall_0001_thn",
             "seal_wall_0002_thn",
@@ -16371,7 +16374,10 @@
             "seal_wall_0057_thn",
             "seal_wall_0058_thn",
             "seal_wall_0059_thn",
-            "seal_wall_0060_thn"
+            "seal_wall_0060_thn",
+            "seal_wall_0061_thn",
+            "seal_wall_0062_thn",
+            "seal_wall_0063_thn"
         ]
     },
     {
@@ -17008,10 +17014,10 @@
     },
     {
         "Name": "image_softwarelogo_de",
-        "SizeAndroid": 394432,
-        "SizeIOS": 337856,
-        "VersionAndroid": 69000,
-        "VersionIOS": 69000,
+        "SizeAndroid": 430736,
+        "SizeIOS": 369468,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "PokeTitle_L_000_Bank_DE",
             "PokeTitle_L_101_X_DE",
@@ -17031,15 +17037,17 @@
             "PokeTitle_L_108_LA_DE",
             "PokeTitle_L_109_SV_S_DE",
             "PokeTitle_L_109_SV_V_DE",
-            "PokeTitle_L_110_LZA_DE"
+            "PokeTitle_L_110_LZA_DE",
+            "PokeTitle_L_112_FR_DE",
+            "PokeTitle_L_112_LG_DE"
         ]
     },
     {
         "Name": "image_softwarelogo_en",
-        "SizeAndroid": 398592,
-        "SizeIOS": 341424,
-        "VersionAndroid": 69000,
-        "VersionIOS": 69000,
+        "SizeAndroid": 434688,
+        "SizeIOS": 372756,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "PokeTitle_L_000_Bank_EN",
             "PokeTitle_L_101_X_EN",
@@ -17059,15 +17067,17 @@
             "PokeTitle_L_108_LA_EN",
             "PokeTitle_L_109_SV_S_EN",
             "PokeTitle_L_109_SV_V_EN",
-            "PokeTitle_L_110_LZA_EN"
+            "PokeTitle_L_110_LZA_EN",
+            "PokeTitle_L_112_FR_EN",
+            "PokeTitle_L_112_LG_EN"
         ]
     },
     {
         "Name": "image_softwarelogo_es",
-        "SizeAndroid": 398260,
-        "SizeIOS": 341292,
-        "VersionAndroid": 69000,
-        "VersionIOS": 69000,
+        "SizeAndroid": 435032,
+        "SizeIOS": 373308,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "PokeTitle_L_000_Bank_ES",
             "PokeTitle_L_101_X_ES",
@@ -17087,15 +17097,17 @@
             "PokeTitle_L_108_LA_ES",
             "PokeTitle_L_109_SV_S_ES",
             "PokeTitle_L_109_SV_V_ES",
-            "PokeTitle_L_110_LZA_ES"
+            "PokeTitle_L_110_LZA_ES",
+            "PokeTitle_L_112_FR_ES",
+            "PokeTitle_L_112_LG_ES"
         ]
     },
     {
         "Name": "image_softwarelogo_fr",
-        "SizeAndroid": 398740,
-        "SizeIOS": 341436,
-        "VersionAndroid": 69000,
-        "VersionIOS": 69000,
+        "SizeAndroid": 435476,
+        "SizeIOS": 373392,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "PokeTitle_L_000_Bank_FR",
             "PokeTitle_L_101_X_FR",
@@ -17115,15 +17127,17 @@
             "PokeTitle_L_108_LA_FR",
             "PokeTitle_L_109_SV_S_FR",
             "PokeTitle_L_109_SV_V_FR",
-            "PokeTitle_L_110_LZA_FR"
+            "PokeTitle_L_110_LZA_FR",
+            "PokeTitle_L_112_FR_FR",
+            "PokeTitle_L_112_LG_FR"
         ]
     },
     {
         "Name": "image_softwarelogo_it",
-        "SizeAndroid": 391576,
-        "SizeIOS": 335572,
-        "VersionAndroid": 69000,
-        "VersionIOS": 69000,
+        "SizeAndroid": 428892,
+        "SizeIOS": 367976,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "PokeTitle_L_000_Bank_IT",
             "PokeTitle_L_101_X_IT",
@@ -17143,15 +17157,17 @@
             "PokeTitle_L_108_LA_IT",
             "PokeTitle_L_109_SV_S_IT",
             "PokeTitle_L_109_SV_V_IT",
-            "PokeTitle_L_110_LZA_IT"
+            "PokeTitle_L_110_LZA_IT",
+            "PokeTitle_L_112_FR_IT",
+            "PokeTitle_L_112_LG_IT"
         ]
     },
     {
         "Name": "image_softwarelogo_jp",
-        "SizeAndroid": 375272,
-        "SizeIOS": 313240,
-        "VersionAndroid": 69000,
-        "VersionIOS": 69000,
+        "SizeAndroid": 403788,
+        "SizeIOS": 338948,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "PokeTitle_L_000_Bank_JP",
             "PokeTitle_L_101_X_JP",
@@ -17171,7 +17187,9 @@
             "PokeTitle_L_108_LA_JP",
             "PokeTitle_L_109_SV_S_JP",
             "PokeTitle_L_109_SV_V_JP",
-            "PokeTitle_L_110_LZA_JP"
+            "PokeTitle_L_110_LZA_JP",
+            "PokeTitle_L_112_FR_JP",
+            "PokeTitle_L_112_LG_JP"
         ]
     },
     {
@@ -38730,10 +38748,10 @@
     },
     {
         "Name": "ms_msbt_deu_any_other",
-        "SizeAndroid": 1576604,
-        "SizeIOS": 1576612,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1577508,
+        "SizeIOS": 1577512,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "itemname_deu",
             "monsname_deu",
@@ -38765,10 +38783,10 @@
     },
     {
         "Name": "ms_msbt_deu_sp",
-        "SizeAndroid": 343856,
-        "SizeIOS": 343856,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 347872,
+        "SizeIOS": 347872,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "sp_achstep_deu",
             "sp_ach_deu",
@@ -38798,10 +38816,10 @@
     },
     {
         "Name": "ms_msbt_deu_any_tokuseiinfo",
-        "SizeAndroid": 610936,
-        "SizeIOS": 610936,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 611520,
+        "SizeIOS": 611520,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "tokuseiinfo_BDSP_deu",
             "tokuseiinfo_Champions_deu",
@@ -38829,15 +38847,17 @@
     },
     {
         "Name": "ms_msbt_deu_any_zukan_comment",
-        "SizeAndroid": 10893108,
-        "SizeIOS": 10893108,
-        "VersionAndroid": 69300,
-        "VersionIOS": 69300,
+        "SizeAndroid": 11023624,
+        "SizeIOS": 11023624,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "zukan_comment_alpha_deu",
             "zukan_comment_arceus_deu",
             "zukan_comment_brilliantdiamond_deu",
+            "zukan_comment_fr_deu",
             "zukan_comment_letsgo_deu",
+            "zukan_comment_lg_deu",
             "zukan_comment_moon_deu",
             "zukan_comment_omega_deu",
             "zukan_comment_scarlet_deu",
@@ -38897,10 +38917,10 @@
     },
     {
         "Name": "ms_msbt_esp_any_other",
-        "SizeAndroid": 1576392,
-        "SizeIOS": 1576392,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1577252,
+        "SizeIOS": 1577252,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "itemname_esp",
             "monsname_esp",
@@ -38932,10 +38952,10 @@
     },
     {
         "Name": "ms_msbt_esp_sp",
-        "SizeAndroid": 340020,
-        "SizeIOS": 340036,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 343876,
+        "SizeIOS": 343892,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "sp_achstep_esp",
             "sp_ach_esp",
@@ -38965,10 +38985,10 @@
     },
     {
         "Name": "ms_msbt_esp_any_tokuseiinfo",
-        "SizeAndroid": 603904,
-        "SizeIOS": 603904,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 604468,
+        "SizeIOS": 604468,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "tokuseiinfo_BDSP_esp",
             "tokuseiinfo_Champions_esp",
@@ -38996,15 +39016,17 @@
     },
     {
         "Name": "ms_msbt_esp_any_zukan_comment",
-        "SizeAndroid": 10844976,
-        "SizeIOS": 10844976,
-        "VersionAndroid": 69300,
-        "VersionIOS": 69300,
+        "SizeAndroid": 10971004,
+        "SizeIOS": 10971004,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "zukan_comment_alpha_esp",
             "zukan_comment_arceus_esp",
             "zukan_comment_brilliantdiamond_esp",
+            "zukan_comment_fr_esp",
             "zukan_comment_letsgo_esp",
+            "zukan_comment_lg_esp",
             "zukan_comment_moon_esp",
             "zukan_comment_omega_esp",
             "zukan_comment_scarlet_esp",
@@ -39064,10 +39086,10 @@
     },
     {
         "Name": "ms_msbt_fra_any_other",
-        "SizeAndroid": 1577136,
-        "SizeIOS": 1577140,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1578012,
+        "SizeIOS": 1578012,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "itemname_fra",
             "monsname_fra",
@@ -39099,10 +39121,10 @@
     },
     {
         "Name": "ms_msbt_fra_sp",
-        "SizeAndroid": 342384,
-        "SizeIOS": 342384,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 346740,
+        "SizeIOS": 346740,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "sp_achstep_fra",
             "sp_ach_fra",
@@ -39132,10 +39154,10 @@
     },
     {
         "Name": "ms_msbt_fra_any_tokuseiinfo",
-        "SizeAndroid": 610276,
-        "SizeIOS": 610272,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 610844,
+        "SizeIOS": 610840,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "tokuseiinfo_BDSP_fra",
             "tokuseiinfo_Champions_fra",
@@ -39163,15 +39185,17 @@
     },
     {
         "Name": "ms_msbt_fra_any_zukan_comment",
-        "SizeAndroid": 10849260,
-        "SizeIOS": 10849260,
-        "VersionAndroid": 69300,
-        "VersionIOS": 69300,
+        "SizeAndroid": 10978624,
+        "SizeIOS": 10978624,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "zukan_comment_alpha_fra",
             "zukan_comment_arceus_fra",
             "zukan_comment_brilliantdiamond_fra",
+            "zukan_comment_fr_fra",
             "zukan_comment_letsgo_fra",
+            "zukan_comment_lg_fra",
             "zukan_comment_moon_fra",
             "zukan_comment_omega_fra",
             "zukan_comment_scarlet_fra",
@@ -39231,10 +39255,10 @@
     },
     {
         "Name": "ms_msbt_ita_any_other",
-        "SizeAndroid": 1576340,
-        "SizeIOS": 1576344,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1577224,
+        "SizeIOS": 1577228,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "itemname_ita",
             "monsname_ita",
@@ -39266,10 +39290,10 @@
     },
     {
         "Name": "ms_msbt_ita_sp",
-        "SizeAndroid": 338028,
-        "SizeIOS": 338028,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 341972,
+        "SizeIOS": 341972,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "sp_achstep_ita",
             "sp_ach_ita",
@@ -39299,10 +39323,10 @@
     },
     {
         "Name": "ms_msbt_ita_any_tokuseiinfo",
-        "SizeAndroid": 607312,
-        "SizeIOS": 607312,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 607844,
+        "SizeIOS": 607844,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "tokuseiinfo_BDSP_ita",
             "tokuseiinfo_Champions_ita",
@@ -39330,15 +39354,17 @@
     },
     {
         "Name": "ms_msbt_ita_any_zukan_comment",
-        "SizeAndroid": 10840412,
-        "SizeIOS": 10840412,
-        "VersionAndroid": 69300,
-        "VersionIOS": 69300,
+        "SizeAndroid": 10966328,
+        "SizeIOS": 10966328,
+        "VersionAndroid": 70700,
+        "VersionIOS": 70700,
         "Files": [
             "zukan_comment_alpha_ita",
             "zukan_comment_arceus_ita",
             "zukan_comment_brilliantdiamond_ita",
+            "zukan_comment_fr_ita",
             "zukan_comment_letsgo_ita",
+            "zukan_comment_lg_ita",
             "zukan_comment_moon_ita",
             "zukan_comment_omega_ita",
             "zukan_comment_scarlet_ita",
@@ -39398,10 +39424,10 @@
     },
     {
         "Name": "ms_msbt_jpn_any_other",
-        "SizeAndroid": 1569456,
-        "SizeIOS": 1569456,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1570472,
+        "SizeIOS": 1570472,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "itemname_jpn",
             "monsname_jpn",
@@ -39433,10 +39459,10 @@
     },
     {
         "Name": "ms_msbt_jpn_sp",
-        "SizeAndroid": 326268,
-        "SizeIOS": 326268,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 329816,
+        "SizeIOS": 329816,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "sp_achstep_jpn",
             "sp_ach_jpn",
@@ -39466,10 +39492,10 @@
     },
     {
         "Name": "ms_msbt_jpn_any_tokuseiinfo",
-        "SizeAndroid": 597616,
-        "SizeIOS": 597616,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 598096,
+        "SizeIOS": 598096,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "tokuseiinfo_BDSP_jpn",
             "tokuseiinfo_Champions_jpn",
@@ -39497,15 +39523,17 @@
     },
     {
         "Name": "ms_msbt_jpn_any_zukan_comment",
-        "SizeAndroid": 10636128,
-        "SizeIOS": 10636128,
-        "VersionAndroid": 69300,
-        "VersionIOS": 69300,
+        "SizeAndroid": 10750420,
+        "SizeIOS": 10750420,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "zukan_comment_alpha_jpn",
             "zukan_comment_arceus_jpn",
             "zukan_comment_brilliantdiamond_jpn",
+            "zukan_comment_fr_jpn",
             "zukan_comment_letsgo_jpn",
+            "zukan_comment_lg_jpn",
             "zukan_comment_moon_jpn",
             "zukan_comment_omega_jpn",
             "zukan_comment_scarlet_jpn",
@@ -39565,10 +39593,10 @@
     },
     {
         "Name": "ms_msbt_jpn_kanji_any_other",
-        "SizeAndroid": 1569840,
-        "SizeIOS": 1569840,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1570864,
+        "SizeIOS": 1570864,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "itemname_jpn_kanji",
             "monsname_jpn_kanji",
@@ -39600,10 +39628,10 @@
     },
     {
         "Name": "ms_msbt_jpn_kanji_sp",
-        "SizeAndroid": 324820,
-        "SizeIOS": 324820,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 328440,
+        "SizeIOS": 328440,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "sp_achstep_jpn_kanji",
             "sp_ach_jpn_kanji",
@@ -39633,10 +39661,10 @@
     },
     {
         "Name": "ms_msbt_jpn_kanji_any_tokuseiinfo",
-        "SizeAndroid": 597432,
-        "SizeIOS": 597432,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 597872,
+        "SizeIOS": 597872,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "tokuseiinfo_BDSP_jpn_kanji",
             "tokuseiinfo_Champions_jpn_kanji",
@@ -39664,15 +39692,17 @@
     },
     {
         "Name": "ms_msbt_jpn_kanji_any_zukan_comment",
-        "SizeAndroid": 10632392,
-        "SizeIOS": 10632392,
-        "VersionAndroid": 69400,
-        "VersionIOS": 69400,
+        "SizeAndroid": 10746720,
+        "SizeIOS": 10746720,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "zukan_comment_alpha_jpn_kanji",
             "zukan_comment_arceus_jpn_kanji",
             "zukan_comment_brilliantdiamond_jpn_kanji",
+            "zukan_comment_fr_jpn_kanji",
             "zukan_comment_letsgo_jpn_kanji",
+            "zukan_comment_lg_jpn_kanji",
             "zukan_comment_moon_jpn_kanji",
             "zukan_comment_omega_jpn_kanji",
             "zukan_comment_scarlet_jpn_kanji",
@@ -39732,10 +39762,10 @@
     },
     {
         "Name": "ms_msbt_kor_any_other",
-        "SizeAndroid": 1566656,
-        "SizeIOS": 1566656,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1567380,
+        "SizeIOS": 1567380,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "itemname_kor",
             "monsname_kor",
@@ -39767,10 +39797,10 @@
     },
     {
         "Name": "ms_msbt_kor_sp",
-        "SizeAndroid": 322440,
-        "SizeIOS": 322440,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 326044,
+        "SizeIOS": 326044,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "sp_achstep_kor",
             "sp_ach_kor",
@@ -39800,10 +39830,10 @@
     },
     {
         "Name": "ms_msbt_kor_any_tokuseiinfo",
-        "SizeAndroid": 596056,
-        "SizeIOS": 596056,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 596540,
+        "SizeIOS": 596540,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "tokuseiinfo_BDSP_kor",
             "tokuseiinfo_Champions_kor",
@@ -39831,15 +39861,17 @@
     },
     {
         "Name": "ms_msbt_kor_any_zukan_comment",
-        "SizeAndroid": 10643092,
-        "SizeIOS": 10643088,
-        "VersionAndroid": 69400,
-        "VersionIOS": 69400,
+        "SizeAndroid": 10721220,
+        "SizeIOS": 10721216,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "zukan_comment_alpha_kor",
             "zukan_comment_arceus_kor",
             "zukan_comment_brilliantdiamond_kor",
+            "zukan_comment_fr_kor",
             "zukan_comment_letsgo_kor",
+            "zukan_comment_lg_kor",
             "zukan_comment_moon_kor",
             "zukan_comment_omega_kor",
             "zukan_comment_scarlet_kor",
@@ -39899,10 +39931,10 @@
     },
     {
         "Name": "ms_msbt_sch_any_other",
-        "SizeAndroid": 1565260,
-        "SizeIOS": 1565264,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1565972,
+        "SizeIOS": 1565976,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "itemname_sch",
             "monsname_sch",
@@ -39934,10 +39966,10 @@
     },
     {
         "Name": "ms_msbt_sch_sp",
-        "SizeAndroid": 319356,
-        "SizeIOS": 319356,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 323016,
+        "SizeIOS": 323016,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "sp_achstep_sch",
             "sp_ach_sch",
@@ -39967,10 +39999,10 @@
     },
     {
         "Name": "ms_msbt_sch_any_tokuseiinfo",
-        "SizeAndroid": 594932,
-        "SizeIOS": 594932,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 595356,
+        "SizeIOS": 595356,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "tokuseiinfo_BDSP_sch",
             "tokuseiinfo_Champions_sch",
@@ -39998,15 +40030,17 @@
     },
     {
         "Name": "ms_msbt_sch_any_zukan_comment",
-        "SizeAndroid": 10648176,
-        "SizeIOS": 10648176,
-        "VersionAndroid": 69400,
-        "VersionIOS": 69400,
+        "SizeAndroid": 10726336,
+        "SizeIOS": 10726336,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "zukan_comment_alpha_sch",
             "zukan_comment_arceus_sch",
             "zukan_comment_brilliantdiamond_sch",
+            "zukan_comment_fr_sch",
             "zukan_comment_letsgo_sch",
+            "zukan_comment_lg_sch",
             "zukan_comment_moon_sch",
             "zukan_comment_omega_sch",
             "zukan_comment_scarlet_sch",
@@ -40066,10 +40100,10 @@
     },
     {
         "Name": "ms_msbt_tch_any_other",
-        "SizeAndroid": 1565320,
-        "SizeIOS": 1565320,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1566016,
+        "SizeIOS": 1566016,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "itemname_tch",
             "monsname_tch",
@@ -40101,10 +40135,10 @@
     },
     {
         "Name": "ms_msbt_tch_sp",
-        "SizeAndroid": 319444,
-        "SizeIOS": 319444,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 323064,
+        "SizeIOS": 323064,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "sp_achstep_tch",
             "sp_ach_tch",
@@ -40134,10 +40168,10 @@
     },
     {
         "Name": "ms_msbt_tch_any_tokuseiinfo",
-        "SizeAndroid": 595508,
-        "SizeIOS": 595504,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 595928,
+        "SizeIOS": 595924,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "tokuseiinfo_BDSP_tch",
             "tokuseiinfo_Champions_tch",
@@ -40165,15 +40199,17 @@
     },
     {
         "Name": "ms_msbt_tch_any_zukan_comment",
-        "SizeAndroid": 10651632,
-        "SizeIOS": 10651632,
-        "VersionAndroid": 69400,
-        "VersionIOS": 69400,
+        "SizeAndroid": 10729756,
+        "SizeIOS": 10729756,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "zukan_comment_alpha_tch",
             "zukan_comment_arceus_tch",
             "zukan_comment_brilliantdiamond_tch",
+            "zukan_comment_fr_tch",
             "zukan_comment_letsgo_tch",
+            "zukan_comment_lg_tch",
             "zukan_comment_moon_tch",
             "zukan_comment_omega_tch",
             "zukan_comment_scarlet_tch",
@@ -40233,10 +40269,10 @@
     },
     {
         "Name": "ms_msbt_usa_any_other",
-        "SizeAndroid": 1577468,
-        "SizeIOS": 1577472,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1578372,
+        "SizeIOS": 1578372,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "itemname_usa",
             "monsname_usa",
@@ -40268,10 +40304,10 @@
     },
     {
         "Name": "ms_msbt_usa_sp",
-        "SizeAndroid": 338188,
-        "SizeIOS": 338188,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 341940,
+        "SizeIOS": 341940,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "sp_achstep_usa",
             "sp_ach_usa",
@@ -40301,10 +40337,10 @@
     },
     {
         "Name": "ms_msbt_usa_any_tokuseiinfo",
-        "SizeAndroid": 604224,
-        "SizeIOS": 604228,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 604748,
+        "SizeIOS": 604752,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "tokuseiinfo_BDSP_usa",
             "tokuseiinfo_Champions_usa",
@@ -40332,15 +40368,17 @@
     },
     {
         "Name": "ms_msbt_usa_any_zukan_comment",
-        "SizeAndroid": 10848584,
-        "SizeIOS": 10848584,
-        "VersionAndroid": 69400,
-        "VersionIOS": 69400,
+        "SizeAndroid": 10976344,
+        "SizeIOS": 10976344,
+        "VersionAndroid": 70900,
+        "VersionIOS": 70900,
         "Files": [
             "zukan_comment_alpha_usa",
             "zukan_comment_arceus_usa",
             "zukan_comment_brilliantdiamond_usa",
+            "zukan_comment_fr_usa",
             "zukan_comment_letsgo_usa",
+            "zukan_comment_lg_usa",
             "zukan_comment_moon_usa",
             "zukan_comment_omega_usa",
             "zukan_comment_scarlet_usa",
@@ -58744,10 +58782,10 @@
     },
     {
         "Name": "image_seal_p_thn_p",
-        "SizeAndroid": 1092744,
-        "SizeIOS": 929784,
-        "VersionAndroid": 68900,
-        "VersionIOS": 68900,
+        "SizeAndroid": 1114640,
+        "SizeIOS": 949608,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
         "Files": [
             "seal_p_0001_thn",
             "seal_p_0002_thn",
@@ -58851,7 +58889,9 @@
             "seal_p_0098_thn",
             "seal_p_0099_thn",
             "seal_p_0100_thn",
-            "seal_p_0101_thn"
+            "seal_p_0101_thn",
+            "seal_p_0102_thn",
+            "seal_p_0103_thn"
         ]
     },
     {
@@ -59613,10 +59653,10 @@
     },
     {
         "Name": "ms_msbt_las_any_other",
-        "SizeAndroid": 1577144,
-        "SizeIOS": 1577148,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 1577984,
+        "SizeIOS": 1577988,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "itemname_las",
             "monsname_las",
@@ -59690,10 +59730,10 @@
     },
     {
         "Name": "ms_msbt_las_any_tokuseiinfo",
-        "SizeAndroid": 604832,
-        "SizeIOS": 604828,
-        "VersionAndroid": 69600,
-        "VersionIOS": 69600,
+        "SizeAndroid": 605388,
+        "SizeIOS": 605384,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "tokuseiinfo_BDSP_las",
             "tokuseiinfo_Champions_las",
@@ -59721,15 +59761,17 @@
     },
     {
         "Name": "ms_msbt_las_any_zukan_comment",
-        "SizeAndroid": 10845980,
-        "SizeIOS": 10845980,
-        "VersionAndroid": 69500,
-        "VersionIOS": 69500,
+        "SizeAndroid": 10924152,
+        "SizeIOS": 10924152,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "zukan_comment_alpha_las",
             "zukan_comment_arceus_las",
             "zukan_comment_brilliantdiamond_las",
+            "zukan_comment_fr_las",
             "zukan_comment_letsgo_las",
+            "zukan_comment_lg_las",
             "zukan_comment_moon_las",
             "zukan_comment_omega_las",
             "zukan_comment_scarlet_las",
@@ -59747,10 +59789,10 @@
     },
     {
         "Name": "ms_msbt_las_sp",
-        "SizeAndroid": 339720,
-        "SizeIOS": 339720,
-        "VersionAndroid": 70300,
-        "VersionIOS": 70300,
+        "SizeAndroid": 343496,
+        "SizeIOS": 343496,
+        "VersionAndroid": 70800,
+        "VersionIOS": 70800,
         "Files": [
             "sp_achstep_las",
             "sp_ach_las",
@@ -59796,6 +59838,1858 @@
         "VersionIOS": 70300,
         "Files": [
             "mcb_img_00000006"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0001",
+        "SizeAndroid": 12944,
+        "SizeIOS": 14856,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0001"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0002",
+        "SizeAndroid": 15192,
+        "SizeIOS": 17268,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0002"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0003",
+        "SizeAndroid": 21320,
+        "SizeIOS": 24968,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0003"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0004",
+        "SizeAndroid": 13988,
+        "SizeIOS": 15924,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0004"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0005",
+        "SizeAndroid": 17136,
+        "SizeIOS": 20016,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0005"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0006",
+        "SizeAndroid": 20960,
+        "SizeIOS": 25380,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0006"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0007",
+        "SizeAndroid": 11560,
+        "SizeIOS": 13068,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0007"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0008",
+        "SizeAndroid": 17264,
+        "SizeIOS": 20168,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0008"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0009",
+        "SizeAndroid": 20312,
+        "SizeIOS": 23292,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0009"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0010",
+        "SizeAndroid": 11468,
+        "SizeIOS": 12956,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0010"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0011",
+        "SizeAndroid": 9856,
+        "SizeIOS": 11548,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0011"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0012",
+        "SizeAndroid": 14576,
+        "SizeIOS": 16384,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0012"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0013",
+        "SizeAndroid": 10956,
+        "SizeIOS": 11400,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0013"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0014",
+        "SizeAndroid": 10688,
+        "SizeIOS": 11128,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0014"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0015",
+        "SizeAndroid": 18228,
+        "SizeIOS": 20236,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0015"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0016",
+        "SizeAndroid": 12924,
+        "SizeIOS": 14092,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0016"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0017",
+        "SizeAndroid": 17280,
+        "SizeIOS": 19896,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0017"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0018",
+        "SizeAndroid": 22332,
+        "SizeIOS": 25312,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0018"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0019",
+        "SizeAndroid": 12148,
+        "SizeIOS": 12976,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0019"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0020",
+        "SizeAndroid": 16024,
+        "SizeIOS": 17180,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0020"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0021",
+        "SizeAndroid": 14052,
+        "SizeIOS": 15964,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0021"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0022",
+        "SizeAndroid": 19532,
+        "SizeIOS": 24528,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0022"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0023",
+        "SizeAndroid": 12692,
+        "SizeIOS": 14060,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0023"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0024",
+        "SizeAndroid": 17296,
+        "SizeIOS": 18672,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0024"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0025",
+        "SizeAndroid": 13208,
+        "SizeIOS": 13628,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0025"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0026",
+        "SizeAndroid": 19104,
+        "SizeIOS": 21900,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0026"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0027",
+        "SizeAndroid": 12664,
+        "SizeIOS": 14232,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0027"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0028",
+        "SizeAndroid": 17476,
+        "SizeIOS": 19860,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0028"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0029",
+        "SizeAndroid": 11304,
+        "SizeIOS": 11848,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0029"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0030",
+        "SizeAndroid": 13768,
+        "SizeIOS": 15524,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0030"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0031",
+        "SizeAndroid": 17064,
+        "SizeIOS": 20488,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0031"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0032",
+        "SizeAndroid": 11772,
+        "SizeIOS": 12740,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0032"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0033",
+        "SizeAndroid": 14732,
+        "SizeIOS": 16636,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0033"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0034",
+        "SizeAndroid": 19320,
+        "SizeIOS": 23316,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0034"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0035",
+        "SizeAndroid": 11808,
+        "SizeIOS": 13136,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0035"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0036",
+        "SizeAndroid": 14140,
+        "SizeIOS": 16472,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0036"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0037",
+        "SizeAndroid": 14856,
+        "SizeIOS": 16800,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0037"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0038",
+        "SizeAndroid": 18488,
+        "SizeIOS": 20528,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0038"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0039",
+        "SizeAndroid": 11340,
+        "SizeIOS": 13324,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0039"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0040",
+        "SizeAndroid": 16184,
+        "SizeIOS": 17372,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0040"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0041",
+        "SizeAndroid": 13908,
+        "SizeIOS": 15688,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0041"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0042",
+        "SizeAndroid": 18328,
+        "SizeIOS": 20080,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0042"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0043",
+        "SizeAndroid": 10976,
+        "SizeIOS": 12440,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0043"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0044",
+        "SizeAndroid": 15312,
+        "SizeIOS": 18164,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0044"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0045",
+        "SizeAndroid": 14448,
+        "SizeIOS": 16948,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0045"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0046",
+        "SizeAndroid": 12084,
+        "SizeIOS": 13384,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0046"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0047",
+        "SizeAndroid": 15008,
+        "SizeIOS": 17092,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0047"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0048",
+        "SizeAndroid": 15176,
+        "SizeIOS": 17136,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0048"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0049",
+        "SizeAndroid": 16952,
+        "SizeIOS": 18600,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0049"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0050",
+        "SizeAndroid": 11480,
+        "SizeIOS": 12700,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0050"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0051",
+        "SizeAndroid": 14556,
+        "SizeIOS": 16728,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0051"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0052",
+        "SizeAndroid": 15400,
+        "SizeIOS": 16344,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0052"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0053",
+        "SizeAndroid": 14656,
+        "SizeIOS": 16280,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0053"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0054",
+        "SizeAndroid": 13224,
+        "SizeIOS": 14956,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0054"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0055",
+        "SizeAndroid": 16656,
+        "SizeIOS": 18416,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0055"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0056",
+        "SizeAndroid": 14492,
+        "SizeIOS": 15856,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0056"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0057",
+        "SizeAndroid": 16844,
+        "SizeIOS": 18936,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0057"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0058",
+        "SizeAndroid": 15268,
+        "SizeIOS": 16736,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0058"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0059",
+        "SizeAndroid": 19612,
+        "SizeIOS": 21652,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0059"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0060",
+        "SizeAndroid": 12332,
+        "SizeIOS": 13024,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0060"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0061",
+        "SizeAndroid": 14644,
+        "SizeIOS": 16016,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0061"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0062",
+        "SizeAndroid": 14844,
+        "SizeIOS": 16720,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0062"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0063",
+        "SizeAndroid": 12676,
+        "SizeIOS": 14344,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0063"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0064",
+        "SizeAndroid": 21288,
+        "SizeIOS": 23456,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0064"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0065",
+        "SizeAndroid": 19380,
+        "SizeIOS": 21788,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0065"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0066",
+        "SizeAndroid": 12192,
+        "SizeIOS": 12708,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0066"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0067",
+        "SizeAndroid": 15024,
+        "SizeIOS": 16728,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0067"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0068",
+        "SizeAndroid": 20680,
+        "SizeIOS": 22596,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0068"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0069",
+        "SizeAndroid": 13440,
+        "SizeIOS": 15428,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0069"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0070",
+        "SizeAndroid": 13868,
+        "SizeIOS": 15764,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0070"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0071",
+        "SizeAndroid": 17224,
+        "SizeIOS": 20360,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0071"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0072",
+        "SizeAndroid": 12768,
+        "SizeIOS": 14656,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0072"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0073",
+        "SizeAndroid": 19484,
+        "SizeIOS": 21696,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0073"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0074",
+        "SizeAndroid": 12756,
+        "SizeIOS": 13328,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0074"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0075",
+        "SizeAndroid": 17708,
+        "SizeIOS": 18368,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0075"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0076",
+        "SizeAndroid": 15908,
+        "SizeIOS": 18260,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0076"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0077",
+        "SizeAndroid": 16240,
+        "SizeIOS": 17764,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0077"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0078",
+        "SizeAndroid": 20884,
+        "SizeIOS": 22832,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0078"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0079",
+        "SizeAndroid": 13064,
+        "SizeIOS": 14116,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0079"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0080",
+        "SizeAndroid": 19220,
+        "SizeIOS": 22084,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0080"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0081",
+        "SizeAndroid": 9716,
+        "SizeIOS": 10132,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0081"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0082",
+        "SizeAndroid": 15692,
+        "SizeIOS": 17860,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0082"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0083",
+        "SizeAndroid": 16056,
+        "SizeIOS": 17484,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0083"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0084",
+        "SizeAndroid": 14568,
+        "SizeIOS": 15520,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0084"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0085",
+        "SizeAndroid": 19600,
+        "SizeIOS": 19928,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0085"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0086",
+        "SizeAndroid": 15084,
+        "SizeIOS": 16012,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0086"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0087",
+        "SizeAndroid": 17440,
+        "SizeIOS": 20320,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0087"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0088",
+        "SizeAndroid": 13344,
+        "SizeIOS": 14680,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0088"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0089",
+        "SizeAndroid": 14276,
+        "SizeIOS": 16280,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0089"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0090",
+        "SizeAndroid": 12016,
+        "SizeIOS": 12740,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0090"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0091",
+        "SizeAndroid": 16904,
+        "SizeIOS": 18328,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0091"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0092",
+        "SizeAndroid": 15120,
+        "SizeIOS": 18284,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0092"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0093",
+        "SizeAndroid": 16836,
+        "SizeIOS": 19536,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0093"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0094",
+        "SizeAndroid": 14760,
+        "SizeIOS": 16412,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0094"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0095",
+        "SizeAndroid": 19188,
+        "SizeIOS": 21744,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0095"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0096",
+        "SizeAndroid": 13788,
+        "SizeIOS": 15900,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0096"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0097",
+        "SizeAndroid": 19036,
+        "SizeIOS": 21040,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0097"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0098",
+        "SizeAndroid": 15136,
+        "SizeIOS": 16780,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0098"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0099",
+        "SizeAndroid": 18772,
+        "SizeIOS": 21508,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0099"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0100",
+        "SizeAndroid": 10508,
+        "SizeIOS": 11532,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0100"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0101",
+        "SizeAndroid": 10852,
+        "SizeIOS": 11872,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0101"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0102",
+        "SizeAndroid": 13124,
+        "SizeIOS": 15484,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0102"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0103",
+        "SizeAndroid": 18756,
+        "SizeIOS": 22836,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0103"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0104",
+        "SizeAndroid": 13044,
+        "SizeIOS": 14424,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0104"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0105",
+        "SizeAndroid": 16848,
+        "SizeIOS": 18988,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0105"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0106",
+        "SizeAndroid": 15752,
+        "SizeIOS": 17496,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0106"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0107",
+        "SizeAndroid": 14220,
+        "SizeIOS": 16356,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0107"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0108",
+        "SizeAndroid": 15552,
+        "SizeIOS": 19156,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0108"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0109",
+        "SizeAndroid": 16600,
+        "SizeIOS": 17324,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0109"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0110",
+        "SizeAndroid": 19536,
+        "SizeIOS": 23324,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0110"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0111",
+        "SizeAndroid": 15208,
+        "SizeIOS": 18164,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0111"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0112",
+        "SizeAndroid": 20164,
+        "SizeIOS": 21760,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0112"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0113",
+        "SizeAndroid": 13920,
+        "SizeIOS": 14820,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0113"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0114",
+        "SizeAndroid": 17924,
+        "SizeIOS": 19072,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0114"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0115",
+        "SizeAndroid": 21040,
+        "SizeIOS": 24800,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0115"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0116",
+        "SizeAndroid": 12380,
+        "SizeIOS": 13796,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0116"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0117",
+        "SizeAndroid": 16276,
+        "SizeIOS": 18116,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0117"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0118",
+        "SizeAndroid": 14772,
+        "SizeIOS": 16156,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0118"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0119",
+        "SizeAndroid": 17568,
+        "SizeIOS": 19948,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0119"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0120",
+        "SizeAndroid": 12768,
+        "SizeIOS": 14392,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0120"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0121",
+        "SizeAndroid": 16860,
+        "SizeIOS": 17988,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0121"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0122",
+        "SizeAndroid": 18604,
+        "SizeIOS": 21132,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0122"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0123",
+        "SizeAndroid": 18424,
+        "SizeIOS": 20636,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0123"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0124",
+        "SizeAndroid": 16552,
+        "SizeIOS": 18940,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0124"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0125",
+        "SizeAndroid": 20020,
+        "SizeIOS": 20824,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0125"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0126",
+        "SizeAndroid": 19780,
+        "SizeIOS": 22088,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0126"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0127",
+        "SizeAndroid": 19468,
+        "SizeIOS": 22436,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0127"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0128",
+        "SizeAndroid": 20112,
+        "SizeIOS": 23804,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0128"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0129",
+        "SizeAndroid": 16712,
+        "SizeIOS": 18468,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0129"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0130",
+        "SizeAndroid": 24672,
+        "SizeIOS": 27336,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0130"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0131",
+        "SizeAndroid": 17504,
+        "SizeIOS": 19284,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0131"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0132",
+        "SizeAndroid": 10204,
+        "SizeIOS": 11004,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0132"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0133",
+        "SizeAndroid": 14344,
+        "SizeIOS": 15764,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0133"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0134",
+        "SizeAndroid": 16216,
+        "SizeIOS": 17460,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0134"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0135",
+        "SizeAndroid": 15384,
+        "SizeIOS": 17228,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0135"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0136",
+        "SizeAndroid": 16212,
+        "SizeIOS": 18072,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0136"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0137",
+        "SizeAndroid": 13912,
+        "SizeIOS": 14096,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0137"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0138",
+        "SizeAndroid": 11220,
+        "SizeIOS": 12716,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0138"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0139",
+        "SizeAndroid": 15840,
+        "SizeIOS": 18608,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0139"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0140",
+        "SizeAndroid": 10648,
+        "SizeIOS": 11216,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0140"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0141",
+        "SizeAndroid": 18752,
+        "SizeIOS": 20296,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0141"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0142",
+        "SizeAndroid": 18480,
+        "SizeIOS": 20328,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0142"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0143",
+        "SizeAndroid": 16604,
+        "SizeIOS": 18588,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0143"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0144",
+        "SizeAndroid": 20616,
+        "SizeIOS": 23360,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0144"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0145",
+        "SizeAndroid": 19756,
+        "SizeIOS": 21384,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0145"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0146",
+        "SizeAndroid": 22520,
+        "SizeIOS": 25692,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0146"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0147",
+        "SizeAndroid": 14772,
+        "SizeIOS": 15420,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0147"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0148",
+        "SizeAndroid": 16216,
+        "SizeIOS": 17532,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0148"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0149",
+        "SizeAndroid": 21896,
+        "SizeIOS": 24752,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0149"
+        ]
+    },
+    {
+        "Name": "image_softdic_sw014_cap0150",
+        "SizeAndroid": 19204,
+        "SizeIOS": 21708,
+        "VersionAndroid": 70400,
+        "VersionIOS": 70400,
+        "Files": [
+            "sw014_cap0150"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000163",
+        "SizeAndroid": 130208,
+        "SizeIOS": 118016,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000163"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000164",
+        "SizeAndroid": 106168,
+        "SizeIOS": 110512,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000164"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000165",
+        "SizeAndroid": 85664,
+        "SizeIOS": 91984,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000165"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000166",
+        "SizeAndroid": 124092,
+        "SizeIOS": 116620,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000166"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000167",
+        "SizeAndroid": 125616,
+        "SizeIOS": 118176,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000167"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000168",
+        "SizeAndroid": 131044,
+        "SizeIOS": 117196,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000168"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000169",
+        "SizeAndroid": 133216,
+        "SizeIOS": 117168,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000169"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000170",
+        "SizeAndroid": 141576,
+        "SizeIOS": 118408,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000170"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000171",
+        "SizeAndroid": 123524,
+        "SizeIOS": 117992,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000171"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000172",
+        "SizeAndroid": 76372,
+        "SizeIOS": 90284,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000172"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000173",
+        "SizeAndroid": 125248,
+        "SizeIOS": 114008,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000173"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000174",
+        "SizeAndroid": 93732,
+        "SizeIOS": 110280,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000174"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000175",
+        "SizeAndroid": 122920,
+        "SizeIOS": 111736,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000175"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000176",
+        "SizeAndroid": 118524,
+        "SizeIOS": 113952,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000176"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000177",
+        "SizeAndroid": 98692,
+        "SizeIOS": 104712,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000177"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000178",
+        "SizeAndroid": 79796,
+        "SizeIOS": 85436,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000178"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000179",
+        "SizeAndroid": 116872,
+        "SizeIOS": 109524,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000179"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000180",
+        "SizeAndroid": 65352,
+        "SizeIOS": 63288,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000180"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000181",
+        "SizeAndroid": 61024,
+        "SizeIOS": 72760,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000181"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000182",
+        "SizeAndroid": 91584,
+        "SizeIOS": 96260,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000182"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000183",
+        "SizeAndroid": 89876,
+        "SizeIOS": 100176,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000183"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000184",
+        "SizeAndroid": 115992,
+        "SizeIOS": 111860,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000184"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000185",
+        "SizeAndroid": 115320,
+        "SizeIOS": 114296,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000185"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000186",
+        "SizeAndroid": 67224,
+        "SizeIOS": 90320,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000186"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000187",
+        "SizeAndroid": 124796,
+        "SizeIOS": 114760,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000187"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000188",
+        "SizeAndroid": 82148,
+        "SizeIOS": 93320,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000188"
+        ]
+    },
+    {
+        "Name": "image_offlibvideothum_olvt_00000189",
+        "SizeAndroid": 82088,
+        "SizeIOS": 93956,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "olvt_img_00000189"
+        ]
+    },
+    {
+        "Name": "image_content_frlg_de",
+        "SizeAndroid": 119776,
+        "SizeIOS": 117332,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "hl_FRLG_DE_512_512"
+        ]
+    },
+    {
+        "Name": "image_content_frlg_en",
+        "SizeAndroid": 122644,
+        "SizeIOS": 117304,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "hl_FRLG_EN_512_512"
+        ]
+    },
+    {
+        "Name": "image_content_frlg_es",
+        "SizeAndroid": 126060,
+        "SizeIOS": 117372,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "hl_FRLG_ES_512_512"
+        ]
+    },
+    {
+        "Name": "image_content_frlg_fr",
+        "SizeAndroid": 125508,
+        "SizeIOS": 117328,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "hl_FRLG_FR_512_512"
+        ]
+    },
+    {
+        "Name": "image_content_frlg_it",
+        "SizeAndroid": 123568,
+        "SizeIOS": 117372,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "hl_FRLG_IT_512_512"
+        ]
+    },
+    {
+        "Name": "image_content_frlg_jp",
+        "SizeAndroid": 130928,
+        "SizeIOS": 117660,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "hl_FRLG_JP_512_512"
+        ]
+    },
+    {
+        "Name": "image_seal_wall_61_70",
+        "SizeAndroid": 1345176,
+        "SizeIOS": 1171356,
+        "VersionAndroid": 70500,
+        "VersionIOS": 70500,
+        "Files": [
+            "seal_wall_0061",
+            "seal_wall_0062",
+            "seal_wall_0063"
+        ]
+    },
+    {
+        "Name": "spriteatlas_softdiciconsw014_1",
+        "SizeAndroid": 254372,
+        "SizeIOS": 235992,
+        "VersionAndroid": 70600,
+        "VersionIOS": 70600,
+        "Files": [
+            "SoftDicIconSW014_1"
         ]
     }
 ]

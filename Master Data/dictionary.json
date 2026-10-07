@@ -3447,8 +3447,10 @@
         "mdForm": "FN0026002",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0226"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0003",
         "mdKata": "KT0010",
         "growth": 0,
@@ -3511,8 +3513,10 @@
         "mdForm": "FN0026003",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0099"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0003",
         "mdKata": "KT0010",
         "growth": 0,
@@ -32879,9 +32883,7 @@
         "paramSDEF": 60,
         "paramSPD": 60,
         "isLegend": 0,
-        "appearSoftwareAper": [
-            "TT006"
-        ],
+        "appearSoftwareAper": [],
         "isHideModel": 0,
         "compareSizeScaleFix": 1250,
         "compareLayoutScaleFix": 875,
@@ -35675,8 +35677,10 @@
         "mdForm": "FN0359002",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0292"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0005",
         "mdKata": "KT0005",
         "growth": 3,
@@ -39276,8 +39280,10 @@
         "mdForm": "FN0398001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0126"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0008",
         "mdKata": "KT0012",
         "growth": 3,
@@ -43523,8 +43529,10 @@
         "mdForm": "FN0445002",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0026"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0002",
         "mdKata": "KT0010",
         "growth": 5,
@@ -43877,8 +43885,10 @@
         "mdForm": "FN0448002",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0319"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0008",
         "mdKata": "KT0010",
         "growth": 3,
@@ -53308,8 +53318,10 @@
         "mdForm": "FN0545001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0075"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0007",
         "mdKata": "KT0004",
         "growth": 3,
@@ -54936,8 +54948,10 @@
         "mdForm": "FN0560001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0022"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0006",
         "mdKata": "KT0010",
         "growth": 0,
@@ -58810,8 +58824,10 @@
         "mdForm": "FN0604001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0313"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0002",
         "mdKata": "KT0003",
         "growth": 5,
@@ -68939,8 +68955,10 @@
         "mdForm": "FN0668001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0316"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0006",
         "mdKata": "KT0005",
         "growth": 3,
@@ -72206,8 +72224,10 @@
         "mdForm": "FN0687001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0126"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0002",
         "mdKata": "KT0009",
         "growth": 0,
@@ -72415,8 +72435,10 @@
         "mdForm": "FN0689001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0181"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0006",
         "mdKata": "KT0007",
         "growth": 0,
@@ -72626,8 +72648,10 @@
         "mdForm": "FN0691001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0144"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0006",
         "mdKata": "KT0009",
         "growth": 0,
@@ -80093,8 +80117,10 @@
         "mdForm": "FN0768001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0181"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0008",
         "mdKata": "KT0011",
         "growth": 0,
@@ -95998,8 +96024,10 @@
         "mdForm": "FN0870001",
         "formGender": 0,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0128"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0003",
         "mdKata": "KT0007",
         "growth": 0,
@@ -107224,8 +107252,10 @@
         "mdForm": "FN0998001",
         "formGender": 3,
         "mdEvoPatId": "EV0001",
-        "mdTokuIds": [],
-        "isTokuClose": 1,
+        "mdTokuIds": [
+            "TK0270"
+        ],
+        "isTokuClose": 0,
         "mdColor": "IR0002",
         "mdKata": "KT0010",
         "growth": 5,

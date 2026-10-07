@@ -625,6 +625,11 @@
         "mdWazaCategory": "WC0003"
     },
     {
+        "id": "WZ0148",
+        "mdPokemonType": "TY0000",
+        "mdWazaCategory": "WC0003"
+    },
+    {
         "id": "WZ0150",
         "mdPokemonType": "TY0000",
         "mdWazaCategory": "WC0003"
@@ -662,11 +667,6 @@
     {
         "id": "WZ0157",
         "mdPokemonType": "TY0005",
-        "mdWazaCategory": "WC0001"
-    },
-    {
-        "id": "WZ0158",
-        "mdPokemonType": "TY0000",
         "mdWazaCategory": "WC0001"
     },
     {
@@ -2183,11 +2183,6 @@
         "id": "WZ0506",
         "mdPokemonType": "TY0007",
         "mdWazaCategory": "WC0002"
-    },
-    {
-        "id": "WZ0508",
-        "mdPokemonType": "TY0008",
-        "mdWazaCategory": "WC0003"
     },
     {
         "id": "WZ0509",

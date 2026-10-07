@@ -28035,5 +28035,14 @@
         ],
         "placeNameIds": "30035",
         "msPlace": "ZA_place_name_spe:MAPNAME_QUASAR"
+    },
+    {
+        "id": "3124",
+        "softwareIds": [
+            "SF056",
+            "SF057"
+        ],
+        "placeNameIds": "30007",
+        "msPlace": "SWSH_place_name_spe:MAPNAME_TOOKUHANARETATOTI"
     }
 ]

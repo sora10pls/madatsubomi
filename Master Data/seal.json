@@ -2179,8 +2179,8 @@
         "mdSealCategory": "SC000",
         "mdSealMaterial": "SM10",
         "mdSealSize": "SS03",
-        "width": 374,
-        "height": 336,
+        "width": 400,
+        "height": 348,
         "achieveIconScaleFix": 100
     },
     {
@@ -6588,6 +6588,71 @@
         "mdSealSize": "SS03",
         "width": 296,
         "height": 234,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0509",
+        "sealId": 509,
+        "sort": 57,
+        "sealImagePath": "seal_wall_0061",
+        "sealIconImagePath": "seal_wall_0061_thn",
+        "mdSealCategory": "SC001",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS04",
+        "width": 0,
+        "height": 0,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0510",
+        "sealId": 510,
+        "sort": 7156,
+        "sealImagePath": "seal_p_0102",
+        "sealIconImagePath": "seal_p_0102_thn",
+        "mdSealCategory": "SC000",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS03",
+        "width": 254,
+        "height": 244,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0511",
+        "sealId": 511,
+        "sort": 58,
+        "sealImagePath": "seal_wall_0062",
+        "sealIconImagePath": "seal_wall_0062_thn",
+        "mdSealCategory": "SC001",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS04",
+        "width": 0,
+        "height": 0,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0512",
+        "sealId": 512,
+        "sort": 7157,
+        "sealImagePath": "seal_p_0103",
+        "sealIconImagePath": "seal_p_0103_thn",
+        "mdSealCategory": "SC000",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS03",
+        "width": 438,
+        "height": 228,
+        "achieveIconScaleFix": 100
+    },
+    {
+        "id": "SL0513",
+        "sealId": 513,
+        "sort": 59,
+        "sealImagePath": "seal_wall_0063",
+        "sealIconImagePath": "seal_wall_0063_thn",
+        "mdSealCategory": "SC001",
+        "mdSealMaterial": "SM10",
+        "mdSealSize": "SS04",
+        "width": 0,
+        "height": 0,
         "achieveIconScaleFix": 100
     },
     {

@@ -124,5 +124,19 @@
         "sch": "hl_Champ_ALL_512_512",
         "tch": "hl_Champ_ALL_512_512",
         "las": "hl_Champ_ALL_512_512"
+    },
+    {
+        "id": "CIB0010",
+        "size": 2,
+        "jpn": "hl_FRLG_JP_512_512",
+        "eng": "hl_FRLG_EN_512_512",
+        "fra": "hl_FRLG_FR_512_512",
+        "ita": "hl_FRLG_IT_512_512",
+        "deu": "hl_FRLG_DE_512_512",
+        "esp": "hl_FRLG_ES_512_512",
+        "kor": "hl_FRLG_EN_512_512",
+        "sch": "hl_FRLG_EN_512_512",
+        "tch": "hl_FRLG_EN_512_512",
+        "las": "hl_FRLG_EN_512_512"
     }
 ]
