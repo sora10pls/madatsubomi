@@ -19977,6 +19977,18 @@
         "msPlace": "sp_ui_encountedplace_pokeshifter_v10"
     },
     {
+        "id": "3125",
+        "softwareIds": [
+            "SF007",
+            "SF008",
+            "SF010",
+            "SF011",
+            "SF012"
+        ],
+        "placeNameIds": "30010-30013",
+        "msPlace": "sp_ui_encountedplace_pokeshifter_v10"
+    },
+    {
         "id": "2247",
         "softwareIds": [
             "SF035",

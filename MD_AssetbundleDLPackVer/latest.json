@@ -38783,10 +38783,10 @@
     },
     {
         "Name": "ms_msbt_deu_sp",
-        "SizeAndroid": 347872,
-        "SizeIOS": 347872,
-        "VersionAndroid": 70700,
-        "VersionIOS": 70700,
+        "SizeAndroid": 348252,
+        "SizeIOS": 348252,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_deu",
             "sp_ach_deu",
@@ -38952,10 +38952,10 @@
     },
     {
         "Name": "ms_msbt_esp_sp",
-        "SizeAndroid": 343876,
-        "SizeIOS": 343892,
-        "VersionAndroid": 70700,
-        "VersionIOS": 70700,
+        "SizeAndroid": 344248,
+        "SizeIOS": 344264,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_esp",
             "sp_ach_esp",
@@ -39121,10 +39121,10 @@
     },
     {
         "Name": "ms_msbt_fra_sp",
-        "SizeAndroid": 346740,
-        "SizeIOS": 346740,
-        "VersionAndroid": 70700,
-        "VersionIOS": 70700,
+        "SizeAndroid": 347132,
+        "SizeIOS": 347132,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_fra",
             "sp_ach_fra",
@@ -39290,10 +39290,10 @@
     },
     {
         "Name": "ms_msbt_ita_sp",
-        "SizeAndroid": 341972,
-        "SizeIOS": 341972,
-        "VersionAndroid": 70700,
-        "VersionIOS": 70700,
+        "SizeAndroid": 342360,
+        "SizeIOS": 342360,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_ita",
             "sp_ach_ita",
@@ -39459,10 +39459,10 @@
     },
     {
         "Name": "ms_msbt_jpn_sp",
-        "SizeAndroid": 329816,
-        "SizeIOS": 329816,
-        "VersionAndroid": 70800,
-        "VersionIOS": 70800,
+        "SizeAndroid": 330212,
+        "SizeIOS": 330212,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_jpn",
             "sp_ach_jpn",
@@ -39628,10 +39628,10 @@
     },
     {
         "Name": "ms_msbt_jpn_kanji_sp",
-        "SizeAndroid": 328440,
-        "SizeIOS": 328440,
-        "VersionAndroid": 70800,
-        "VersionIOS": 70800,
+        "SizeAndroid": 328824,
+        "SizeIOS": 328824,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_jpn_kanji",
             "sp_ach_jpn_kanji",
@@ -39797,10 +39797,10 @@
     },
     {
         "Name": "ms_msbt_kor_sp",
-        "SizeAndroid": 326044,
-        "SizeIOS": 326044,
-        "VersionAndroid": 70800,
-        "VersionIOS": 70800,
+        "SizeAndroid": 326428,
+        "SizeIOS": 326428,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_kor",
             "sp_ach_kor",
@@ -39966,10 +39966,10 @@
     },
     {
         "Name": "ms_msbt_sch_sp",
-        "SizeAndroid": 323016,
-        "SizeIOS": 323016,
-        "VersionAndroid": 70900,
-        "VersionIOS": 70900,
+        "SizeAndroid": 323396,
+        "SizeIOS": 323396,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_sch",
             "sp_ach_sch",
@@ -40135,10 +40135,10 @@
     },
     {
         "Name": "ms_msbt_tch_sp",
-        "SizeAndroid": 323064,
-        "SizeIOS": 323064,
-        "VersionAndroid": 70900,
-        "VersionIOS": 70900,
+        "SizeAndroid": 323456,
+        "SizeIOS": 323456,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_tch",
             "sp_ach_tch",
@@ -40304,10 +40304,10 @@
     },
     {
         "Name": "ms_msbt_usa_sp",
-        "SizeAndroid": 341940,
-        "SizeIOS": 341940,
-        "VersionAndroid": 70900,
-        "VersionIOS": 70900,
+        "SizeAndroid": 342324,
+        "SizeIOS": 342324,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_usa",
             "sp_ach_usa",
@@ -59789,10 +59789,10 @@
     },
     {
         "Name": "ms_msbt_las_sp",
-        "SizeAndroid": 343496,
-        "SizeIOS": 343496,
-        "VersionAndroid": 70800,
-        "VersionIOS": 70800,
+        "SizeAndroid": 343880,
+        "SizeIOS": 343880,
+        "VersionAndroid": 71000,
+        "VersionIOS": 71000,
         "Files": [
             "sp_achstep_las",
             "sp_ach_las",
